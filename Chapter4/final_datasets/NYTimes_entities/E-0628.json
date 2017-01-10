@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "University Research Professor Emeritus",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person Function",
+                    "uri": "http://dbpedia.org/ontology/PersonFunction"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Emeritus_Professor"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0628",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University Research Professor Emeritus",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person Function",
+                    "uri": "http://dbpedia.org/ontology/PersonFunction"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Emeritus_Professor"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "CATHY HORYN",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Fashion Journalists",
+                    "uri": "http://dbpedia.org/class/yago/FashionJournalists"
+                },
+                {
+                    "label": "Fashion journalists",
+                    "uri": "http://dbpedia.org/resource/Fashion_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cathy_Horyn"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0641",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "CATHY HORYN",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Fashion Journalists",
+                    "uri": "http://dbpedia.org/class/yago/FashionJournalists"
+                },
+                {
+                    "label": "Fashion journalists",
+                    "uri": "http://dbpedia.org/resource/Fashion_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cathy_Horyn"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "St. Vincent&rsquo;s Hospital",
+            "types": [
+                {
+                    "label": "Black comedy films",
+                    "uri": "http://dbpedia.org/resource/Black_comedy_films"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English-language Films",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilms"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "1971Films",
+                    "uri": "http://dbpedia.org/class/yago/1971Films"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Medical-themed Films",
+                    "uri": "http://dbpedia.org/class/yago/Medical-themedFilms"
+                },
+                {
+                    "label": "Black Comedy Films",
+                    "uri": "http://dbpedia.org/class/yago/BlackComedyFilms"
+                },
+                {
+                    "label": "American Films",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilms"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Hospital"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0404",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "St. Vincent&rsquo;s Hospital",
+            "types": [
+                {
+                    "label": "Black comedy films",
+                    "uri": "http://dbpedia.org/resource/Black_comedy_films"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English-language Films",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilms"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "1971Films",
+                    "uri": "http://dbpedia.org/class/yago/1971Films"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Medical-themed Films",
+                    "uri": "http://dbpedia.org/class/yago/Medical-themedFilms"
+                },
+                {
+                    "label": "Black Comedy Films",
+                    "uri": "http://dbpedia.org/class/yago/BlackComedyFilms"
+                },
+                {
+                    "label": "American Films",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilms"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Hospital"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

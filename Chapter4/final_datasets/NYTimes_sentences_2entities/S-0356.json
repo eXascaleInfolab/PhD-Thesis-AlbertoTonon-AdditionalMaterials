@@ -1,0 +1,197 @@
+{
+  "mainText":"The bulk of the remaining snowfall is expected in areas southeast of Kansas City, which may see more than a foot of accumulation, said David Roth, a meteorologist with the National Weather Service .",
+  "shownText":"The bulk of the remaining snowfall is expected in areas southeast of Kansas City, which may see more than a foot of accumulation, said David Roth, a meteorologist with the National Weather Service .",
+  "title":"Strong Storm in Plains Brings Added Hazards - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/us/strong-storm-in-plains-brings-added-hazards.html?ref=us",
+  "category":"us",
+  "docID":"S-0356",
+  "elementNumber":28,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":69,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/National_Weather_Service",
+      "label":"National Weather Service",
+      "offsets":[
+        {
+          "offset":172,
+          "length":24
+        }
+      ],
+      "types":[
+        {
+          "label":"Agency",
+          "uri":"http://dbpedia.org/class/yago/Agency108337324"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":69,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":69,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/National_Weather_Service",
+      "label":"National Weather Service",
+      "offsets":[
+        {
+          "offset":172,
+          "length":24
+        }
+      ],
+      "types":[
+        {
+          "label":"Agency",
+          "uri":"http://dbpedia.org/class/yago/Agency108337324"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":69,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

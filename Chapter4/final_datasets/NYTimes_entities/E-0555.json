@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Florida",
+            "types": [
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Former British Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerBritishColonies"
+                },
+                {
+                    "label": "Former Spanish Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerSpanishColonies"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "U.S. state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Florida"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0555",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Florida",
+            "types": [
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Former British Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerBritishColonies"
+                },
+                {
+                    "label": "Former Spanish Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerSpanishColonies"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "U.S. state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Florida"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

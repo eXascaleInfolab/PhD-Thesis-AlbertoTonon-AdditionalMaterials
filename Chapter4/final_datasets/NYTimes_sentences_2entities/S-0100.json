@@ -1,0 +1,165 @@
+{
+  "mainText":"Scout Tufankjian for The New York TimesEdgar Montalban mixes a drink for a customer at his Herbalife nutrition club in Corona, N.Y.",
+  "shownText":"Scout Tufankjian for The New York TimesEdgar Montalban mixes a drink for a customer at his Herbalife nutrition club in Corona, N.Y.",
+  "title":"Consumer Complaints May Offer Insight Into Pyramid Schemes - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/22/consumer-complaints-may-offer-insight-into-pyramid-schemes/",
+  "category":"dealbook",
+  "docID":"S-0100",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":21,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Corona",
+      "label":"Corona",
+      "offsets":[
+        {
+          "offset":119,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":21,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Corona",
+      "label":"Corona",
+      "offsets":[
+        {
+          "offset":119,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ]
+}

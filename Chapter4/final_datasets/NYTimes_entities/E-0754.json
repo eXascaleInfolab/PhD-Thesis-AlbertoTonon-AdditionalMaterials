@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "AOL",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Companies Established In1983",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1983"
+                },
+                {
+                    "label": "technology company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r_QItpk1AQdmXyb0GoTXPSA"
+                },
+                {
+                    "label": "service company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjxuZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies Based In Dulles,Virginia",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInDulles,Virginia"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "internet service provider",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvhx2A5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Internet Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/InternetCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "Time Warner Subsidiaries",
+                    "uri": "http://dbpedia.org/class/yago/TimeWarnerSubsidiaries"
+                },
+                {
+                    "label": "incorporated business",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/AOL"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0754",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "AOL",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Companies Established In1983",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1983"
+                },
+                {
+                    "label": "technology company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r_QItpk1AQdmXyb0GoTXPSA"
+                },
+                {
+                    "label": "service company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjxuZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies Based In Dulles,Virginia",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInDulles,Virginia"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "internet service provider",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvhx2A5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Internet Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/InternetCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "Time Warner Subsidiaries",
+                    "uri": "http://dbpedia.org/class/yago/TimeWarnerSubsidiaries"
+                },
+                {
+                    "label": "incorporated business",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/AOL"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

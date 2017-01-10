@@ -1,0 +1,157 @@
+{
+  "mainText":"Keith BedfordReutersMartin Lipton, founding partner of Wachtell, Lipton, Rosen and Katz.",
+  "shownText":"Keith BedfordReutersMartin Lipton, founding partner of Wachtell, Lipton, Rosen and Katz.",
+  "title":"&#8216;Shareholder Democracy&#8217; Can Mask Abuses - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/shareholder-democracy-can-mask-abuses/",
+  "category":"dealbook",
+  "docID":"S-0092",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Martin_Lipton",
+      "label":"Martin Lipton",
+      "offsets":[
+        {
+          "offset":20,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanLawyers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Lawyers",
+          "uri":"http://dbpedia.org/class/yago/Lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"American lawyers",
+          "uri":"http://dbpedia.org/resource/American_lawyers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Lipton",
+      "label":"Keith BedfordReutersMartin Lipton",
+      "offsets":[
+        {
+          "offset":0,
+          "length":33
+        },
+        {
+          "offset":27,
+          "length":6
+        },
+        {
+          "offset":65,
+          "length":6
+        },
+        {
+          "offset":27,
+          "length":6
+        },
+        {
+          "offset":65,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Euronext exchanges",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Euronext_exchanges"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Martin_Lipton",
+      "label":"Martin Lipton",
+      "offsets":[
+        {
+          "offset":20,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanLawyers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Lawyers",
+          "uri":"http://dbpedia.org/class/yago/Lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"American lawyers",
+          "uri":"http://dbpedia.org/resource/American_lawyers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Lipton",
+      "label":"Keith BedfordReutersMartin Lipton",
+      "offsets":[
+        {
+          "offset":0,
+          "length":33
+        },
+        {
+          "offset":27,
+          "length":6
+        },
+        {
+          "offset":65,
+          "length":6
+        },
+        {
+          "offset":27,
+          "length":6
+        },
+        {
+          "offset":65,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Euronext exchanges",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Euronext_exchanges"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

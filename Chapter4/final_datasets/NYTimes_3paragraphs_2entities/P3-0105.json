@@ -1,0 +1,345 @@
+{
+  "mainText":"He recalled shutting his hotel room door; fear and pride welling up as he began to cry.\nLeonardo spent seven months in a juvenile detention center.\nThey secretly paid for a cap and gown so Leonardo could participate in high school graduation ceremonies.\nThe town\u2019s rural landscape, more than 150 miles from East Harlem, might as well have been the moon.\nHe arrived for freshman-orientation weekend, greeted by a creek and an unsettling quiet.\nThey later put him on a bus to the State University of New York in Delhi.\nWhen he got out, the two officers, Gilberto Ortiz and Rafaela Rosario, began their intervention.",
+  "shownText":"The police later showed Leonardo a photograph of the victim\u2019s swollen and bloodied face, the result of a fractured nose and broken jaw.\nThe image, said Leonardo, has stuck with him.\n\nHe recalled shutting his hotel room door; fear and pride welling up as he began to cry.\nLeonardo spent seven months in a juvenile detention center.\nThey secretly paid for a cap and gown so Leonardo could participate in high school graduation ceremonies.\nThe town\u2019s rural landscape, more than 150 miles from East Harlem, might as well have been the moon.\nHe arrived for freshman-orientation weekend, greeted by a creek and an unsettling quiet.\nThey later put him on a bus to the State University of New York in Delhi.\nWhen he got out, the two officers, Gilberto Ortiz and Rafaela Rosario, began their intervention.\n\nHe has stayed out of trouble, but challenges remain.\nHe dropped out of college, and returned to East Harlem with nowhere to go.\nHe now lives in a Bronx homeless shelter, sharing a room with seven older men.\nBut he has a paid internship with a Harlem-based community organization.\n",
+  "title":"For Troubled Teenagers in New York City, a New Tack -  Forced Outreach - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/nyregion/to-stem-juvenile-robberies-police-trail-youths-before-the-crime.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0105",
+  "elementNumber":36,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Delhi",
+      "label":"Delhi",
+      "offsets":[
+        {
+          "offset":693,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Indian Union Territory capitals",
+          "uri":"http://dbpedia.org/resource/Indian_Union_Territory_capitals"
+        },
+        {
+          "label":"Capital Districts And Territories",
+          "uri":"http://dbpedia.org/class/yago/CapitalDistrictsAndTerritories"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Places Of Indian Rebellion Of1857",
+          "uri":"http://dbpedia.org/class/yago/PlacesOfIndianRebellionOf1857"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Attribute Characteristic Of An Entity",
+          "uri":"http://umbel.org/umbel/sc/AttributeCharacteristicOfAnEntity"
+        },
+        {
+          "label":"Capital City Of Region",
+          "uri":"http://umbel.org/umbel/sc/CapitalCityOfRegion"
+        },
+        {
+          "label":"Municipality",
+          "uri":"http://dbpedia.org/ontology/Municipality"
+        },
+        {
+          "label":"Indian capital cities",
+          "uri":"http://dbpedia.org/resource/Indian_capital_cities"
+        },
+        {
+          "label":"federal district",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwGkyX5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Indian Union Territory Capitals",
+          "uri":"http://dbpedia.org/class/yago/IndianUnionTerritoryCapitals"
+        },
+        {
+          "label":"Union Territories Of India",
+          "uri":"http://dbpedia.org/class/yago/UnionTerritoriesOfIndia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/State_University_of_New_York",
+      "label":"State University of New York",
+      "offsets":[
+        {
+          "offset":661,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"Educational Institutions Established In1948",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1948"
+        },
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Delhi",
+      "label":"Delhi",
+      "offsets":[
+        {
+          "offset":693,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Indian Union Territory capitals",
+          "uri":"http://dbpedia.org/resource/Indian_Union_Territory_capitals"
+        },
+        {
+          "label":"Capital Districts And Territories",
+          "uri":"http://dbpedia.org/class/yago/CapitalDistrictsAndTerritories"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Places Of Indian Rebellion Of1857",
+          "uri":"http://dbpedia.org/class/yago/PlacesOfIndianRebellionOf1857"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Attribute Characteristic Of An Entity",
+          "uri":"http://umbel.org/umbel/sc/AttributeCharacteristicOfAnEntity"
+        },
+        {
+          "label":"Capital City Of Region",
+          "uri":"http://umbel.org/umbel/sc/CapitalCityOfRegion"
+        },
+        {
+          "label":"Municipality",
+          "uri":"http://dbpedia.org/ontology/Municipality"
+        },
+        {
+          "label":"Indian capital cities",
+          "uri":"http://dbpedia.org/resource/Indian_capital_cities"
+        },
+        {
+          "label":"federal district",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwGkyX5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Indian Union Territory Capitals",
+          "uri":"http://dbpedia.org/class/yago/IndianUnionTerritoryCapitals"
+        },
+        {
+          "label":"Union Territories Of India",
+          "uri":"http://dbpedia.org/class/yago/UnionTerritoriesOfIndia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/State_University_of_New_York",
+      "label":"State University of New York",
+      "offsets":[
+        {
+          "offset":661,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"Educational Institutions Established In1948",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1948"
+        },
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bronx",
+      "label":"Bronx",
+      "offsets":[
+        {
+          "offset":944,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ]
+}

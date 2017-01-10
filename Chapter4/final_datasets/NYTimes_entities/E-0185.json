@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Bolivia",
+            "types": [
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Latin American country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bolivia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0185",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bolivia",
+            "types": [
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Latin American country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bolivia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

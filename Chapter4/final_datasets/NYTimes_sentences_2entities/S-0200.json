@@ -1,0 +1,317 @@
+{
+  "mainText":"WASHINGTON \u2014 President Obama plans to nominate Sylvia Mathews Burwell, the president of the Walmart Foundation, as his budget chief, a White House official said on Sunday.",
+  "shownText":"WASHINGTON \u2014 President Obama plans to nominate Sylvia Mathews Burwell, the president of the Walmart Foundation, as his budget chief, a White House official said on Sunday.",
+  "title":"Sylvia Mathews Burwell Picked for Budget Chief - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/us/politics/obama-picks-foundation-president-for-budget-chief.html",
+  "category":"politics",
+  "docID":"S-0200",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"WASHINGTON",
+      "offsets":[
+        {
+          "offset":0,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sylvia_Mathews_Burwell",
+      "label":"Sylvia Mathews Burwell",
+      "offsets":[
+        {
+          "offset":47,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Bill&amp;Melinda Gates Foundation People",
+          "uri":"http://dbpedia.org/class/yago/Bill&MelindaGatesFoundationPeople"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"People From West Virginia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromWestVirginia"
+        },
+        {
+          "label":"Bill %26 Melinda Gates Foundation people",
+          "uri":"http://dbpedia.org/resource/Bill_%26_Melinda_Gates_Foundation_people"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":135,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"WASHINGTON",
+      "offsets":[
+        {
+          "offset":0,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sylvia_Mathews_Burwell",
+      "label":"Sylvia Mathews Burwell",
+      "offsets":[
+        {
+          "offset":47,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Bill&amp;Melinda Gates Foundation People",
+          "uri":"http://dbpedia.org/class/yago/Bill&MelindaGatesFoundationPeople"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"People From West Virginia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromWestVirginia"
+        },
+        {
+          "label":"Bill %26 Melinda Gates Foundation people",
+          "uri":"http://dbpedia.org/resource/Bill_%26_Melinda_Gates_Foundation_people"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":135,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ]
+}

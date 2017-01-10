@@ -1,0 +1,277 @@
+{
+  "mainText":"A lack of openness about concussions can make it difficult to have an accurate accounting of head injuries.\nAmong the other players with recently announced head injuries are the 20-year-old Carolina forward Jeff Skinner, who missed 16 games last season with a concussion; St. Louis\u2019s high-scoring rookie Vladimir Tarasenko; another top rookie, Brendan Gallagher of Montreal; and Devils winger Ryan Carter.",
+  "shownText":"A lack of openness about concussions can make it difficult to have an accurate accounting of head injuries.\nAmong the other players with recently announced head injuries are the 20-year-old Carolina forward Jeff Skinner, who missed 16 games last season with a concussion; St. Louis\u2019s high-scoring rookie Vladimir Tarasenko; another top rookie, Brendan Gallagher of Montreal; and Devils winger Ryan Carter.",
+  "title":"A Wave of Concussions Hits the N.H.L. - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/sports/hockey/another-wave-of-concussions-hits-nhl.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0215",
+  "elementNumber":13,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_Carter",
+      "label":"Ryan Carter",
+      "offsets":[
+        {
+          "offset":393,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Anaheim Ducks players",
+          "uri":"http://dbpedia.org/resource/Anaheim_Ducks_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/St._Louis",
+      "label":"St. Louis",
+      "offsets":[
+        {
+          "offset":272,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Montreal",
+      "label":"Montreal",
+      "offsets":[
+        {
+          "offset":365,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Cities On The Saint Lawrence River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheSaintLawrenceRiver"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Places On The Saint Lawrence River",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesOnTheSaintLawrenceRiver"
+        },
+        {
+          "label":"Former Capitals Of Canada",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfCanada"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Point",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#Point"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlements Established In1642",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1642"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Populated Places Established In1642",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1642"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_Carter",
+      "label":"Ryan Carter",
+      "offsets":[
+        {
+          "offset":393,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Anaheim Ducks players",
+          "uri":"http://dbpedia.org/resource/Anaheim_Ducks_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/St._Louis",
+      "label":"St. Louis",
+      "offsets":[
+        {
+          "offset":272,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Montreal",
+      "label":"Montreal",
+      "offsets":[
+        {
+          "offset":365,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Cities On The Saint Lawrence River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheSaintLawrenceRiver"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Places On The Saint Lawrence River",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesOnTheSaintLawrenceRiver"
+        },
+        {
+          "label":"Former Capitals Of Canada",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfCanada"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Point",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#Point"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlements Established In1642",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1642"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Populated Places Established In1642",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1642"
+        }
+      ]
+    }
+  ]
+}

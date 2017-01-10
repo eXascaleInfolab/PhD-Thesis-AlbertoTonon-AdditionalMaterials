@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Artem Anisimov",
+            "types": [
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Artem_Anisimov"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0279",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Artem Anisimov",
+            "types": [
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Artem_Anisimov"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

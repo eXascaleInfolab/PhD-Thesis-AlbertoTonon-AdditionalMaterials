@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mark Udall",
+            "types": [
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/class/yago/Congressman109955781"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mark_Udall"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0378",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mark Udall",
+            "types": [
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/class/yago/Congressman109955781"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mark_Udall"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

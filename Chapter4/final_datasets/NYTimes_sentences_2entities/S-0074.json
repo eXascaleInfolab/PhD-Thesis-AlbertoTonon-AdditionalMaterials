@@ -1,0 +1,157 @@
+{
+  "mainText":"Netflix is following up on the $100 million drama \u201c House of Cards \u201d with four more series this year.",
+  "shownText":"Netflix is following up on the $100 million drama \u201c House of Cards \u201d with four more series this year.",
+  "title":"Online-Only TV Shows Join Fight for Attention - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/business/media/online-only-tv-shows-join-fight-for-attention.html?ref=business",
+  "category":"business",
+  "docID":"S-0074",
+  "elementNumber":7,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/House_of_Cards",
+      "label":"House of Cards",
+      "offsets":[
+        {
+          "offset":52,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Television Programs Based On Novels",
+          "uri":"http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Film",
+          "uri":"http://dbpedia.org/ontology/Film"
+        },
+        {
+          "label":"BBC television dramas",
+          "uri":"http://dbpedia.org/resource/BBC_television_dramas"
+        },
+        {
+          "label":"BBCTelevision Dramas",
+          "uri":"http://dbpedia.org/class/yago/BBCTelevisionDramas"
+        },
+        {
+          "label":"British television miniseries",
+          "uri":"http://dbpedia.org/resource/British_television_miniseries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Netflix",
+      "label":"Netflix",
+      "offsets":[
+        {
+          "offset":0,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/House_of_Cards",
+      "label":"House of Cards",
+      "offsets":[
+        {
+          "offset":52,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Television Programs Based On Novels",
+          "uri":"http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Film",
+          "uri":"http://dbpedia.org/ontology/Film"
+        },
+        {
+          "label":"BBC television dramas",
+          "uri":"http://dbpedia.org/resource/BBC_television_dramas"
+        },
+        {
+          "label":"BBCTelevision Dramas",
+          "uri":"http://dbpedia.org/class/yago/BBCTelevisionDramas"
+        },
+        {
+          "label":"British television miniseries",
+          "uri":"http://dbpedia.org/resource/British_television_miniseries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Netflix",
+      "label":"Netflix",
+      "offsets":[
+        {
+          "offset":0,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ]
+}

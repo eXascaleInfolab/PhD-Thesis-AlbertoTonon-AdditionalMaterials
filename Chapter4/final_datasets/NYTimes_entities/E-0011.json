@@ -1,0 +1,265 @@
+{
+    "allEntities": [
+        {
+            "label": "Jorge Campos",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Soccer Player",
+                    "uri": "http://dbpedia.org/ontology/SoccerPlayer"
+                },
+                {
+                    "label": "Mexico International Footballers",
+                    "uri": "http://dbpedia.org/class/yago/MexicoInternationalFootballers"
+                },
+                {
+                    "label": "FIFA World Cup 1994 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_1994_players"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Los Angeles Galaxy Players",
+                    "uri": "http://dbpedia.org/class/yago/LosAngelesGalaxyPlayers"
+                },
+                {
+                    "label": "Footballers At The1996Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/FootballersAtThe1996SummerOlympics"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Chicago Fire Players",
+                    "uri": "http://dbpedia.org/class/yago/ChicagoFirePlayers"
+                },
+                {
+                    "label": "FIFA World Cup 2002 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_2002_players"
+                },
+                {
+                    "label": "Football (soccer) strikers",
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+                },
+                {
+                    "label": "FIFAWorld Cup1994Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup1994Players"
+                },
+                {
+                    "label": "Chicago Fire players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Fire_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "FIFA World Cup 1998 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_1998_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "soccer player",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkDmZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "UANLTigres Players",
+                    "uri": "http://dbpedia.org/class/yago/UANLTigresPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "FIFAWorld Cup1998Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup1998Players"
+                },
+                {
+                    "label": "Football(soccer)Goalkeepers",
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Goalkeepers"
+                },
+                {
+                    "label": "Mexican Footballers",
+                    "uri": "http://dbpedia.org/class/yago/MexicanFootballers"
+                },
+                {
+                    "label": "Mexican Football Managers",
+                    "uri": "http://dbpedia.org/class/yago/MexicanFootballManagers"
+                },
+                {
+                    "label": "FIFA Century Club",
+                    "uri": "http://dbpedia.org/resource/FIFA_Century_Club"
+                },
+                {
+                    "label": "Football(soccer)Strikers",
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Strikers"
+                },
+                {
+                    "label": "FIFAWorld Cup2002Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup2002Players"
+                },
+                {
+                    "label": "People From Acapulco",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAcapulco"
+                },
+                {
+                    "label": "Olympic Footballers Of Mexico",
+                    "uri": "http://dbpedia.org/class/yago/OlympicFootballersOfMexico"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jorge_Campos"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0011",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jorge Campos",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Soccer Player",
+                    "uri": "http://dbpedia.org/ontology/SoccerPlayer"
+                },
+                {
+                    "label": "Mexico International Footballers",
+                    "uri": "http://dbpedia.org/class/yago/MexicoInternationalFootballers"
+                },
+                {
+                    "label": "FIFA World Cup 1994 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_1994_players"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Los Angeles Galaxy Players",
+                    "uri": "http://dbpedia.org/class/yago/LosAngelesGalaxyPlayers"
+                },
+                {
+                    "label": "Footballers At The1996Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/FootballersAtThe1996SummerOlympics"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Chicago Fire Players",
+                    "uri": "http://dbpedia.org/class/yago/ChicagoFirePlayers"
+                },
+                {
+                    "label": "FIFA World Cup 2002 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_2002_players"
+                },
+                {
+                    "label": "Football (soccer) strikers",
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+                },
+                {
+                    "label": "FIFAWorld Cup1994Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup1994Players"
+                },
+                {
+                    "label": "Chicago Fire players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Fire_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "FIFA World Cup 1998 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_1998_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "soccer player",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkDmZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "UANLTigres Players",
+                    "uri": "http://dbpedia.org/class/yago/UANLTigresPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "FIFAWorld Cup1998Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup1998Players"
+                },
+                {
+                    "label": "Football(soccer)Goalkeepers",
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Goalkeepers"
+                },
+                {
+                    "label": "Mexican Footballers",
+                    "uri": "http://dbpedia.org/class/yago/MexicanFootballers"
+                },
+                {
+                    "label": "Mexican Football Managers",
+                    "uri": "http://dbpedia.org/class/yago/MexicanFootballManagers"
+                },
+                {
+                    "label": "FIFA Century Club",
+                    "uri": "http://dbpedia.org/resource/FIFA_Century_Club"
+                },
+                {
+                    "label": "Football(soccer)Strikers",
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Strikers"
+                },
+                {
+                    "label": "FIFAWorld Cup2002Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup2002Players"
+                },
+                {
+                    "label": "People From Acapulco",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAcapulco"
+                },
+                {
+                    "label": "Olympic Footballers Of Mexico",
+                    "uri": "http://dbpedia.org/class/yago/OlympicFootballersOfMexico"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jorge_Campos"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

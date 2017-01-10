@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "U.S. Figure Skating",
+            "types": [
+                {
+                    "label": "Sport",
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                },
+                {
+                    "label": "Sports Governing Bodies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/SportsGoverningBodiesOfTheUnitedStates"
+                },
+                {
+                    "label": "Figure skating organisations",
+                    "uri": "http://dbpedia.org/resource/Figure_skating_organisations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/U.S._Figure_Skating"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0761",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "U.S. Figure Skating",
+            "types": [
+                {
+                    "label": "Sport",
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                },
+                {
+                    "label": "Sports Governing Bodies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/SportsGoverningBodiesOfTheUnitedStates"
+                },
+                {
+                    "label": "Figure skating organisations",
+                    "uri": "http://dbpedia.org/resource/Figure_skating_organisations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/U.S._Figure_Skating"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "St. Louis",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/St._Louis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0625",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "St. Louis",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/St._Louis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

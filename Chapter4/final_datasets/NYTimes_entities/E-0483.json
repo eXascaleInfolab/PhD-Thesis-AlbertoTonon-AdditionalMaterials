@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Seattle",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Populated Places Established In1853",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1853"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Cities In Washington(U.S.State)",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInWashington(U.S.State)"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Isthmuses",
+                    "uri": "http://dbpedia.org/class/yago/Isthmuses"
+                },
+                {
+                    "label": "County Seats In Washington(U.S.State)",
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInWashington(U.S.State)"
+                },
+                {
+                    "label": "Cities In The Seattle Metropolitan Area",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInTheSeattleMetropolitanArea"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Geoclass Populated Place",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Seattle"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0483",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Seattle",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Populated Places Established In1853",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1853"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Cities In Washington(U.S.State)",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInWashington(U.S.State)"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Isthmuses",
+                    "uri": "http://dbpedia.org/class/yago/Isthmuses"
+                },
+                {
+                    "label": "County Seats In Washington(U.S.State)",
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInWashington(U.S.State)"
+                },
+                {
+                    "label": "Cities In The Seattle Metropolitan Area",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInTheSeattleMetropolitanArea"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Geoclass Populated Place",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Seattle"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

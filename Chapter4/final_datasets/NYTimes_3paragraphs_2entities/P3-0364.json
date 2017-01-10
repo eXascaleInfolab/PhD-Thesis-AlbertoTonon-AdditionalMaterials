@@ -1,0 +1,253 @@
+{
+  "mainText":"Investment in other crucial areas of the economy, including the electrical network, has been deficient and in much of the country there are regular power failures.\nRoads and bridges are in bad shape, bottlenecks at ports are common and, despite the sustained increase in oil prices, the country has the lowest cumulative rate of economic growth among the seven largest economies in South America since 1999, according to data from the United Nations.",
+  "shownText":"Those oil riches have fueled his movement, but critics say that his policies, including the expropriation of private companies and price controls, have hobbled the economy, led to shortages of basic goods and created a system that cannot be sustained.\nOil production has stagnated, and the state-run oil company has failed to make the enormous investments needed to increase it.\nA huge explosion at a refinery in August killed dozens of people and raised questions about maintenance and safety .\n\nInvestment in other crucial areas of the economy, including the electrical network, has been deficient and in much of the country there are regular power failures.\nRoads and bridges are in bad shape, bottlenecks at ports are common and, despite the sustained increase in oil prices, the country has the lowest cumulative rate of economic growth among the seven largest economies in South America since 1999, according to data from the United Nations.\n\nMr. Chávez named his movement after his hero, Bolívar, and vowed to created what he called 21st-century socialism.\nBut exactly what that is can be hard to define.\n",
+  "title":"For Good or Ill, ChÃ¡vez Altered How Venezuela Views Itself - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/world/americas/for-good-or-ill-chavez-altered-how-venezuela-views-itself.html?ref=world",
+  "category":"world",
+  "docID":"P3-0364",
+  "elementNumber":23,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":932,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/South_America",
+      "label":"South America",
+      "offsets":[
+        {
+          "offset":879,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Economic System",
+          "uri":"http://umbel.org/umbel/sc/EconomicSystem"
+        },
+        {
+          "label":"Regions Of The Americas",
+          "uri":"http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"type of person classified by continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":932,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/South_America",
+      "label":"South America",
+      "offsets":[
+        {
+          "offset":879,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Economic System",
+          "uri":"http://umbel.org/umbel/sc/EconomicSystem"
+        },
+        {
+          "label":"Regions Of The Americas",
+          "uri":"http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"type of person classified by continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    }
+  ]
+}

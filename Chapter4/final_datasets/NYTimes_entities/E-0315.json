@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "National Institutes of Health",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Research Institutes In The United States",
+                    "uri": "http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Institutes_of_Health"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0315",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "National Institutes of Health",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Research Institutes In The United States",
+                    "uri": "http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Institutes_of_Health"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

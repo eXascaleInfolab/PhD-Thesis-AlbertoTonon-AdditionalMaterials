@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Kathryn Bigelow",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Female Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/FemaleFilmDirectors"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Film Director",
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kathryn_Bigelow"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0001",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kathryn Bigelow",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Female Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/FemaleFilmDirectors"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Film Director",
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kathryn_Bigelow"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

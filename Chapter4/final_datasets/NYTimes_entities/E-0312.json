@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Bass Performance Hall",
+            "types": [
+                {
+                    "label": "Concert Halls In The United States",
+                    "uri": "http://dbpedia.org/class/yago/ConcertHallsInTheUnitedStates"
+                },
+                {
+                    "label": "Theatres In Texas",
+                    "uri": "http://dbpedia.org/class/yago/TheatresInTexas"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bass_Performance_Hall"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0312",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bass Performance Hall",
+            "types": [
+                {
+                    "label": "Concert Halls In The United States",
+                    "uri": "http://dbpedia.org/class/yago/ConcertHallsInTheUnitedStates"
+                },
+                {
+                    "label": "Theatres In Texas",
+                    "uri": "http://dbpedia.org/class/yago/TheatresInTexas"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bass_Performance_Hall"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

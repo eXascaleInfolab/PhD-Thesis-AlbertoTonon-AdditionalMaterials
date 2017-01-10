@@ -1,0 +1,293 @@
+{
+  "mainText":"No mentor was more supportive than Mr. Castro, who well understood how important Venezuela\u2019s subsidized oil shipments were to Cuba\u2019s fragile economy.\nAn ally from the start of Mr. Chávez\u2019s presidency in 1999, he offered help in one of Mr. Chávez\u2019s most difficult moments, a coup d\u2019état that removed him from office for 48 hours in April 2002.\nMr. Castro telephoned Venezuela\u2019s top military officials, pressing them to assist in returning Mr. Chávez to office.",
+  "shownText":"No mentor was more supportive than Mr. Castro, who well understood how important Venezuela\u2019s subsidized oil shipments were to Cuba\u2019s fragile economy.\nAn ally from the start of Mr. Chávez\u2019s presidency in 1999, he offered help in one of Mr. Chávez\u2019s most difficult moments, a coup d\u2019état that removed him from office for 48 hours in April 2002.\nMr. Castro telephoned Venezuela\u2019s top military officials, pressing them to assist in returning Mr. Chávez to office.",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"P-0320",
+  "elementNumber":24,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":81,
+          "length":9
+        },
+        {
+          "offset":365,
+          "length":9
+        },
+        {
+          "offset":81,
+          "length":9
+        },
+        {
+          "offset":365,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":126,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":81,
+          "length":9
+        },
+        {
+          "offset":365,
+          "length":9
+        },
+        {
+          "offset":81,
+          "length":9
+        },
+        {
+          "offset":365,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":126,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

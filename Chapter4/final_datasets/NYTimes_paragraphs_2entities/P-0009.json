@@ -1,0 +1,301 @@
+{
+  "mainText":"At the time, America had produced an exceptional generation of pianists besides Mr. Cliburn who were all in promising stages of their own careers, among them Leon Fleisher, Byron Janis, Gary Graffman and Eugene Istomin.\nBut the Tchaikovsky competition came at a historically important time: a period when American morale had been badly shaken by the Soviet Union\u2019s launching of the world\u2019s first orbiting satellite, the Sputnik, in 1957.",
+  "shownText":"At the time, America had produced an exceptional generation of pianists besides Mr. Cliburn who were all in promising stages of their own careers, among them Leon Fleisher, Byron Janis, Gary Graffman and Eugene Istomin.\nBut the Tchaikovsky competition came at a historically important time: a period when American morale had been badly shaken by the Soviet Union\u2019s launching of the world\u2019s first orbiting satellite, the Sputnik, in 1957.",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"P-0009",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Soviet_Union",
+      "label":"Soviet Union",
+      "offsets":[
+        {
+          "offset":350,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Former Communist Economies",
+          "uri":"http://dbpedia.org/class/yago/FormerCommunistEconomies"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economies Of Former Countries",
+          "uri":"http://dbpedia.org/class/yago/EconomiesOfFormerCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Early Soviet Republics",
+          "uri":"http://dbpedia.org/resource/Early_Soviet_Republics"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Byron_Janis",
+      "label":"Byron Janis",
+      "offsets":[
+        {
+          "offset":173,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Jewish American musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_musicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eugene_Istomin",
+      "label":"Eugene Istomin",
+      "offsets":[
+        {
+          "offset":204,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Fleisher",
+      "label":"Leon Fleisher",
+      "offsets":[
+        {
+          "offset":158,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gary_Graffman",
+      "label":"Gary Graffman",
+      "offsets":[
+        {
+          "offset":186,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Classical pianists",
+          "uri":"http://dbpedia.org/resource/Classical_pianists"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Classical Pianists",
+          "uri":"http://dbpedia.org/class/yago/ClassicalPianists"
+        },
+        {
+          "label":"Jewish musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_musicians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Soviet_Union",
+      "label":"Soviet Union",
+      "offsets":[
+        {
+          "offset":350,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Former Communist Economies",
+          "uri":"http://dbpedia.org/class/yago/FormerCommunistEconomies"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economies Of Former Countries",
+          "uri":"http://dbpedia.org/class/yago/EconomiesOfFormerCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Early Soviet Republics",
+          "uri":"http://dbpedia.org/resource/Early_Soviet_Republics"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Byron_Janis",
+      "label":"Byron Janis",
+      "offsets":[
+        {
+          "offset":173,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Jewish American musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_musicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eugene_Istomin",
+      "label":"Eugene Istomin",
+      "offsets":[
+        {
+          "offset":204,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Fleisher",
+      "label":"Leon Fleisher",
+      "offsets":[
+        {
+          "offset":158,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gary_Graffman",
+      "label":"Gary Graffman",
+      "offsets":[
+        {
+          "offset":186,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Classical pianists",
+          "uri":"http://dbpedia.org/resource/Classical_pianists"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Classical Pianists",
+          "uri":"http://dbpedia.org/class/yago/ClassicalPianists"
+        },
+        {
+          "label":"Jewish musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_musicians"
+        }
+      ]
+    }
+  ]
+}

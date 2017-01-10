@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Raymond Felton",
+            "types": [
+                {
+                    "label": "Charlotte Bobcats players",
+                    "uri": "http://dbpedia.org/resource/Charlotte_Bobcats_players"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "People From South Carolina",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSouthCarolina"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Raymond_Felton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0542",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Raymond Felton",
+            "types": [
+                {
+                    "label": "Charlotte Bobcats players",
+                    "uri": "http://dbpedia.org/resource/Charlotte_Bobcats_players"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "People From South Carolina",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSouthCarolina"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Raymond_Felton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

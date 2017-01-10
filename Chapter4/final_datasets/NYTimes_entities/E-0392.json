@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Mitch McConnell",
+            "types": [
+                {
+                    "label": "Kentucky Politicians",
+                    "uri": "http://dbpedia.org/class/yago/KentuckyPoliticians"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "Delegates To The Republican National Convention",
+                    "uri": "http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Kentucky Republicans",
+                    "uri": "http://dbpedia.org/resource/Kentucky_Republicans"
+                },
+                {
+                    "label": "Delegates to the Republican National Convention",
+                    "uri": "http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+                },
+                {
+                    "label": "Kentucky lawyers",
+                    "uri": "http://dbpedia.org/resource/Kentucky_lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From Alabama",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAlabama"
+                },
+                {
+                    "label": "Louisville Politicians",
+                    "uri": "http://dbpedia.org/class/yago/LouisvillePoliticians"
+                },
+                {
+                    "label": "People From The Florence-Muscle Shoals Metropolitan Area",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheFlorence-MuscleShoalsMetropolitanArea"
+                },
+                {
+                    "label": "Kentucky Republicans",
+                    "uri": "http://dbpedia.org/class/yago/KentuckyRepublicans"
+                },
+                {
+                    "label": "Kentucky Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/KentuckyLawyers"
+                },
+                {
+                    "label": "United States Senators From Kentucky",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKentucky"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Baptists from the United States",
+                    "uri": "http://dbpedia.org/resource/Baptists_from_the_United_States"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mitch_McConnell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0392",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mitch McConnell",
+            "types": [
+                {
+                    "label": "Kentucky Politicians",
+                    "uri": "http://dbpedia.org/class/yago/KentuckyPoliticians"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "Delegates To The Republican National Convention",
+                    "uri": "http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Kentucky Republicans",
+                    "uri": "http://dbpedia.org/resource/Kentucky_Republicans"
+                },
+                {
+                    "label": "Delegates to the Republican National Convention",
+                    "uri": "http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+                },
+                {
+                    "label": "Kentucky lawyers",
+                    "uri": "http://dbpedia.org/resource/Kentucky_lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From Alabama",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAlabama"
+                },
+                {
+                    "label": "Louisville Politicians",
+                    "uri": "http://dbpedia.org/class/yago/LouisvillePoliticians"
+                },
+                {
+                    "label": "People From The Florence-Muscle Shoals Metropolitan Area",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheFlorence-MuscleShoalsMetropolitanArea"
+                },
+                {
+                    "label": "Kentucky Republicans",
+                    "uri": "http://dbpedia.org/class/yago/KentuckyRepublicans"
+                },
+                {
+                    "label": "Kentucky Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/KentuckyLawyers"
+                },
+                {
+                    "label": "United States Senators From Kentucky",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKentucky"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Baptists from the United States",
+                    "uri": "http://dbpedia.org/resource/Baptists_from_the_United_States"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mitch_McConnell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

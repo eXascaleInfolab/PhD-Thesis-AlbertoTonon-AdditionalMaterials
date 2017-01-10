@@ -1,0 +1,173 @@
+{
+  "mainText":"Ms. Ray, who has worked in the White House garden and championed the healthy eating of Mrs. Obama\u2019s campaign, said that her interest in healthy food in schools stemmed from the notion that \u201cevery American needs to be concerned about the health of our nation\u2019s kids.\u201d",
+  "shownText":"Ms. Ray, who has worked in the White House garden and championed the healthy eating of Mrs. Obama\u2019s campaign, said that her interest in healthy food in schools stemmed from the notion that \u201cevery American needs to be concerned about the health of our nation\u2019s kids.\u201d",
+  "title":"New Attention to First Lady - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/us/politics/new-attention-to-first-lady.html?ref=health",
+  "category":"health",
+  "docID":"S-0111",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ray",
+      "label":"Ray",
+      "offsets":[
+        {
+          "offset":4,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":31,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ray",
+      "label":"Ray",
+      "offsets":[
+        {
+          "offset":4,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":31,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ]
+}

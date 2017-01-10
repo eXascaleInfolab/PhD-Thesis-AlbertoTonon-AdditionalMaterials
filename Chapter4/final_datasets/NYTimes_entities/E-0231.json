@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "European Commission",
+            "types": [
+                {
+                    "label": "type of profession",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVii2ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/European_Commission"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0231",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "European Commission",
+            "types": [
+                {
+                    "label": "type of profession",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVii2ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/European_Commission"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

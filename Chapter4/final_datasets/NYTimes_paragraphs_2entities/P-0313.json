@@ -1,0 +1,261 @@
+{
+  "mainText":"\u201cJabhet al-Nusra now controls the most important things for life \u2014 like flour, water and electricity \u2014 to make the people see Jabhet al-Nusra as the model, the perfect thing,\u201d he said.\n\u201cThis plan is very clear to all of us.\nBut this kind of game is not going to work, because our future is not Jabhet al-Nusra.\nWe don\u2019t need Afghanistan in Syria.\u201d",
+  "shownText":"\u201cJabhet al-Nusra now controls the most important things for life \u2014 like flour, water and electricity \u2014 to make the people see Jabhet al-Nusra as the model, the perfect thing,\u201d he said.\n\u201cThis plan is very clear to all of us.\nBut this kind of game is not going to work, because our future is not Jabhet al-Nusra.\nWe don\u2019t need Afghanistan in Syria.\u201d",
+  "title":"Syrian Civilians Take Reins in Test of Self-Government - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/world/middleeast/syrian-civilians-take-reins-in-test-of-self-government.html?ref=world",
+  "category":"world",
+  "docID":"P-0313",
+  "elementNumber":31,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":340,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Afghanistan",
+      "label":"Afghanistan",
+      "offsets":[
+        {
+          "offset":325,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Middle Eastern country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":340,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Afghanistan",
+      "label":"Afghanistan",
+      "offsets":[
+        {
+          "offset":325,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Middle Eastern country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Vivienne Westwood",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "Alumni Of The University Of Westminster",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfTheUniversityOfWestminster"
+                },
+                {
+                    "label": "Shoe Designers",
+                    "uri": "http://dbpedia.org/class/yago/ShoeDesigners"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                },
+                {
+                    "label": "Couturier",
+                    "uri": "http://dbpedia.org/class/yago/Couturier109972157"
+                },
+                {
+                    "label": "People From Derbyshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDerbyshire"
+                },
+                {
+                    "label": "Alumni Of Middlesex University",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfMiddlesexUniversity"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Vivienne_Westwood"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0168",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Vivienne Westwood",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "Alumni Of The University Of Westminster",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfTheUniversityOfWestminster"
+                },
+                {
+                    "label": "Shoe Designers",
+                    "uri": "http://dbpedia.org/class/yago/ShoeDesigners"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                },
+                {
+                    "label": "Couturier",
+                    "uri": "http://dbpedia.org/class/yago/Couturier109972157"
+                },
+                {
+                    "label": "People From Derbyshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDerbyshire"
+                },
+                {
+                    "label": "Alumni Of Middlesex University",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfMiddlesexUniversity"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Vivienne_Westwood"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

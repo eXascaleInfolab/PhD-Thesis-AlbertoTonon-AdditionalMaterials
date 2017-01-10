@@ -1,0 +1,249 @@
+{
+    "allEntities": [
+        {
+            "label": "Dany Heatley",
+            "types": [
+                {
+                    "label": "Ice hockey personnel from Alberta",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                },
+                {
+                    "label": "SCBern Players",
+                    "uri": "http://dbpedia.org/class/yago/SCBernPlayers"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "Ottawa Senators Players",
+                    "uri": "http://dbpedia.org/class/yago/OttawaSenatorsPlayers"
+                },
+                {
+                    "label": "Canadian ice hockey right wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_right_wingers"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "People From Calgary",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCalgary"
+                },
+                {
+                    "label": "German Ice Hockey Players",
+                    "uri": "http://dbpedia.org/class/yago/GermanIceHockeyPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Atlanta Thrashers players",
+                    "uri": "http://dbpedia.org/resource/Atlanta_Thrashers_players"
+                },
+                {
+                    "label": "Calder Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Calder_Trophy_winners"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Calgary Canucks Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CalgaryCanucksAlumni"
+                },
+                {
+                    "label": "Calgary Canucks alumni",
+                    "uri": "http://dbpedia.org/resource/Calgary_Canucks_alumni"
+                },
+                {
+                    "label": "German ice hockey players",
+                    "uri": "http://dbpedia.org/resource/German_ice_hockey_players"
+                },
+                {
+                    "label": "National Hockey League Players With50Goal Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+                },
+                {
+                    "label": "Wisconsin Badgers Ice Hockey Players",
+                    "uri": "http://dbpedia.org/class/yago/WisconsinBadgersIceHockeyPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Russian Hockey Super League Players",
+                    "uri": "http://dbpedia.org/class/yago/RussianHockeySuperLeaguePlayers"
+                },
+                {
+                    "label": "Nationalliga APlayers",
+                    "uri": "http://dbpedia.org/class/yago/NationalligaAPlayers"
+                },
+                {
+                    "label": "Canadian Ice Hockey Right Wingers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianIceHockeyRightWingers"
+                },
+                {
+                    "label": "Atlanta Thrashers Players",
+                    "uri": "http://dbpedia.org/class/yago/AtlantaThrashersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dany_Heatley"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0242",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dany Heatley",
+            "types": [
+                {
+                    "label": "Ice hockey personnel from Alberta",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                },
+                {
+                    "label": "SCBern Players",
+                    "uri": "http://dbpedia.org/class/yago/SCBernPlayers"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "Ottawa Senators Players",
+                    "uri": "http://dbpedia.org/class/yago/OttawaSenatorsPlayers"
+                },
+                {
+                    "label": "Canadian ice hockey right wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_right_wingers"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "People From Calgary",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCalgary"
+                },
+                {
+                    "label": "German Ice Hockey Players",
+                    "uri": "http://dbpedia.org/class/yago/GermanIceHockeyPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Atlanta Thrashers players",
+                    "uri": "http://dbpedia.org/resource/Atlanta_Thrashers_players"
+                },
+                {
+                    "label": "Calder Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Calder_Trophy_winners"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Calgary Canucks Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CalgaryCanucksAlumni"
+                },
+                {
+                    "label": "Calgary Canucks alumni",
+                    "uri": "http://dbpedia.org/resource/Calgary_Canucks_alumni"
+                },
+                {
+                    "label": "German ice hockey players",
+                    "uri": "http://dbpedia.org/resource/German_ice_hockey_players"
+                },
+                {
+                    "label": "National Hockey League Players With50Goal Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+                },
+                {
+                    "label": "Wisconsin Badgers Ice Hockey Players",
+                    "uri": "http://dbpedia.org/class/yago/WisconsinBadgersIceHockeyPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Russian Hockey Super League Players",
+                    "uri": "http://dbpedia.org/class/yago/RussianHockeySuperLeaguePlayers"
+                },
+                {
+                    "label": "Nationalliga APlayers",
+                    "uri": "http://dbpedia.org/class/yago/NationalligaAPlayers"
+                },
+                {
+                    "label": "Canadian Ice Hockey Right Wingers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianIceHockeyRightWingers"
+                },
+                {
+                    "label": "Atlanta Thrashers Players",
+                    "uri": "http://dbpedia.org/class/yago/AtlantaThrashersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dany_Heatley"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

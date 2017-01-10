@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Alison Steele",
+            "types": [
+                {
+                    "label": "American radio personalities",
+                    "uri": "http://dbpedia.org/resource/American_radio_personalities"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "Cancer deaths",
+                    "uri": "http://dbpedia.org/resource/Cancer_deaths"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alison_Steele"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0411",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Alison Steele",
+            "types": [
+                {
+                    "label": "American radio personalities",
+                    "uri": "http://dbpedia.org/resource/American_radio_personalities"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "Cancer deaths",
+                    "uri": "http://dbpedia.org/resource/Cancer_deaths"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alison_Steele"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

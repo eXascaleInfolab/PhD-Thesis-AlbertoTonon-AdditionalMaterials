@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Bryan Berard",
+            "types": [
+                {
+                    "label": "Calder Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Calder_Trophy_winners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American sportspeople",
+                    "uri": "http://dbpedia.org/resource/American_sportspeople"
+                },
+                {
+                    "label": "Bill Masterton Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+                },
+                {
+                    "label": "Detroit Whalers alumni",
+                    "uri": "http://dbpedia.org/resource/Detroit_Whalers_alumni"
+                },
+                {
+                    "label": "Boston Bruins players",
+                    "uri": "http://dbpedia.org/resource/Boston_Bruins_players"
+                },
+                {
+                    "label": "Detroit Junior Red Wings alumni",
+                    "uri": "http://dbpedia.org/resource/Detroit_Junior_Red_Wings_alumni"
+                },
+                {
+                    "label": "Chicago Blackhawks players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Blackhawks_players"
+                },
+                {
+                    "label": "Columbus Blue Jackets players",
+                    "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bryan_Berard"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0760",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bryan Berard",
+            "types": [
+                {
+                    "label": "Calder Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Calder_Trophy_winners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American sportspeople",
+                    "uri": "http://dbpedia.org/resource/American_sportspeople"
+                },
+                {
+                    "label": "Bill Masterton Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+                },
+                {
+                    "label": "Detroit Whalers alumni",
+                    "uri": "http://dbpedia.org/resource/Detroit_Whalers_alumni"
+                },
+                {
+                    "label": "Boston Bruins players",
+                    "uri": "http://dbpedia.org/resource/Boston_Bruins_players"
+                },
+                {
+                    "label": "Detroit Junior Red Wings alumni",
+                    "uri": "http://dbpedia.org/resource/Detroit_Junior_Red_Wings_alumni"
+                },
+                {
+                    "label": "Chicago Blackhawks players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Blackhawks_players"
+                },
+                {
+                    "label": "Columbus Blue Jackets players",
+                    "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bryan_Berard"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

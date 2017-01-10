@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Davos",
+            "types": [
+                {
+                    "label": "Ski Areas And Resorts In Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/SkiAreasAndResortsInSwitzerland"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Cities In Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Town",
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                },
+                {
+                    "label": "Municipalities Of Grisons",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfGrisons"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Davos"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0357",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Davos",
+            "types": [
+                {
+                    "label": "Ski Areas And Resorts In Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/SkiAreasAndResortsInSwitzerland"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Cities In Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Town",
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                },
+                {
+                    "label": "Municipalities Of Grisons",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfGrisons"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Davos"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

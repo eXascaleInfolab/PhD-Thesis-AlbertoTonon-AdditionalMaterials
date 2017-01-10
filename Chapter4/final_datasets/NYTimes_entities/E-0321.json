@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                },
+                {
+                    "label": "Companies Based In Hartford County,Connecticut",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0321",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "ESPN for N.B.A.",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                },
+                {
+                    "label": "Companies Based In Hartford County,Connecticut",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

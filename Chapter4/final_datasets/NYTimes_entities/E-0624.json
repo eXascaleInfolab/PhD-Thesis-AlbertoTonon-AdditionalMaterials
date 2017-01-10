@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Frank Gens",
+            "types": [
+                {
+                    "label": "Ancient Roman names",
+                    "uri": "http://dbpedia.org/resource/Ancient_Roman_names"
+                },
+                {
+                    "label": "Ancient Roman families",
+                    "uri": "http://dbpedia.org/resource/Ancient_Roman_families"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gens"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0624",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Frank Gens",
+            "types": [
+                {
+                    "label": "Ancient Roman names",
+                    "uri": "http://dbpedia.org/resource/Ancient_Roman_names"
+                },
+                {
+                    "label": "Ancient Roman families",
+                    "uri": "http://dbpedia.org/resource/Ancient_Roman_families"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gens"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

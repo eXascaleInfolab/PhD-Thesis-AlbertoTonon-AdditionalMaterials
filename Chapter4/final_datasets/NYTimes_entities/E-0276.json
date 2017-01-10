@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Greece",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "European Union Member States",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "European Countries",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCountries"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Member States Of La Francophonie",
+                    "uri": "http://dbpedia.org/class/yago/MemberStatesOfLaFrancophonie"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greece"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0276",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Greece",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "European Union Member States",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "European Countries",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCountries"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Member States Of La Francophonie",
+                    "uri": "http://dbpedia.org/class/yago/MemberStatesOfLaFrancophonie"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greece"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

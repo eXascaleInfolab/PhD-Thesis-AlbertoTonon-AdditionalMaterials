@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mass",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Fundamental physics concepts",
+                    "uri": "http://dbpedia.org/resource/Fundamental_physics_concepts"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mass"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0464",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mass",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Fundamental physics concepts",
+                    "uri": "http://dbpedia.org/resource/Fundamental_physics_concepts"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mass"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

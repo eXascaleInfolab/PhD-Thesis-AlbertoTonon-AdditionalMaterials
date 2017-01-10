@@ -1,0 +1,221 @@
+{
+  "mainText":"The baby, born in rural Mississippi, was treated aggressively with antiretroviral drugs starting around 30 hours after birth, something that is not usually done.\nIf further study shows this works in other babies, it will almost certainly be recommended globally.\nThe United Nations estimates that 330,000 babies were newly infected in 2011, the most recent year for which there is data, and that more than three million children globally are living with H.I.V.",
+  "shownText":"The baby, born in rural Mississippi, was treated aggressively with antiretroviral drugs starting around 30 hours after birth, something that is not usually done.\nIf further study shows this works in other babies, it will almost certainly be recommended globally.\nThe United Nations estimates that 330,000 babies were newly infected in 2011, the most recent year for which there is data, and that more than three million children globally are living with H.I.V.",
+  "title":"Baby With H.I.V. Is Reported Cured - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/health/for-first-time-baby-cured-of-hiv-doctors-say.html?ref=science",
+  "category":"science",
+  "docID":"P-0164",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":24,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":267,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":24,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":267,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ]
+}

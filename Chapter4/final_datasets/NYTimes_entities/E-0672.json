@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "CBS News",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "CBS television network",
+                    "uri": "http://dbpedia.org/resource/CBS_television_network"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CBS_News"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0672",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "CBS News",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "CBS television network",
+                    "uri": "http://dbpedia.org/resource/CBS_television_network"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CBS_News"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

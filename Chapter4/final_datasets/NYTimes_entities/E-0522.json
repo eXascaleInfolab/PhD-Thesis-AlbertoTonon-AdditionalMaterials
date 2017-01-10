@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Geoff Morrell",
+            "types": [
+                {
+                    "label": "Australian Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/AustralianStageActors"
+                },
+                {
+                    "label": "Australian film actors",
+                    "uri": "http://dbpedia.org/resource/Australian_film_actors"
+                },
+                {
+                    "label": "Film actors",
+                    "uri": "http://dbpedia.org/resource/Film_actors"
+                },
+                {
+                    "label": "Australian television actors",
+                    "uri": "http://dbpedia.org/resource/Australian_television_actors"
+                },
+                {
+                    "label": "Australian stage actors",
+                    "uri": "http://dbpedia.org/resource/Australian_stage_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Geoff_Morrell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0522",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Geoff Morrell",
+            "types": [
+                {
+                    "label": "Australian Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/AustralianStageActors"
+                },
+                {
+                    "label": "Australian film actors",
+                    "uri": "http://dbpedia.org/resource/Australian_film_actors"
+                },
+                {
+                    "label": "Film actors",
+                    "uri": "http://dbpedia.org/resource/Film_actors"
+                },
+                {
+                    "label": "Australian television actors",
+                    "uri": "http://dbpedia.org/resource/Australian_television_actors"
+                },
+                {
+                    "label": "Australian stage actors",
+                    "uri": "http://dbpedia.org/resource/Australian_stage_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Geoff_Morrell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

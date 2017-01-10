@@ -1,0 +1,733 @@
+{
+  "mainText":"In 1986, Mr. Cox left the South for Bennington College in Vermont, where he studied theater and introduced his friends to Bette Davis movies, which he could recount line for line.\nThen, after spending much of his junior year in New York and becoming involved with Act Up, the famously combative AIDS organization founded by the playwright Larry Kramer, Mr. Cox dropped out of Bennington and moved to Manhattan.",
+  "shownText":"\u201cI said to a friend: \u2018Would I prefer a child with a wife and two children and white picket fence?\nHe came out early in high school, said his mother, who described it as being not such a big deal.\n\u201cAnd I don\u2019t think he had problems in high school.\u201d\nSure.\nBut I didn\u2019t have that choice,\u2019\u201d she said.\nAs a child, Mr. Cox devoured books by Chaucer and Dickens and immersed himself in local theater.\n\nIn 1986, Mr. Cox left the South for Bennington College in Vermont, where he studied theater and introduced his friends to Bette Davis movies, which he could recount line for line.\nThen, after spending much of his junior year in New York and becoming involved with Act Up, the famously combative AIDS organization founded by the playwright Larry Kramer, Mr. Cox dropped out of Bennington and moved to Manhattan.\n\nIn short order, he found out he was H.I.V. positive.\nBodies were piling up all around him.\n",
+  "title":"What Really Killed Spencer Cox, AIDS activist? - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/fashion/what-really-killed-spencer-cox-aids-activist.html?ref=style",
+  "category":"style",
+  "docID":"P3-0234",
+  "elementNumber":13,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bette_Davis",
+      "label":"Bette Davis",
+      "offsets":[
+        {
+          "offset":517,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Lowell,Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/Lowell,Massachusetts"
+        },
+        {
+          "label":"Emmy Award Winners",
+          "uri":"http://dbpedia.org/class/yago/EmmyAwardWinners"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"Best Actress Academy Award Winners",
+          "uri":"http://dbpedia.org/class/yago/BestActressAcademyAwardWinners"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Memoirists",
+          "uri":"http://dbpedia.org/class/yago/AmericanMemoirists"
+        },
+        {
+          "label":"Breast cancer deaths",
+          "uri":"http://dbpedia.org/resource/Breast_cancer_deaths"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"Welsh-Americans",
+          "uri":"http://dbpedia.org/class/yago/Welsh-Americans"
+        },
+        {
+          "label":"English Americans",
+          "uri":"http://dbpedia.org/class/yago/EnglishAmericans"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Emmy_Award_winners"
+        },
+        {
+          "label":"Kennedy Center Honors Recipients",
+          "uri":"http://dbpedia.org/class/yago/KennedyCenterHonorsRecipients"
+        },
+        {
+          "label":"French Americans",
+          "uri":"http://dbpedia.org/class/yago/FrenchAmericans"
+        },
+        {
+          "label":"Best Actress Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actress_Academy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Larry_Kramer",
+      "label":"Larry Kramer",
+      "offsets":[
+        {
+          "offset":734,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American novelists",
+          "uri":"http://dbpedia.org/resource/American_novelists"
+        },
+        {
+          "label":"Jewish American activists",
+          "uri":"http://dbpedia.org/resource/Jewish_American_activists"
+        },
+        {
+          "label":"HIV-positive People",
+          "uri":"http://dbpedia.org/class/yago/HIV-positivePeople"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"Gay writers",
+          "uri":"http://dbpedia.org/resource/Gay_writers"
+        },
+        {
+          "label":"LGBT screenwriters",
+          "uri":"http://dbpedia.org/resource/LGBT_screenwriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"LGBTPeople From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+        },
+        {
+          "label":"LGBT rights activists from the United States",
+          "uri":"http://dbpedia.org/resource/LGBT_rights_activists_from_the_United_States"
+        },
+        {
+          "label":"Gay Writers",
+          "uri":"http://dbpedia.org/class/yago/GayWriters"
+        },
+        {
+          "label":"American dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/American_dramatists_and_playwrights"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"AIDSActivists",
+          "uri":"http://dbpedia.org/class/yago/AIDSActivists"
+        },
+        {
+          "label":"AIDS activists",
+          "uri":"http://dbpedia.org/resource/AIDS_activists"
+        },
+        {
+          "label":"LGBT Jews",
+          "uri":"http://dbpedia.org/resource/LGBT_Jews"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/ontology/Writer"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"LGBTRights Activists From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"American Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+        },
+        {
+          "label":"LGBTScreenwriters",
+          "uri":"http://dbpedia.org/class/yago/LGBTScreenwriters"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish American Activists",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanActivists"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"HIV-positive people",
+          "uri":"http://dbpedia.org/resource/HIV-positive_people"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"American Novelists",
+          "uri":"http://dbpedia.org/class/yago/AmericanNovelists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vermont",
+      "label":"Vermont",
+      "offsets":[
+        {
+          "offset":453,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":795,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bennington_College",
+      "label":"South for Bennington College",
+      "offsets":[
+        {
+          "offset":421,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Former women%27s universities and colleges",
+          "uri":"http://dbpedia.org/resource/Former_women%27s_universities_and_colleges"
+        },
+        {
+          "label":"Liberal Arts Colleges",
+          "uri":"http://dbpedia.org/class/yago/LiberalArtsColleges"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bette_Davis",
+      "label":"Bette Davis",
+      "offsets":[
+        {
+          "offset":517,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Lowell,Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/Lowell,Massachusetts"
+        },
+        {
+          "label":"Emmy Award Winners",
+          "uri":"http://dbpedia.org/class/yago/EmmyAwardWinners"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"Best Actress Academy Award Winners",
+          "uri":"http://dbpedia.org/class/yago/BestActressAcademyAwardWinners"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Memoirists",
+          "uri":"http://dbpedia.org/class/yago/AmericanMemoirists"
+        },
+        {
+          "label":"Breast cancer deaths",
+          "uri":"http://dbpedia.org/resource/Breast_cancer_deaths"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"Welsh-Americans",
+          "uri":"http://dbpedia.org/class/yago/Welsh-Americans"
+        },
+        {
+          "label":"English Americans",
+          "uri":"http://dbpedia.org/class/yago/EnglishAmericans"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Emmy_Award_winners"
+        },
+        {
+          "label":"Kennedy Center Honors Recipients",
+          "uri":"http://dbpedia.org/class/yago/KennedyCenterHonorsRecipients"
+        },
+        {
+          "label":"French Americans",
+          "uri":"http://dbpedia.org/class/yago/FrenchAmericans"
+        },
+        {
+          "label":"Best Actress Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actress_Academy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Larry_Kramer",
+      "label":"Larry Kramer",
+      "offsets":[
+        {
+          "offset":734,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American novelists",
+          "uri":"http://dbpedia.org/resource/American_novelists"
+        },
+        {
+          "label":"Jewish American activists",
+          "uri":"http://dbpedia.org/resource/Jewish_American_activists"
+        },
+        {
+          "label":"HIV-positive People",
+          "uri":"http://dbpedia.org/class/yago/HIV-positivePeople"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"Gay writers",
+          "uri":"http://dbpedia.org/resource/Gay_writers"
+        },
+        {
+          "label":"LGBT screenwriters",
+          "uri":"http://dbpedia.org/resource/LGBT_screenwriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"LGBTPeople From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+        },
+        {
+          "label":"LGBT rights activists from the United States",
+          "uri":"http://dbpedia.org/resource/LGBT_rights_activists_from_the_United_States"
+        },
+        {
+          "label":"Gay Writers",
+          "uri":"http://dbpedia.org/class/yago/GayWriters"
+        },
+        {
+          "label":"American dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/American_dramatists_and_playwrights"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"AIDSActivists",
+          "uri":"http://dbpedia.org/class/yago/AIDSActivists"
+        },
+        {
+          "label":"AIDS activists",
+          "uri":"http://dbpedia.org/resource/AIDS_activists"
+        },
+        {
+          "label":"LGBT Jews",
+          "uri":"http://dbpedia.org/resource/LGBT_Jews"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/ontology/Writer"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"LGBTRights Activists From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"American Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+        },
+        {
+          "label":"LGBTScreenwriters",
+          "uri":"http://dbpedia.org/class/yago/LGBTScreenwriters"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish American Activists",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanActivists"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"HIV-positive people",
+          "uri":"http://dbpedia.org/resource/HIV-positive_people"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"American Novelists",
+          "uri":"http://dbpedia.org/class/yago/AmericanNovelists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vermont",
+      "label":"Vermont",
+      "offsets":[
+        {
+          "offset":453,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":795,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bennington_College",
+      "label":"South for Bennington College",
+      "offsets":[
+        {
+          "offset":421,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Former women%27s universities and colleges",
+          "uri":"http://dbpedia.org/resource/Former_women%27s_universities_and_colleges"
+        },
+        {
+          "label":"Liberal Arts Colleges",
+          "uri":"http://dbpedia.org/class/yago/LiberalArtsColleges"
+        }
+      ]
+    }
+  ]
+}

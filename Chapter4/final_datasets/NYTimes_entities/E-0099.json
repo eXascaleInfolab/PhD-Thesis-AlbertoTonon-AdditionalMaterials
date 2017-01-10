@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Fernando Ferrer",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "1992United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/1992UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "Bronx borough presidents",
+                    "uri": "http://dbpedia.org/resource/Bronx_borough_presidents"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fernando_Ferrer"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0099",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fernando Ferrer",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "1992United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/1992UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "Bronx borough presidents",
+                    "uri": "http://dbpedia.org/resource/Bronx_borough_presidents"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fernando_Ferrer"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

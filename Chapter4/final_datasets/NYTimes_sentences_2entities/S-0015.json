@@ -1,0 +1,141 @@
+{
+  "mainText":"His last public appearance was in September, when he spoke at a concert, at Bass Performance Hall in Fort Worth, celebrating the 50th anniversary of the Van Cliburn Foundation .",
+  "shownText":"His last public appearance was in September, when he spoke at a concert, at Bass Performance Hall in Fort Worth, celebrating the 50th anniversary of the Van Cliburn Foundation .",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0015",
+  "elementNumber":127,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Van_Cliburn",
+      "label":"Van Cliburn",
+      "offsets":[
+        {
+          "offset":153,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Pianist",
+          "uri":"http://dbpedia.org/class/yago/Pianist110430665"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bass_Performance_Hall",
+      "label":"Bass Performance Hall",
+      "offsets":[
+        {
+          "offset":76,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Concert Halls In The United States",
+          "uri":"http://dbpedia.org/class/yago/ConcertHallsInTheUnitedStates"
+        },
+        {
+          "label":"Theatres In Texas",
+          "uri":"http://dbpedia.org/class/yago/TheatresInTexas"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Van_Cliburn",
+      "label":"Van Cliburn",
+      "offsets":[
+        {
+          "offset":153,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Pianist",
+          "uri":"http://dbpedia.org/class/yago/Pianist110430665"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bass_Performance_Hall",
+      "label":"Bass Performance Hall",
+      "offsets":[
+        {
+          "offset":76,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Concert Halls In The United States",
+          "uri":"http://dbpedia.org/class/yago/ConcertHallsInTheUnitedStates"
+        },
+        {
+          "label":"Theatres In Texas",
+          "uri":"http://dbpedia.org/class/yago/TheatresInTexas"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

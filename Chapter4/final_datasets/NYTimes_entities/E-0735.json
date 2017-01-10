@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Gaza Strip",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gaza_Strip"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0735",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gaza Strip",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gaza_Strip"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

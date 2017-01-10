@@ -1,0 +1,285 @@
+{
+  "mainText":"Not only will Fox face the dominance of ESPN, but NBC and CBS have their own sports channels, which are struggling for viewers and identities.",
+  "shownText":"Not only will Fox face the dominance of ESPN, but NBC and CBS have their own sports channels, which are struggling for viewers and identities.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0254",
+  "elementNumber":17,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN for N.B.A.",
+      "offsets":[
+        {
+          "offset":40,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CBS",
+      "label":"CBS",
+      "offsets":[
+        {
+          "offset":58,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":50,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN for N.B.A.",
+      "offsets":[
+        {
+          "offset":40,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CBS",
+      "label":"CBS",
+      "offsets":[
+        {
+          "offset":58,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":50,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    }
+  ]
+}

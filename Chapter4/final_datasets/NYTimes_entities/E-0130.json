@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Andy Warhol",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Christians",
+                    "uri": "http://dbpedia.org/resource/American_Christians"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Experimental Filmmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExperimentalFilmmakers"
+                },
+                {
+                    "label": "Christian LGBTPeople",
+                    "uri": "http://dbpedia.org/class/yago/ChristianLGBTPeople"
+                },
+                {
+                    "label": "Deaths from surgical complications",
+                    "uri": "http://dbpedia.org/resource/Deaths_from_surgical_complications"
+                },
+                {
+                    "label": "American artists",
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                },
+                {
+                    "label": "American painters",
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                },
+                {
+                    "label": "American experimental filmmakers",
+                    "uri": "http://dbpedia.org/resource/American_experimental_filmmakers"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Shooting Victims",
+                    "uri": "http://dbpedia.org/class/yago/ShootingVictims"
+                },
+                {
+                    "label": "Artists From Pittsburgh",
+                    "uri": "http://dbpedia.org/class/yago/ArtistsFromPittsburgh"
+                },
+                {
+                    "label": "American Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                },
+                {
+                    "label": "Artists from Pittsburgh",
+                    "uri": "http://dbpedia.org/resource/Artists_from_Pittsburgh"
+                },
+                {
+                    "label": "Pop Artists",
+                    "uri": "http://dbpedia.org/class/yago/PopArtists"
+                },
+                {
+                    "label": "Christian LGBT people",
+                    "uri": "http://dbpedia.org/resource/Christian_LGBT_people"
+                },
+                {
+                    "label": "Gay artists",
+                    "uri": "http://dbpedia.org/resource/Gay_artists"
+                },
+                {
+                    "label": "Carnegie Mellon University alumni",
+                    "uri": "http://dbpedia.org/resource/Carnegie_Mellon_University_alumni"
+                },
+                {
+                    "label": "Postmodern Artists",
+                    "uri": "http://dbpedia.org/class/yago/PostmodernArtists"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "American Printmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPrintmakers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Andy_Warhol"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0130",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Andy Warhol",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Christians",
+                    "uri": "http://dbpedia.org/resource/American_Christians"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Experimental Filmmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExperimentalFilmmakers"
+                },
+                {
+                    "label": "Christian LGBTPeople",
+                    "uri": "http://dbpedia.org/class/yago/ChristianLGBTPeople"
+                },
+                {
+                    "label": "Deaths from surgical complications",
+                    "uri": "http://dbpedia.org/resource/Deaths_from_surgical_complications"
+                },
+                {
+                    "label": "American artists",
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                },
+                {
+                    "label": "American painters",
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                },
+                {
+                    "label": "American experimental filmmakers",
+                    "uri": "http://dbpedia.org/resource/American_experimental_filmmakers"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Shooting Victims",
+                    "uri": "http://dbpedia.org/class/yago/ShootingVictims"
+                },
+                {
+                    "label": "Artists From Pittsburgh",
+                    "uri": "http://dbpedia.org/class/yago/ArtistsFromPittsburgh"
+                },
+                {
+                    "label": "American Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                },
+                {
+                    "label": "Artists from Pittsburgh",
+                    "uri": "http://dbpedia.org/resource/Artists_from_Pittsburgh"
+                },
+                {
+                    "label": "Pop Artists",
+                    "uri": "http://dbpedia.org/class/yago/PopArtists"
+                },
+                {
+                    "label": "Christian LGBT people",
+                    "uri": "http://dbpedia.org/resource/Christian_LGBT_people"
+                },
+                {
+                    "label": "Gay artists",
+                    "uri": "http://dbpedia.org/resource/Gay_artists"
+                },
+                {
+                    "label": "Carnegie Mellon University alumni",
+                    "uri": "http://dbpedia.org/resource/Carnegie_Mellon_University_alumni"
+                },
+                {
+                    "label": "Postmodern Artists",
+                    "uri": "http://dbpedia.org/class/yago/PostmodernArtists"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "American Printmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPrintmakers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Andy_Warhol"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

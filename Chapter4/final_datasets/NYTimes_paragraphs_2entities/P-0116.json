@@ -1,0 +1,157 @@
+{
+  "mainText":"\u201cThey take this pious position; it\u2019s completely hypocritical,\u201d said Nicholas R. Amato, a lawyer representing the New Jersey Thoroughbred Horsemen\u2019s Association.\n\u201cWe have casinos, we have racetracks, we have mobile gaming in the casinos, we have off-track betting parlors.\nIt\u2019s not like we\u2019re virgins.\u201d",
+  "shownText":"\u201cThey take this pious position; it\u2019s completely hypocritical,\u201d said Nicholas R. Amato, a lawyer representing the New Jersey Thoroughbred Horsemen\u2019s Association.\n\u201cWe have casinos, we have racetracks, we have mobile gaming in the casinos, we have off-track betting parlors.\nIt\u2019s not like we\u2019re virgins.\u201d",
+  "title":"New Jersey Tries Different Gambling Forms as Casinos Falter - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/nyregion/new-jersey-tries-different-gambling-forms-as-casinos-fail.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P-0116",
+  "elementNumber":27,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/New_Jersey_Library_Association",
+      "label":"New Jersey Thoroughbred Horsemen&rsquo;s Association",
+      "offsets":[
+        {
+          "offset":113,
+          "length":46
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/New_Jersey",
+      "label":"New Jersey",
+      "offsets":[
+        {
+          "offset":113,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/New_Jersey_Library_Association",
+      "label":"New Jersey Thoroughbred Horsemen&rsquo;s Association",
+      "offsets":[
+        {
+          "offset":113,
+          "length":46
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/New_Jersey",
+      "label":"New Jersey",
+      "offsets":[
+        {
+          "offset":113,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    }
+  ]
+}

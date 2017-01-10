@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Cambridge",
+            "types": [
+                {
+                    "label": "city in England",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvViWaZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Non-metropolitan Districts Of Cambridgeshire",
+                    "uri": "http://dbpedia.org/class/yago/Non-metropolitanDistrictsOfCambridgeshire"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Local Government Districts Of The East Of England",
+                    "uri": "http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfTheEastOfEngland"
+                },
+                {
+                    "label": "Cities In England",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInEngland"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "University Towns In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"
+                },
+                {
+                    "label": "University Towns",
+                    "uri": "http://dbpedia.org/class/yago/UniversityTowns"
+                },
+                {
+                    "label": "County Towns In England",
+                    "uri": "http://dbpedia.org/class/yago/CountyTownsInEngland"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Cities In The East Of England",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInTheEastOfEngland"
+                },
+                {
+                    "label": "Shire Districts",
+                    "uri": "http://dbpedia.org/class/yago/ShireDistricts"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Geoclass Populated Place",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cambridge"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0201",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Cambridge",
+            "types": [
+                {
+                    "label": "city in England",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvViWaZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Non-metropolitan Districts Of Cambridgeshire",
+                    "uri": "http://dbpedia.org/class/yago/Non-metropolitanDistrictsOfCambridgeshire"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Local Government Districts Of The East Of England",
+                    "uri": "http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfTheEastOfEngland"
+                },
+                {
+                    "label": "Cities In England",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInEngland"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "University Towns In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"
+                },
+                {
+                    "label": "University Towns",
+                    "uri": "http://dbpedia.org/class/yago/UniversityTowns"
+                },
+                {
+                    "label": "County Towns In England",
+                    "uri": "http://dbpedia.org/class/yago/CountyTownsInEngland"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Cities In The East Of England",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInTheEastOfEngland"
+                },
+                {
+                    "label": "Shire Districts",
+                    "uri": "http://dbpedia.org/class/yago/ShireDistricts"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Geoclass Populated Place",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cambridge"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

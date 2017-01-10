@@ -1,0 +1,141 @@
+{
+  "mainText":"Michael Nathanson, an analyst at Nomura Securities, wrote in a recent report that Fox Sports 1 would be a \u201cgood start\u201d for News Corporation but was \u201cunlikely to make a material dent to ESPN\u2019s business for the investable time horizon.\u201d",
+  "shownText":"Michael Nathanson, an analyst at Nomura Securities, wrote in a recent report that Fox Sports 1 would be a \u201cgood start\u201d for News Corporation but was \u201cunlikely to make a material dent to ESPN\u2019s business for the investable time horizon.\u201d",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0259",
+  "elementNumber":31,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN for N.B.A.",
+      "offsets":[
+        {
+          "offset":185,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":123,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN for N.B.A.",
+      "offsets":[
+        {
+          "offset":185,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":123,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Henry Luce III",
+            "types": [
+                {
+                    "label": "American magazine founders",
+                    "uri": "http://dbpedia.org/resource/American_magazine_founders"
+                },
+                {
+                    "label": "American mass media owners",
+                    "uri": "http://dbpedia.org/resource/American_mass_media_owners"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/resource/American_Presbyterians"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPresbyterians"
+                },
+                {
+                    "label": "American magazine publishers (people)",
+                    "uri": "http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Henry_Luce"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0280",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Henry Luce III",
+            "types": [
+                {
+                    "label": "American magazine founders",
+                    "uri": "http://dbpedia.org/resource/American_magazine_founders"
+                },
+                {
+                    "label": "American mass media owners",
+                    "uri": "http://dbpedia.org/resource/American_mass_media_owners"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/resource/American_Presbyterians"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPresbyterians"
+                },
+                {
+                    "label": "American magazine publishers (people)",
+                    "uri": "http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Henry_Luce"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

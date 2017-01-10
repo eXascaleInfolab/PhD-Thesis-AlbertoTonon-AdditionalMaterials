@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Reforma",
+            "types": [
+                {
+                    "label": "Spanish-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-languageNewspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "Newspapers Published In Mexico",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInMexico"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Reforma"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0036",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Reforma",
+            "types": [
+                {
+                    "label": "Spanish-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-languageNewspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "Newspapers Published In Mexico",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInMexico"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Reforma"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

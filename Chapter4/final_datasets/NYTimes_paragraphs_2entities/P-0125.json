@@ -1,0 +1,1181 @@
+{
+  "mainText":"It was a profound turn even from 1940, when Franklin D. Roosevelt won a third term pledging not to plunge the United States into war.\nIsolationism has had a rich tradition, from Washington\u2019s 1796 warning against foreign entanglements to the 1919 debate over the Treaty of Versailles, in which Henry Cabot Lodge argued, \u201cThe less we undertake to play the part of umpire and thrust ourselves into European conflicts the better for the United States and for the world.\u201d",
+  "shownText":"It was a profound turn even from 1940, when Franklin D. Roosevelt won a third term pledging not to plunge the United States into war.\nIsolationism has had a rich tradition, from Washington\u2019s 1796 warning against foreign entanglements to the 1919 debate over the Treaty of Versailles, in which Henry Cabot Lodge argued, \u201cThe less we undertake to play the part of umpire and thrust ourselves into European conflicts the better for the United States and for the world.\u201d",
+  "title":"Come Home, America - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/opinion/come-home-america.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0125",
+  "elementNumber":10,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":178,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":110,
+          "length":13
+        },
+        {
+          "offset":433,
+          "length":13
+        },
+        {
+          "offset":110,
+          "length":13
+        },
+        {
+          "offset":433,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":395,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Franklin_D._Roosevelt",
+      "label":"Franklin D. Roosevelt",
+      "offsets":[
+        {
+          "offset":44,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        },
+        {
+          "label":"Americans with Huguenot ancestry",
+          "uri":"http://dbpedia.org/resource/Americans_with_Huguenot_ancestry"
+        },
+        {
+          "label":"People With Paraplegia",
+          "uri":"http://dbpedia.org/class/yago/PeopleWithParaplegia"
+        },
+        {
+          "label":"New York State Senators",
+          "uri":"http://dbpedia.org/class/yago/NewYorkStateSenators"
+        },
+        {
+          "label":"Alumnus",
+          "uri":"http://dbpedia.org/class/yago/Alumnus109786338"
+        },
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"People From Dutchess County,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDutchessCounty,NewYork"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Groton School Alumni",
+          "uri":"http://dbpedia.org/class/yago/GrotonSchoolAlumni"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Politicians With Physical Disabilities",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansWithPhysicalDisabilities"
+        },
+        {
+          "label":"Democratic Party (United States) presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Columbia University Alumni",
+          "uri":"http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+        },
+        {
+          "label":"Groton School alumni",
+          "uri":"http://dbpedia.org/resource/Groton_School_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Philatelists",
+          "uri":"http://dbpedia.org/class/yago/Philatelists"
+        },
+        {
+          "label":"World War IIPolitical Leaders",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+        },
+        {
+          "label":"Democratic Party (United States) vice presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_vice_presidential_nominees"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"New York Lawyers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkLawyers"
+        },
+        {
+          "label":"Columbia Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/ColumbiaLawSchoolAlumni"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Duchess County,NYPoliticians",
+          "uri":"http://dbpedia.org/class/yago/DuchessCounty,NYPoliticians"
+        },
+        {
+          "label":"Governors Of New York",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfNewYork"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Versailles",
+      "label":"Versailles",
+      "offsets":[
+        {
+          "offset":272,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Henry_Cabot_Lodge",
+      "label":"Henry Cabot Lodge",
+      "offsets":[
+        {
+          "offset":293,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"United States Senators From Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMassachusetts"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"American historians",
+          "uri":"http://dbpedia.org/resource/American_historians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":178,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":110,
+          "length":13
+        },
+        {
+          "offset":433,
+          "length":13
+        },
+        {
+          "offset":110,
+          "length":13
+        },
+        {
+          "offset":433,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":395,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Franklin_D._Roosevelt",
+      "label":"Franklin D. Roosevelt",
+      "offsets":[
+        {
+          "offset":44,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        },
+        {
+          "label":"Americans with Huguenot ancestry",
+          "uri":"http://dbpedia.org/resource/Americans_with_Huguenot_ancestry"
+        },
+        {
+          "label":"People With Paraplegia",
+          "uri":"http://dbpedia.org/class/yago/PeopleWithParaplegia"
+        },
+        {
+          "label":"New York State Senators",
+          "uri":"http://dbpedia.org/class/yago/NewYorkStateSenators"
+        },
+        {
+          "label":"Alumnus",
+          "uri":"http://dbpedia.org/class/yago/Alumnus109786338"
+        },
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"People From Dutchess County,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDutchessCounty,NewYork"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Groton School Alumni",
+          "uri":"http://dbpedia.org/class/yago/GrotonSchoolAlumni"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Politicians With Physical Disabilities",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansWithPhysicalDisabilities"
+        },
+        {
+          "label":"Democratic Party (United States) presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Columbia University Alumni",
+          "uri":"http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+        },
+        {
+          "label":"Groton School alumni",
+          "uri":"http://dbpedia.org/resource/Groton_School_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Philatelists",
+          "uri":"http://dbpedia.org/class/yago/Philatelists"
+        },
+        {
+          "label":"World War IIPolitical Leaders",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+        },
+        {
+          "label":"Democratic Party (United States) vice presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_vice_presidential_nominees"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"New York Lawyers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkLawyers"
+        },
+        {
+          "label":"Columbia Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/ColumbiaLawSchoolAlumni"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Duchess County,NYPoliticians",
+          "uri":"http://dbpedia.org/class/yago/DuchessCounty,NYPoliticians"
+        },
+        {
+          "label":"Governors Of New York",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfNewYork"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Versailles",
+      "label":"Versailles",
+      "offsets":[
+        {
+          "offset":272,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Henry_Cabot_Lodge",
+      "label":"Henry Cabot Lodge",
+      "offsets":[
+        {
+          "offset":293,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"United States Senators From Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMassachusetts"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"American historians",
+          "uri":"http://dbpedia.org/resource/American_historians"
+        }
+      ]
+    }
+  ]
+}

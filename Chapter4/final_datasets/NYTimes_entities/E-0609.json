@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Beirut",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Phoenician Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/PhoenicianSitesInLebanon"
+                },
+                {
+                    "label": "Populated Places In The Beirut Governorate",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesInTheBeirutGovernorate"
+                },
+                {
+                    "label": "Ancient Greek Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/AncientGreekSitesInLebanon"
+                },
+                {
+                    "label": "Archaeological Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInLebanon"
+                },
+                {
+                    "label": "Populated Coastal Places In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInLebanon"
+                },
+                {
+                    "label": "Mediterranean Port Cities And Towns In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/MediterraneanPortCitiesAndTownsInLebanon"
+                },
+                {
+                    "label": "Ancient mints",
+                    "uri": "http://dbpedia.org/resource/Ancient_mints"
+                },
+                {
+                    "label": "Ancient Cities",
+                    "uri": "http://dbpedia.org/class/yago/AncientCities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Settlements Established In The3rd Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe3rdMillenniumBC"
+                },
+                {
+                    "label": "Populated Places Established In The3rd Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe3rdMillenniumBC"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Amarna Letters Locations",
+                    "uri": "http://dbpedia.org/class/yago/AmarnaLettersLocations"
+                },
+                {
+                    "label": "Hellenistic colonies",
+                    "uri": "http://dbpedia.org/resource/Hellenistic_colonies"
+                },
+                {
+                    "label": "Roman Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/RomanSitesInLebanon"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Capitals In Asia",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInAsia"
+                },
+                {
+                    "label": "Amarna letters locations",
+                    "uri": "http://dbpedia.org/resource/Amarna_letters_locations"
+                },
+                {
+                    "label": "Ancient cities",
+                    "uri": "http://dbpedia.org/resource/Ancient_cities"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Phoenician Cities",
+                    "uri": "http://dbpedia.org/class/yago/PhoenicianCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Beirut"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0609",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Beirut",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Phoenician Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/PhoenicianSitesInLebanon"
+                },
+                {
+                    "label": "Populated Places In The Beirut Governorate",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesInTheBeirutGovernorate"
+                },
+                {
+                    "label": "Ancient Greek Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/AncientGreekSitesInLebanon"
+                },
+                {
+                    "label": "Archaeological Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInLebanon"
+                },
+                {
+                    "label": "Populated Coastal Places In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInLebanon"
+                },
+                {
+                    "label": "Mediterranean Port Cities And Towns In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/MediterraneanPortCitiesAndTownsInLebanon"
+                },
+                {
+                    "label": "Ancient mints",
+                    "uri": "http://dbpedia.org/resource/Ancient_mints"
+                },
+                {
+                    "label": "Ancient Cities",
+                    "uri": "http://dbpedia.org/class/yago/AncientCities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Settlements Established In The3rd Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe3rdMillenniumBC"
+                },
+                {
+                    "label": "Populated Places Established In The3rd Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe3rdMillenniumBC"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Amarna Letters Locations",
+                    "uri": "http://dbpedia.org/class/yago/AmarnaLettersLocations"
+                },
+                {
+                    "label": "Hellenistic colonies",
+                    "uri": "http://dbpedia.org/resource/Hellenistic_colonies"
+                },
+                {
+                    "label": "Roman Sites In Lebanon",
+                    "uri": "http://dbpedia.org/class/yago/RomanSitesInLebanon"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Capitals In Asia",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInAsia"
+                },
+                {
+                    "label": "Amarna letters locations",
+                    "uri": "http://dbpedia.org/resource/Amarna_letters_locations"
+                },
+                {
+                    "label": "Ancient cities",
+                    "uri": "http://dbpedia.org/resource/Ancient_cities"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Phoenician Cities",
+                    "uri": "http://dbpedia.org/class/yago/PhoenicianCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Beirut"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

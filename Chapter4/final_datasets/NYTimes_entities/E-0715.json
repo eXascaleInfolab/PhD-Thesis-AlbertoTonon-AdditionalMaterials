@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Spain",
+            "types": [
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Constitutional Monarchies",
+                    "uri": "http://dbpedia.org/class/yago/ConstitutionalMonarchies"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "symbolic monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rDl2OOI16QdiZzJ7gPbOw4A"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "European Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "southern European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9J8uBDVtEduAAAACs6hRXg"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "parliamentary democracy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rDRTzfm24EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Spain"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0715",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Spain",
+            "types": [
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Constitutional Monarchies",
+                    "uri": "http://dbpedia.org/class/yago/ConstitutionalMonarchies"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "symbolic monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rDl2OOI16QdiZzJ7gPbOw4A"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "European Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "southern European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9J8uBDVtEduAAAACs6hRXg"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "parliamentary democracy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rDRTzfm24EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Spain"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

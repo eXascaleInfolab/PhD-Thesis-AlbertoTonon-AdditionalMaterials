@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Brazil",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "G15Nations",
+                    "uri": "http://dbpedia.org/class/yago/G15Nations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Former Portuguese colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Portuguese_colonies"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Brazil"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0157",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Brazil",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "G15Nations",
+                    "uri": "http://dbpedia.org/class/yago/G15Nations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Former Portuguese colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Portuguese_colonies"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Brazil"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

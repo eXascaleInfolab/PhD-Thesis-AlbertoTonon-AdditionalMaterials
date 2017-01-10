@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Caroline Gaimari",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Caroline"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0264",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Caroline Gaimari",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Caroline"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

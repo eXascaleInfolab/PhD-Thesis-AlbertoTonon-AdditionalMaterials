@@ -1,0 +1,249 @@
+{
+    "allEntities": [
+        {
+            "label": "Philip Glass",
+            "types": [
+                {
+                    "label": "Jewish classical musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                },
+                {
+                    "label": "musician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American film score composers",
+                    "uri": "http://dbpedia.org/resource/American_film_score_composers"
+                },
+                {
+                    "label": "Maryland Musicians",
+                    "uri": "http://dbpedia.org/class/yago/MarylandMusicians"
+                },
+                {
+                    "label": "Postmodern Composers",
+                    "uri": "http://dbpedia.org/class/yago/PostmodernComposers"
+                },
+                {
+                    "label": "Jewish composers and songwriters",
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                },
+                {
+                    "label": "Baltimore City College alumni",
+                    "uri": "http://dbpedia.org/resource/Baltimore_City_College_alumni"
+                },
+                {
+                    "label": "Jewish American Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                },
+                {
+                    "label": "American Film Score Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmScoreComposers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Contemporary classical music performers",
+                    "uri": "http://dbpedia.org/resource/Contemporary_classical_music_performers"
+                },
+                {
+                    "label": "20th Century Classical Composers",
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyClassicalComposers"
+                },
+                {
+                    "label": "Contemporary Classical Music Performers",
+                    "uri": "http://dbpedia.org/class/yago/ContemporaryClassicalMusicPerformers"
+                },
+                {
+                    "label": "Jewish Composers And Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                },
+                {
+                    "label": "Baltimore City College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/BaltimoreCityCollegeAlumni"
+                },
+                {
+                    "label": "Jewish Classical Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishClassicalMusicians"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Musical Theatre Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreComposers"
+                },
+                {
+                    "label": "20th century classical composers",
+                    "uri": "http://dbpedia.org/resource/20th_century_classical_composers"
+                },
+                {
+                    "label": "People From Baltimore,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                },
+                {
+                    "label": "21st century classical composers",
+                    "uri": "http://dbpedia.org/resource/21st_century_classical_composers"
+                },
+                {
+                    "label": "American musical theatre composers",
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_composers"
+                },
+                {
+                    "label": "21st Century Classical Composers",
+                    "uri": "http://dbpedia.org/class/yago/21stCenturyClassicalComposers"
+                },
+                {
+                    "label": "Jewish American musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                },
+                {
+                    "label": "Opera Composers",
+                    "uri": "http://dbpedia.org/class/yago/OperaComposers"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philip_Glass"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0010",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Philip Glass",
+            "types": [
+                {
+                    "label": "Jewish classical musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                },
+                {
+                    "label": "musician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American film score composers",
+                    "uri": "http://dbpedia.org/resource/American_film_score_composers"
+                },
+                {
+                    "label": "Maryland Musicians",
+                    "uri": "http://dbpedia.org/class/yago/MarylandMusicians"
+                },
+                {
+                    "label": "Postmodern Composers",
+                    "uri": "http://dbpedia.org/class/yago/PostmodernComposers"
+                },
+                {
+                    "label": "Jewish composers and songwriters",
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                },
+                {
+                    "label": "Baltimore City College alumni",
+                    "uri": "http://dbpedia.org/resource/Baltimore_City_College_alumni"
+                },
+                {
+                    "label": "Jewish American Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                },
+                {
+                    "label": "American Film Score Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmScoreComposers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Contemporary classical music performers",
+                    "uri": "http://dbpedia.org/resource/Contemporary_classical_music_performers"
+                },
+                {
+                    "label": "20th Century Classical Composers",
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyClassicalComposers"
+                },
+                {
+                    "label": "Contemporary Classical Music Performers",
+                    "uri": "http://dbpedia.org/class/yago/ContemporaryClassicalMusicPerformers"
+                },
+                {
+                    "label": "Jewish Composers And Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                },
+                {
+                    "label": "Baltimore City College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/BaltimoreCityCollegeAlumni"
+                },
+                {
+                    "label": "Jewish Classical Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishClassicalMusicians"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Musical Theatre Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreComposers"
+                },
+                {
+                    "label": "20th century classical composers",
+                    "uri": "http://dbpedia.org/resource/20th_century_classical_composers"
+                },
+                {
+                    "label": "People From Baltimore,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                },
+                {
+                    "label": "21st century classical composers",
+                    "uri": "http://dbpedia.org/resource/21st_century_classical_composers"
+                },
+                {
+                    "label": "American musical theatre composers",
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_composers"
+                },
+                {
+                    "label": "21st Century Classical Composers",
+                    "uri": "http://dbpedia.org/class/yago/21stCenturyClassicalComposers"
+                },
+                {
+                    "label": "Jewish American musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                },
+                {
+                    "label": "Opera Composers",
+                    "uri": "http://dbpedia.org/class/yago/OperaComposers"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philip_Glass"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

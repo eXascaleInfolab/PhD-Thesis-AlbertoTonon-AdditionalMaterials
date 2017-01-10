@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Brian Williams",
+            "types": [
+                {
+                    "label": "American television news anchors",
+                    "uri": "http://dbpedia.org/resource/American_television_news_anchors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American television reporters and correspondents",
+                    "uri": "http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Television Reporters And Correspondents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "American bloggers",
+                    "uri": "http://dbpedia.org/resource/American_bloggers"
+                },
+                {
+                    "label": "George Washington University alumni",
+                    "uri": "http://dbpedia.org/resource/George_Washington_University_alumni"
+                },
+                {
+                    "label": "American Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBloggers"
+                },
+                {
+                    "label": "People From Elmira,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromElmira,NewYork"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Brian_Williams"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0569",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Brian Williams",
+            "types": [
+                {
+                    "label": "American television news anchors",
+                    "uri": "http://dbpedia.org/resource/American_television_news_anchors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American television reporters and correspondents",
+                    "uri": "http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Television Reporters And Correspondents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "American bloggers",
+                    "uri": "http://dbpedia.org/resource/American_bloggers"
+                },
+                {
+                    "label": "George Washington University alumni",
+                    "uri": "http://dbpedia.org/resource/George_Washington_University_alumni"
+                },
+                {
+                    "label": "American Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBloggers"
+                },
+                {
+                    "label": "People From Elmira,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromElmira,NewYork"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Brian_Williams"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

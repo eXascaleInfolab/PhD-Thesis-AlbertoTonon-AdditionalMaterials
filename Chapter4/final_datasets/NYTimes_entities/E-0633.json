@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Al MacInnis",
+            "types": [
+                {
+                    "label": "Calgary Flames Players",
+                    "uri": "http://dbpedia.org/class/yago/CalgaryFlamesPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Kitchener Rangers alumni",
+                    "uri": "http://dbpedia.org/resource/Kitchener_Rangers_alumni"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Calgary Flames players",
+                    "uri": "http://dbpedia.org/resource/Calgary_Flames_players"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "People From Kitchener,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKitchener,Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                },
+                {
+                    "label": "Conn Smythe Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Ice hockey personnel from Nova Scotia",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Nova_Scotia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Al_MacInnis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0633",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Al MacInnis",
+            "types": [
+                {
+                    "label": "Calgary Flames Players",
+                    "uri": "http://dbpedia.org/class/yago/CalgaryFlamesPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Kitchener Rangers alumni",
+                    "uri": "http://dbpedia.org/resource/Kitchener_Rangers_alumni"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Calgary Flames players",
+                    "uri": "http://dbpedia.org/resource/Calgary_Flames_players"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "People From Kitchener,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKitchener,Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                },
+                {
+                    "label": "Conn Smythe Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Ice hockey personnel from Nova Scotia",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Nova_Scotia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Al_MacInnis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

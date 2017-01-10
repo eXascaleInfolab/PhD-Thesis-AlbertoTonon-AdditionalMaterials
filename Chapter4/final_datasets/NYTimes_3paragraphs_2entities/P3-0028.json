@@ -1,0 +1,565 @@
+{
+  "mainText":"Ms. Vorontsova was greeted as a sensation when, at 16, she won her first major dance competition.\nValeria Uralskaya, the editor of Ballet magazine in Russia, described her as \u201ca luminous and delicate adolescent.\u201d\nShe said that Mr. Filin and his ballet company had taken pains to smooth the way for her to move from Voronezh to Moscow, where she finished her training, providing her with lodging, a stipend and a spot at the ballet academy, as well as finding a job for her mother.",
+  "shownText":"His relationship with Ms. Vorontsova put him at the center of one of the theater\u2019s most high-profile conflicts.\nNikolai Tsiskaridze, a principal Bolshoi dancer and Ms. Vorontsova\u2019s teacher, said that the two dancers had been a couple for about 15 months.\n\nMs. Vorontsova was greeted as a sensation when, at 16, she won her first major dance competition.\nValeria Uralskaya, the editor of Ballet magazine in Russia, described her as \u201ca luminous and delicate adolescent.\u201d\nShe said that Mr. Filin and his ballet company had taken pains to smooth the way for her to move from Voronezh to Moscow, where she finished her training, providing her with lodging, a stipend and a spot at the ballet academy, as well as finding a job for her mother.\n\nIn a 2010 interview Ms. Vorontsova acknowledged that Mr. Filin had assumed she would dance in his company, and that her decision to move to the Bolshoi had been painful and difficult.\n",
+  "title":"Ballerina May Be at Center of Bolshoi Acid Attack - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/arts/dance/ballerina-may-be-at-center-of-bolshoi-acid-attack.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0028",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Russia",
+      "label":"Russia",
+      "offsets":[
+        {
+          "offset":406,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"European Countries",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCountries"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"federation government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rKT8ebm2nEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"North Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/NorthAsianCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Countries Bordering The Baltic Sea",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheBalticSea"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Black Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/BlackSeaCountries"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Countries Bordering The Arctic Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheArcticOcean"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Russian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Russian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"East Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/EastAsianCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"States And Territories Established In862",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn862"
+        },
+        {
+          "label":"Caspian Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/CaspianSeaCountries"
+        },
+        {
+          "label":"Bicontinental Countries",
+          "uri":"http://dbpedia.org/class/yago/BicontinentalCountries"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Central Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/CentralAsianCountries"
+        },
+        {
+          "label":"Countries Bordering The Pacific Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingThePacificOcean"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Slavic Countries",
+          "uri":"http://dbpedia.org/class/yago/SlavicCountries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Caucasus country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rveVONpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"former soviet republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rD2crlmAKQdmLOr88Soi59h8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvViIeZwpEbGdrcN5Y29ycB4rvfGaTZwpEbGdrcN5Y29ycB4rvVjPzpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Caspian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvx-IVJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":583,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Voronezh",
+      "label":"Voronezh",
+      "offsets":[
+        {
+          "offset":571,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1586",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1586"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Archaeological Sites In Russia",
+          "uri":"http://dbpedia.org/class/yago/ArchaeologicalSitesInRussia"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Russia",
+      "label":"Russia",
+      "offsets":[
+        {
+          "offset":406,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"European Countries",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCountries"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"federation government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rKT8ebm2nEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"North Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/NorthAsianCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Countries Bordering The Baltic Sea",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheBalticSea"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Black Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/BlackSeaCountries"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Countries Bordering The Arctic Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheArcticOcean"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Russian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Russian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"East Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/EastAsianCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"States And Territories Established In862",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn862"
+        },
+        {
+          "label":"Caspian Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/CaspianSeaCountries"
+        },
+        {
+          "label":"Bicontinental Countries",
+          "uri":"http://dbpedia.org/class/yago/BicontinentalCountries"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Central Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/CentralAsianCountries"
+        },
+        {
+          "label":"Countries Bordering The Pacific Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingThePacificOcean"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Slavic Countries",
+          "uri":"http://dbpedia.org/class/yago/SlavicCountries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Caucasus country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rveVONpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"former soviet republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rD2crlmAKQdmLOr88Soi59h8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvViIeZwpEbGdrcN5Y29ycB4rvfGaTZwpEbGdrcN5Y29ycB4rvVjPzpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Caspian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvx-IVJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":583,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Voronezh",
+      "label":"Voronezh",
+      "offsets":[
+        {
+          "offset":571,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1586",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1586"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Archaeological Sites In Russia",
+          "uri":"http://dbpedia.org/class/yago/ArchaeologicalSitesInRussia"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

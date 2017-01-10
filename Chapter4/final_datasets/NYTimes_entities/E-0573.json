@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Chevrolet Malibu",
+            "types": [
+                {
+                    "label": "Car",
+                    "uri": "http://dbpedia.org/class/yago/Car102958343"
+                },
+                {
+                    "label": "Mean Of Transportation",
+                    "uri": "http://dbpedia.org/ontology/MeanOfTransportation"
+                },
+                {
+                    "label": "Front wheel drive vehicles",
+                    "uri": "http://dbpedia.org/resource/Front_wheel_drive_vehicles"
+                },
+                {
+                    "label": "1980s Automobiles",
+                    "uri": "http://dbpedia.org/class/yago/1980sAutomobiles"
+                },
+                {
+                    "label": "1970s Automobiles",
+                    "uri": "http://dbpedia.org/class/yago/1970sAutomobiles"
+                },
+                {
+                    "label": "Chevrolet vehicles",
+                    "uri": "http://dbpedia.org/resource/Chevrolet_vehicles"
+                },
+                {
+                    "label": "1960s Automobiles",
+                    "uri": "http://dbpedia.org/class/yago/1960sAutomobiles"
+                },
+                {
+                    "label": "Automobile history eras",
+                    "uri": "http://dbpedia.org/resource/Automobile_history_eras"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chevrolet_Malibu"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0573",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chevrolet Malibu",
+            "types": [
+                {
+                    "label": "Car",
+                    "uri": "http://dbpedia.org/class/yago/Car102958343"
+                },
+                {
+                    "label": "Mean Of Transportation",
+                    "uri": "http://dbpedia.org/ontology/MeanOfTransportation"
+                },
+                {
+                    "label": "Front wheel drive vehicles",
+                    "uri": "http://dbpedia.org/resource/Front_wheel_drive_vehicles"
+                },
+                {
+                    "label": "1980s Automobiles",
+                    "uri": "http://dbpedia.org/class/yago/1980sAutomobiles"
+                },
+                {
+                    "label": "1970s Automobiles",
+                    "uri": "http://dbpedia.org/class/yago/1970sAutomobiles"
+                },
+                {
+                    "label": "Chevrolet vehicles",
+                    "uri": "http://dbpedia.org/resource/Chevrolet_vehicles"
+                },
+                {
+                    "label": "1960s Automobiles",
+                    "uri": "http://dbpedia.org/class/yago/1960sAutomobiles"
+                },
+                {
+                    "label": "Automobile history eras",
+                    "uri": "http://dbpedia.org/resource/Automobile_history_eras"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chevrolet_Malibu"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

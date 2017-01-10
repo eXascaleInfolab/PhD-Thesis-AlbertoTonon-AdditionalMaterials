@@ -1,0 +1,181 @@
+{
+  "mainText":"In 2006, the body of a 24-year-old graduate student, Imette St. Guillen, was found near Fountain Avenue, beaten, bruised and wrapped in a floral blanket.\nDarryl Littlejohn, a bouncer at a now-closed bar in SoHo called the Falls, where Ms. St. Guillen was last seen alive, was convicted of her murder.",
+  "shownText":"Not all of the bodies found in the area have been victims of organized crime groups.\n\nIn 2006, the body of a 24-year-old graduate student, Imette St. Guillen, was found near Fountain Avenue, beaten, bruised and wrapped in a floral blanket.\nDarryl Littlejohn, a bouncer at a now-closed bar in SoHo called the Falls, where Ms. St. Guillen was last seen alive, was convicted of her murder.\n\n",
+  "title":"Two Bodies Found After a Brush Fire in Queens - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/nyregion/two-bodies-found-after-a-brush-fire-in-queens.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0102",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Imette_St._Guillen",
+      "label":"Imette St. Guillen",
+      "offsets":[
+        {
+          "offset":139,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Murdered Students",
+          "uri":"http://dbpedia.org/class/yago/MurderedStudents"
+        },
+        {
+          "label":"American Murder Victims",
+          "uri":"http://dbpedia.org/class/yago/AmericanMurderVictims"
+        },
+        {
+          "label":"People From Boston,Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBoston,Massachusetts"
+        },
+        {
+          "label":"American murder victims",
+          "uri":"http://dbpedia.org/resource/American_murder_victims"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soho",
+      "label":"SoHo",
+      "offsets":[
+        {
+          "offset":292,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Red-light Districts",
+          "uri":"http://dbpedia.org/class/yago/Red-lightDistricts"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Neighbourhoods Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/NeighbourhoodsOfWestminster"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Districts Of London",
+          "uri":"http://dbpedia.org/class/yago/DistrictsOfLondon"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Imette_St._Guillen",
+      "label":"Imette St. Guillen",
+      "offsets":[
+        {
+          "offset":139,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Murdered Students",
+          "uri":"http://dbpedia.org/class/yago/MurderedStudents"
+        },
+        {
+          "label":"American Murder Victims",
+          "uri":"http://dbpedia.org/class/yago/AmericanMurderVictims"
+        },
+        {
+          "label":"People From Boston,Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBoston,Massachusetts"
+        },
+        {
+          "label":"American murder victims",
+          "uri":"http://dbpedia.org/resource/American_murder_victims"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soho",
+      "label":"SoHo",
+      "offsets":[
+        {
+          "offset":292,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Red-light Districts",
+          "uri":"http://dbpedia.org/class/yago/Red-lightDistricts"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Neighbourhoods Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/NeighbourhoodsOfWestminster"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Districts Of London",
+          "uri":"http://dbpedia.org/class/yago/DistrictsOfLondon"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

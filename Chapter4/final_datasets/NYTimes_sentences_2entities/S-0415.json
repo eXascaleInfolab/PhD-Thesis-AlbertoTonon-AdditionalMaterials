@@ -1,0 +1,317 @@
+{
+  "mainText":"Mr. Shubassi resented Syria\u2019s government, which occupied Lebanon in the civil war, and looked forward to its fall.",
+  "shownText":"Mr. Shubassi resented Syria\u2019s government, which occupied Lebanon in the civil war, and looked forward to its fall.",
+  "title":"Syrian Flood Into Lebanon Stirs Fear of Looming Disaster - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/world/middleeast/syrian-flood-into-lebanon-stirs-fear-of-looming-disaster.html?ref=world",
+  "category":"world",
+  "docID":"S-0415",
+  "elementNumber":73,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lebanon",
+      "label":"Lebanon",
+      "offsets":[
+        {
+          "offset":57,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Levant country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwSREjZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"country with a parliamentary government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4raK9PDm24EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":22,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lebanon",
+      "label":"Lebanon",
+      "offsets":[
+        {
+          "offset":57,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Levant country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwSREjZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"country with a parliamentary government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4raK9PDm24EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":22,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    }
+  ]
+}

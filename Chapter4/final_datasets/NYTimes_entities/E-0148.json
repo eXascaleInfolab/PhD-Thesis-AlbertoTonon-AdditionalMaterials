@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Bashar al-Assad",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Arab Nationalists",
+                    "uri": "http://dbpedia.org/class/yago/ArabNationalists"
+                },
+                {
+                    "label": "Current National Leaders",
+                    "uri": "http://dbpedia.org/class/yago/CurrentNationalLeaders"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Presidents Of Syria",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfSyria"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Ophthalmologists",
+                    "uri": "http://dbpedia.org/class/yago/Ophthalmologists"
+                },
+                {
+                    "label": "Arab statesmen",
+                    "uri": "http://dbpedia.org/resource/Arab_statesmen"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bashar_al-Assad"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0148",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bashar al-Assad",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Arab Nationalists",
+                    "uri": "http://dbpedia.org/class/yago/ArabNationalists"
+                },
+                {
+                    "label": "Current National Leaders",
+                    "uri": "http://dbpedia.org/class/yago/CurrentNationalLeaders"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Presidents Of Syria",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfSyria"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Ophthalmologists",
+                    "uri": "http://dbpedia.org/class/yago/Ophthalmologists"
+                },
+                {
+                    "label": "Arab statesmen",
+                    "uri": "http://dbpedia.org/resource/Arab_statesmen"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bashar_al-Assad"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

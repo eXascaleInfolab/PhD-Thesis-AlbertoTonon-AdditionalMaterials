@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "El Salvador",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Spanish-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-speakingCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/El_Salvador"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0212",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "El Salvador",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Spanish-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-speakingCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/El_Salvador"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

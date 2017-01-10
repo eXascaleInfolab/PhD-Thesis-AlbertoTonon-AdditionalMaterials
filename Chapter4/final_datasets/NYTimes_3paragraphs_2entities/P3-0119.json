@@ -1,0 +1,537 @@
+{
+  "mainText":"Mr. Khan, 51, comes from a prominent family in Pakistan \u2014 relatives said he was a favorite nephew of Bashir Ahmad Bilour, a well-known politician who spoke out against the Taliban.\nMr. Bilour was killed in a suicide attack in late December.",
+  "shownText":"\u201cThat\u2019s way, way out there,\u201d Mr. Abagnale said.\n\nMr. Khan, 51, comes from a prominent family in Pakistan \u2014 relatives said he was a favorite nephew of Bashir Ahmad Bilour, a well-known politician who spoke out against the Taliban.\nMr. Bilour was killed in a suicide attack in late December.\n\nTrained as a doctor, Mr. Khan came to the United States in the 1980s, but ended up working with his sister and her husband, who owned some two dozen delis across Staten Island.\n",
+  "title":"For Saquib Khan, Efforts to Save Staten Island Businesses Led to Charges of Fraud - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/nyregion/for-saquib-khan-efforts-to-save-staten-island-businesses-led-to-charges-of-fraud.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0119",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pakistan",
+      "label":"Pakistan",
+      "offsets":[
+        {
+          "offset":96,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"States And Territories Established In1947",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1947"
+        },
+        {
+          "label":"International economic organizations",
+          "uri":"http://dbpedia.org/resource/International_economic_organizations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Taliban",
+      "label":"Taliban",
+      "offsets":[
+        {
+          "offset":221,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Cabal",
+          "uri":"http://dbpedia.org/class/yago/Cabal108241798"
+        },
+        {
+          "label":"Afghan society",
+          "uri":"http://dbpedia.org/resource/Afghan_society"
+        },
+        {
+          "label":"Jihadist Organizations",
+          "uri":"http://dbpedia.org/class/yago/JihadistOrganizations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":333,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Staten_Island",
+      "label":"Staten Island",
+      "offsets":[
+        {
+          "offset":453,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pakistan",
+      "label":"Pakistan",
+      "offsets":[
+        {
+          "offset":96,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"States And Territories Established In1947",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1947"
+        },
+        {
+          "label":"International economic organizations",
+          "uri":"http://dbpedia.org/resource/International_economic_organizations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Taliban",
+      "label":"Taliban",
+      "offsets":[
+        {
+          "offset":221,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Cabal",
+          "uri":"http://dbpedia.org/class/yago/Cabal108241798"
+        },
+        {
+          "label":"Afghan society",
+          "uri":"http://dbpedia.org/resource/Afghan_society"
+        },
+        {
+          "label":"Jihadist Organizations",
+          "uri":"http://dbpedia.org/class/yago/JihadistOrganizations"
+        }
+      ]
+    }
+  ]
+}

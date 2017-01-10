@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Fox",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0508",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fox",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

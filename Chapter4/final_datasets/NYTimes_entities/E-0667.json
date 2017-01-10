@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "John Singer Sargent",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Painters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPainters"
+                },
+                {
+                    "label": "American expatriates",
+                    "uri": "http://dbpedia.org/resource/American_expatriates"
+                },
+                {
+                    "label": "American Expatriates In France",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExpatriatesInFrance"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Singer_Sargent"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0667",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John Singer Sargent",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Painters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPainters"
+                },
+                {
+                    "label": "American expatriates",
+                    "uri": "http://dbpedia.org/resource/American_expatriates"
+                },
+                {
+                    "label": "American Expatriates In France",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExpatriatesInFrance"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Singer_Sargent"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

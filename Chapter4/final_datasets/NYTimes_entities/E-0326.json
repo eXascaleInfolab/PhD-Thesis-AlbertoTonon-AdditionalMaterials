@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "New York City Police Department",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_City_Police_Department"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0326",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "New York City Police Department",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_City_Police_Department"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

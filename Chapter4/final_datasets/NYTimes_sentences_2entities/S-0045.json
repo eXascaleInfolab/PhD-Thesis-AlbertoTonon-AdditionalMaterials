@@ -1,0 +1,101 @@
+{
+  "mainText":"Ms. McBride of the Poynter Institute said Comedy Central had \u201ca really low level of responsibility\u201d to tell the truth, but that the network\u2019s obligation \u201cpales in comparison to the obligation of journalists who vet information, because the journalists have made a promise to their audience that they will tell the truth.\u201d",
+  "shownText":"Ms. McBride of the Poynter Institute said Comedy Central had \u201ca really low level of responsibility\u201d to tell the truth, but that the network\u2019s obligation \u201cpales in comparison to the obligation of journalists who vet information, because the journalists have made a promise to their audience that they will tell the truth.\u201d",
+  "title":"Pig Rescues Goat, and the Video Is Really Cute, but Totally Faked - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/pig-rescues-goat-and-the-video-is-really-cute-but-totally-faked.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0045",
+  "elementNumber":37,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/McBride",
+      "label":"Kelly McBride",
+      "offsets":[
+        {
+          "offset":4,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Poynter_Institute",
+      "label":"Poynter Institute",
+      "offsets":[
+        {
+          "offset":19,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Journalism organizations",
+          "uri":"http://dbpedia.org/resource/Journalism_organizations"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Journalism Organizations",
+          "uri":"http://dbpedia.org/class/yago/JournalismOrganizations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/McBride",
+      "label":"Kelly McBride",
+      "offsets":[
+        {
+          "offset":4,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Poynter_Institute",
+      "label":"Poynter Institute",
+      "offsets":[
+        {
+          "offset":19,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Journalism organizations",
+          "uri":"http://dbpedia.org/resource/Journalism_organizations"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Journalism Organizations",
+          "uri":"http://dbpedia.org/class/yago/JournalismOrganizations"
+        }
+      ]
+    }
+  ]
+}

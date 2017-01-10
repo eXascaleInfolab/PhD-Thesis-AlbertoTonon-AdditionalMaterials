@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Punam Chowdhury",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Punam"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0572",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Punam Chowdhury",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Punam"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

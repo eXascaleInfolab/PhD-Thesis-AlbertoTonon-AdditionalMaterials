@@ -1,0 +1,285 @@
+{
+  "mainText":"Some therapists say \u201csomething is wrong with you, that it\u2019s a pathology,\u201d said Dr. Charley Ferrer, a clinical psychologist in Manhattan and Staten Island and the author of \u201cBDSM: The Naked Truth.\u201d",
+  "shownText":"Some therapists say \u201csomething is wrong with you, that it\u2019s a pathology,\u201d said Dr. Charley Ferrer, a clinical psychologist in Manhattan and Staten Island and the author of \u201cBDSM: The Naked Truth.\u201d",
+  "title":"Bondage, Domination and Kink Sex Communities Step Into View - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/fashion/bondage-domination-and-kink-sex-communities-step-into-view.html?ref=style",
+  "category":"style",
+  "docID":"S-0310",
+  "elementNumber":52,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Staten_Island",
+      "label":"Staten Island",
+      "offsets":[
+        {
+          "offset":140,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BDSM",
+      "label":"BDSM",
+      "offsets":[
+        {
+          "offset":173,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Abbreviations",
+          "uri":"http://dbpedia.org/class/yago/Abbreviations"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Subcultures",
+          "uri":"http://dbpedia.org/class/yago/Subcultures"
+        },
+        {
+          "label":"type of temporally stuff-like thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVitN5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":126,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Staten_Island",
+      "label":"Staten Island",
+      "offsets":[
+        {
+          "offset":140,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BDSM",
+      "label":"BDSM",
+      "offsets":[
+        {
+          "offset":173,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Abbreviations",
+          "uri":"http://dbpedia.org/class/yago/Abbreviations"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Subcultures",
+          "uri":"http://dbpedia.org/class/yago/Subcultures"
+        },
+        {
+          "label":"type of temporally stuff-like thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVitN5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":126,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "mainText":"\u201cAs much as we would like to protect the unborn at that point, it is futile and it won\u2019t save any babies,\u201d said James Bopp Jr., a prominent anti-abortion lawyer, of the Arkansas law.\nMr. Bopp, who lives in Indiana, is general counsel of National Right to Life.",
+  "shownText":"\u201cAs much as we would like to protect the unborn at that point, it is futile and it won\u2019t save any babies,\u201d said James Bopp Jr., a prominent anti-abortion lawyer, of the Arkansas law.\nMr. Bopp, who lives in Indiana, is general counsel of National Right to Life.",
+  "title":"Arkansas Adopts Restrictive Abortion Law - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/us/arkansas-adopts-restrictive-abortion-law.html?ref=us",
+  "category":"us",
+  "docID":"P-0310",
+  "elementNumber":19,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Arkansas",
+      "label":"Arkansas",
+      "offsets":[
+        {
+          "offset":169,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Indiana",
+      "label":"Indiana",
+      "offsets":[
+        {
+          "offset":206,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"States And Territories Established In1816",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1816"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Arkansas",
+      "label":"Arkansas",
+      "offsets":[
+        {
+          "offset":169,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Indiana",
+      "label":"Indiana",
+      "offsets":[
+        {
+          "offset":206,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"States And Territories Established In1816",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1816"
+        }
+      ]
+    }
+  ]
+}

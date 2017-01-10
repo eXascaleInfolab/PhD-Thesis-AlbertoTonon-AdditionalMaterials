@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "VICTOR FLEISCHER",
+            "types": [
+                {
+                    "label": "German surnames",
+                    "uri": "http://dbpedia.org/resource/German_surnames"
+                },
+                {
+                    "label": "German loanwords",
+                    "uri": "http://dbpedia.org/resource/German_loanwords"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fleischer"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0527",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "VICTOR FLEISCHER",
+            "types": [
+                {
+                    "label": "German surnames",
+                    "uri": "http://dbpedia.org/resource/German_surnames"
+                },
+                {
+                    "label": "German loanwords",
+                    "uri": "http://dbpedia.org/resource/German_loanwords"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fleischer"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

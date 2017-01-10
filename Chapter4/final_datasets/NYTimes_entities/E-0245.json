@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Dun &amp; Bradstreet",
+            "types": [
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Established In1841",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1841"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dun_&_Bradstreet"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0245",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dun &amp; Bradstreet",
+            "types": [
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Established In1841",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1841"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dun_&_Bradstreet"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

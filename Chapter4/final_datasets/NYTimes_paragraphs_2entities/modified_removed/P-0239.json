@@ -1,0 +1,141 @@
+{
+    "allEntities": [
+        {
+            "label": "Phoebe Philo", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 261
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English fashion designers", 
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                }, 
+                {
+                    "label": "Anglo-French people", 
+                    "uri": "http://dbpedia.org/resource/Anglo-French_people"
+                }, 
+                {
+                    "label": "Anglo-French People", 
+                    "uri": "http://dbpedia.org/class/yago/Anglo-FrenchPeople"
+                }, 
+                {
+                    "label": "English Fashion Designers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Phoebe_Philo"
+        }, 
+        {
+            "label": "Philo", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 268
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 399
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Ancient Jewish Egyptian history", 
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Egyptian_history"
+                }, 
+                {
+                    "label": "Hellenistic Egyptians", 
+                    "uri": "http://dbpedia.org/resource/Hellenistic_Egyptians"
+                }, 
+                {
+                    "label": "1st century BC births", 
+                    "uri": "http://dbpedia.org/resource/1st_century_BC_births"
+                }, 
+                {
+                    "label": "Jewish philosophers", 
+                    "uri": "http://dbpedia.org/resource/Jewish_philosophers"
+                }, 
+                {
+                    "label": "Ancient Jewish Roman history", 
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Roman_history"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Philo"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/fashion/stella-mccartney-givenchy-chloe-fashion-review.html?ref=style", 
+    "category": "style", 
+    "docID": "P-0239", 
+    "elementNumber": 9, 
+    "mainEntities": [
+        {
+            "label": "Phoebe Philo", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 261
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English fashion designers", 
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                }, 
+                {
+                    "label": "Anglo-French people", 
+                    "uri": "http://dbpedia.org/resource/Anglo-French_people"
+                }, 
+                {
+                    "label": "Anglo-French People", 
+                    "uri": "http://dbpedia.org/class/yago/Anglo-FrenchPeople"
+                }, 
+                {
+                    "label": "English Fashion Designers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Phoebe_Philo"
+        }, 
+        {
+            "label": "Philo", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 268
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 399
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Ancient Jewish Egyptian history", 
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Egyptian_history"
+                }, 
+                {
+                    "label": "Hellenistic Egyptians", 
+                    "uri": "http://dbpedia.org/resource/Hellenistic_Egyptians"
+                }, 
+                {
+                    "label": "1st century BC births", 
+                    "uri": "http://dbpedia.org/resource/1st_century_BC_births"
+                }, 
+                {
+                    "label": "Jewish philosophers", 
+                    "uri": "http://dbpedia.org/resource/Jewish_philosophers"
+                }, 
+                {
+                    "label": "Ancient Jewish Roman history", 
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Roman_history"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Philo"
+        }
+    ], 
+    "mainText": "This is decidedly bad fashion form, a clear demerit, and I&rsquo;m sure I&rsquo;ve missed some higher point about the virtue of an expandable waistband.\nBut it&rsquo;s interesting to me that these are the collections, among others, that the mavens are craving.\nPhoebe Philo&rsquo;s fluttery skirts at C&eacute;line had everyone at her show in a swoon of desire, but I thought it remarkable that Ms. Philo had engineered the skirts (and their tops) in knits &mdash; rayon, silk or wool boucl&eacute; &mdash; and without a waistband or a zipper.", 
+    "shownText": "This is decidedly bad fashion form, a clear demerit, and I&rsquo;m sure I&rsquo;ve missed some higher point about the virtue of an expandable waistband.\nBut it&rsquo;s interesting to me that these are the collections, among others, that the mavens are craving.\nPhoebe Philo&rsquo;s fluttery skirts at C&eacute;line had everyone at her show in a swoon of desire, but I thought it remarkable that Ms. Philo had engineered the skirts (and their tops) in knits &mdash; rayon, silk or wool boucl&eacute; &mdash; and without a waistband or a zipper.", 
+    "title": "Stella McCartney, Givenchy, Chlo&Atilde;&copy; -  Fashion Review - NYTimes.com"
+}

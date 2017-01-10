@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "SIMON REYNOLDS",
+            "types": [
+                {
+                    "label": "British Expatriates In The United States",
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+                },
+                {
+                    "label": "English music journalists",
+                    "uri": "http://dbpedia.org/resource/English_music_journalists"
+                },
+                {
+                    "label": "English music critics",
+                    "uri": "http://dbpedia.org/resource/English_music_critics"
+                },
+                {
+                    "label": "People From Hertfordshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHertfordshire"
+                },
+                {
+                    "label": "English bloggers",
+                    "uri": "http://dbpedia.org/resource/English_bloggers"
+                },
+                {
+                    "label": "Melody Maker Writers",
+                    "uri": "http://dbpedia.org/class/yago/MelodyMakerWriters"
+                },
+                {
+                    "label": "English Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishBloggers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Simon_Reynolds"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0344",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "SIMON REYNOLDS",
+            "types": [
+                {
+                    "label": "British Expatriates In The United States",
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+                },
+                {
+                    "label": "English music journalists",
+                    "uri": "http://dbpedia.org/resource/English_music_journalists"
+                },
+                {
+                    "label": "English music critics",
+                    "uri": "http://dbpedia.org/resource/English_music_critics"
+                },
+                {
+                    "label": "People From Hertfordshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHertfordshire"
+                },
+                {
+                    "label": "English bloggers",
+                    "uri": "http://dbpedia.org/resource/English_bloggers"
+                },
+                {
+                    "label": "Melody Maker Writers",
+                    "uri": "http://dbpedia.org/class/yago/MelodyMakerWriters"
+                },
+                {
+                    "label": "English Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishBloggers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Simon_Reynolds"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

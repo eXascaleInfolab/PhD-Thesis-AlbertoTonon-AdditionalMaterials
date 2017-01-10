@@ -1,0 +1,1165 @@
+{
+  "mainText":"The United States can and should pressure Iran and North Korea over their nuclear programs.\nIt must help to reform and strengthen multilateral institutions like the United Nations, the International Monetary Fund and the World Bank.\nIt must champion the right of small nations, including Israel, to \u201cfreedom from fear.\u201d\nBut there are many ways of achieving these goals, and they don\u2019t all involve more borrowing and spending.",
+  "shownText":"The United States can and should pressure Iran and North Korea over their nuclear programs.\nIt must help to reform and strengthen multilateral institutions like the United Nations, the International Monetary Fund and the World Bank.\nIt must champion the right of small nations, including Israel, to \u201cfreedom from fear.\u201d\nBut there are many ways of achieving these goals, and they don\u2019t all involve more borrowing and spending.",
+  "title":"Come Home, America - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/opinion/come-home-america.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0132",
+  "elementNumber":19,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":4,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Iran",
+      "label":"Iran",
+      "offsets":[
+        {
+          "offset":42,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Korea",
+      "label":"Korea",
+      "offsets":[
+        {
+          "offset":57,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Disputed Territories In Asia",
+          "uri":"http://dbpedia.org/class/yago/DisputedTerritoriesInAsia"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":165,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/International_Monetary_Fund",
+      "label":"International Monetary Fund",
+      "offsets":[
+        {
+          "offset":185,
+          "length":27
+        }
+      ],
+      "types":[
+        {
+          "label":"International Finance Institutions",
+          "uri":"http://dbpedia.org/class/yago/InternationalFinanceInstitutions"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"financial organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkFd5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Central Bank",
+          "uri":"http://dbpedia.org/class/yago/CentralBank108349916"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/World_Bank",
+      "label":"World Bank",
+      "offsets":[
+        {
+          "offset":221,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"world organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJ55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economics organizations",
+          "uri":"http://dbpedia.org/resource/Economics_organizations"
+        },
+        {
+          "label":"Banks",
+          "uri":"http://dbpedia.org/class/yago/Banks"
+        },
+        {
+          "label":"Economics Organizations",
+          "uri":"http://dbpedia.org/class/yago/EconomicsOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/North_Korea",
+      "label":"North Korea",
+      "offsets":[
+        {
+          "offset":51,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViWHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":4,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Iran",
+      "label":"Iran",
+      "offsets":[
+        {
+          "offset":42,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Korea",
+      "label":"Korea",
+      "offsets":[
+        {
+          "offset":57,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Disputed Territories In Asia",
+          "uri":"http://dbpedia.org/class/yago/DisputedTerritoriesInAsia"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":165,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/International_Monetary_Fund",
+      "label":"International Monetary Fund",
+      "offsets":[
+        {
+          "offset":185,
+          "length":27
+        }
+      ],
+      "types":[
+        {
+          "label":"International Finance Institutions",
+          "uri":"http://dbpedia.org/class/yago/InternationalFinanceInstitutions"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"financial organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkFd5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Central Bank",
+          "uri":"http://dbpedia.org/class/yago/CentralBank108349916"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/World_Bank",
+      "label":"World Bank",
+      "offsets":[
+        {
+          "offset":221,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"world organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJ55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economics organizations",
+          "uri":"http://dbpedia.org/resource/Economics_organizations"
+        },
+        {
+          "label":"Banks",
+          "uri":"http://dbpedia.org/class/yago/Banks"
+        },
+        {
+          "label":"Economics Organizations",
+          "uri":"http://dbpedia.org/class/yago/EconomicsOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/North_Korea",
+      "label":"North Korea",
+      "offsets":[
+        {
+          "offset":51,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViWHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

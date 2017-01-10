@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Sylvia Mathews Burwell",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Bill&amp;Melinda Gates Foundation People",
+                    "uri": "http://dbpedia.org/class/yago/Bill&MelindaGatesFoundationPeople"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "People From West Virginia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestVirginia"
+                },
+                {
+                    "label": "Bill %26 Melinda Gates Foundation people",
+                    "uri": "http://dbpedia.org/resource/Bill_%26_Melinda_Gates_Foundation_people"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sylvia_Mathews_Burwell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0734",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sylvia Mathews Burwell",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Bill&amp;Melinda Gates Foundation People",
+                    "uri": "http://dbpedia.org/class/yago/Bill&MelindaGatesFoundationPeople"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "People From West Virginia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestVirginia"
+                },
+                {
+                    "label": "Bill %26 Melinda Gates Foundation people",
+                    "uri": "http://dbpedia.org/resource/Bill_%26_Melinda_Gates_Foundation_people"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sylvia_Mathews_Burwell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

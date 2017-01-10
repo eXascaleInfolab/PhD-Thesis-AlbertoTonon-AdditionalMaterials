@@ -1,0 +1,125 @@
+{
+  "mainText":"But Henrik Lundqvist stopped both Buffalo shots, and Nash and Ryan Callahan scored on Sabres goalie Ryan Miller.",
+  "shownText":"But Henrik Lundqvist stopped both Buffalo shots, and Nash and Ryan Callahan scored on Sabres goalie Ryan Miller.",
+  "title":"Rangers Hold Off Sabres in Shootout - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/sports/hockey/rangers-beat-sabres-in-shootout.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0284",
+  "elementNumber":28,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Henrik_Lundqvist",
+      "label":"Henrik Lundqvist",
+      "offsets":[
+        {
+          "offset":4,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Fr%F6lunda HC players",
+          "uri":"http://dbpedia.org/resource/Fr%F6lunda_HC_players"
+        },
+        {
+          "label":"Identical Twins",
+          "uri":"http://dbpedia.org/class/yago/IdenticalTwins"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_Callahan",
+      "label":"Ryan Callahan",
+      "offsets":[
+        {
+          "offset":62,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Guelph Storm alumni",
+          "uri":"http://dbpedia.org/resource/Guelph_Storm_alumni"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Henrik_Lundqvist",
+      "label":"Henrik Lundqvist",
+      "offsets":[
+        {
+          "offset":4,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Fr%F6lunda HC players",
+          "uri":"http://dbpedia.org/resource/Fr%F6lunda_HC_players"
+        },
+        {
+          "label":"Identical Twins",
+          "uri":"http://dbpedia.org/class/yago/IdenticalTwins"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_Callahan",
+      "label":"Ryan Callahan",
+      "offsets":[
+        {
+          "offset":62,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Guelph Storm alumni",
+          "uri":"http://dbpedia.org/resource/Guelph_Storm_alumni"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ]
+}

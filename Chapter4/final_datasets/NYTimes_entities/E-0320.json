@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Baalbek",
+            "types": [
+                {
+                    "label": "Ancient cities",
+                    "uri": "http://dbpedia.org/resource/Ancient_cities"
+                },
+                {
+                    "label": "Settlements Established In The3rd Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe3rdMillenniumBC"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Baalbek"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0320",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Baalbek",
+            "types": [
+                {
+                    "label": "Ancient cities",
+                    "uri": "http://dbpedia.org/resource/Ancient_cities"
+                },
+                {
+                    "label": "Settlements Established In The3rd Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe3rdMillenniumBC"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Baalbek"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

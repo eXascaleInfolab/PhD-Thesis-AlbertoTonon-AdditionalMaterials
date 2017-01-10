@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "West Virginia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/West_Virginia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0470",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "West Virginia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/West_Virginia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

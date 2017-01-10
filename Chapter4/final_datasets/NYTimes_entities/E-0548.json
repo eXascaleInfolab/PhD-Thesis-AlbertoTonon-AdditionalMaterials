@@ -1,0 +1,321 @@
+{
+    "allEntities": [
+        {
+            "label": "Hillary Rodham Clinton",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Congressional Opponents Of The Iraq War",
+                    "uri": "http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+                },
+                {
+                    "label": "People From Park Ridge,Illinois",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromParkRidge,Illinois"
+                },
+                {
+                    "label": "Wellesley College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/WellesleyCollegeAlumni"
+                },
+                {
+                    "label": "American Legal Academics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLegalAcademics"
+                },
+                {
+                    "label": "United States Senators From New York",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNewYork"
+                },
+                {
+                    "label": "Female United States presidential candidates",
+                    "uri": "http://dbpedia.org/resource/Female_United_States_presidential_candidates"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Hudson Valley Politicians",
+                    "uri": "http://dbpedia.org/class/yago/HudsonValleyPoliticians"
+                },
+                {
+                    "label": "Arkansas lawyers",
+                    "uri": "http://dbpedia.org/resource/Arkansas_lawyers"
+                },
+                {
+                    "label": "First Ladies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Westchester County,NYPoliticians",
+                    "uri": "http://dbpedia.org/class/yago/WestchesterCounty,NYPoliticians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "New York Politicians",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkPoliticians"
+                },
+                {
+                    "label": "Hudson Valley politicians",
+                    "uri": "http://dbpedia.org/resource/Hudson_Valley_politicians"
+                },
+                {
+                    "label": "Graduate",
+                    "uri": "http://umbel.org/umbel/sc/Graduate"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "Leader",
+                    "uri": "http://umbel.org/umbel/sc/Leader"
+                },
+                {
+                    "label": "American women",
+                    "uri": "http://dbpedia.org/resource/American_women"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://umbel.org/umbel/sc/Person"
+                },
+                {
+                    "label": "Yale Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/YaleLawSchoolAlumni"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arkansas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasLawyers"
+                },
+                {
+                    "label": "American Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "New York Democrats",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "woman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0548",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hillary Rodham Clinton",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Congressional Opponents Of The Iraq War",
+                    "uri": "http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+                },
+                {
+                    "label": "People From Park Ridge,Illinois",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromParkRidge,Illinois"
+                },
+                {
+                    "label": "Wellesley College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/WellesleyCollegeAlumni"
+                },
+                {
+                    "label": "American Legal Academics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLegalAcademics"
+                },
+                {
+                    "label": "United States Senators From New York",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNewYork"
+                },
+                {
+                    "label": "Female United States presidential candidates",
+                    "uri": "http://dbpedia.org/resource/Female_United_States_presidential_candidates"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Hudson Valley Politicians",
+                    "uri": "http://dbpedia.org/class/yago/HudsonValleyPoliticians"
+                },
+                {
+                    "label": "Arkansas lawyers",
+                    "uri": "http://dbpedia.org/resource/Arkansas_lawyers"
+                },
+                {
+                    "label": "First Ladies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Westchester County,NYPoliticians",
+                    "uri": "http://dbpedia.org/class/yago/WestchesterCounty,NYPoliticians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "New York Politicians",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkPoliticians"
+                },
+                {
+                    "label": "Hudson Valley politicians",
+                    "uri": "http://dbpedia.org/resource/Hudson_Valley_politicians"
+                },
+                {
+                    "label": "Graduate",
+                    "uri": "http://umbel.org/umbel/sc/Graduate"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "Leader",
+                    "uri": "http://umbel.org/umbel/sc/Leader"
+                },
+                {
+                    "label": "American women",
+                    "uri": "http://dbpedia.org/resource/American_women"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://umbel.org/umbel/sc/Person"
+                },
+                {
+                    "label": "Yale Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/YaleLawSchoolAlumni"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arkansas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasLawyers"
+                },
+                {
+                    "label": "American Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "New York Democrats",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "woman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

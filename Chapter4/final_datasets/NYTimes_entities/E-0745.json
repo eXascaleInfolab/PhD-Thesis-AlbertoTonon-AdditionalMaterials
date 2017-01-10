@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "CBS",
+            "types": [
+                {
+                    "label": "Network",
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "television network",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Television Networks",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+                },
+                {
+                    "label": "HD channels",
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                },
+                {
+                    "label": "CBS television network",
+                    "uri": "http://dbpedia.org/resource/CBS_television_network"
+                },
+                {
+                    "label": "HDChannels",
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CBS"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0745",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "CBS",
+            "types": [
+                {
+                    "label": "Network",
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "television network",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Television Networks",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+                },
+                {
+                    "label": "HD channels",
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                },
+                {
+                    "label": "CBS television network",
+                    "uri": "http://dbpedia.org/resource/CBS_television_network"
+                },
+                {
+                    "label": "HDChannels",
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CBS"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

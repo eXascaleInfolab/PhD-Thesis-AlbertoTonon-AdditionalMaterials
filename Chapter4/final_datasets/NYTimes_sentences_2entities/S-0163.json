@@ -1,0 +1,429 @@
+{
+  "mainText":"Both parties are stuck in a paradigm of costly international activism while emerging powers like China, India, Brazil and Turkey are accumulating wealth and raising productivity and living standards, as we did in the 19th century.",
+  "shownText":"Both parties are stuck in a paradigm of costly international activism while emerging powers like China, India, Brazil and Turkey are accumulating wealth and raising productivity and living standards, as we did in the 19th century.",
+  "title":"Come Home, America - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/opinion/come-home-america.html?ref=opinion",
+  "category":"opinion",
+  "docID":"S-0163",
+  "elementNumber":54,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/China",
+      "label":"China",
+      "offsets":[
+        {
+          "offset":97,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Civilization",
+          "uri":"http://dbpedia.org/class/yago/Civilization108111783"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"geographical region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Qi",
+          "uri":"http://dbpedia.org/class/yago/Qi114050559"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/India",
+      "label":"India",
+      "offsets":[
+        {
+          "offset":104,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Colony",
+          "uri":"http://dbpedia.org/class/yago/Colony108374049"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Republics",
+          "uri":"http://dbpedia.org/class/yago/Republics"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brazil",
+      "label":"Brazil",
+      "offsets":[
+        {
+          "offset":111,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Portuguese colonies",
+          "uri":"http://dbpedia.org/resource/Former_Portuguese_colonies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/China",
+      "label":"China",
+      "offsets":[
+        {
+          "offset":97,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Civilization",
+          "uri":"http://dbpedia.org/class/yago/Civilization108111783"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"geographical region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Qi",
+          "uri":"http://dbpedia.org/class/yago/Qi114050559"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/India",
+      "label":"India",
+      "offsets":[
+        {
+          "offset":104,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Colony",
+          "uri":"http://dbpedia.org/class/yago/Colony108374049"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Republics",
+          "uri":"http://dbpedia.org/class/yago/Republics"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brazil",
+      "label":"Brazil",
+      "offsets":[
+        {
+          "offset":111,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Portuguese colonies",
+          "uri":"http://dbpedia.org/resource/Former_Portuguese_colonies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

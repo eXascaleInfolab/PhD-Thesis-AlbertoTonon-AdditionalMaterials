@@ -1,0 +1,213 @@
+{
+  "mainText":"Take Deb and Sara (formerly known as Mike), a Brooklyn couple whose first date went so well, they ended up at Home Depot ogling chains and ropes and playing in Mike\u2019s van in the parking lot.\nThirteen years later, they are married, and say they explore all facets of their sexuality together, incorporating electricity, knives and other potentially risky tools in what some might refer to as \u201cedge\u201d play, as well as activities like ABDL (adult baby, diaper lover) that don\u2019t necessarily fit under the BDSM rubric.\nDeb, 55, says she and Sara, 41, are so close they\u2019ve ceased using a safe word: They can sense the others\u2019 boundaries just by breath and nonverbal cues.\nWhen she plays with others, Deb, a lifelong Mets fan, uses the phrase \u201cYankees Rule,\u201d which she could only utter under extreme duress.",
+  "shownText":"Take Deb and Sara (formerly known as Mike), a Brooklyn couple whose first date went so well, they ended up at Home Depot ogling chains and ropes and playing in Mike\u2019s van in the parking lot.\nThirteen years later, they are married, and say they explore all facets of their sexuality together, incorporating electricity, knives and other potentially risky tools in what some might refer to as \u201cedge\u201d play, as well as activities like ABDL (adult baby, diaper lover) that don\u2019t necessarily fit under the BDSM rubric.\nDeb, 55, says she and Sara, 41, are so close they\u2019ve ceased using a safe word: They can sense the others\u2019 boundaries just by breath and nonverbal cues.\nWhen she plays with others, Deb, a lifelong Mets fan, uses the phrase \u201cYankees Rule,\u201d which she could only utter under extreme duress.",
+  "title":"Bondage, Domination and Kink Sex Communities Step Into View - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/fashion/bondage-domination-and-kink-sex-communities-step-into-view.html?ref=style",
+  "category":"style",
+  "docID":"P-0247",
+  "elementNumber":32,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":46,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BDSM",
+      "label":"BDSM",
+      "offsets":[
+        {
+          "offset":500,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Abbreviations",
+          "uri":"http://dbpedia.org/class/yago/Abbreviations"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Subcultures",
+          "uri":"http://dbpedia.org/class/yago/Subcultures"
+        },
+        {
+          "label":"type of temporally stuff-like thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVitN5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":46,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BDSM",
+      "label":"BDSM",
+      "offsets":[
+        {
+          "offset":500,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Abbreviations",
+          "uri":"http://dbpedia.org/class/yago/Abbreviations"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Subcultures",
+          "uri":"http://dbpedia.org/class/yago/Subcultures"
+        },
+        {
+          "label":"type of temporally stuff-like thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVitN5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Amazon.com",
+            "types": [
+                {
+                    "label": "Commerce websites",
+                    "uri": "http://dbpedia.org/resource/Commerce_websites"
+                },
+                {
+                    "label": "Online Retail Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OnlineRetailCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies Established In1995",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1995"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "book seller",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvm4Li5wpEbGdrcN5Y29ycB4rwJaXepwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Based In Seattle,Washington",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Listed On NASDAQ",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnNASDAQ"
+                },
+                {
+                    "label": "Book websites",
+                    "uri": "http://dbpedia.org/resource/Book_websites"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Amazon.com"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0035",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Amazon.com",
+            "types": [
+                {
+                    "label": "Commerce websites",
+                    "uri": "http://dbpedia.org/resource/Commerce_websites"
+                },
+                {
+                    "label": "Online Retail Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OnlineRetailCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies Established In1995",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1995"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "book seller",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvm4Li5wpEbGdrcN5Y29ycB4rwJaXepwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Based In Seattle,Washington",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Listed On NASDAQ",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnNASDAQ"
+                },
+                {
+                    "label": "Book websites",
+                    "uri": "http://dbpedia.org/resource/Book_websites"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Amazon.com"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

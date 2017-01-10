@@ -1,0 +1,293 @@
+{
+  "mainText":"\u201cBecause I am from Texas,\u201d Mr. Cliburn answered.\n\u201cWhy are you so tall?\u201d\nThe jury agreed with the public, and Moscow celebrated.\nAt a Kremlin reception, Mr. Cliburn was bearhugged by Khrushchev.\nKhrushchev asked.",
+  "shownText":"The Russian people warmed to Mr. Cliburn from the preliminary rounds.\nAt the piano he bent far back from the keys, staring into space, his head tilted in a kind of pained ecstasy.\nFirst prize!\u201d\nDuring rapid-fire passages he would lean in close, almost scowling at his fingers.\nEmil Gilels, one the judges, went backstage to embrace him.\nOn the night of the final round, when he performed the Tchaikovsky First Concerto, a solo work by Dmitry Kabalevsky (written as a required test piece for the competition) and the Rachmaninoff Third Concerto, the frenzied audience broke into chants of \u201cFirst prize!\nThere was something affecting about the contrast between his boyish, gawky manner and his complete absorption while performing.\n\n\u201cBecause I am from Texas,\u201d Mr. Cliburn answered.\n\u201cWhy are you so tall?\u201d\nThe jury agreed with the public, and Moscow celebrated.\nAt a Kremlin reception, Mr. Cliburn was bearhugged by Khrushchev.\nKhrushchev asked.\n\nHis prize consisted of 25,000 rubles (about $2,500), though he was permitted to take only half of that amount out of the country.\nImmediately, concert offers for enormous fees engulfed him.\n",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0016",
+  "elementNumber":27,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":750,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":840,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":750,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":840,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Emil_Gilels",
+      "label":"Emil Gilels",
+      "offsets":[
+        {
+          "offset":277,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Odessa",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromOdessa"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educator",
+          "uri":"http://dbpedia.org/class/yago/Educator110045713"
+        },
+        {
+          "label":"Pianist",
+          "uri":"http://dbpedia.org/class/yago/Pianist110430665"
+        },
+        {
+          "label":"People's Artists Of The USSR",
+          "uri":"http://dbpedia.org/class/yago/People'sArtistsOfTheUSSR"
+        },
+        {
+          "label":"Ukrainian Musicians",
+          "uri":"http://dbpedia.org/class/yago/UkrainianMusicians"
+        }
+      ]
+    }
+  ]
+}

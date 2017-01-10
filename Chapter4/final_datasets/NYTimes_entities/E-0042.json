@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Debbie Stabenow",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Michigan State Senators",
+                    "uri": "http://dbpedia.org/class/yago/MichiganStateSenators"
+                },
+                {
+                    "label": "United States Senators From Michigan",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMichigan"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "Michigan State University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/MichiganStateUniversityAlumni"
+                },
+                {
+                    "label": "American Social Workers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSocialWorkers"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "American social workers",
+                    "uri": "http://dbpedia.org/resource/American_social_workers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Debbie_Stabenow"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0042",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Debbie Stabenow",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Michigan State Senators",
+                    "uri": "http://dbpedia.org/class/yago/MichiganStateSenators"
+                },
+                {
+                    "label": "United States Senators From Michigan",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMichigan"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "Michigan State University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/MichiganStateUniversityAlumni"
+                },
+                {
+                    "label": "American Social Workers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSocialWorkers"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "American social workers",
+                    "uri": "http://dbpedia.org/resource/American_social_workers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Debbie_Stabenow"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

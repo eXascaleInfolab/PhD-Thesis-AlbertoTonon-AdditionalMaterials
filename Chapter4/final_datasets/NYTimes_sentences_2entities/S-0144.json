@@ -1,0 +1,301 @@
+{
+  "mainText":"He was also a generous supporter of politicians of both major parties, giving more than $65,000 to more than 40 campaigns in the last decade, including those of Mrs. Clinton, former Representative Anthony D. Weiner, former Gov. Eliot Spitzer and former Gov. George E. Pataki.",
+  "shownText":"He was also a generous supporter of politicians of both major parties, giving more than $65,000 to more than 40 campaigns in the last decade, including those of Mrs. Clinton, former Representative Anthony D. Weiner, former Gov. Eliot Spitzer and former Gov. George E. Pataki.",
+  "title":"For Saquib Khan, Efforts to Save Staten Island Businesses Led to Charges of Fraud - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/nyregion/for-saquib-khan-efforts-to-save-staten-island-businesses-led-to-charges-of-fraud.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"S-0144",
+  "elementNumber":31,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Anthony_D._Weiner",
+      "label":"Anthony D. Weiner",
+      "offsets":[
+        {
+          "offset":197,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Congressman",
+          "uri":"http://dbpedia.org/class/yago/Congressman109955781"
+        },
+        {
+          "label":"Public Officeholders Of Rockaway,Queens",
+          "uri":"http://dbpedia.org/class/yago/PublicOfficeholdersOfRockaway,Queens"
+        },
+        {
+          "label":"Jewish American politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_politicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Clinton",
+      "label":"Clinton",
+      "offsets":[
+        {
+          "offset":166,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eliot_Spitzer",
+      "label":"Eliot Spitzer",
+      "offsets":[
+        {
+          "offset":228,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Jewish American Politicians",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanPoliticians"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Prosecutors",
+          "uri":"http://dbpedia.org/class/yago/Prosecutors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"District Attorneys",
+          "uri":"http://dbpedia.org/class/yago/DistrictAttorneys"
+        },
+        {
+          "label":"Jewish American politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_politicians"
+        },
+        {
+          "label":"American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanLawyers"
+        },
+        {
+          "label":"Princeton University Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+        },
+        {
+          "label":"People From The Bronx",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheBronx"
+        },
+        {
+          "label":"2000United States Presidential Electors",
+          "uri":"http://dbpedia.org/class/yago/2000UnitedStatesPresidentialElectors"
+        },
+        {
+          "label":"2004United States Presidential Electors",
+          "uri":"http://dbpedia.org/class/yago/2004UnitedStatesPresidentialElectors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"New York Democrats",
+          "uri":"http://dbpedia.org/class/yago/NewYorkDemocrats"
+        },
+        {
+          "label":"Governors Of New York",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfNewYork"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American lawyers",
+          "uri":"http://dbpedia.org/resource/American_lawyers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Anthony_D._Weiner",
+      "label":"Anthony D. Weiner",
+      "offsets":[
+        {
+          "offset":197,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Congressman",
+          "uri":"http://dbpedia.org/class/yago/Congressman109955781"
+        },
+        {
+          "label":"Public Officeholders Of Rockaway,Queens",
+          "uri":"http://dbpedia.org/class/yago/PublicOfficeholdersOfRockaway,Queens"
+        },
+        {
+          "label":"Jewish American politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_politicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Clinton",
+      "label":"Clinton",
+      "offsets":[
+        {
+          "offset":166,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eliot_Spitzer",
+      "label":"Eliot Spitzer",
+      "offsets":[
+        {
+          "offset":228,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Jewish American Politicians",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanPoliticians"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Prosecutors",
+          "uri":"http://dbpedia.org/class/yago/Prosecutors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"District Attorneys",
+          "uri":"http://dbpedia.org/class/yago/DistrictAttorneys"
+        },
+        {
+          "label":"Jewish American politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_politicians"
+        },
+        {
+          "label":"American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanLawyers"
+        },
+        {
+          "label":"Princeton University Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+        },
+        {
+          "label":"People From The Bronx",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheBronx"
+        },
+        {
+          "label":"2000United States Presidential Electors",
+          "uri":"http://dbpedia.org/class/yago/2000UnitedStatesPresidentialElectors"
+        },
+        {
+          "label":"2004United States Presidential Electors",
+          "uri":"http://dbpedia.org/class/yago/2004UnitedStatesPresidentialElectors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"New York Democrats",
+          "uri":"http://dbpedia.org/class/yago/NewYorkDemocrats"
+        },
+        {
+          "label":"Governors Of New York",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfNewYork"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American lawyers",
+          "uri":"http://dbpedia.org/resource/American_lawyers"
+        }
+      ]
+    }
+  ]
+}

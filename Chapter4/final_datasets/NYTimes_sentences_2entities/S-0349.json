@@ -1,0 +1,181 @@
+{
+  "mainText":"KANSAS CITY, Mo. \u2014 A treacherous winter storm stretching from Texas through a large part of the Great Plains brought blustery, blinding snow on Monday to many areas still shoveling out from a storm that dumped more than a foot of snow on them last week.",
+  "shownText":"KANSAS CITY, Mo. \u2014 A treacherous winter storm stretching from Texas through a large part of the Great Plains brought blustery, blinding snow on Monday to many areas still shoveling out from a storm that dumped more than a foot of snow on them last week.",
+  "title":"Strong Storm in Plains Brings Added Hazards - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/us/strong-storm-in-plains-brings-added-hazards.html?ref=us",
+  "category":"us",
+  "docID":"S-0349",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":62,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":62,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ]
+}

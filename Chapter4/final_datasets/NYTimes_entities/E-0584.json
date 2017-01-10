@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Imette St. Guillen",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://umbel.org/umbel/sc/Person"
+                },
+                {
+                    "label": "Murdered Students",
+                    "uri": "http://dbpedia.org/class/yago/MurderedStudents"
+                },
+                {
+                    "label": "American Murder Victims",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMurderVictims"
+                },
+                {
+                    "label": "People From Boston,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBoston,Massachusetts"
+                },
+                {
+                    "label": "American murder victims",
+                    "uri": "http://dbpedia.org/resource/American_murder_victims"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Imette_St._Guillen"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0584",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Imette St. Guillen",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://umbel.org/umbel/sc/Person"
+                },
+                {
+                    "label": "Murdered Students",
+                    "uri": "http://dbpedia.org/class/yago/MurderedStudents"
+                },
+                {
+                    "label": "American Murder Victims",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMurderVictims"
+                },
+                {
+                    "label": "People From Boston,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBoston,Massachusetts"
+                },
+                {
+                    "label": "American murder victims",
+                    "uri": "http://dbpedia.org/resource/American_murder_victims"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Imette_St._Guillen"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

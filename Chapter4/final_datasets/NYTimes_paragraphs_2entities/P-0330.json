@@ -1,0 +1,437 @@
+{
+  "mainText":"But the priest and his parishioners cannot keep up.\nThe United Nations counts more than 305,000 Syrian refugees in Lebanon, but local officials and aid workers say the actual number is about 400,000, saturating this country of four million.",
+  "shownText":"But the priest and his parishioners cannot keep up.\nThe United Nations counts more than 305,000 Syrian refugees in Lebanon, but local officials and aid workers say the actual number is about 400,000, saturating this country of four million.",
+  "title":"Syrian Flood Into Lebanon Stirs Fear of Looming Disaster - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/world/middleeast/syrian-flood-into-lebanon-stirs-fear-of-looming-disaster.html?ref=world",
+  "category":"world",
+  "docID":"P-0330",
+  "elementNumber":8,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lebanon",
+      "label":"Lebanon",
+      "offsets":[
+        {
+          "offset":115,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Levant country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwSREjZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"country with a parliamentary government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4raK9PDm24EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":96,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":56,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lebanon",
+      "label":"Lebanon",
+      "offsets":[
+        {
+          "offset":115,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Levant country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwSREjZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"country with a parliamentary government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4raK9PDm24EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":96,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":56,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "mainText":"Mr. Johnston and Mr. Irwin, as both proudly gay and proudly Idahoan, said they had thought about taking a Sunday drive to get married, then dismissed the idea out of hand.\nMarrying across the border and returning home to a place where none of it had legal meaning, they said, or picking up and moving to Washington to obtain marriage protections, would mark equal measures of surrender and defeat.\nFor them, the battle for rights and recognition is to be waged here at home, in a deeply conservative state where same-sex marriage remains, for now, an unlikely dream.",
+  "shownText":"Mr. Johnston and Mr. Irwin, as both proudly gay and proudly Idahoan, said they had thought about taking a Sunday drive to get married, then dismissed the idea out of hand.\nMarrying across the border and returning home to a place where none of it had legal meaning, they said, or picking up and moving to Washington to obtain marriage protections, would mark equal measures of surrender and defeat.\nFor them, the battle for rights and recognition is to be waged here at home, in a deeply conservative state where same-sex marriage remains, for now, an unlikely dream.",
+  "title":"State Laws on Gay Marriage Lead to Disparities - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/us/state-laws-on-gay-marriage-lead-to-disparities.html?ref=us",
+  "category":"us",
+  "docID":"P-0292",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":304,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Idaho",
+      "label":"Idaho",
+      "offsets":[
+        {
+          "offset":60,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":304,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Idaho",
+      "label":"Idaho",
+      "offsets":[
+        {
+          "offset":60,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        }
+      ]
+    }
+  ]
+}

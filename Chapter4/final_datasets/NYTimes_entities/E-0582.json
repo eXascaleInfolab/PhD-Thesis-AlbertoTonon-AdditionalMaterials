@@ -1,0 +1,305 @@
+{
+    "allEntities": [
+        {
+            "label": "Belgium",
+            "types": [
+                {
+                    "label": "certain distant countries with interests in the hormuz area hormuz area topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+                },
+                {
+                    "label": "geographical agent",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Dutch-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Dutch-speaking_countries"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "legal agent",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "hormuz area topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+                },
+                {
+                    "label": "Geopolitical Entity",
+                    "uri": "http://umbel.org/umbel/sc/GeopoliticalEntity"
+                },
+                {
+                    "label": "European Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "geopolitical entity or region",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+                },
+                {
+                    "label": "German-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/German-speakingCountries"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "political entity",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Dutch-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Dutch-speakingCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "French-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/French-speakingCountries"
+                },
+                {
+                    "label": "organization",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "unnatural thing",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "geopolitical entity or region",
+                    "uri": "http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "certain distant countries with interests in the hormuz area hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "political entity",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "certain distant countries with interests in the hormuz area hormuz area topic",
+                    "uri": "http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Belgium"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0582",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Belgium",
+            "types": [
+                {
+                    "label": "certain distant countries with interests in the hormuz area hormuz area topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+                },
+                {
+                    "label": "geographical agent",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Dutch-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Dutch-speaking_countries"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "legal agent",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "hormuz area topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+                },
+                {
+                    "label": "Geopolitical Entity",
+                    "uri": "http://umbel.org/umbel/sc/GeopoliticalEntity"
+                },
+                {
+                    "label": "European Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "geopolitical entity or region",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+                },
+                {
+                    "label": "German-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/German-speakingCountries"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "political entity",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Dutch-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Dutch-speakingCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "French-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/French-speakingCountries"
+                },
+                {
+                    "label": "organization",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "unnatural thing",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "geopolitical entity or region",
+                    "uri": "http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "certain distant countries with interests in the hormuz area hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "political entity",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "certain distant countries with interests in the hormuz area hormuz area topic",
+                    "uri": "http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Belgium"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

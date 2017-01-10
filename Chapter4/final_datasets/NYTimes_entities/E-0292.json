@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "George Nakashima",
+            "types": [
+                {
+                    "label": "Furniture Makers",
+                    "uri": "http://dbpedia.org/class/yago/FurnitureMakers"
+                },
+                {
+                    "label": "Furniture makers",
+                    "uri": "http://dbpedia.org/resource/Furniture_makers"
+                },
+                {
+                    "label": "People From Spokane",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSpokane"
+                },
+                {
+                    "label": "American Woodworkers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWoodworkers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/George_Nakashima"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0292",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "George Nakashima",
+            "types": [
+                {
+                    "label": "Furniture Makers",
+                    "uri": "http://dbpedia.org/class/yago/FurnitureMakers"
+                },
+                {
+                    "label": "Furniture makers",
+                    "uri": "http://dbpedia.org/resource/Furniture_makers"
+                },
+                {
+                    "label": "People From Spokane",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSpokane"
+                },
+                {
+                    "label": "American Woodworkers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWoodworkers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/George_Nakashima"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

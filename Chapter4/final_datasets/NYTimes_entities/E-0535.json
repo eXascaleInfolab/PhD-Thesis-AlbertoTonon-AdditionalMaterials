@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Gothenburg",
+            "types": [
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Port Cities And Towns Of The North Sea",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsOfTheNorthSea"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gothenburg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0535",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gothenburg",
+            "types": [
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Port Cities And Towns Of The North Sea",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsOfTheNorthSea"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gothenburg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

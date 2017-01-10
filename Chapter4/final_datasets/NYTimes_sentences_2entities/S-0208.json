@@ -1,0 +1,253 @@
+{
+  "mainText":"The defense chief is working from his California home, awaiting the expected Senate vote on the nomination of former Republican Sen. Chuck Hagel to take over the Pentagon job.",
+  "shownText":"The defense chief is working from his California home, awaiting the expected Senate vote on the nomination of former Republican Sen. Chuck Hagel to take over the Pentagon job.",
+  "title":"Panetta Tuning In to C-SPAN to Await Hagel Vote - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/aponline/2013/02/25/us/politics/ap-us-panetta-hagel.html",
+  "category":"politics",
+  "docID":"S-0208",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Chuck_Hagel",
+      "label":"Chuck Hagel",
+      "offsets":[
+        {
+          "offset":133,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"Congressional Opponents Of The Iraq War",
+          "uri":"http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/California",
+      "label":"California",
+      "offsets":[
+        {
+          "offset":38,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Chuck_Hagel",
+      "label":"Chuck Hagel",
+      "offsets":[
+        {
+          "offset":133,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"Congressional Opponents Of The Iraq War",
+          "uri":"http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/California",
+      "label":"California",
+      "offsets":[
+        {
+          "offset":38,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ]
+}

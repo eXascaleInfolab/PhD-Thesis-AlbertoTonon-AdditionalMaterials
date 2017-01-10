@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "John Tortorella",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Ice Hockey Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanIceHockeyCoaches"
+                },
+                {
+                    "label": "ECHLCoaches",
+                    "uri": "http://dbpedia.org/class/yago/ECHLCoaches"
+                },
+                {
+                    "label": "People From Boston,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBoston,Massachusetts"
+                },
+                {
+                    "label": "Rochester Americans Coaches",
+                    "uri": "http://dbpedia.org/class/yago/RochesterAmericansCoaches"
+                },
+                {
+                    "label": "Phoenix Coyotes Coaches",
+                    "uri": "http://dbpedia.org/class/yago/PhoenixCoyotesCoaches"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "ECHL coaches",
+                    "uri": "http://dbpedia.org/resource/ECHL_coaches"
+                },
+                {
+                    "label": "Jack Adams Award winners",
+                    "uri": "http://dbpedia.org/resource/Jack_Adams_Award_winners"
+                },
+                {
+                    "label": "American ice hockey coaches",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_coaches"
+                },
+                {
+                    "label": "Stanley Cup Champions",
+                    "uri": "http://dbpedia.org/class/yago/StanleyCupChampions"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Tortorella"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0661",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John Tortorella",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Ice Hockey Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanIceHockeyCoaches"
+                },
+                {
+                    "label": "ECHLCoaches",
+                    "uri": "http://dbpedia.org/class/yago/ECHLCoaches"
+                },
+                {
+                    "label": "People From Boston,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBoston,Massachusetts"
+                },
+                {
+                    "label": "Rochester Americans Coaches",
+                    "uri": "http://dbpedia.org/class/yago/RochesterAmericansCoaches"
+                },
+                {
+                    "label": "Phoenix Coyotes Coaches",
+                    "uri": "http://dbpedia.org/class/yago/PhoenixCoyotesCoaches"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "ECHL coaches",
+                    "uri": "http://dbpedia.org/resource/ECHL_coaches"
+                },
+                {
+                    "label": "Jack Adams Award winners",
+                    "uri": "http://dbpedia.org/resource/Jack_Adams_Award_winners"
+                },
+                {
+                    "label": "American ice hockey coaches",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_coaches"
+                },
+                {
+                    "label": "Stanley Cup Champions",
+                    "uri": "http://dbpedia.org/class/yago/StanleyCupChampions"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Tortorella"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Anthony D. Weiner",
+            "types": [
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/class/yago/Congressman109955781"
+                },
+                {
+                    "label": "Public Officeholders Of Rockaway,Queens",
+                    "uri": "http://dbpedia.org/class/yago/PublicOfficeholdersOfRockaway,Queens"
+                },
+                {
+                    "label": "Jewish American politicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_politicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anthony_D._Weiner"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0608",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Anthony D. Weiner",
+            "types": [
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/class/yago/Congressman109955781"
+                },
+                {
+                    "label": "Public Officeholders Of Rockaway,Queens",
+                    "uri": "http://dbpedia.org/class/yago/PublicOfficeholdersOfRockaway,Queens"
+                },
+                {
+                    "label": "Jewish American politicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_politicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anthony_D._Weiner"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,101 @@
+{
+    "allEntities": [
+        {
+            "label": "Atlantic", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 44
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Atlantic"
+        }, 
+        {
+            "label": "University of Pittsburgh Medical Center", 
+            "offsets": [
+                {
+                    "length": 39, 
+                    "offset": 140
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Hospital networks", 
+                    "uri": "http://dbpedia.org/resource/Hospital_networks"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/27/sports/hockey/another-wave-of-concussions-hits-nhl.html?ref=sports", 
+    "category": "sports", 
+    "docID": "S-0270", 
+    "elementNumber": 17, 
+    "mainEntities": [
+        {
+            "label": "Atlantic", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 44
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Atlantic"
+        }, 
+        {
+            "label": "University of Pittsburgh Medical Center", 
+            "offsets": [
+                {
+                    "length": 39, 
+                    "offset": 140
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Hospital networks", 
+                    "uri": "http://dbpedia.org/resource/Hospital_networks"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center"
+        }
+    ], 
+    "mainText": "The Penguins, who are in first place in the Atlantic Division, have a new medical team this season, headed by Dr. Christopher Harner of the University of Pittsburgh Medical Center, where the team is planning to open a training, sports medicine and performance facility.", 
+    "shownText": "The Penguins, who are in first place in the Atlantic Division, have a new medical team this season, headed by Dr. Christopher Harner of the University of Pittsburgh Medical Center, where the team is planning to open a training, sports medicine and performance facility.", 
+    "title": "A Wave of Concussions Hits the N.H.L. - NYTimes.com"
+}

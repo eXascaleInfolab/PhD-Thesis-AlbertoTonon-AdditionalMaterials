@@ -1,0 +1,217 @@
+{
+  "mainText":"In Season 5 of \u201cSouthland\u201d several major characters have been behaving in ways bound to alienate both fellow cops and casual viewers.\nOfficer Ben Sherman ( Ben McKenzie ), recipient of an award for bravery, has begun to exhibit a self-righteous, gung-ho bluster that has turned off his more skeptical partner, Sammy (Shawn Hatosy).\nDetective Lydia Adams (Regina King), testy at the best of times, has been driven so far around the bend by her new baby that she can barely bring herself to enter her house at the end of a shift.",
+  "shownText":"Three to four times as many people watch TNT\u2019s other police dramas, \u201cMajor Crimes\u201d and \u201cRizzoli & Isles,\u201d and it\u2019s not hard to guess what viewers prefer about those shows: the comforts of familiar mystery plots with a light comic bounce, and characters who can be counted on to behave the same way every week, or at least revert to type before the closing credits.\n\nIn Season 5 of \u201cSouthland\u201d several major characters have been behaving in ways bound to alienate both fellow cops and casual viewers.\nOfficer Ben Sherman ( Ben McKenzie ), recipient of an award for bravery, has begun to exhibit a self-righteous, gung-ho bluster that has turned off his more skeptical partner, Sammy (Shawn Hatosy).\nDetective Lydia Adams (Regina King), testy at the best of times, has been driven so far around the bend by her new baby that she can barely bring herself to enter her house at the end of a shift.\n\nAnd a show that has always tended toward the downbeat has been even more bleak than usual.\nIn the first two weeks, pragmatic but questionable decisions by cops have led to the deaths of an old man and a young boy.\nAdams has lied to a rape victim to trick him into admitting he\u2019d been raped; Officer John Cooper (Michael Cudlitz), the show\u2019s moral bellwether, has been forced to shoot a man in the back when a traffic stop went bad.\nOne character\u2019s mother has died; another\u2019s lover has left him.\n",
+  "title":"âSouthland,â on TNT, Pursues Bad Guys and Realism - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/southland-on-tnt-pursues-bad-guys-and-realism.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0004",
+  "elementNumber":9,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Regina_King",
+      "label":"Regina King",
+      "offsets":[
+        {
+          "offset":721,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanVoiceActors"
+        },
+        {
+          "label":"California actors",
+          "uri":"http://dbpedia.org/resource/California_actors"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ben_Sherman",
+      "label":"Ben Sherman",
+      "offsets":[
+        {
+          "offset":508,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Label",
+          "uri":"http://dbpedia.org/class/yago/Label107202579"
+        },
+        {
+          "label":"Clothing brands",
+          "uri":"http://dbpedia.org/resource/Clothing_brands"
+        },
+        {
+          "label":"Clothing Companies Of The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Shawn_Hatosy",
+      "label":"Shawn Hatosy",
+      "offsets":[
+        {
+          "offset":683,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Michael_Cudlitz",
+      "label":"Michael Cudlitz",
+      "offsets":[
+        {
+          "offset":1207,
+          "length":15
+        },
+        {
+          "offset":1215,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"American Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanVoiceActors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Regina_King",
+      "label":"Regina King",
+      "offsets":[
+        {
+          "offset":721,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanVoiceActors"
+        },
+        {
+          "label":"California actors",
+          "uri":"http://dbpedia.org/resource/California_actors"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ben_Sherman",
+      "label":"Ben Sherman",
+      "offsets":[
+        {
+          "offset":508,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Label",
+          "uri":"http://dbpedia.org/class/yago/Label107202579"
+        },
+        {
+          "label":"Clothing brands",
+          "uri":"http://dbpedia.org/resource/Clothing_brands"
+        },
+        {
+          "label":"Clothing Companies Of The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Shawn_Hatosy",
+      "label":"Shawn Hatosy",
+      "offsets":[
+        {
+          "offset":683,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Lynyrd Skynyrd",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "1970s Music Groups",
+                    "uri": "http://dbpedia.org/class/yago/1970sMusicGroups"
+                },
+                {
+                    "label": "Jacksonville,Florida Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/Jacksonville,FloridaMusicalGroups"
+                },
+                {
+                    "label": "Band",
+                    "uri": "http://dbpedia.org/ontology/Band"
+                },
+                {
+                    "label": "musician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "American rock music groups",
+                    "uri": "http://dbpedia.org/resource/American_rock_music_groups"
+                },
+                {
+                    "label": "Jacksonville%2C Florida musical groups",
+                    "uri": "http://dbpedia.org/resource/Jacksonville%2C_Florida_musical_groups"
+                },
+                {
+                    "label": "disbanded group",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMjWjJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Musical Groups With Siblings",
+                    "uri": "http://dbpedia.org/class/yago/MusicalGroupsWithSiblings"
+                },
+                {
+                    "label": "American Rock Music Groups",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockMusicGroups"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lynyrd_Skynyrd"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0369",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Lynyrd Skynyrd",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "1970s Music Groups",
+                    "uri": "http://dbpedia.org/class/yago/1970sMusicGroups"
+                },
+                {
+                    "label": "Jacksonville,Florida Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/Jacksonville,FloridaMusicalGroups"
+                },
+                {
+                    "label": "Band",
+                    "uri": "http://dbpedia.org/ontology/Band"
+                },
+                {
+                    "label": "musician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "American rock music groups",
+                    "uri": "http://dbpedia.org/resource/American_rock_music_groups"
+                },
+                {
+                    "label": "Jacksonville%2C Florida musical groups",
+                    "uri": "http://dbpedia.org/resource/Jacksonville%2C_Florida_musical_groups"
+                },
+                {
+                    "label": "disbanded group",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMjWjJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Musical Groups With Siblings",
+                    "uri": "http://dbpedia.org/class/yago/MusicalGroupsWithSiblings"
+                },
+                {
+                    "label": "American Rock Music Groups",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockMusicGroups"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lynyrd_Skynyrd"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

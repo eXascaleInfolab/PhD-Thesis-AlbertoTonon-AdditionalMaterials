@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Columbia River",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Rivers Of Washington",
+                    "uri": "http://dbpedia.org/class/yago/RiversOfWashington"
+                },
+                {
+                    "label": "river",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkHM5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Rivers Of Oregon",
+                    "uri": "http://dbpedia.org/class/yago/RiversOfOregon"
+                },
+                {
+                    "label": "Rivers Of British Columbia",
+                    "uri": "http://dbpedia.org/class/yago/RiversOfBritishColumbia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Columbia_River"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0033",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Columbia River",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Rivers Of Washington",
+                    "uri": "http://dbpedia.org/class/yago/RiversOfWashington"
+                },
+                {
+                    "label": "river",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkHM5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Rivers Of Oregon",
+                    "uri": "http://dbpedia.org/class/yago/RiversOfOregon"
+                },
+                {
+                    "label": "Rivers Of British Columbia",
+                    "uri": "http://dbpedia.org/class/yago/RiversOfBritishColumbia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Columbia_River"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

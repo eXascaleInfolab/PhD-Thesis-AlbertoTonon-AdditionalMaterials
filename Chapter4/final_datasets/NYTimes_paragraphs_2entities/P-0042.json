@@ -1,0 +1,517 @@
+{
+  "mainText":"She began painting \u201cThe Rose,\u201d originally called \u201cDeathrose,\u201d the same year.\nIts existence quickly became a local legend.\nThe legend spread to New York after Dorothy Miller, after talent scouting for the Museum of Modern Art, included DeFeo in the 1959 exhibition \u201cSixteen Americans,\u201d along with up-and-comers like Jasper Johns, Ellsworth Kelly and Robert Rauschenberg.",
+  "shownText":"She began painting \u201cThe Rose,\u201d originally called \u201cDeathrose,\u201d the same year.\nIts existence quickly became a local legend.\nThe legend spread to New York after Dorothy Miller, after talent scouting for the Museum of Modern Art, included DeFeo in the 1959 exhibition \u201cSixteen Americans,\u201d along with up-and-comers like Jasper Johns, Ellsworth Kelly and Robert Rauschenberg.",
+  "title":"âJay DeFeo -  A Retrospective,â at the Whitney - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/arts/design/jay-defeo-a-retrospective-at-the-whitney.html?ref=arts",
+  "category":"arts",
+  "docID":"P-0042",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Jasper_Johns",
+      "label":"Jasper Johns",
+      "offsets":[
+        {
+          "offset":315,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Gay Artists",
+          "uri":"http://dbpedia.org/class/yago/GayArtists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American painters",
+          "uri":"http://dbpedia.org/resource/American_painters"
+        },
+        {
+          "label":"New York Artists",
+          "uri":"http://dbpedia.org/class/yago/NewYorkArtists"
+        },
+        {
+          "label":"People From South Carolina",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSouthCarolina"
+        },
+        {
+          "label":"Contemporary painters",
+          "uri":"http://dbpedia.org/resource/Contemporary_painters"
+        },
+        {
+          "label":"People From Augusta,Georgia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAugusta,Georgia"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Pop Artists",
+          "uri":"http://dbpedia.org/class/yago/PopArtists"
+        },
+        {
+          "label":"American Painters",
+          "uri":"http://dbpedia.org/class/yago/AmericanPainters"
+        },
+        {
+          "label":"Gay artists",
+          "uri":"http://dbpedia.org/resource/Gay_artists"
+        },
+        {
+          "label":"South Carolina Artists",
+          "uri":"http://dbpedia.org/class/yago/SouthCarolinaArtists"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Postmodern Artists",
+          "uri":"http://dbpedia.org/class/yago/PostmodernArtists"
+        },
+        {
+          "label":"Contemporary Painters",
+          "uri":"http://dbpedia.org/class/yago/ContemporaryPainters"
+        },
+        {
+          "label":"American Printmakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPrintmakers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert_Rauschenberg",
+      "label":"Robert Rauschenberg",
+      "offsets":[
+        {
+          "offset":349,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Port Arthur,Texas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPortArthur,Texas"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Black Mountain College alumni",
+          "uri":"http://dbpedia.org/resource/Black_Mountain_College_alumni"
+        },
+        {
+          "label":"American painters",
+          "uri":"http://dbpedia.org/resource/American_painters"
+        },
+        {
+          "label":"Cherokee People",
+          "uri":"http://dbpedia.org/class/yago/CherokeePeople"
+        },
+        {
+          "label":"New York Artists",
+          "uri":"http://dbpedia.org/class/yago/NewYorkArtists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"American sculptors",
+          "uri":"http://dbpedia.org/resource/American_sculptors"
+        },
+        {
+          "label":"Contemporary painters",
+          "uri":"http://dbpedia.org/resource/Contemporary_painters"
+        },
+        {
+          "label":"LGBTPeople From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Black Mountain College Alumni",
+          "uri":"http://dbpedia.org/class/yago/BlackMountainCollegeAlumni"
+        },
+        {
+          "label":"Pop Artists",
+          "uri":"http://dbpedia.org/class/yago/PopArtists"
+        },
+        {
+          "label":"American Sculptors",
+          "uri":"http://dbpedia.org/class/yago/AmericanSculptors"
+        },
+        {
+          "label":"Florida Artists",
+          "uri":"http://dbpedia.org/class/yago/FloridaArtists"
+        },
+        {
+          "label":"American Painters",
+          "uri":"http://dbpedia.org/class/yago/AmericanPainters"
+        },
+        {
+          "label":"Texas Artists",
+          "uri":"http://dbpedia.org/class/yago/TexasArtists"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Modern Painters",
+          "uri":"http://dbpedia.org/class/yago/ModernPainters"
+        },
+        {
+          "label":"Contemporary Painters",
+          "uri":"http://dbpedia.org/class/yago/ContemporaryPainters"
+        },
+        {
+          "label":"American Printmakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPrintmakers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ellsworth_Kelly",
+      "label":"Ellsworth Kelly",
+      "offsets":[
+        {
+          "offset":329,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Pratt Institute Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrattInstituteAlumni"
+        },
+        {
+          "label":"American artists",
+          "uri":"http://dbpedia.org/resource/American_artists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American painters",
+          "uri":"http://dbpedia.org/resource/American_painters"
+        },
+        {
+          "label":"American sculptors",
+          "uri":"http://dbpedia.org/resource/American_sculptors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Artists",
+          "uri":"http://dbpedia.org/class/yago/AmericanArtists"
+        },
+        {
+          "label":"American Sculptors",
+          "uri":"http://dbpedia.org/class/yago/AmericanSculptors"
+        },
+        {
+          "label":"American Painters",
+          "uri":"http://dbpedia.org/class/yago/AmericanPainters"
+        },
+        {
+          "label":"Minimalist Artists",
+          "uri":"http://dbpedia.org/class/yago/MinimalistArtists"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Printmakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPrintmakers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Jasper_Johns",
+      "label":"Jasper Johns",
+      "offsets":[
+        {
+          "offset":315,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Gay Artists",
+          "uri":"http://dbpedia.org/class/yago/GayArtists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American painters",
+          "uri":"http://dbpedia.org/resource/American_painters"
+        },
+        {
+          "label":"New York Artists",
+          "uri":"http://dbpedia.org/class/yago/NewYorkArtists"
+        },
+        {
+          "label":"People From South Carolina",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSouthCarolina"
+        },
+        {
+          "label":"Contemporary painters",
+          "uri":"http://dbpedia.org/resource/Contemporary_painters"
+        },
+        {
+          "label":"People From Augusta,Georgia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAugusta,Georgia"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Pop Artists",
+          "uri":"http://dbpedia.org/class/yago/PopArtists"
+        },
+        {
+          "label":"American Painters",
+          "uri":"http://dbpedia.org/class/yago/AmericanPainters"
+        },
+        {
+          "label":"Gay artists",
+          "uri":"http://dbpedia.org/resource/Gay_artists"
+        },
+        {
+          "label":"South Carolina Artists",
+          "uri":"http://dbpedia.org/class/yago/SouthCarolinaArtists"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Postmodern Artists",
+          "uri":"http://dbpedia.org/class/yago/PostmodernArtists"
+        },
+        {
+          "label":"Contemporary Painters",
+          "uri":"http://dbpedia.org/class/yago/ContemporaryPainters"
+        },
+        {
+          "label":"American Printmakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPrintmakers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert_Rauschenberg",
+      "label":"Robert Rauschenberg",
+      "offsets":[
+        {
+          "offset":349,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Port Arthur,Texas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPortArthur,Texas"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Black Mountain College alumni",
+          "uri":"http://dbpedia.org/resource/Black_Mountain_College_alumni"
+        },
+        {
+          "label":"American painters",
+          "uri":"http://dbpedia.org/resource/American_painters"
+        },
+        {
+          "label":"Cherokee People",
+          "uri":"http://dbpedia.org/class/yago/CherokeePeople"
+        },
+        {
+          "label":"New York Artists",
+          "uri":"http://dbpedia.org/class/yago/NewYorkArtists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"American sculptors",
+          "uri":"http://dbpedia.org/resource/American_sculptors"
+        },
+        {
+          "label":"Contemporary painters",
+          "uri":"http://dbpedia.org/resource/Contemporary_painters"
+        },
+        {
+          "label":"LGBTPeople From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Black Mountain College Alumni",
+          "uri":"http://dbpedia.org/class/yago/BlackMountainCollegeAlumni"
+        },
+        {
+          "label":"Pop Artists",
+          "uri":"http://dbpedia.org/class/yago/PopArtists"
+        },
+        {
+          "label":"American Sculptors",
+          "uri":"http://dbpedia.org/class/yago/AmericanSculptors"
+        },
+        {
+          "label":"Florida Artists",
+          "uri":"http://dbpedia.org/class/yago/FloridaArtists"
+        },
+        {
+          "label":"American Painters",
+          "uri":"http://dbpedia.org/class/yago/AmericanPainters"
+        },
+        {
+          "label":"Texas Artists",
+          "uri":"http://dbpedia.org/class/yago/TexasArtists"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Modern Painters",
+          "uri":"http://dbpedia.org/class/yago/ModernPainters"
+        },
+        {
+          "label":"Contemporary Painters",
+          "uri":"http://dbpedia.org/class/yago/ContemporaryPainters"
+        },
+        {
+          "label":"American Printmakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPrintmakers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ellsworth_Kelly",
+      "label":"Ellsworth Kelly",
+      "offsets":[
+        {
+          "offset":329,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Pratt Institute Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrattInstituteAlumni"
+        },
+        {
+          "label":"American artists",
+          "uri":"http://dbpedia.org/resource/American_artists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American painters",
+          "uri":"http://dbpedia.org/resource/American_painters"
+        },
+        {
+          "label":"American sculptors",
+          "uri":"http://dbpedia.org/resource/American_sculptors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Artists",
+          "uri":"http://dbpedia.org/class/yago/AmericanArtists"
+        },
+        {
+          "label":"American Sculptors",
+          "uri":"http://dbpedia.org/class/yago/AmericanSculptors"
+        },
+        {
+          "label":"American Painters",
+          "uri":"http://dbpedia.org/class/yago/AmericanPainters"
+        },
+        {
+          "label":"Minimalist Artists",
+          "uri":"http://dbpedia.org/class/yago/MinimalistArtists"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Printmakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPrintmakers"
+        }
+      ]
+    }
+  ]
+}

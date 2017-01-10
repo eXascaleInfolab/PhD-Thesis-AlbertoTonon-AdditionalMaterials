@@ -1,0 +1,117 @@
+{
+  "mainText":"Harvey Lavan Cliburn Jr. was born in Shreveport, La., on July 12, 1934.\nHis mother, Rildia Bee O\u2019Bryan, a pianist who had studied in New York with Arthur Friedheim, a longtime student of Liszt, had hoped to have a career in music, but her mother forbade it.\nInstead she married Harvey Lavan Cliburn, a purchasing agent for an oil company, a laconic man of moderate income.",
+  "shownText":"Ultimately, his promise and potential were never fulfilled.\nDuring the 1960s he played less and less.\nHis subsequent explorations of wider repertory grew increasingly insecure.\nBut the extent of his talent was apparent early on.\nBy 1978 he had retired from the concert stage; he returned in 1989, but performed rarely.\n\nHarvey Lavan Cliburn Jr. was born in Shreveport, La., on July 12, 1934.\nHis mother, Rildia Bee O\u2019Bryan, a pianist who had studied in New York with Arthur Friedheim, a longtime student of Liszt, had hoped to have a career in music, but her mother forbade it.\nInstead she married Harvey Lavan Cliburn, a purchasing agent for an oil company, a laconic man of moderate income.\n\nAn only child, young Van started studying with his mother when he was 3.\nBy 4 he was playing in student recitals.\nWhen he was 6 the family moved to Kilgore, Tex. (population 10,500).\nThough his father had hoped that Van would become a medical missionary, he realized that the boy was destined for music, so he had a practice studio added on to the garage.\n",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0013",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Shreveport",
+      "label":"Shreveport",
+      "offsets":[
+        {
+          "offset":357,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Arthur_Friedheim",
+      "label":"Arthur Friedheim",
+      "offsets":[
+        {
+          "offset":467,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Russian Pianists",
+          "uri":"http://dbpedia.org/class/yago/RussianPianists"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Jewish composers and songwriters",
+          "uri":"http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+        },
+        {
+          "label":"Jewish Composers And Songwriters",
+          "uri":"http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+        },
+        {
+          "label":"Russian Composers",
+          "uri":"http://dbpedia.org/class/yago/RussianComposers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Shreveport",
+      "label":"Shreveport",
+      "offsets":[
+        {
+          "offset":357,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Arthur_Friedheim",
+      "label":"Arthur Friedheim",
+      "offsets":[
+        {
+          "offset":467,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Russian Pianists",
+          "uri":"http://dbpedia.org/class/yago/RussianPianists"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Jewish composers and songwriters",
+          "uri":"http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+        },
+        {
+          "label":"Jewish Composers And Songwriters",
+          "uri":"http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+        },
+        {
+          "label":"Russian Composers",
+          "uri":"http://dbpedia.org/class/yago/RussianComposers"
+        }
+      ]
+    }
+  ]
+}

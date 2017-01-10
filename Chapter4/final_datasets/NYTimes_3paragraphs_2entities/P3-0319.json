@@ -1,0 +1,493 @@
+{
+  "mainText":"\u201cI defend him,\u201d Mr. Chávez said of his friend, who was jailed in France on charges of murdering two French police agents and a Lebanese informer in Paris in 1975.\n\u201cI don\u2019t care what they say tomorrow in Europe.\u201d",
+  "shownText":"Mr. Chávez would delight in angering his critics in rich countries.\nHe heaped praise, for instance, on Ilich Ramírez Sánchez, the Venezuelan terrorist better known as Carlos the Jackal, with whom he corresponded.\n\n\u201cI defend him,\u201d Mr. Chávez said of his friend, who was jailed in France on charges of murdering two French police agents and a Lebanese informer in Paris in 1975.\n\u201cI don\u2019t care what they say tomorrow in Europe.\u201d\n\nNo mentor was more supportive than Mr. Castro, who well understood how important Venezuela\u2019s subsidized oil shipments were to Cuba\u2019s fragile economy.\nAn ally from the start of Mr. Chávez\u2019s presidency in 1999, he offered help in one of Mr. Chávez\u2019s most difficult moments, a coup d\u2019état that removed him from office for 48 hours in April 2002.\nMr. Castro telephoned Venezuela\u2019s top military officials, pressing them to assist in returning Mr. Chávez to office.\n",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"P3-0319",
+  "elementNumber":23,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Paris",
+      "label":"Paris",
+      "offsets":[
+        {
+          "offset":362,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Companions Of The Liberation",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+        },
+        {
+          "label":"French department",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"3rd century BC establishments",
+          "uri":"http://dbpedia.org/resource/3rd_century_BC_establishments"
+        },
+        {
+          "label":"European Capitals Of Culture",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+        },
+        {
+          "label":"French commune",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":"World Heritage Sites In France",
+          "uri":"http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":417,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":130,
+          "length":9
+        },
+        {
+          "offset":508,
+          "length":9
+        },
+        {
+          "offset":792,
+          "length":9
+        },
+        {
+          "offset":130,
+          "length":9
+        },
+        {
+          "offset":508,
+          "length":9
+        },
+        {
+          "offset":792,
+          "length":9
+        },
+        {
+          "offset":130,
+          "length":9
+        },
+        {
+          "offset":508,
+          "length":9
+        },
+        {
+          "offset":792,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Paris",
+      "label":"Paris",
+      "offsets":[
+        {
+          "offset":362,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Companions Of The Liberation",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+        },
+        {
+          "label":"French department",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"3rd century BC establishments",
+          "uri":"http://dbpedia.org/resource/3rd_century_BC_establishments"
+        },
+        {
+          "label":"European Capitals Of Culture",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+        },
+        {
+          "label":"French commune",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":"World Heritage Sites In France",
+          "uri":"http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":417,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":553,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

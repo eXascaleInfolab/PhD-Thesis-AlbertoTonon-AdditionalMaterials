@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Chelsea",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chelsea"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0544",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chelsea",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chelsea"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Henrik Lundqvist",
+            "types": [
+                {
+                    "label": "Fr%F6lunda HC players",
+                    "uri": "http://dbpedia.org/resource/Fr%F6lunda_HC_players"
+                },
+                {
+                    "label": "Identical Twins",
+                    "uri": "http://dbpedia.org/class/yago/IdenticalTwins"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Henrik_Lundqvist"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0599",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Henrik Lundqvist",
+            "types": [
+                {
+                    "label": "Fr%F6lunda HC players",
+                    "uri": "http://dbpedia.org/resource/Fr%F6lunda_HC_players"
+                },
+                {
+                    "label": "Identical Twins",
+                    "uri": "http://dbpedia.org/class/yago/IdenticalTwins"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Henrik_Lundqvist"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

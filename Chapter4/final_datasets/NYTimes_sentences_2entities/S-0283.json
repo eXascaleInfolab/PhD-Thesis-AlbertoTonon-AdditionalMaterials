@@ -1,0 +1,157 @@
+{
+  "mainText":"But Rangers defenseman Marc Staal described Kaleta differently, calling him a repeat offender who is unwilling to fight when opponents confront him about the dangerous checks he throws.",
+  "shownText":"But Rangers defenseman Marc Staal described Kaleta differently, calling him a repeat offender who is unwilling to fight when opponents confront him about the dangerous checks he throws.",
+  "title":"Rangers Hold Off Sabres in Shootout - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/sports/hockey/rangers-beat-sabres-in-shootout.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0283",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":44,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marc_Staal",
+      "label":"Marc Staal",
+      "offsets":[
+        {
+          "offset":23,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":44,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marc_Staal",
+      "label":"Marc Staal",
+      "offsets":[
+        {
+          "offset":23,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "mainText":"Since the 1980s, scientists have been collecting a climate record from those earlier times by extracting long cylinders of ice from the ice sheets in Greenland and Antarctica.",
+  "shownText":"Since the 1980s, scientists have been collecting a climate record from those earlier times by extracting long cylinders of ice from the ice sheets in Greenland and Antarctica.",
+  "title":"At Ice Age End, a Smaller Gap in Warming and Carbon Dioxide - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/science/earth/at-ice-age-end-a-smaller-gap-in-warming-and-carbon-dioxide.html?ref=science",
+  "category":"science",
+  "docID":"S-0228",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Antarctic",
+      "label":"Antarctic",
+      "offsets":[
+        {
+          "offset":164,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Greenland",
+      "label":"Greenland",
+      "offsets":[
+        {
+          "offset":150,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former Danish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Danish_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"First-level Administrative Country Subdivisions",
+          "uri":"http://dbpedia.org/class/yago/First-levelAdministrativeCountrySubdivisions"
+        },
+        {
+          "label":"Arctic islands",
+          "uri":"http://dbpedia.org/resource/Arctic_islands"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Danish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Danish-speakingCountries"
+        },
+        {
+          "label":"Proposed Countries",
+          "uri":"http://dbpedia.org/class/yago/ProposedCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Antarctic",
+      "label":"Antarctic",
+      "offsets":[
+        {
+          "offset":164,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Greenland",
+      "label":"Greenland",
+      "offsets":[
+        {
+          "offset":150,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former Danish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Danish_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"First-level Administrative Country Subdivisions",
+          "uri":"http://dbpedia.org/class/yago/First-levelAdministrativeCountrySubdivisions"
+        },
+        {
+          "label":"Arctic islands",
+          "uri":"http://dbpedia.org/resource/Arctic_islands"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Danish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Danish-speakingCountries"
+        },
+        {
+          "label":"Proposed Countries",
+          "uri":"http://dbpedia.org/class/yago/ProposedCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

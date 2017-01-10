@@ -1,0 +1,109 @@
+{
+  "mainText":"\u201cIt\u2019s figure skating multiplied: all the wonderful things you see with singles, pairs and dance, but there\u2019s more of it \u2014 it\u2019s really eye-catching,\u201d said Kelly Vogtner, senior director of athlete development for U.S. Figure Skating, the governing body of the sport.",
+  "shownText":"\u201cIt\u2019s figure skating multiplied: all the wonderful things you see with singles, pairs and dance, but there\u2019s more of it \u2014 it\u2019s really eye-catching,\u201d said Kelly Vogtner, senior director of athlete development for U.S. Figure Skating, the governing body of the sport.",
+  "title":"Synchro Skating Tries to Move to the Front of the Line - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/sports/figure-skating-multiplied-by-16-and-all-in-sync.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0288",
+  "elementNumber":30,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/U.S._Figure_Skating",
+      "label":"U.S. Figure Skating",
+      "offsets":[
+        {
+          "offset":212,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"Sport",
+          "uri":"http://dbpedia.org/class/yago/Sport100523513"
+        },
+        {
+          "label":"Sports Governing Bodies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/SportsGoverningBodiesOfTheUnitedStates"
+        },
+        {
+          "label":"Figure skating organisations",
+          "uri":"http://dbpedia.org/resource/Figure_skating_organisations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":212,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/U.S._Figure_Skating",
+      "label":"U.S. Figure Skating",
+      "offsets":[
+        {
+          "offset":212,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"Sport",
+          "uri":"http://dbpedia.org/class/yago/Sport100523513"
+        },
+        {
+          "label":"Sports Governing Bodies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/SportsGoverningBodiesOfTheUnitedStates"
+        },
+        {
+          "label":"Figure skating organisations",
+          "uri":"http://dbpedia.org/resource/Figure_skating_organisations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":212,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    }
+  ]
+}

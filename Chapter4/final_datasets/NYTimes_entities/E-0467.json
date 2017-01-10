@@ -1,0 +1,249 @@
+{
+    "allEntities": [
+        {
+            "label": "Mike Beebe",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Military Person",
+                    "uri": "http://dbpedia.org/ontology/MilitaryPerson"
+                },
+                {
+                    "label": "Arkansas State Senators",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasStateSenators"
+                },
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/class/yago/Politician110451263"
+                },
+                {
+                    "label": "Arkansas Attorneys General",
+                    "uri": "http://dbpedia.org/resource/Arkansas_Attorneys_General"
+                },
+                {
+                    "label": "Arkansas lawyers",
+                    "uri": "http://dbpedia.org/resource/Arkansas_lawyers"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#Person"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Arkansas Politicians",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasPoliticians"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://xmlns.com/foaf/0.1/Agent"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://purl.org/dc/terms/Agent"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Arkansas politicians",
+                    "uri": "http://dbpedia.org/resource/Arkansas_politicians"
+                },
+                {
+                    "label": "Arkansas State Senators",
+                    "uri": "http://dbpedia.org/resource/Arkansas_State_Senators"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arkansas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasLawyers"
+                },
+                {
+                    "label": "Governors Of Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfArkansas"
+                },
+                {
+                    "label": "American military personnel",
+                    "uri": "http://dbpedia.org/resource/American_military_personnel"
+                },
+                {
+                    "label": "Social Entity",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mike_Beebe"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0467",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mike Beebe",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Military Person",
+                    "uri": "http://dbpedia.org/ontology/MilitaryPerson"
+                },
+                {
+                    "label": "Arkansas State Senators",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasStateSenators"
+                },
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/class/yago/Politician110451263"
+                },
+                {
+                    "label": "Arkansas Attorneys General",
+                    "uri": "http://dbpedia.org/resource/Arkansas_Attorneys_General"
+                },
+                {
+                    "label": "Arkansas lawyers",
+                    "uri": "http://dbpedia.org/resource/Arkansas_lawyers"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#Person"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Arkansas Politicians",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasPoliticians"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://xmlns.com/foaf/0.1/Agent"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://purl.org/dc/terms/Agent"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Arkansas politicians",
+                    "uri": "http://dbpedia.org/resource/Arkansas_politicians"
+                },
+                {
+                    "label": "Arkansas State Senators",
+                    "uri": "http://dbpedia.org/resource/Arkansas_State_Senators"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arkansas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/ArkansasLawyers"
+                },
+                {
+                    "label": "Governors Of Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfArkansas"
+                },
+                {
+                    "label": "American military personnel",
+                    "uri": "http://dbpedia.org/resource/American_military_personnel"
+                },
+                {
+                    "label": "Social Entity",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mike_Beebe"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

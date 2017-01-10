@@ -1,0 +1,365 @@
+{
+  "mainText":"Before Cardinal Mahony\u2019s retirement, he wrote that he asked Pope Benedict XVI to appoint an archbishop coadjutor who would work alongside him for a year.\nWhen the appointment turned out to be his \u201cfriend and brother\u201d Archbishop Gomez, Cardinal Mahony said he was delighted.\nHe was particularly happy, he wrote, that a Mexican priest would take over the diocese, where more than two-thirds of the parishioners are Latino.",
+  "shownText":"Now, many see this as a first turn in the spotlight for Archbishop Gomez.\nCardinal Mahony was known for marching in public rallies, cultivating allies in politics and Hollywood and an almost larger-than-life public persona.\nBy contrast, Archbishop Gomez has only rarely appeared in the press over the last two years.\nHe declined to be interviewed for this article and his staff declined to allow a reporter into the Religious Education Congress without an escort.\n\nBefore Cardinal Mahony\u2019s retirement, he wrote that he asked Pope Benedict XVI to appoint an archbishop coadjutor who would work alongside him for a year.\nWhen the appointment turned out to be his \u201cfriend and brother\u201d Archbishop Gomez, Cardinal Mahony said he was delighted.\nHe was particularly happy, he wrote, that a Mexican priest would take over the diocese, where more than two-thirds of the parishioners are Latino.\n\nThe two lived together with three other priests for more than a year, watching football games and traveling through much of the region as a pair.\n",
+  "title":"Catholics Gather in California, Haunted by Cardinalâs Scandal - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/23/us/catholics-gather-in-california-haunted-by-cardinals-scandal.html?ref=us",
+  "category":"us",
+  "docID":"P3-0284",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pope_Benedict_XVI",
+      "label":"Pope Benedict XVI",
+      "offsets":[
+        {
+          "offset":525,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"Cardinals Created By Pope Paul VI",
+          "uri":"http://dbpedia.org/class/yago/CardinalsCreatedByPopePaulVI"
+        },
+        {
+          "label":"German Prisoners Of War",
+          "uri":"http://dbpedia.org/class/yago/GermanPrisonersOfWar"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Roman Catholic Theologians",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicTheologians"
+        },
+        {
+          "label":"Roman Catholic Philosophers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicPhilosophers"
+        },
+        {
+          "label":"German",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVkMGZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/class/yago/Pope110453533"
+        },
+        {
+          "label":"World War IIPrisoners Of War",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWar"
+        },
+        {
+          "label":"German Cardinals",
+          "uri":"http://dbpedia.org/class/yago/GermanCardinals"
+        },
+        {
+          "label":"Roman Catholic Archbishops Of Munich And Freising",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicArchbishopsOfMunichAndFreising"
+        },
+        {
+          "label":"German",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVkMGZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"German Roman Catholic Theologians",
+          "uri":"http://dbpedia.org/class/yago/GermanRomanCatholicTheologians"
+        },
+        {
+          "label":"German Popes",
+          "uri":"http://dbpedia.org/class/yago/GermanPopes"
+        },
+        {
+          "label":"Vatican City People",
+          "uri":"http://dbpedia.org/class/yago/VaticanCityPeople"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"German Theologians",
+          "uri":"http://dbpedia.org/class/yago/GermanTheologians"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/ontology/Pope"
+        },
+        {
+          "label":"World War IIPrisoners Of War Held By The United States",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWarHeldByTheUnitedStates"
+        },
+        {
+          "label":"German popes",
+          "uri":"http://dbpedia.org/resource/German_popes"
+        },
+        {
+          "label":"People From The District Of Alt%C3%B6tting",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheDistrictOfAlt%C3%B6tting"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Bavaria",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBavaria"
+        },
+        {
+          "label":"European",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViWX5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Popes",
+          "uri":"http://dbpedia.org/class/yago/Popes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Participants In The Second Vatican Council",
+          "uri":"http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+        },
+        {
+          "label":"Sovereigns Of Vatican City",
+          "uri":"http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Reigning Monarchs",
+          "uri":"http://dbpedia.org/class/yago/ReigningMonarchs"
+        },
+        {
+          "label":"Non-Italian Popes",
+          "uri":"http://dbpedia.org/class/yago/Non-ItalianPopes"
+        },
+        {
+          "label":"Deans Of The College Of Cardinals",
+          "uri":"http://dbpedia.org/class/yago/DeansOfTheCollegeOfCardinals"
+        },
+        {
+          "label":"Roman Catholic Writers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicWriters"
+        },
+        {
+          "label":"person",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViAkpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pope",
+      "label":"Pope",
+      "offsets":[
+        {
+          "offset":525,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ecclesiastical titles",
+          "uri":"http://dbpedia.org/resource/Ecclesiastical_titles"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pope_Benedict_XVI",
+      "label":"Pope Benedict XVI",
+      "offsets":[
+        {
+          "offset":525,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"Cardinals Created By Pope Paul VI",
+          "uri":"http://dbpedia.org/class/yago/CardinalsCreatedByPopePaulVI"
+        },
+        {
+          "label":"German Prisoners Of War",
+          "uri":"http://dbpedia.org/class/yago/GermanPrisonersOfWar"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Roman Catholic Theologians",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicTheologians"
+        },
+        {
+          "label":"Roman Catholic Philosophers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicPhilosophers"
+        },
+        {
+          "label":"German",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVkMGZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/class/yago/Pope110453533"
+        },
+        {
+          "label":"World War IIPrisoners Of War",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWar"
+        },
+        {
+          "label":"German Cardinals",
+          "uri":"http://dbpedia.org/class/yago/GermanCardinals"
+        },
+        {
+          "label":"Roman Catholic Archbishops Of Munich And Freising",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicArchbishopsOfMunichAndFreising"
+        },
+        {
+          "label":"German",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVkMGZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"German Roman Catholic Theologians",
+          "uri":"http://dbpedia.org/class/yago/GermanRomanCatholicTheologians"
+        },
+        {
+          "label":"German Popes",
+          "uri":"http://dbpedia.org/class/yago/GermanPopes"
+        },
+        {
+          "label":"Vatican City People",
+          "uri":"http://dbpedia.org/class/yago/VaticanCityPeople"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"German Theologians",
+          "uri":"http://dbpedia.org/class/yago/GermanTheologians"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/ontology/Pope"
+        },
+        {
+          "label":"World War IIPrisoners Of War Held By The United States",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWarHeldByTheUnitedStates"
+        },
+        {
+          "label":"German popes",
+          "uri":"http://dbpedia.org/resource/German_popes"
+        },
+        {
+          "label":"People From The District Of Alt%C3%B6tting",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheDistrictOfAlt%C3%B6tting"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Bavaria",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBavaria"
+        },
+        {
+          "label":"European",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViWX5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Popes",
+          "uri":"http://dbpedia.org/class/yago/Popes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Participants In The Second Vatican Council",
+          "uri":"http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+        },
+        {
+          "label":"Sovereigns Of Vatican City",
+          "uri":"http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Reigning Monarchs",
+          "uri":"http://dbpedia.org/class/yago/ReigningMonarchs"
+        },
+        {
+          "label":"Non-Italian Popes",
+          "uri":"http://dbpedia.org/class/yago/Non-ItalianPopes"
+        },
+        {
+          "label":"Deans Of The College Of Cardinals",
+          "uri":"http://dbpedia.org/class/yago/DeansOfTheCollegeOfCardinals"
+        },
+        {
+          "label":"Roman Catholic Writers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicWriters"
+        },
+        {
+          "label":"person",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViAkpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pope",
+      "label":"Pope",
+      "offsets":[
+        {
+          "offset":525,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ecclesiastical titles",
+          "uri":"http://dbpedia.org/resource/Ecclesiastical_titles"
+        }
+      ]
+    }
+  ]
+}

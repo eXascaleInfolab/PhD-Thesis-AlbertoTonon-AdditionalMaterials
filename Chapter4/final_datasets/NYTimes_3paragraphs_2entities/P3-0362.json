@@ -1,0 +1,757 @@
+{
+  "mainText":"\u201cHe has made people who didn\u2019t feel they were part of democracy before feel like they\u2019re part of the system,\u201d said Joy Olson, director of the Washington Office on Latin America , an advocacy group.\n\u201cThat hasn\u2019t happened in very many countries.\nIf you look at the United States, poor people don\u2019t feel like they\u2019re very much a part of the system, and he did that.\u201d",
+  "shownText":"Despite a rocky economic record and strings of broken or half-filled promises during his 14 years in office, the fundamental legacy of Mr. Chávez, who died on Tuesday , is not made of concrete and steel, highways and houses, but something less tangible: he has changed the way Venezuelans think about themselves and their country.\n\n\u201cHe has made people who didn\u2019t feel they were part of democracy before feel like they\u2019re part of the system,\u201d said Joy Olson, director of the Washington Office on Latin America , an advocacy group.\n\u201cThat hasn\u2019t happened in very many countries.\nIf you look at the United States, poor people don\u2019t feel like they\u2019re very much a part of the system, and he did that.\u201d\n\nIt is a dynamic visible on street corners in the capital, Caracas, and other parts of the country, where merchants sell copies of the Constitution and booklets with the text of landmark laws passed by Mr. Chávez\u2019s government.\nLast summer, a newly passed labor law was a hot seller: a Caracas bartender sat behind the bar reading a copy during an idle moment; on the subway, laborers and office workers could be seen reading it on the way home from work.\n",
+  "title":"For Good or Ill, ChÃ¡vez Altered How Venezuela Views Itself - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/world/americas/for-good-or-ill-chavez-altered-how-venezuela-views-itself.html?ref=world",
+  "category":"world",
+  "docID":"P3-0362",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":474,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":595,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Latin_America",
+      "label":"Latin America",
+      "offsets":[
+        {
+          "offset":495,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"non abducible collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Cultural Spheres Of Influence",
+          "uri":"http://dbpedia.org/class/yago/CulturalSpheresOfInfluence"
+        },
+        {
+          "label":"type of object",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country classifications",
+          "uri":"http://dbpedia.org/resource/Country_classifications"
+        },
+        {
+          "label":"Country Classifications",
+          "uri":"http://dbpedia.org/class/yago/CountryClassifications"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"country type by general region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rVvBTrJhkQdiCKs3GWTcWTg"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":474,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_States",
+      "label":"United States",
+      "offsets":[
+        {
+          "offset":595,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.opencyc.org/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Constitutional Republic",
+          "uri":"http://umbel.org/umbel/sc/ConstitutionalRepublic"
+        },
+        {
+          "label":"Representative democracy",
+          "uri":"http://dbpedia.org/resource/Representative_democracy"
+        },
+        {
+          "label":"legal agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVinsZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"Constitutional republic",
+          "uri":"http://dbpedia.org/resource/Constitutional_republic"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":"representative democracy",
+          "uri":"http://sw.cyc.com/concept/Mx4rUIPoAG28EdaAAACgyZzFrg"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        },
+        {
+          "label":"Western country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvXKxx5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"unnatural thing",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvYNNKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://umbel.org/umbel/sc/Superpower"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"democratic government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rmR0ddG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"G8Nations",
+          "uri":"http://dbpedia.org/class/yago/G8Nations"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Representative Democracy",
+          "uri":"http://umbel.org/umbel/sc/RepresentativeDemocracy"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.cyc.com/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"constitutional republic",
+          "uri":"http://sw.cyc.com/concept/Mx4rc17uPG2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"geographical agent",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwTccApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"united states geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6ORLIGJsQdiWWtw-hTd1kw"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rxqm_NmJsQdibq8_dqUp19w"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx4rXZR1qEdYEduAAAACs2IKfQ"
+        },
+        {
+          "label":"political entity",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjl2pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"geopolitical entity or region",
+          "uri":"http://sw.opencyc.org/concept/Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WIAJnCkRsZ2tw3ljb3JwHiu9WOXanCkRsZ2tw3ljb3Jw"
+        },
+        {
+          "label":"North American country",
+          "uri":"http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.cyc.com/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Superpower",
+          "uri":"http://dbpedia.org/resource/Superpower"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"North American Country",
+          "uri":"http://umbel.org/umbel/sc/NorthAmericanCountry"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":277,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Latin_America",
+      "label":"Latin America",
+      "offsets":[
+        {
+          "offset":495,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"non abducible collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Cultural Spheres Of Influence",
+          "uri":"http://dbpedia.org/class/yago/CulturalSpheresOfInfluence"
+        },
+        {
+          "label":"type of object",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country classifications",
+          "uri":"http://dbpedia.org/resource/Country_classifications"
+        },
+        {
+          "label":"Country Classifications",
+          "uri":"http://dbpedia.org/class/yago/CountryClassifications"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"country type by general region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rVvBTrJhkQdiCKs3GWTcWTg"
+        }
+      ]
+    }
+  ]
+}

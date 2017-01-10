@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Tianji",
+            "types": [
+                {
+                    "label": "Football (soccer) clubs",
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_clubs"
+                },
+                {
+                    "label": "Chinese football clubs",
+                    "uri": "http://dbpedia.org/resource/Chinese_football_clubs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0199",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Tianji",
+            "types": [
+                {
+                    "label": "Football (soccer) clubs",
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_clubs"
+                },
+                {
+                    "label": "Chinese football clubs",
+                    "uri": "http://dbpedia.org/resource/Chinese_football_clubs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

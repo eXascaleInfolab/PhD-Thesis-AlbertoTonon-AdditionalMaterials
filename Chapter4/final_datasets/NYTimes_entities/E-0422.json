@@ -1,0 +1,217 @@
+{
+    "allEntities": [
+        {
+            "label": "Scarlett Johansson",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "American Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Child Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanChildActors"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LeeStrasbergTheatreInstituteAlumni"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute alumni",
+                    "uri": "http://dbpedia.org/resource/Lee_Strasberg_Theatre_Institute_alumni"
+                },
+                {
+                    "label": "New York Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkActors"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "female person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjW5ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "New York Democrats",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American voice actors",
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Scarlett_Johansson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0422",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Scarlett Johansson",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "American Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Child Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanChildActors"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LeeStrasbergTheatreInstituteAlumni"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute alumni",
+                    "uri": "http://dbpedia.org/resource/Lee_Strasberg_Theatre_Institute_alumni"
+                },
+                {
+                    "label": "New York Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkActors"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "female person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjW5ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "New York Democrats",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American voice actors",
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Scarlett_Johansson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

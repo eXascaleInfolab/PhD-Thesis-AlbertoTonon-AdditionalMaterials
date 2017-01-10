@@ -1,0 +1,465 @@
+{
+  "mainText":"When the video was played on \u201cGood Morning America,\u201d Elizabeth Vargas tried to ask her fellow presenters how the pig had freed the goat, but she was met with laughter.\n\u201cEvery day with Elizabeth, it\u2019s like, \u2018How did this happen?\u2019 \u201d\nreplied the weather anchor Sam Champion.",
+  "shownText":"By the following morning Mr. Fielder, who said he did not make any additional efforts to promote the video online or through social networks, found it posted on sites like Gawker and Reddit.\nHe also started receiving requests through his YouTube account from television programs that wanted to show his video.\nIn short messages to producers of \u201cGood Morning America\u201d and Anderson Cooper\u2019s daytime talk show, \u201cAnderson Live\u201d \u2014 neither of whom asked how the video was made \u2014 Mr. Fielder gave them permission to broadcast it but offered no other details about it.\n\nWhen the video was played on \u201cGood Morning America,\u201d Elizabeth Vargas tried to ask her fellow presenters how the pig had freed the goat, but she was met with laughter.\n\u201cEvery day with Elizabeth, it\u2019s like, \u2018How did this happen?\u2019 \u201d\nreplied the weather anchor Sam Champion.\n\nMr. Fielder stopped responding to other messages, including what he said were at least six \u201cfairly persistent\u201d requests from NBC.\n",
+  "title":"Pig Rescues Goat, and the Video Is Really Cute, but Totally Faked - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/pig-rescues-goat-and-the-video-is-really-cute-but-totally-faked.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0045",
+  "elementNumber":18,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sam_Champion",
+      "label":"Sam Champion",
+      "offsets":[
+        {
+          "offset":820,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Eastern Kentucky University alumni",
+          "uri":"http://dbpedia.org/resource/Eastern_Kentucky_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Christian LGBTPeople",
+          "uri":"http://dbpedia.org/class/yago/ChristianLGBTPeople"
+        },
+        {
+          "label":"Eastern Kentucky University Alumni",
+          "uri":"http://dbpedia.org/class/yago/EasternKentuckyUniversityAlumni"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"Christian LGBT people",
+          "uri":"http://dbpedia.org/resource/Christian_LGBT_people"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth",
+      "label":"Elizabeth",
+      "offsets":[
+        {
+          "offset":615,
+          "length":9
+        },
+        {
+          "offset":746,
+          "length":9
+        },
+        {
+          "offset":615,
+          "length":9
+        },
+        {
+          "offset":746,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Feminine given names",
+          "uri":"http://dbpedia.org/resource/Feminine_given_names"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth_Vargas",
+      "label":"Elizabeth Vargas",
+      "offsets":[
+        {
+          "offset":615,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"American television news anchors",
+          "uri":"http://dbpedia.org/resource/American_television_news_anchors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Chicago television anchors",
+          "uri":"http://dbpedia.org/resource/Chicago_television_anchors"
+        },
+        {
+          "label":"American reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_reporters_and_correspondents"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Reddit",
+      "label":"Reddit",
+      "offsets":[
+        {
+          "offset":183,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Web Site",
+          "uri":"http://dbpedia.org/class/yago/WebSite106359193"
+        },
+        {
+          "label":"Website",
+          "uri":"http://dbpedia.org/ontology/Website"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/YouTube",
+      "label":"YouTube",
+      "offsets":[
+        {
+          "offset":238,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet advertising and promotion",
+          "uri":"http://dbpedia.org/resource/Internet_advertising_and_promotion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Internet Properties Established In2005",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2005"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Entertainment websites",
+          "uri":"http://dbpedia.org/resource/Entertainment_websites"
+        },
+        {
+          "label":"Google Services",
+          "uri":"http://dbpedia.org/class/yago/GoogleServices"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In San Mateo County",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSanMateoCounty"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sam_Champion",
+      "label":"Sam Champion",
+      "offsets":[
+        {
+          "offset":820,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Eastern Kentucky University alumni",
+          "uri":"http://dbpedia.org/resource/Eastern_Kentucky_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Christian LGBTPeople",
+          "uri":"http://dbpedia.org/class/yago/ChristianLGBTPeople"
+        },
+        {
+          "label":"Eastern Kentucky University Alumni",
+          "uri":"http://dbpedia.org/class/yago/EasternKentuckyUniversityAlumni"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"Christian LGBT people",
+          "uri":"http://dbpedia.org/resource/Christian_LGBT_people"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth",
+      "label":"Elizabeth",
+      "offsets":[
+        {
+          "offset":615,
+          "length":9
+        },
+        {
+          "offset":746,
+          "length":9
+        },
+        {
+          "offset":615,
+          "length":9
+        },
+        {
+          "offset":746,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Feminine given names",
+          "uri":"http://dbpedia.org/resource/Feminine_given_names"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":960,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth_Vargas",
+      "label":"Elizabeth Vargas",
+      "offsets":[
+        {
+          "offset":615,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"American television news anchors",
+          "uri":"http://dbpedia.org/resource/American_television_news_anchors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Chicago television anchors",
+          "uri":"http://dbpedia.org/resource/Chicago_television_anchors"
+        },
+        {
+          "label":"American reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_reporters_and_correspondents"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Anderson_Cooper",
+      "label":"Anderson Cooper",
+      "offsets":[
+        {
+          "offset":371,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Broadcast Journalist",
+          "uri":"http://dbpedia.org/class/yago/BroadcastJournalist109875979"
+        },
+        {
+          "label":"American television reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+        },
+        {
+          "label":"Spanish-Dutch People",
+          "uri":"http://dbpedia.org/class/yago/Spanish-DutchPeople"
+        },
+        {
+          "label":"American Male Models",
+          "uri":"http://dbpedia.org/class/yago/AmericanMaleModels"
+        },
+        {
+          "label":"American broadcast news analysts",
+          "uri":"http://dbpedia.org/resource/American_broadcast_news_analysts"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        },
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        },
+        {
+          "label":"Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Emmy_Award_winners"
+        },
+        {
+          "label":"American Broadcast News Analysts",
+          "uri":"http://dbpedia.org/class/yago/AmericanBroadcastNewsAnalysts"
+        },
+        {
+          "label":"American Television Journalists",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionJournalists"
+        },
+        {
+          "label":"American bloggers",
+          "uri":"http://dbpedia.org/resource/American_bloggers"
+        },
+        {
+          "label":"American game show hosts",
+          "uri":"http://dbpedia.org/resource/American_game_show_hosts"
+        },
+        {
+          "label":"Participants In American Reality Television Series",
+          "uri":"http://dbpedia.org/class/yago/ParticipantsInAmericanRealityTelevisionSeries"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Television Reporters And Correspondents",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+        },
+        {
+          "label":"Yale University Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleUniversityAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Dalton School alumni",
+          "uri":"http://dbpedia.org/resource/Dalton_School_alumni"
+        },
+        {
+          "label":"American Bloggers",
+          "uri":"http://dbpedia.org/class/yago/AmericanBloggers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"Journalist",
+          "uri":"http://dbpedia.org/ontology/Journalist"
+        },
+        {
+          "label":"Journalist",
+          "uri":"http://dbpedia.org/class/yago/Journalist110224578"
+        },
+        {
+          "label":"American Game Show Hosts",
+          "uri":"http://dbpedia.org/class/yago/AmericanGameShowHosts"
+        },
+        {
+          "label":"War Correspondents",
+          "uri":"http://dbpedia.org/class/yago/WarCorrespondents"
+        },
+        {
+          "label":"Dalton School Alumni",
+          "uri":"http://dbpedia.org/class/yago/DaltonSchoolAlumni"
+        }
+      ]
+    }
+  ]
+}

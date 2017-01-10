@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Florence",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Former National Capitals",
+                    "uri": "http://dbpedia.org/class/yago/FormerNationalCapitals"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Florence"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0506",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Florence",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Former National Capitals",
+                    "uri": "http://dbpedia.org/class/yago/FormerNationalCapitals"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Florence"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

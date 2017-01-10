@@ -1,0 +1,205 @@
+{
+  "mainText":"This is not to say that the 20th century was without its highlights.\nIn 1936, after a blinding light flashed over New Jersey, Abram M. Decker of Red Bank found a 13-ounce fragment that had apparently fallen through his work shed, bent a screwdriver and buried itself 20 inches in the ground.\nIt gave him, The Times reported , a \u201cbad fright.\u201d",
+  "shownText":"This is not to say that the 20th century was without its highlights.\nIn 1936, after a blinding light flashed over New Jersey, Abram M. Decker of Red Bank found a 13-ounce fragment that had apparently fallen through his work shed, bent a screwdriver and buried itself 20 inches in the ground.\nIt gave him, The Times reported , a \u201cbad fright.\u201d",
+  "title":"Fireballs in the Sky Are Not Exclusive to Siberia - NYTimes.com",
+  "articleUrl":"http://cityroom.blogs.nytimes.com/2013/02/22/flashy-meteors-fall-on-us-too/?ref=science",
+  "category":"science",
+  "docID":"P-0180",
+  "elementNumber":20,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/New_Jersey",
+      "label":"New Jersey",
+      "offsets":[
+        {
+          "offset":114,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/The_Times",
+      "label":"The Times",
+      "offsets":[
+        {
+          "offset":305,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Publications Established In1785",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1785"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Newspapers Published In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/NewspapersPublishedInTheUnitedKingdom"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"newspaper",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/New_Jersey",
+      "label":"New Jersey",
+      "offsets":[
+        {
+          "offset":114,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/The_Times",
+      "label":"The Times",
+      "offsets":[
+        {
+          "offset":305,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Publications Established In1785",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1785"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Newspapers Published In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/NewspapersPublishedInTheUnitedKingdom"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"newspaper",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

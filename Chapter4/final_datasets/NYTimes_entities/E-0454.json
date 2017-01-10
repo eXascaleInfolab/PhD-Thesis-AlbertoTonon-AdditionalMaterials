@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Charlotte",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Charlotte"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0454",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Charlotte",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Charlotte"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

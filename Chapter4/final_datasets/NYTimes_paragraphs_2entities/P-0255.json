@@ -1,0 +1,149 @@
+{
+  "mainText":"For several years now, Mr. Doyle has been planning on doing his own version of the book \u201cPrivate Property\u201d by his idol Helmut Newton, but with Ms. Lohan as his subject.\n\u201cTo be honest, I should just do a book on interiors, that\u2019s what I\u2019d really like to do,\u201d he said.\nHe said he might have a one-man show in Los Angeles, from which he\u2019d just returned in late January, when he gave a visitor a tour of his apartment.\nFour old suitcases, one of which is always packed, were stacked up.",
+  "shownText":"For several years now, Mr. Doyle has been planning on doing his own version of the book \u201cPrivate Property\u201d by his idol Helmut Newton, but with Ms. Lohan as his subject.\n\u201cTo be honest, I should just do a book on interiors, that\u2019s what I\u2019d really like to do,\u201d he said.\nHe said he might have a one-man show in Los Angeles, from which he\u2019d just returned in late January, when he gave a visitor a tour of his apartment.\nFour old suitcases, one of which is always packed, were stacked up.",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"P-0255",
+  "elementNumber":38,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Helmut_Newton",
+      "label":"Helmut Newton",
+      "offsets":[
+        {
+          "offset":119,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Fetish Photographers",
+          "uri":"http://dbpedia.org/class/yago/FetishPhotographers"
+        },
+        {
+          "label":"Australian photographers",
+          "uri":"http://dbpedia.org/resource/Australian_photographers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":307,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Helmut_Newton",
+      "label":"Helmut Newton",
+      "offsets":[
+        {
+          "offset":119,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Fetish Photographers",
+          "uri":"http://dbpedia.org/class/yago/FetishPhotographers"
+        },
+        {
+          "label":"Australian photographers",
+          "uri":"http://dbpedia.org/resource/Australian_photographers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":307,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

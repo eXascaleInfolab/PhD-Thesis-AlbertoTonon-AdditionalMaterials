@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Niall Ferguson",
+            "types": [
+                {
+                    "label": "Alumni Of Christ's College,Cambridge",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfChrist'sCollege,Cambridge"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "British foreign policy writers",
+                    "uri": "http://dbpedia.org/resource/British_foreign_policy_writers"
+                },
+                {
+                    "label": "Incomplete lists",
+                    "uri": "http://dbpedia.org/resource/Incomplete_lists"
+                },
+                {
+                    "label": "British Foreign Policy Writers",
+                    "uri": "http://dbpedia.org/class/yago/BritishForeignPolicyWriters"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Fellows Of Jesus College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfJesusCollege,Oxford"
+                },
+                {
+                    "label": "Alumni Of Peterhouse,Cambridge",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfPeterhouse,Cambridge"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard University faculty",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_faculty"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Scottish Historians",
+                    "uri": "http://dbpedia.org/class/yago/ScottishHistorians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Niall_Ferguson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0352",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Niall Ferguson",
+            "types": [
+                {
+                    "label": "Alumni Of Christ's College,Cambridge",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfChrist'sCollege,Cambridge"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "British foreign policy writers",
+                    "uri": "http://dbpedia.org/resource/British_foreign_policy_writers"
+                },
+                {
+                    "label": "Incomplete lists",
+                    "uri": "http://dbpedia.org/resource/Incomplete_lists"
+                },
+                {
+                    "label": "British Foreign Policy Writers",
+                    "uri": "http://dbpedia.org/class/yago/BritishForeignPolicyWriters"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Fellows Of Jesus College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfJesusCollege,Oxford"
+                },
+                {
+                    "label": "Alumni Of Peterhouse,Cambridge",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfPeterhouse,Cambridge"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard University faculty",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_faculty"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Scottish Historians",
+                    "uri": "http://dbpedia.org/class/yago/ScottishHistorians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Niall_Ferguson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

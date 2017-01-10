@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "South for Bennington College",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Former women%27s universities and colleges",
+                    "uri": "http://dbpedia.org/resource/Former_women%27s_universities_and_colleges"
+                },
+                {
+                    "label": "Liberal Arts Colleges",
+                    "uri": "http://dbpedia.org/class/yago/LiberalArtsColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bennington_College"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0363",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "South for Bennington College",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Former women%27s universities and colleges",
+                    "uri": "http://dbpedia.org/resource/Former_women%27s_universities_and_colleges"
+                },
+                {
+                    "label": "Liberal Arts Colleges",
+                    "uri": "http://dbpedia.org/class/yago/LiberalArtsColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bennington_College"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

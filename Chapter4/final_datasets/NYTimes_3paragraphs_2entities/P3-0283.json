@@ -1,0 +1,285 @@
+{
+  "mainText":"With Cardinal Mahony set to fly to Rome next week to elect a new pope, the prelates\u2019 duel in the country\u2019s largest archdiocese has set off shock waves in the church.\nCatholics in Los Angeles are re-evaluating the cardinal\u2019s legacy, and newspapers in Italy are running articles asking whether the disgraced cardinal should attend the papal conclave.",
+  "shownText":"In a rare breach of the deference American bishops usually grant one another, the current archbishop of Los Angeles, José H. Gomez , said he found the documents \u201c brutal and painful \u201d reading.\nCardinal Mahony soon shot back, posting a bitter open letter to Archbishop Gomez on his blog.\n\nWith Cardinal Mahony set to fly to Rome next week to elect a new pope, the prelates\u2019 duel in the country\u2019s largest archdiocese has set off shock waves in the church.\nCatholics in Los Angeles are re-evaluating the cardinal\u2019s legacy, and newspapers in Italy are running articles asking whether the disgraced cardinal should attend the papal conclave.\n\nAt the same time, this is a defining moment for Archbishop Gomez, who took over from Cardinal Mahony two years ago and is universally described as low-key and quiet, particularly compared with his predecessor.\nHis public rebuke of Cardinal Mahony stunned observers not only for its content, but because the normally mild-mannered archbishop would react so swiftly and dramatically.\nNow, many here are waiting anxiously to see how he will try to lead the archdiocese past the scandal.\n",
+  "title":"Catholics Gather in California, Haunted by Cardinalâs Scandal - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/23/us/catholics-gather-in-california-haunted-by-cardinals-scandal.html?ref=us",
+  "category":"us",
+  "docID":"P3-0283",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":104,
+          "length":11
+        },
+        {
+          "offset":467,
+          "length":11
+        },
+        {
+          "offset":104,
+          "length":11
+        },
+        {
+          "offset":467,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":323,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":104,
+          "length":11
+        },
+        {
+          "offset":467,
+          "length":11
+        },
+        {
+          "offset":104,
+          "length":11
+        },
+        {
+          "offset":467,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":323,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

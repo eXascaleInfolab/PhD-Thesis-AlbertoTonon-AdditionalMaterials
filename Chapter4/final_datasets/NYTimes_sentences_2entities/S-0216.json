@@ -1,0 +1,597 @@
+{
+  "mainText":"The Beach Boys, ZZ Top and Cher all stipulated in their contract riders that it be put in their dressing rooms when they toured.",
+  "shownText":"The Beach Boys, ZZ Top and Cher all stipulated in their contract riders that it be put in their dressing rooms when they toured.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"S-0216",
+  "elementNumber":96,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ZZ_Top",
+      "label":"ZZ Top",
+      "offsets":[
+        {
+          "offset":16,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Musical Groups Established In1969",
+          "uri":"http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1969"
+        },
+        {
+          "label":"Pop music",
+          "uri":"http://dbpedia.org/resource/Pop_music"
+        },
+        {
+          "label":"private-sector organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_D3hZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"commercial entertainment organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rIvhQOOaKEdqAAAACs2IKaQ"
+        },
+        {
+          "label":"Popular Music Band",
+          "uri":"http://umbel.org/umbel/sc/PopularMusicBand"
+        },
+        {
+          "label":"American rock music groups",
+          "uri":"http://dbpedia.org/resource/American_rock_music_groups"
+        },
+        {
+          "label":"band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvgEZGJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.cyc.com/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Blues-rock groups",
+          "uri":"http://dbpedia.org/resource/Blues-rock_groups"
+        },
+        {
+          "label":"American Rock Music Groups",
+          "uri":"http://dbpedia.org/class/yago/AmericanRockMusicGroups"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cher",
+      "label":"Cher",
+      "offsets":[
+        {
+          "offset":27,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"American rock singers",
+          "uri":"http://dbpedia.org/resource/American_rock_singers"
+        },
+        {
+          "label":"English-language singers",
+          "uri":"http://dbpedia.org/resource/English-language_singers"
+        },
+        {
+          "label":"Best Musical or Comedy Actress Golden Globe (television)",
+          "uri":"http://dbpedia.org/resource/Best_Musical_or_Comedy_Actress_Golden_Globe_%28television%29"
+        },
+        {
+          "label":"American Record Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRecordProducers"
+        },
+        {
+          "label":"People Of Armenian Descent",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfArmenianDescent"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"pop rock music performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rEk_2blM_QdeEAuQb54mGnA"
+        },
+        {
+          "label":"American house musicians",
+          "uri":"http://dbpedia.org/resource/American_house_musicians"
+        },
+        {
+          "label":"American Female Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFemaleSingers"
+        },
+        {
+          "label":"female person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjW5ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"television actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvef1DJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Warner Music Group Artists",
+          "uri":"http://dbpedia.org/class/yago/WarnerMusicGroupArtists"
+        },
+        {
+          "label":"Best Actress Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actress_Academy_Award_winners"
+        },
+        {
+          "label":"person with a nationality",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8TWhdsK7QdeatYOmr38i2A"
+        },
+        {
+          "label":"MCARecords Artists",
+          "uri":"http://dbpedia.org/class/yago/MCARecordsArtists"
+        },
+        {
+          "label":"LGBTRights Activists From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+        },
+        {
+          "label":"person with a nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonWithNationality"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/UnitedStatesPerson"
+        },
+        {
+          "label":"rhythm and blues music performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rtnrMAlMLQdeci6oLjhvggQ"
+        },
+        {
+          "label":"American dance musicians",
+          "uri":"http://dbpedia.org/resource/American_dance_musicians"
+        },
+        {
+          "label":"American disco musicians",
+          "uri":"http://dbpedia.org/resource/American_disco_musicians"
+        },
+        {
+          "label":"People From El Centro,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromElCentro,California"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Pop Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPopSingers"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Best Supporting Actress Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actress_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"American pop singers",
+          "uri":"http://dbpedia.org/resource/American_pop_singers"
+        },
+        {
+          "label":"American Socialites",
+          "uri":"http://dbpedia.org/class/yago/AmericanSocialites"
+        },
+        {
+          "label":"North American",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/NorthAmericanCitizenOrSubject"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Dance Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanDanceMusicians"
+        },
+        {
+          "label":"American Disco Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanDiscoMusicians"
+        },
+        {
+          "label":"American record producers",
+          "uri":"http://dbpedia.org/resource/American_record_producers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Emmy_Award_winners"
+        },
+        {
+          "label":"Female Rock Singers",
+          "uri":"http://dbpedia.org/class/yago/FemaleRockSingers"
+        },
+        {
+          "label":"American House Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHouseMusicians"
+        },
+        {
+          "label":"Best Musical or Comedy Actress Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Musical_or_Comedy_Actress_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"American Rock Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRockSingers"
+        },
+        {
+          "label":"American female singers",
+          "uri":"http://dbpedia.org/resource/American_female_singers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"North American",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVj2FJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Democrats (United States)",
+          "uri":"http://dbpedia.org/resource/Democrats_%28United_States%29"
+        },
+        {
+          "label":"English-language Singers",
+          "uri":"http://dbpedia.org/class/yago/English-languageSingers"
+        },
+        {
+          "label":"American",
+          "uri":"http://www.w3.org/2006/03/wn/wn20/instances/synset-American-noun-1"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ZZ_Top",
+      "label":"ZZ Top",
+      "offsets":[
+        {
+          "offset":16,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Musical Groups Established In1969",
+          "uri":"http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1969"
+        },
+        {
+          "label":"Pop music",
+          "uri":"http://dbpedia.org/resource/Pop_music"
+        },
+        {
+          "label":"private-sector organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_D3hZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"commercial entertainment organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rIvhQOOaKEdqAAAACs2IKaQ"
+        },
+        {
+          "label":"Popular Music Band",
+          "uri":"http://umbel.org/umbel/sc/PopularMusicBand"
+        },
+        {
+          "label":"American rock music groups",
+          "uri":"http://dbpedia.org/resource/American_rock_music_groups"
+        },
+        {
+          "label":"band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvgEZGJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.cyc.com/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Blues-rock groups",
+          "uri":"http://dbpedia.org/resource/Blues-rock_groups"
+        },
+        {
+          "label":"American Rock Music Groups",
+          "uri":"http://dbpedia.org/class/yago/AmericanRockMusicGroups"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cher",
+      "label":"Cher",
+      "offsets":[
+        {
+          "offset":27,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"American rock singers",
+          "uri":"http://dbpedia.org/resource/American_rock_singers"
+        },
+        {
+          "label":"English-language singers",
+          "uri":"http://dbpedia.org/resource/English-language_singers"
+        },
+        {
+          "label":"Best Musical or Comedy Actress Golden Globe (television)",
+          "uri":"http://dbpedia.org/resource/Best_Musical_or_Comedy_Actress_Golden_Globe_%28television%29"
+        },
+        {
+          "label":"American Record Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRecordProducers"
+        },
+        {
+          "label":"People Of Armenian Descent",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfArmenianDescent"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"pop rock music performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rEk_2blM_QdeEAuQb54mGnA"
+        },
+        {
+          "label":"American house musicians",
+          "uri":"http://dbpedia.org/resource/American_house_musicians"
+        },
+        {
+          "label":"American Female Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFemaleSingers"
+        },
+        {
+          "label":"female person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjW5ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"television actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvef1DJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Warner Music Group Artists",
+          "uri":"http://dbpedia.org/class/yago/WarnerMusicGroupArtists"
+        },
+        {
+          "label":"Best Actress Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actress_Academy_Award_winners"
+        },
+        {
+          "label":"person with a nationality",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8TWhdsK7QdeatYOmr38i2A"
+        },
+        {
+          "label":"MCARecords Artists",
+          "uri":"http://dbpedia.org/class/yago/MCARecordsArtists"
+        },
+        {
+          "label":"LGBTRights Activists From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+        },
+        {
+          "label":"person with a nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonWithNationality"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/UnitedStatesPerson"
+        },
+        {
+          "label":"rhythm and blues music performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rtnrMAlMLQdeci6oLjhvggQ"
+        },
+        {
+          "label":"American dance musicians",
+          "uri":"http://dbpedia.org/resource/American_dance_musicians"
+        },
+        {
+          "label":"American disco musicians",
+          "uri":"http://dbpedia.org/resource/American_disco_musicians"
+        },
+        {
+          "label":"People From El Centro,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromElCentro,California"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Pop Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPopSingers"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Best Supporting Actress Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actress_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"American pop singers",
+          "uri":"http://dbpedia.org/resource/American_pop_singers"
+        },
+        {
+          "label":"American Socialites",
+          "uri":"http://dbpedia.org/class/yago/AmericanSocialites"
+        },
+        {
+          "label":"North American",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/NorthAmericanCitizenOrSubject"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Dance Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanDanceMusicians"
+        },
+        {
+          "label":"American Disco Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanDiscoMusicians"
+        },
+        {
+          "label":"American record producers",
+          "uri":"http://dbpedia.org/resource/American_record_producers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"American",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Emmy_Award_winners"
+        },
+        {
+          "label":"Female Rock Singers",
+          "uri":"http://dbpedia.org/class/yago/FemaleRockSingers"
+        },
+        {
+          "label":"American House Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHouseMusicians"
+        },
+        {
+          "label":"Best Musical or Comedy Actress Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Musical_or_Comedy_Actress_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"American Rock Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRockSingers"
+        },
+        {
+          "label":"American female singers",
+          "uri":"http://dbpedia.org/resource/American_female_singers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"North American",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVj2FJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Democrats (United States)",
+          "uri":"http://dbpedia.org/resource/Democrats_%28United_States%29"
+        },
+        {
+          "label":"English-language Singers",
+          "uri":"http://dbpedia.org/class/yago/English-languageSingers"
+        },
+        {
+          "label":"American",
+          "uri":"http://www.w3.org/2006/03/wn/wn20/instances/synset-American-noun-1"
+        }
+      ]
+    }
+  ]
+}

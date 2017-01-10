@@ -1,0 +1,173 @@
+{
+  "mainText":"The states with the biggest price gains were Arizona, where prices rose 20.1 percent, followed by Nevada, with 17.4 percent, and Idaho, with 14.9 percent.",
+  "shownText":"The states with the biggest price gains were Arizona, where prices rose 20.1 percent, followed by Nevada, with 17.4 percent, and Idaho, with 14.9 percent.",
+  "title":"US Home Prices Rose by Most in Nearly 7 Years - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/aponline/2013/03/05/us/politics/ap-us-home-prices.html",
+  "category":"politics",
+  "docID":"S-0197",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nevada",
+      "label":"Nevada",
+      "offsets":[
+        {
+          "offset":98,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Idaho",
+      "label":"Idaho",
+      "offsets":[
+        {
+          "offset":129,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nevada",
+      "label":"Nevada",
+      "offsets":[
+        {
+          "offset":98,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Idaho",
+      "label":"Idaho",
+      "offsets":[
+        {
+          "offset":129,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        }
+      ]
+    }
+  ]
+}

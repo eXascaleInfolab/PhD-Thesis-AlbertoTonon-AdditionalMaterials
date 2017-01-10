@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Elisha Bwora",
+            "types": [
+                {
+                    "label": "Hebrew Bible people",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_people"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Abrahamic prophecy",
+                    "uri": "http://dbpedia.org/resource/Abrahamic_prophecy"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/ontology/Saint"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Carmelite spirituality",
+                    "uri": "http://dbpedia.org/resource/Carmelite_spirituality"
+                },
+                {
+                    "label": "Old Testament Saints",
+                    "uri": "http://dbpedia.org/class/yago/OldTestamentSaints"
+                },
+                {
+                    "label": "Biblical people",
+                    "uri": "http://dbpedia.org/resource/Biblical_people"
+                },
+                {
+                    "label": "Prophets In Christianity",
+                    "uri": "http://dbpedia.org/class/yago/ProphetsInChristianity"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Elisha"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0631",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Elisha Bwora",
+            "types": [
+                {
+                    "label": "Hebrew Bible people",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_people"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Abrahamic prophecy",
+                    "uri": "http://dbpedia.org/resource/Abrahamic_prophecy"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/ontology/Saint"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Carmelite spirituality",
+                    "uri": "http://dbpedia.org/resource/Carmelite_spirituality"
+                },
+                {
+                    "label": "Old Testament Saints",
+                    "uri": "http://dbpedia.org/class/yago/OldTestamentSaints"
+                },
+                {
+                    "label": "Biblical people",
+                    "uri": "http://dbpedia.org/resource/Biblical_people"
+                },
+                {
+                    "label": "Prophets In Christianity",
+                    "uri": "http://dbpedia.org/class/yago/ProphetsInChristianity"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Elisha"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

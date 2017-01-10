@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "National Cancer Institute",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Cancer organizations",
+                    "uri": "http://dbpedia.org/resource/Cancer_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Cancer_Institute"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0737",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "National Cancer Institute",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Cancer organizations",
+                    "uri": "http://dbpedia.org/resource/Cancer_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Cancer_Institute"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

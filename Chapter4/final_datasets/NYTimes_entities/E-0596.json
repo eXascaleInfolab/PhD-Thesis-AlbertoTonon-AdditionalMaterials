@@ -1,0 +1,249 @@
+{
+    "allEntities": [
+        {
+            "label": "Rasaun Young",
+            "types": [
+                {
+                    "label": "English actors",
+                    "uri": "http://dbpedia.org/resource/English_actors"
+                },
+                {
+                    "label": "English pop singers",
+                    "uri": "http://dbpedia.org/resource/English_pop_singers"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "People From Hungerford",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHungerford"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "BRIT Award winners",
+                    "uri": "http://dbpedia.org/resource/BRIT_Award_winners"
+                },
+                {
+                    "label": "Gay Musicians",
+                    "uri": "http://dbpedia.org/class/yago/GayMusicians"
+                },
+                {
+                    "label": "Ivor Novello Award winners",
+                    "uri": "http://dbpedia.org/resource/Ivor_Novello_Award_winners"
+                },
+                {
+                    "label": "English Pop Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPopSingers"
+                },
+                {
+                    "label": "LGBT musicians from the United Kingdom",
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_Kingdom"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Gay actors from the United Kingdom",
+                    "uri": "http://dbpedia.org/resource/Gay_actors_from_the_United_Kingdom"
+                },
+                {
+                    "label": "Alumni Of The University Of Exeter",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfTheUniversityOfExeter"
+                },
+                {
+                    "label": "People From Wokingham",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWokingham"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "LGBTMusicians From The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedKingdom"
+                },
+                {
+                    "label": "Pop Idol Contestants",
+                    "uri": "http://dbpedia.org/class/yago/PopIdolContestants"
+                },
+                {
+                    "label": "LGBTPeople From England",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+                },
+                {
+                    "label": "Gay musicians",
+                    "uri": "http://dbpedia.org/resource/Gay_musicians"
+                },
+                {
+                    "label": "People From Reading,Berkshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+                },
+                {
+                    "label": "English Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishActors"
+                },
+                {
+                    "label": "Gay Actors From The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/GayActorsFromTheUnitedKingdom"
+                },
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Sony BMGArtists",
+                    "uri": "http://dbpedia.org/class/yago/SonyBMGArtists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Will_Young"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0596",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rasaun Young",
+            "types": [
+                {
+                    "label": "English actors",
+                    "uri": "http://dbpedia.org/resource/English_actors"
+                },
+                {
+                    "label": "English pop singers",
+                    "uri": "http://dbpedia.org/resource/English_pop_singers"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "People From Hungerford",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHungerford"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "BRIT Award winners",
+                    "uri": "http://dbpedia.org/resource/BRIT_Award_winners"
+                },
+                {
+                    "label": "Gay Musicians",
+                    "uri": "http://dbpedia.org/class/yago/GayMusicians"
+                },
+                {
+                    "label": "Ivor Novello Award winners",
+                    "uri": "http://dbpedia.org/resource/Ivor_Novello_Award_winners"
+                },
+                {
+                    "label": "English Pop Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPopSingers"
+                },
+                {
+                    "label": "LGBT musicians from the United Kingdom",
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_Kingdom"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Gay actors from the United Kingdom",
+                    "uri": "http://dbpedia.org/resource/Gay_actors_from_the_United_Kingdom"
+                },
+                {
+                    "label": "Alumni Of The University Of Exeter",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfTheUniversityOfExeter"
+                },
+                {
+                    "label": "People From Wokingham",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWokingham"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "LGBTMusicians From The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedKingdom"
+                },
+                {
+                    "label": "Pop Idol Contestants",
+                    "uri": "http://dbpedia.org/class/yago/PopIdolContestants"
+                },
+                {
+                    "label": "LGBTPeople From England",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+                },
+                {
+                    "label": "Gay musicians",
+                    "uri": "http://dbpedia.org/resource/Gay_musicians"
+                },
+                {
+                    "label": "People From Reading,Berkshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+                },
+                {
+                    "label": "English Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishActors"
+                },
+                {
+                    "label": "Gay Actors From The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/GayActorsFromTheUnitedKingdom"
+                },
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Sony BMGArtists",
+                    "uri": "http://dbpedia.org/class/yago/SonyBMGArtists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Will_Young"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

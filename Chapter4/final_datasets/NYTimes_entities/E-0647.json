@@ -1,0 +1,217 @@
+{
+    "allEntities": [
+        {
+            "label": "Gregor Mendel",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "German-Czech People",
+                    "uri": "http://dbpedia.org/class/yago/German-CzechPeople"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Austrian biologists",
+                    "uri": "http://dbpedia.org/resource/Austrian_biologists"
+                },
+                {
+                    "label": "Czech biologists",
+                    "uri": "http://dbpedia.org/resource/Czech_biologists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Botanists with author abbreviations",
+                    "uri": "http://dbpedia.org/resource/Botanists_with_author_abbreviations"
+                },
+                {
+                    "label": "Botanists With Author Abbreviations",
+                    "uri": "http://dbpedia.org/class/yago/BotanistsWithAuthorAbbreviations"
+                },
+                {
+                    "label": "Augustinian Friars",
+                    "uri": "http://dbpedia.org/class/yago/AugustinianFriars"
+                },
+                {
+                    "label": "Geneticists",
+                    "uri": "http://dbpedia.org/class/yago/Geneticists"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/class/yago/Scientist110560637"
+                },
+                {
+                    "label": "Austrian botanists",
+                    "uri": "http://dbpedia.org/resource/Austrian_botanists"
+                },
+                {
+                    "label": "German-Czech people",
+                    "uri": "http://dbpedia.org/resource/German-Czech_people"
+                },
+                {
+                    "label": "People From Austrian Silesia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAustrianSilesia"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Czech Biologists",
+                    "uri": "http://dbpedia.org/class/yago/CzechBiologists"
+                },
+                {
+                    "label": "Augustinian friars",
+                    "uri": "http://dbpedia.org/resource/Augustinian_friars"
+                },
+                {
+                    "label": "Austrian Biologists",
+                    "uri": "http://dbpedia.org/class/yago/AustrianBiologists"
+                },
+                {
+                    "label": "Roman Catholic Priests",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicPriests"
+                },
+                {
+                    "label": "Austrian Botanists",
+                    "uri": "http://dbpedia.org/class/yago/AustrianBotanists"
+                },
+                {
+                    "label": "Czech botanists",
+                    "uri": "http://dbpedia.org/resource/Czech_botanists"
+                },
+                {
+                    "label": "Czech Botanists",
+                    "uri": "http://dbpedia.org/class/yago/CzechBotanists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gregor_Mendel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0647",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gregor Mendel",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "German-Czech People",
+                    "uri": "http://dbpedia.org/class/yago/German-CzechPeople"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Austrian biologists",
+                    "uri": "http://dbpedia.org/resource/Austrian_biologists"
+                },
+                {
+                    "label": "Czech biologists",
+                    "uri": "http://dbpedia.org/resource/Czech_biologists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Botanists with author abbreviations",
+                    "uri": "http://dbpedia.org/resource/Botanists_with_author_abbreviations"
+                },
+                {
+                    "label": "Botanists With Author Abbreviations",
+                    "uri": "http://dbpedia.org/class/yago/BotanistsWithAuthorAbbreviations"
+                },
+                {
+                    "label": "Augustinian Friars",
+                    "uri": "http://dbpedia.org/class/yago/AugustinianFriars"
+                },
+                {
+                    "label": "Geneticists",
+                    "uri": "http://dbpedia.org/class/yago/Geneticists"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/class/yago/Scientist110560637"
+                },
+                {
+                    "label": "Austrian botanists",
+                    "uri": "http://dbpedia.org/resource/Austrian_botanists"
+                },
+                {
+                    "label": "German-Czech people",
+                    "uri": "http://dbpedia.org/resource/German-Czech_people"
+                },
+                {
+                    "label": "People From Austrian Silesia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAustrianSilesia"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Czech Biologists",
+                    "uri": "http://dbpedia.org/class/yago/CzechBiologists"
+                },
+                {
+                    "label": "Augustinian friars",
+                    "uri": "http://dbpedia.org/resource/Augustinian_friars"
+                },
+                {
+                    "label": "Austrian Biologists",
+                    "uri": "http://dbpedia.org/class/yago/AustrianBiologists"
+                },
+                {
+                    "label": "Roman Catholic Priests",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicPriests"
+                },
+                {
+                    "label": "Austrian Botanists",
+                    "uri": "http://dbpedia.org/class/yago/AustrianBotanists"
+                },
+                {
+                    "label": "Czech botanists",
+                    "uri": "http://dbpedia.org/resource/Czech_botanists"
+                },
+                {
+                    "label": "Czech Botanists",
+                    "uri": "http://dbpedia.org/class/yago/CzechBotanists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gregor_Mendel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

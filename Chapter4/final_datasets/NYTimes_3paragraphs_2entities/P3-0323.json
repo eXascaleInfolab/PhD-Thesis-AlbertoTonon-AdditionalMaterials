@@ -1,0 +1,605 @@
+{
+  "mainText":"Reading voraciously on Venezuelan history and global politics, Mr. Chávez began to articulate a national ideology, much as Mr. Castro had done in Cuba.\nOne of his biographers, Cristina Marcano, said Mr. Chávez had spoken of being influenced by \u201cThe Green Book,\u201d the three-volume political tract by Col. Muammar el-Qaddafi of Libya.",
+  "shownText":"Soon he helped create a clandestine cell of like-minded young officers within the army, drawing on the guidance of Douglas Bravo, a leftist guerrilla leader who advocated using the nation\u2019s petroleum reserves as a tool for radical change.\nThey called their group the Bolivarian Revolutionary Movement.\n\nReading voraciously on Venezuelan history and global politics, Mr. Chávez began to articulate a national ideology, much as Mr. Castro had done in Cuba.\nOne of his biographers, Cristina Marcano, said Mr. Chávez had spoken of being influenced by \u201cThe Green Book,\u201d the three-volume political tract by Col. Muammar el-Qaddafi of Libya.\n\nOnce in power, Mr. Chávez established ties with Colonel Qaddafi and other Middle Eastern leaders who similarly used oil resources to buttress nationalist governments.\n",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"P3-0323",
+  "elementNumber":39,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":326,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Libya",
+      "label":"Libya",
+      "offsets":[
+        {
+          "offset":628,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Military Dictatorship",
+          "uri":"http://umbel.org/umbel/sc/MilitaryDictatorship"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"authoritarian government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRd3pAm2hEdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"military dictatorship",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r9LVeTm2uEdaAAACgyZzFrg"
+        },
+        {
+          "label":"military dictatorship",
+          "uri":"http://sw.cyc.com/concept/Mx4r9LVeTm2uEdaAAACgyZzFrg"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Military dictatorship",
+          "uri":"http://dbpedia.org/resource/Military_dictatorship"
+        },
+        {
+          "label":"Maghreb country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvo_7PJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"African Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Titular Sees Of The Coptic Orthodox Church",
+          "uri":"http://dbpedia.org/class/yago/TitularSeesOfTheCopticOrthodoxChurch"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"African country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rQXRcnuoYQdeERLuWRKMEFw"
+        },
+        {
+          "label":"country with a military government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvnyCym2vEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Maghreb country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvo_7PJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Maghreb country",
+          "uri":"http://sw.cyc.com/concept/Mx4rvo_7PJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"military dictatorship",
+          "uri":"http://sw.opencyc.org/concept/Mx4r9LVeTm2uEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Maghreb Country",
+          "uri":"http://umbel.org/umbel/sc/MaghrebCountry"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"African Union Member States",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":449,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":326,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Libya",
+      "label":"Libya",
+      "offsets":[
+        {
+          "offset":628,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Military Dictatorship",
+          "uri":"http://umbel.org/umbel/sc/MilitaryDictatorship"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"authoritarian government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rRd3pAm2hEdaAAACgyZzFrg"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"military dictatorship",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r9LVeTm2uEdaAAACgyZzFrg"
+        },
+        {
+          "label":"military dictatorship",
+          "uri":"http://sw.cyc.com/concept/Mx4r9LVeTm2uEdaAAACgyZzFrg"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Military dictatorship",
+          "uri":"http://dbpedia.org/resource/Military_dictatorship"
+        },
+        {
+          "label":"Maghreb country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvo_7PJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Industrialized Country",
+          "uri":"http://umbel.org/umbel/sc/IndustrializedCountry"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"African Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Titular Sees Of The Coptic Orthodox Church",
+          "uri":"http://dbpedia.org/class/yago/TitularSeesOfTheCopticOrthodoxChurch"
+        },
+        {
+          "label":"Developed country",
+          "uri":"http://dbpedia.org/resource/Developed_country"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"African country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rQXRcnuoYQdeERLuWRKMEFw"
+        },
+        {
+          "label":"country with a military government",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvnyCym2vEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.cyc.com/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Maghreb country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvo_7PJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Maghreb country",
+          "uri":"http://sw.cyc.com/concept/Mx4rvo_7PJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"military dictatorship",
+          "uri":"http://sw.opencyc.org/concept/Mx4r9LVeTm2uEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Maghreb Country",
+          "uri":"http://umbel.org/umbel/sc/MaghrebCountry"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"African Union Member States",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":449,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Middle_East",
+      "label":"Middle East",
+      "offsets":[
+        {
+          "offset":710,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":"KE clarifying collection type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

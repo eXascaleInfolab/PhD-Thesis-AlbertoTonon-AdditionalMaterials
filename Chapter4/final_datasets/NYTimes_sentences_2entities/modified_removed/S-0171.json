@@ -1,0 +1,173 @@
+{
+    "allEntities": [
+        {
+            "label": "Milan", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 42
+                }
+            ], 
+            "types": [
+                {
+                    "label": "cuisine", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Settlements Established In The1st Millennium BC", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+                }, 
+                {
+                    "label": "city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Milan"
+        }, 
+        {
+            "label": "Mario Balotelli", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 131
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Football (soccer) strikers", 
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+                }, 
+                {
+                    "label": "People From Palermo(city)", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPalermo(city)"
+                }, 
+                {
+                    "label": "Football(soccer)Strikers", 
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Strikers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mario_Balotelli"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/24/opinion/sunday/in-italy-illusion-is-the-only-reality.html?ref=opinion", 
+    "category": "opinion", 
+    "docID": "S-0171", 
+    "elementNumber": 21, 
+    "mainEntities": [
+        {
+            "label": "Milan", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 42
+                }
+            ], 
+            "types": [
+                {
+                    "label": "cuisine", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Settlements Established In The1st Millennium BC", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+                }, 
+                {
+                    "label": "city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Milan"
+        }, 
+        {
+            "label": "Mario Balotelli", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 131
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Football (soccer) strikers", 
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+                }, 
+                {
+                    "label": "People From Palermo(city)", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPalermo(city)"
+                }, 
+                {
+                    "label": "Football(soccer)Strikers", 
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Strikers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mario_Balotelli"
+        }
+    ], 
+    "mainText": "As the owner of the big soccer club A. C. Milan, Mr. Berlusconi decided, at the beginning of his campaign, to buy the star striker Mario Balotelli.", 
+    "shownText": "As the owner of the big soccer club A. C. Milan, Mr. Berlusconi decided, at the beginning of his campaign, to buy the star striker Mario Balotelli.", 
+    "title": "In Italy, Illusion Is the Only Reality - NYTimes.com"
+}

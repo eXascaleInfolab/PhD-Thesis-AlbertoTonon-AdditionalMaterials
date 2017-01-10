@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "state",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "non abducible collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+                },
+                {
+                    "label": "government organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+                },
+                {
+                    "label": "type of geographical entity classified by hierarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv-FNbpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "terrorism-topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rSuNLCPsCEdmAAAACs6hcqg"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "spatially disjoint object type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rpPHhAOB1EdqAAAACs6hRXg"
+                },
+                {
+                    "label": "geopolitical entities geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8iXRcmJsQdiaQpTHoJEKKA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/State"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0497",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "state",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "non abducible collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+                },
+                {
+                    "label": "government organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+                },
+                {
+                    "label": "type of geographical entity classified by hierarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv-FNbpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "terrorism-topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rSuNLCPsCEdmAAAACs6hcqg"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "spatially disjoint object type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rpPHhAOB1EdqAAAACs6hRXg"
+                },
+                {
+                    "label": "geopolitical entities geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8iXRcmJsQdiaQpTHoJEKKA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/State"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

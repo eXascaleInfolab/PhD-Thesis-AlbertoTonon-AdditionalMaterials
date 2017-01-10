@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Jimmy King",
+            "types": [
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "People From Plano,Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPlano,Texas"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jimmy_King"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0323",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jimmy King",
+            "types": [
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "People From Plano,Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPlano,Texas"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jimmy_King"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

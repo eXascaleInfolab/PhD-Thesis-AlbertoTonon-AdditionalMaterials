@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Graydon Carter",
+            "types": [
+                {
+                    "label": "American libertarians",
+                    "uri": "http://dbpedia.org/resource/American_libertarians"
+                },
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/ontology/Journalist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Graydon_Carter"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0744",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Graydon Carter",
+            "types": [
+                {
+                    "label": "American libertarians",
+                    "uri": "http://dbpedia.org/resource/American_libertarians"
+                },
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/ontology/Journalist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Graydon_Carter"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

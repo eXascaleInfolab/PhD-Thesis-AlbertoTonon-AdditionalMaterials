@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Federico Lombardi",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Federico_Lombardi"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0515",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Federico Lombardi",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Federico_Lombardi"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

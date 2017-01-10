@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Washington",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "U.S. state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Washington"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0188",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Washington",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "U.S. state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Washington"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

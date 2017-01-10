@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Berkeley",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Berkeley"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0031",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Berkeley",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Berkeley"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

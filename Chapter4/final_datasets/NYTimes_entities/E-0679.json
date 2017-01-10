@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Cadbury Schweppes",
+            "types": [
+                {
+                    "label": "Cadbury-Schweppes brands",
+                    "uri": "http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+                },
+                {
+                    "label": "Companies Listed On The London Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                },
+                {
+                    "label": "Food companies",
+                    "uri": "http://dbpedia.org/resource/Food_companies"
+                },
+                {
+                    "label": "Beverage companies",
+                    "uri": "http://dbpedia.org/resource/Beverage_companies"
+                },
+                {
+                    "label": "British brands",
+                    "uri": "http://dbpedia.org/resource/British_brands"
+                },
+                {
+                    "label": "Companies listed on the London Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cadbury_Schweppes"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0679",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Cadbury Schweppes",
+            "types": [
+                {
+                    "label": "Cadbury-Schweppes brands",
+                    "uri": "http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+                },
+                {
+                    "label": "Companies Listed On The London Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                },
+                {
+                    "label": "Food companies",
+                    "uri": "http://dbpedia.org/resource/Food_companies"
+                },
+                {
+                    "label": "Beverage companies",
+                    "uri": "http://dbpedia.org/resource/Beverage_companies"
+                },
+                {
+                    "label": "British brands",
+                    "uri": "http://dbpedia.org/resource/British_brands"
+                },
+                {
+                    "label": "Companies listed on the London Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cadbury_Schweppes"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

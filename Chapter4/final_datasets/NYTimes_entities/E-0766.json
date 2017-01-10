@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Florida",
+            "types": [
+                {
+                    "label": "medical school",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkJnZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Universities And Colleges In Florida",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInFlorida"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Florida"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0766",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Florida",
+            "types": [
+                {
+                    "label": "medical school",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkJnZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Universities And Colleges In Florida",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInFlorida"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Florida"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

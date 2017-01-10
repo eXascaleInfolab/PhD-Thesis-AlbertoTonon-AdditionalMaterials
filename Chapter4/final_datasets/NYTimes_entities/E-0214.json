@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Jackie Reses",
+            "types": [
+                {
+                    "label": "Species",
+                    "uri": "http://dbpedia.org/ontology/Species"
+                },
+                {
+                    "label": "Mollusca",
+                    "uri": "http://dbpedia.org/ontology/Mollusca"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                },
+                {
+                    "label": "Animal",
+                    "uri": "http://dbpedia.org/ontology/Animal"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Orthalicus_reses"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0214",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jackie Reses",
+            "types": [
+                {
+                    "label": "Species",
+                    "uri": "http://dbpedia.org/ontology/Species"
+                },
+                {
+                    "label": "Mollusca",
+                    "uri": "http://dbpedia.org/ontology/Mollusca"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                },
+                {
+                    "label": "Animal",
+                    "uri": "http://dbpedia.org/ontology/Animal"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Orthalicus_reses"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

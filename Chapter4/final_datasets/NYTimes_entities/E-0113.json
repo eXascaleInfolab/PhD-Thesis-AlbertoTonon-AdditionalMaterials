@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "University of California",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In California",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInCalifornia"
+                },
+                {
+                    "label": "Educational Institutions Established In1868",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1868"
+                },
+                {
+                    "label": "organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_California"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0113",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of California",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In California",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInCalifornia"
+                },
+                {
+                    "label": "Educational Institutions Established In1868",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1868"
+                },
+                {
+                    "label": "organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_California"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Catholic",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Catholic"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0650",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Catholic",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Catholic"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

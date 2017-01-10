@@ -1,0 +1,205 @@
+{
+  "mainText":"Edney went on three morning shows, including \u201cGood Morning America,\u201d on which his story followed one about the pope.\nIt certainly seemed that way.\nHe appeared on ESPN\u2019s flagship program, \u201cSportsCenter,\u201d twice.\nHe had an interviewed scheduled with CNN for Tuesday morning and one YouTube video of The Shot had already accumulated more than 1.4 million views by late afternoon.\nThe world?",
+  "shownText":"\u201cThat\u2019s what the world\u2019s calling it,\u201d Khalil said.\n\nEdney went on three morning shows, including \u201cGood Morning America,\u201d on which his story followed one about the pope.\nIt certainly seemed that way.\nHe appeared on ESPN\u2019s flagship program, \u201cSportsCenter,\u201d twice.\nHe had an interviewed scheduled with CNN for Tuesday morning and one YouTube video of The Shot had already accumulated more than 1.4 million views by late afternoon.\nThe world?\n\nThis said less about the basketball player and his moment than it did about this era of modern sports.\nIn a world driven and captured and analyzed on social media, the feedback is instant, often overdramatized.\nA high school playoff game can conclude in dramatic fashion in Westchester County, and word can spread across the country in a matter of minutes \u2014 the best shot ever, the best buzzer-beater ever, Facebook post after Facebook post Sunday with the same question:\n",
+  "title":"Khalil Edney Is Big Shot at New Rochelle High School and on YouTube - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/khalil-edney-is-big-shot-at-new-rochelle-high-school-and-on-youtube.html?ref=sports",
+  "category":"sports",
+  "docID":"P3-0201",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN",
+      "offsets":[
+        {
+          "offset":214,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CNN",
+      "label":"CNN",
+      "offsets":[
+        {
+          "offset":299,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"24-hour television news channels",
+          "uri":"http://dbpedia.org/resource/24-hour_television_news_channels"
+        },
+        {
+          "label":"Digital only radio stations",
+          "uri":"http://dbpedia.org/resource/Digital_only_radio_stations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN",
+      "offsets":[
+        {
+          "offset":214,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CNN",
+      "label":"CNN",
+      "offsets":[
+        {
+          "offset":299,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"24-hour television news channels",
+          "uri":"http://dbpedia.org/resource/24-hour_television_news_channels"
+        },
+        {
+          "label":"Digital only radio stations",
+          "uri":"http://dbpedia.org/resource/Digital_only_radio_stations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":847,
+          "length":8
+        },
+        {
+          "offset":867,
+          "length":8
+        },
+        {
+          "offset":847,
+          "length":8
+        },
+        {
+          "offset":867,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Khalil",
+      "label":"Khalil",
+      "offsets":[
+        {
+          "offset":38,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Crusade people (Muslims)",
+          "uri":"http://dbpedia.org/resource/Crusade_people_%28Muslims%29"
+        },
+        {
+          "label":"Murdered Monarchs",
+          "uri":"http://dbpedia.org/class/yago/MurderedMonarchs"
+        },
+        {
+          "label":"Egyptian nobility",
+          "uri":"http://dbpedia.org/resource/Egyptian_nobility"
+        }
+      ]
+    }
+  ]
+}

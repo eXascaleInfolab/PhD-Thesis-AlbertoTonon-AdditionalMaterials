@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Rachel Sklar",
+            "types": [
+                {
+                    "label": "Jewish bloggers",
+                    "uri": "http://dbpedia.org/resource/Jewish_bloggers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Canadian Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianLawyers"
+                },
+                {
+                    "label": "Debating Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DebatingAlumni"
+                },
+                {
+                    "label": "Jewish Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/JewishBloggers"
+                },
+                {
+                    "label": "Canadian lawyers",
+                    "uri": "http://dbpedia.org/resource/Canadian_lawyers"
+                },
+                {
+                    "label": "Debating alumni",
+                    "uri": "http://dbpedia.org/resource/Debating_alumni"
+                },
+                {
+                    "label": "Lawyer",
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rachel_Sklar"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0265",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rachel Sklar",
+            "types": [
+                {
+                    "label": "Jewish bloggers",
+                    "uri": "http://dbpedia.org/resource/Jewish_bloggers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Canadian Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianLawyers"
+                },
+                {
+                    "label": "Debating Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DebatingAlumni"
+                },
+                {
+                    "label": "Jewish Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/JewishBloggers"
+                },
+                {
+                    "label": "Canadian lawyers",
+                    "uri": "http://dbpedia.org/resource/Canadian_lawyers"
+                },
+                {
+                    "label": "Debating alumni",
+                    "uri": "http://dbpedia.org/resource/Debating_alumni"
+                },
+                {
+                    "label": "Lawyer",
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rachel_Sklar"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

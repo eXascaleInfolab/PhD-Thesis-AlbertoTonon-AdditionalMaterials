@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Greenpeace",
+            "types": [
+                {
+                    "label": "Anti-nuclear power movement",
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_power_movement"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Anti-nuclear weapons movement",
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_weapons_movement"
+                },
+                {
+                    "label": "Climate change organizations",
+                    "uri": "http://dbpedia.org/resource/Climate_change_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greenpeace"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0032",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Greenpeace",
+            "types": [
+                {
+                    "label": "Anti-nuclear power movement",
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_power_movement"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Anti-nuclear weapons movement",
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_weapons_movement"
+                },
+                {
+                    "label": "Climate change organizations",
+                    "uri": "http://dbpedia.org/resource/Climate_change_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greenpeace"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Bangkok",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Asia",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInAsia"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Cities In Thailand",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInThailand"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bangkok"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0299",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bangkok",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Asia",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInAsia"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Cities In Thailand",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInThailand"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bangkok"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

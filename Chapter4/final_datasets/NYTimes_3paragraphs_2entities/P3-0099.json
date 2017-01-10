@@ -1,0 +1,637 @@
+{
+  "mainText":"She will continue her tour on Thursday in Chicago, where she will announce a physical fitness initiative in schools with the tennis player Serena Williams and Education Secretary Arne Duncan.\nFrom there, Mrs. Obama will continue on to Missouri to promote adjustments in the food offerings at Walmart and discuss changes to other food businesses.\nShe is traveling with Sam Kass, the senior policy adviser for her White House healthy food initiative.",
+  "shownText":"Her dancing with middle school students, doing push-ups on \u201cThe Ellen DeGeneres Show,\u201d running out for tapas with her girlfriends and clipping her locks into modern bangs both thrill and deeply annoy a nation that projects much onto its first ladies.\n\nShe will continue her tour on Thursday in Chicago, where she will announce a physical fitness initiative in schools with the tennis player Serena Williams and Education Secretary Arne Duncan.\nFrom there, Mrs. Obama will continue on to Missouri to promote adjustments in the food offerings at Walmart and discuss changes to other food businesses.\nShe is traveling with Sam Kass, the senior policy adviser for her White House healthy food initiative.\n\nA version of this article appeared in print on February 28, 2013, on page A18 of the New York edition with the headline: New Attention to First Lady as She Presses Ahead With Healthy Eating Drive.\n",
+  "title":"New Attention to First Lady - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/us/politics/new-attention-to-first-lady.html?ref=health",
+  "category":"health",
+  "docID":"P3-0099",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Missouri",
+      "label":"Missouri",
+      "offsets":[
+        {
+          "offset":487,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Chicago",
+      "label":"Chicago",
+      "offsets":[
+        {
+          "offset":294,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Cities In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CitiesInIllinois"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Communities on U.S. Route 66",
+          "uri":"http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economies By City",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByCity"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Settlements Established In1833",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+        },
+        {
+          "label":"Port Cities In The United States",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+        },
+        {
+          "label":"County Seats In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInIllinois"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Serena_Williams",
+      "label":"Serena Williams",
+      "offsets":[
+        {
+          "offset":391,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"American tennis players",
+          "uri":"http://dbpedia.org/resource/American_tennis_players"
+        },
+        {
+          "label":"American Tennis Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanTennisPlayers"
+        },
+        {
+          "label":"Olympic Gold Medalists For The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicGoldMedalistsForTheUnitedStates"
+        },
+        {
+          "label":"USOpen Champions",
+          "uri":"http://dbpedia.org/class/yago/USOpenChampions"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"French Open Champions",
+          "uri":"http://dbpedia.org/class/yago/FrenchOpenChampions"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Tennis Player",
+          "uri":"http://dbpedia.org/ontology/TennisPlayer"
+        },
+        {
+          "label":"Olympic Tennis Players Of The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicTennisPlayersOfTheUnitedStates"
+        },
+        {
+          "label":"Wimbledon Champions",
+          "uri":"http://dbpedia.org/class/yago/WimbledonChampions"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"French Open champions",
+          "uri":"http://dbpedia.org/resource/French_Open_champions"
+        },
+        {
+          "label":"People From Compton,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCompton,California"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Australian Open champions",
+          "uri":"http://dbpedia.org/resource/Australian_Open_champions"
+        },
+        {
+          "label":"Jehovah%27s Witnesses people",
+          "uri":"http://dbpedia.org/resource/Jehovah%27s_Witnesses_people"
+        },
+        {
+          "label":"Tennis Players At The2000Summer Olympics",
+          "uri":"http://dbpedia.org/class/yago/TennisPlayersAtThe2000SummerOlympics"
+        },
+        {
+          "label":"Jehovah's Witnesses People",
+          "uri":"http://dbpedia.org/class/yago/Jehovah'sWitnessesPeople"
+        },
+        {
+          "label":"Tennis Player",
+          "uri":"http://dbpedia.org/class/yago/TennisPlayer110701180"
+        },
+        {
+          "label":"Australian Open Champions",
+          "uri":"http://dbpedia.org/class/yago/AustralianOpenChampions"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":664,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Missouri",
+      "label":"Missouri",
+      "offsets":[
+        {
+          "offset":487,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Chicago",
+      "label":"Chicago",
+      "offsets":[
+        {
+          "offset":294,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Cities In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CitiesInIllinois"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Communities on U.S. Route 66",
+          "uri":"http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economies By City",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByCity"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Settlements Established In1833",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+        },
+        {
+          "label":"Port Cities In The United States",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+        },
+        {
+          "label":"County Seats In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInIllinois"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Serena_Williams",
+      "label":"Serena Williams",
+      "offsets":[
+        {
+          "offset":391,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"American tennis players",
+          "uri":"http://dbpedia.org/resource/American_tennis_players"
+        },
+        {
+          "label":"American Tennis Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanTennisPlayers"
+        },
+        {
+          "label":"Olympic Gold Medalists For The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicGoldMedalistsForTheUnitedStates"
+        },
+        {
+          "label":"USOpen Champions",
+          "uri":"http://dbpedia.org/class/yago/USOpenChampions"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"French Open Champions",
+          "uri":"http://dbpedia.org/class/yago/FrenchOpenChampions"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Tennis Player",
+          "uri":"http://dbpedia.org/ontology/TennisPlayer"
+        },
+        {
+          "label":"Olympic Tennis Players Of The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicTennisPlayersOfTheUnitedStates"
+        },
+        {
+          "label":"Wimbledon Champions",
+          "uri":"http://dbpedia.org/class/yago/WimbledonChampions"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"French Open champions",
+          "uri":"http://dbpedia.org/resource/French_Open_champions"
+        },
+        {
+          "label":"People From Compton,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCompton,California"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Australian Open champions",
+          "uri":"http://dbpedia.org/resource/Australian_Open_champions"
+        },
+        {
+          "label":"Jehovah%27s Witnesses people",
+          "uri":"http://dbpedia.org/resource/Jehovah%27s_Witnesses_people"
+        },
+        {
+          "label":"Tennis Players At The2000Summer Olympics",
+          "uri":"http://dbpedia.org/class/yago/TennisPlayersAtThe2000SummerOlympics"
+        },
+        {
+          "label":"Jehovah's Witnesses People",
+          "uri":"http://dbpedia.org/class/yago/Jehovah'sWitnessesPeople"
+        },
+        {
+          "label":"Tennis Player",
+          "uri":"http://dbpedia.org/class/yago/TennisPlayer110701180"
+        },
+        {
+          "label":"Australian Open Champions",
+          "uri":"http://dbpedia.org/class/yago/AustralianOpenChampions"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":664,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+    "allEntities": [
+        {
+            "label": "Robertson Davies",
+            "types": [
+                {
+                    "label": "Canadian Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/CanadianDramatistsAndPlaywrights"
+                },
+                {
+                    "label": "Fellows Of The Royal Society Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfCanada"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Canadian novelists",
+                    "uri": "http://dbpedia.org/resource/Canadian_novelists"
+                },
+                {
+                    "label": "Upper Canada College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/UpperCanadaCollegeAlumni"
+                },
+                {
+                    "label": "Canadian journalists",
+                    "uri": "http://dbpedia.org/resource/Canadian_journalists"
+                },
+                {
+                    "label": "Queen's University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/Queen'sUniversityAlumni"
+                },
+                {
+                    "label": "Ontario Writers",
+                    "uri": "http://dbpedia.org/class/yago/OntarioWriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Converts To Anglicanism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToAnglicanism"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Canadian literary critics",
+                    "uri": "http://dbpedia.org/resource/Canadian_literary_critics"
+                },
+                {
+                    "label": "Canadian dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/Canadian_dramatists_and_playwrights"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Canadian newspaper editors",
+                    "uri": "http://dbpedia.org/resource/Canadian_newspaper_editors"
+                },
+                {
+                    "label": "Canadian Journalists",
+                    "uri": "http://dbpedia.org/class/yago/CanadianJournalists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "dramatist",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViwKZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Canadian Novelists",
+                    "uri": "http://dbpedia.org/class/yago/CanadianNovelists"
+                },
+                {
+                    "label": "Canadian Anglicans",
+                    "uri": "http://dbpedia.org/resource/Canadian_Anglicans"
+                },
+                {
+                    "label": "Magic Realism Writers",
+                    "uri": "http://dbpedia.org/class/yago/MagicRealismWriters"
+                },
+                {
+                    "label": "Converts to Anglicanism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Anglicanism"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "Companions Of The Order Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/CompanionsOfTheOrderOfCanada"
+                },
+                {
+                    "label": "Canadian Newspaper Editors",
+                    "uri": "http://dbpedia.org/class/yago/CanadianNewspaperEditors"
+                },
+                {
+                    "label": "Canadian Literary Critics",
+                    "uri": "http://dbpedia.org/class/yago/CanadianLiteraryCritics"
+                },
+                {
+                    "label": "novelist",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi18JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From Chatham-Kent,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChatham-Kent,Ontario"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robertson_Davies"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0206",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Robertson Davies",
+            "types": [
+                {
+                    "label": "Canadian Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/CanadianDramatistsAndPlaywrights"
+                },
+                {
+                    "label": "Fellows Of The Royal Society Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfCanada"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Canadian novelists",
+                    "uri": "http://dbpedia.org/resource/Canadian_novelists"
+                },
+                {
+                    "label": "Upper Canada College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/UpperCanadaCollegeAlumni"
+                },
+                {
+                    "label": "Canadian journalists",
+                    "uri": "http://dbpedia.org/resource/Canadian_journalists"
+                },
+                {
+                    "label": "Queen's University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/Queen'sUniversityAlumni"
+                },
+                {
+                    "label": "Ontario Writers",
+                    "uri": "http://dbpedia.org/class/yago/OntarioWriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Converts To Anglicanism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToAnglicanism"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Canadian literary critics",
+                    "uri": "http://dbpedia.org/resource/Canadian_literary_critics"
+                },
+                {
+                    "label": "Canadian dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/Canadian_dramatists_and_playwrights"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Canadian newspaper editors",
+                    "uri": "http://dbpedia.org/resource/Canadian_newspaper_editors"
+                },
+                {
+                    "label": "Canadian Journalists",
+                    "uri": "http://dbpedia.org/class/yago/CanadianJournalists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "dramatist",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViwKZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Canadian Novelists",
+                    "uri": "http://dbpedia.org/class/yago/CanadianNovelists"
+                },
+                {
+                    "label": "Canadian Anglicans",
+                    "uri": "http://dbpedia.org/resource/Canadian_Anglicans"
+                },
+                {
+                    "label": "Magic Realism Writers",
+                    "uri": "http://dbpedia.org/class/yago/MagicRealismWriters"
+                },
+                {
+                    "label": "Converts to Anglicanism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Anglicanism"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "Companions Of The Order Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/CompanionsOfTheOrderOfCanada"
+                },
+                {
+                    "label": "Canadian Newspaper Editors",
+                    "uri": "http://dbpedia.org/class/yago/CanadianNewspaperEditors"
+                },
+                {
+                    "label": "Canadian Literary Critics",
+                    "uri": "http://dbpedia.org/class/yago/CanadianLiteraryCritics"
+                },
+                {
+                    "label": "novelist",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi18JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From Chatham-Kent,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChatham-Kent,Ontario"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robertson_Davies"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

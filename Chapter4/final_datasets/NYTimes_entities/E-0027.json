@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Time Warner Cable",
+            "types": [
+                {
+                    "label": "Entertainment Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1989",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Time_Warner_Cable"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0027",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Time Warner Cable",
+            "types": [
+                {
+                    "label": "Entertainment Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1989",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Time_Warner_Cable"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

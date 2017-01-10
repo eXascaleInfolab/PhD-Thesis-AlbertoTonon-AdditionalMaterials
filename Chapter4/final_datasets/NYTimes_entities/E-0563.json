@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Malindi",
+            "types": [
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Former Portuguese colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Portuguese_colonies"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Malindi"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0563",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Malindi",
+            "types": [
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Former Portuguese colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Portuguese_colonies"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Malindi"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

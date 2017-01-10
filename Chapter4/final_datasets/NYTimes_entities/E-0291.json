@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Staten Island",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Staten_Island"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0291",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Staten Island",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Staten_Island"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

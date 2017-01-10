@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Monell Chemical Senses Center",
+            "types": [
+                {
+                    "label": "Research Institutes In The United States",
+                    "uri": "http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+                },
+                {
+                    "label": "Independent research institutes",
+                    "uri": "http://dbpedia.org/resource/Independent_research_institutes"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Monell_Chemical_Senses_Center"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0100",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Monell Chemical Senses Center",
+            "types": [
+                {
+                    "label": "Research Institutes In The United States",
+                    "uri": "http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+                },
+                {
+                    "label": "Independent research institutes",
+                    "uri": "http://dbpedia.org/resource/Independent_research_institutes"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Monell_Chemical_Senses_Center"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,909 @@
+{
+  "mainText":"Despite his supporters\u2019 expectations, President Obama has followed a Middle East policy nearly identical to his predecessor\u2019s.\nHe took us out of Iraq, only to deepen our commitment to Afghanistan, from which we just now pulling out.\nHe rejected the most odious counterterrorism techniques of George W. Bush\u2019s administration, but otherwise did not change basic policies.\nMr. Obama\u2019s gestures toward multilateralism were not matched by a commensurate commitment from many of our allies.",
+  "shownText":"Despite his supporters\u2019 expectations, President Obama has followed a Middle East policy nearly identical to his predecessor\u2019s.\nHe took us out of Iraq, only to deepen our commitment to Afghanistan, from which we just now pulling out.\nHe rejected the most odious counterterrorism techniques of George W. Bush\u2019s administration, but otherwise did not change basic policies.\nMr. Obama\u2019s gestures toward multilateralism were not matched by a commensurate commitment from many of our allies.",
+  "title":"Come Home, America - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/opinion/come-home-america.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0130",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Iraq",
+      "label":"Iraq",
+      "offsets":[
+        {
+          "offset":145,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"authoritarian government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRd3pAm2hEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the persian gulf hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r68SWVmJsQdiPidDC-DYkdg"
+        },
+        {
+          "label":"Economy",
+          "uri":"http://dbpedia.org/class/yago/Economy108366753"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Persian Gulf Countries",
+          "uri":"http://dbpedia.org/class/yago/PersianGulfCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Territories Under Military Occupation",
+          "uri":"http://dbpedia.org/class/yago/TerritoriesUnderMilitaryOccupation"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"Persian Gulf country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv5I5FZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Southwest Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/SouthwestAsianCountries"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"head sponsor of terrorism",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvWWU7ZwpEbGdrcN5Y29ycB4rvhBcQ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"OPECMember States",
+          "uri":"http://dbpedia.org/class/yago/OPECMemberStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"States And Territories Established In1932",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1932"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Afghanistan",
+      "label":"Afghanistan",
+      "offsets":[
+        {
+          "offset":184,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Middle Eastern country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_W._Bush",
+      "label":"George W. Bush",
+      "offsets":[
+        {
+          "offset":292,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Converts to Methodism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Methodism"
+        },
+        {
+          "label":"American cheerleaders",
+          "uri":"http://dbpedia.org/resource/American_cheerleaders"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Phillips Academy Alumni",
+          "uri":"http://dbpedia.org/class/yago/PhillipsAcademyAlumni"
+        },
+        {
+          "label":"Major League Baseball Owners",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballOwners"
+        },
+        {
+          "label":"American Aviators",
+          "uri":"http://dbpedia.org/class/yago/AmericanAviators"
+        },
+        {
+          "label":"Businessperson",
+          "uri":"http://dbpedia.org/class/yago/Businessperson109882716"
+        },
+        {
+          "label":"Children Of Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/ChildrenOfPresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"People From Midland,Texas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMidland,Texas"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"American People Of Welsh Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfWelshDescent"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Oil Industrialists",
+          "uri":"http://dbpedia.org/class/yago/AmericanOilIndustrialists"
+        },
+        {
+          "label":"People From New Haven,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewHaven,Connecticut"
+        },
+        {
+          "label":"American Rugby Union Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanRugbyUnionPlayers"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"American People Of Irish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfIrishDescent"
+        },
+        {
+          "label":"American People Of German Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfGermanDescent"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"American Cheerleaders",
+          "uri":"http://dbpedia.org/class/yago/AmericanCheerleaders"
+        },
+        {
+          "label":"American People Of Scottish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfScottishDescent"
+        },
+        {
+          "label":"American sports businesspeople",
+          "uri":"http://dbpedia.org/resource/American_sports_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Motivational Speakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanMotivationalSpeakers"
+        },
+        {
+          "label":"Texas Rangers Executives",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersExecutives"
+        },
+        {
+          "label":"Texas Rangers",
+          "uri":"http://dbpedia.org/class/yago/TexasRangers"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Converts To Methodism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToMethodism"
+        },
+        {
+          "label":"American People Of French Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfFrenchDescent"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Republican",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhvt4ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Governors Of Texas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfTexas"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Texas Republicans",
+          "uri":"http://dbpedia.org/class/yago/TexasRepublicans"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Yale University Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleUniversityAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Major League Baseball Executives",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballExecutives"
+        },
+        {
+          "label":"Converts From Anglicanism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsFromAnglicanism"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Texas Rangers Owners",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersOwners"
+        },
+        {
+          "label":"American People Of English Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfEnglishDescent"
+        },
+        {
+          "label":"Politicians Convicted Of Alcohol-related Driving Offenses",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansConvictedOfAlcohol-relatedDrivingOffenses"
+        },
+        {
+          "label":"United States Air Force Officers",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesAirForceOfficers"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"21st-century Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/21st-centuryPresidentsOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Middle_East",
+      "label":"Middle East",
+      "offsets":[
+        {
+          "offset":69,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":"KE clarifying collection type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Iraq",
+      "label":"Iraq",
+      "offsets":[
+        {
+          "offset":145,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"authoritarian government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRd3pAm2hEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the persian gulf hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r68SWVmJsQdiPidDC-DYkdg"
+        },
+        {
+          "label":"Economy",
+          "uri":"http://dbpedia.org/class/yago/Economy108366753"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Persian Gulf Countries",
+          "uri":"http://dbpedia.org/class/yago/PersianGulfCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Territories Under Military Occupation",
+          "uri":"http://dbpedia.org/class/yago/TerritoriesUnderMilitaryOccupation"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"Persian Gulf country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv5I5FZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Southwest Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/SouthwestAsianCountries"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"head sponsor of terrorism",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvWWU7ZwpEbGdrcN5Y29ycB4rvhBcQ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"OPECMember States",
+          "uri":"http://dbpedia.org/class/yago/OPECMemberStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"States And Territories Established In1932",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1932"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Afghanistan",
+      "label":"Afghanistan",
+      "offsets":[
+        {
+          "offset":184,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Middle Eastern country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_W._Bush",
+      "label":"George W. Bush",
+      "offsets":[
+        {
+          "offset":292,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Converts to Methodism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Methodism"
+        },
+        {
+          "label":"American cheerleaders",
+          "uri":"http://dbpedia.org/resource/American_cheerleaders"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Phillips Academy Alumni",
+          "uri":"http://dbpedia.org/class/yago/PhillipsAcademyAlumni"
+        },
+        {
+          "label":"Major League Baseball Owners",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballOwners"
+        },
+        {
+          "label":"American Aviators",
+          "uri":"http://dbpedia.org/class/yago/AmericanAviators"
+        },
+        {
+          "label":"Businessperson",
+          "uri":"http://dbpedia.org/class/yago/Businessperson109882716"
+        },
+        {
+          "label":"Children Of Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/ChildrenOfPresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"People From Midland,Texas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMidland,Texas"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"American People Of Welsh Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfWelshDescent"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Oil Industrialists",
+          "uri":"http://dbpedia.org/class/yago/AmericanOilIndustrialists"
+        },
+        {
+          "label":"People From New Haven,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewHaven,Connecticut"
+        },
+        {
+          "label":"American Rugby Union Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanRugbyUnionPlayers"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"American People Of Irish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfIrishDescent"
+        },
+        {
+          "label":"American People Of German Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfGermanDescent"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"American Cheerleaders",
+          "uri":"http://dbpedia.org/class/yago/AmericanCheerleaders"
+        },
+        {
+          "label":"American People Of Scottish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfScottishDescent"
+        },
+        {
+          "label":"American sports businesspeople",
+          "uri":"http://dbpedia.org/resource/American_sports_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Motivational Speakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanMotivationalSpeakers"
+        },
+        {
+          "label":"Texas Rangers Executives",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersExecutives"
+        },
+        {
+          "label":"Texas Rangers",
+          "uri":"http://dbpedia.org/class/yago/TexasRangers"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Converts To Methodism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToMethodism"
+        },
+        {
+          "label":"American People Of French Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfFrenchDescent"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Republican",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhvt4ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Governors Of Texas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfTexas"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Texas Republicans",
+          "uri":"http://dbpedia.org/class/yago/TexasRepublicans"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Yale University Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleUniversityAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Major League Baseball Executives",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballExecutives"
+        },
+        {
+          "label":"Converts From Anglicanism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsFromAnglicanism"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Texas Rangers Owners",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersOwners"
+        },
+        {
+          "label":"American People Of English Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfEnglishDescent"
+        },
+        {
+          "label":"Politicians Convicted Of Alcohol-related Driving Offenses",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansConvictedOfAlcohol-relatedDrivingOffenses"
+        },
+        {
+          "label":"United States Air Force Officers",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesAirForceOfficers"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"21st-century Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/21st-centuryPresidentsOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Middle_East",
+      "label":"Middle East",
+      "offsets":[
+        {
+          "offset":69,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":"KE clarifying collection type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

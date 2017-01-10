@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Kikuyu",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ethnic Group",
+                    "uri": "http://dbpedia.org/ontology/EthnicGroup"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kikuyu"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0362",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kikuyu",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ethnic Group",
+                    "uri": "http://dbpedia.org/ontology/EthnicGroup"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kikuyu"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

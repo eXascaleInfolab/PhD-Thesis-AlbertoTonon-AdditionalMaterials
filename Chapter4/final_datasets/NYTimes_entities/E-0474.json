@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Trendrr",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Trendrr"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0474",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Trendrr",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Trendrr"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

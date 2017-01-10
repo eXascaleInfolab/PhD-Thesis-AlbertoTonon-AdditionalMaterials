@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Harvard School of Public Health",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harvard_School_of_Public_Health"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0680",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Harvard School of Public Health",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harvard_School_of_Public_Health"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

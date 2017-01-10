@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "World Bank",
+            "types": [
+                {
+                    "label": "world organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJ55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Economics organizations",
+                    "uri": "http://dbpedia.org/resource/Economics_organizations"
+                },
+                {
+                    "label": "Banks",
+                    "uri": "http://dbpedia.org/class/yago/Banks"
+                },
+                {
+                    "label": "Economics Organizations",
+                    "uri": "http://dbpedia.org/class/yago/EconomicsOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/World_Bank"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0426",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "World Bank",
+            "types": [
+                {
+                    "label": "world organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJ55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Economics organizations",
+                    "uri": "http://dbpedia.org/resource/Economics_organizations"
+                },
+                {
+                    "label": "Banks",
+                    "uri": "http://dbpedia.org/class/yago/Banks"
+                },
+                {
+                    "label": "Economics Organizations",
+                    "uri": "http://dbpedia.org/class/yago/EconomicsOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/World_Bank"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,117 @@
+{
+  "mainText":"It is the boldest move yet by Mr. Riggio, the company\u2019s largest shareholder who owns nearly 30 percent of Barnes & Noble, to try and save the company.",
+  "shownText":"It is the boldest move yet by Mr. Riggio, the company\u2019s largest shareholder who owns nearly 30 percent of Barnes & Noble, to try and save the company.",
+  "title":"Barnes &amp; Noble Chairman Leonard Riggio to Bid for Bookstore&#039;s Retail Business - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/barnes-noble-chairma-to-bid-for-bookstores-retail-business/",
+  "category":"dealbook",
+  "docID":"S-0094",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":34,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":106,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":34,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":106,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+    "allEntities": [
+        {
+            "label": "William McKinley", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 1437
+                }
+            ], 
+            "types": [
+                {
+                    "label": "United States Army Officers", 
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmyOfficers"
+                }, 
+                {
+                    "label": "People From Canton,Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCanton,Ohio"
+                }, 
+                {
+                    "label": "Governor", 
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                }, 
+                {
+                    "label": "People From Niles,Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNiles,Ohio"
+                }, 
+                {
+                    "label": "Delegates to the Republican National Convention", 
+                    "uri": "http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+                }, 
+                {
+                    "label": "Assassinated American Politicians", 
+                    "uri": "http://dbpedia.org/class/yago/AssassinatedAmericanPoliticians"
+                }, 
+                {
+                    "label": "Assassinated United States Presidents", 
+                    "uri": "http://dbpedia.org/resource/Assassinated_United_States_Presidents"
+                }, 
+                {
+                    "label": "Politician", 
+                    "uri": "http://dbpedia.org/class/yago/Politician110451263"
+                }, 
+                {
+                    "label": "One of the presidents of the United States", 
+                    "uri": "http://sw.opencyc.org/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "national president", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Lawyer", 
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                }, 
+                {
+                    "label": "male person", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Politician", 
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                }, 
+                {
+                    "label": "One of the presidents of the United States", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Agent", 
+                    "uri": "http://xmlns.com/foaf/0.1/Agent"
+                }, 
+                {
+                    "label": "elected head of state", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rtesQRlujEdqAAAACs71DGQ"
+                }, 
+                {
+                    "label": "United States president", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Delegates To The Republican National Convention", 
+                    "uri": "http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+                }, 
+                {
+                    "label": "Presidents Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Social Entity", 
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Assassinated United States Presidents", 
+                    "uri": "http://dbpedia.org/class/yago/AssassinatedUnitedStatesPresidents"
+                }, 
+                {
+                    "label": "United States president", 
+                    "uri": "http://sw.cyc.com/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "President", 
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                }, 
+                {
+                    "label": "Union Army Officers", 
+                    "uri": "http://dbpedia.org/class/yago/UnionArmyOfficers"
+                }, 
+                {
+                    "label": "Ohio Republicans", 
+                    "uri": "http://dbpedia.org/class/yago/OhioRepublicans"
+                }, 
+                {
+                    "label": "thing", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "United States President", 
+                    "uri": "http://umbel.org/umbel/sc/UnitedStatesPresident"
+                }, 
+                {
+                    "label": "Albany Law School alumni", 
+                    "uri": "http://dbpedia.org/resource/Albany_Law_School_alumni"
+                }, 
+                {
+                    "label": "Military Person", 
+                    "uri": "http://dbpedia.org/ontology/MilitaryPerson"
+                }, 
+                {
+                    "label": "executive", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rKz0WiMsgEdmAAAACs6hRjg"
+                }, 
+                {
+                    "label": "United States president", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "President of the United States", 
+                    "uri": "http://www.w3.org/2006/03/wn/wn20/instances/synset-President_of_the_United_States-noun-1"
+                }, 
+                {
+                    "label": "Governors Of Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfOhio"
+                }, 
+                {
+                    "label": "President of the United States", 
+                    "uri": "http://dbpedia.org/resource/President_of_the_United_States"
+                }, 
+                {
+                    "label": "President of the United States", 
+                    "uri": "http://www.w3.org/2006/03/wn/wn20/instances/synset-President_of_the_United_States-noun-2"
+                }, 
+                {
+                    "label": "federal employee", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjvRpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "head of government", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBQ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Assassinated American politicians", 
+                    "uri": "http://dbpedia.org/resource/Assassinated_American_politicians"
+                }, 
+                {
+                    "label": "One of the presidents of the United States", 
+                    "uri": "http://sw.cyc.com/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#Person"
+                }, 
+                {
+                    "label": "People Of The Spanish-American War", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfTheSpanish-AmericanWar"
+                }, 
+                {
+                    "label": "Delegate", 
+                    "uri": "http://dbpedia.org/class/yago/Delegate110000787"
+                }, 
+                {
+                    "label": "Agent", 
+                    "uri": "http://purl.org/dc/terms/Agent"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "politician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Military Officer", 
+                    "uri": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "United States citizen", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvy05U5wpEbGdrcN5Y29ycB4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Albany Law School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/AlbanyLawSchoolAlumni"
+                }, 
+                {
+                    "label": "President", 
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/William_McKinley"
+        }, 
+        {
+            "label": "Oliver Stone", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 344
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "Best Director Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+                }, 
+                {
+                    "label": "Yale University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/YaleUniversityAlumni"
+                }, 
+                {
+                    "label": "American Buddhists", 
+                    "uri": "http://dbpedia.org/resource/American_Buddhists"
+                }, 
+                {
+                    "label": "Screenwriter", 
+                    "uri": "http://dbpedia.org/class/yago/Screenwriter110564400"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "American Screenwriters", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                }, 
+                {
+                    "label": "BAFTA winners (people)", 
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                }, 
+                {
+                    "label": "Film Maker", 
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                }, 
+                {
+                    "label": "Film Director", 
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "Best Director Golden Globe", 
+                    "uri": "http://dbpedia.org/resource/Best_Director_Golden_Globe"
+                }, 
+                {
+                    "label": "Best Adapted Screenplay Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Adapted_Screenplay_Academy_Award_winners"
+                }, 
+                {
+                    "label": "United States Army Soldiers", 
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmySoldiers"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Oliver_Stone"
+        }, 
+        {
+            "label": "Mary", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 1588
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Feminine given names", 
+                    "uri": "http://dbpedia.org/resource/Feminine_given_names"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "English given names", 
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mary"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/interactive/2013/03/03/arts/critics-on-violence-in-media.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P3-0001", 
+    "elementNumber": 32, 
+    "mainEntities": [
+        {
+            "label": "William McKinley", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 1437
+                }
+            ], 
+            "types": [
+                {
+                    "label": "United States Army Officers", 
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmyOfficers"
+                }, 
+                {
+                    "label": "People From Canton,Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCanton,Ohio"
+                }, 
+                {
+                    "label": "Governor", 
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                }, 
+                {
+                    "label": "People From Niles,Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNiles,Ohio"
+                }, 
+                {
+                    "label": "Delegates to the Republican National Convention", 
+                    "uri": "http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+                }, 
+                {
+                    "label": "Assassinated American Politicians", 
+                    "uri": "http://dbpedia.org/class/yago/AssassinatedAmericanPoliticians"
+                }, 
+                {
+                    "label": "Assassinated United States Presidents", 
+                    "uri": "http://dbpedia.org/resource/Assassinated_United_States_Presidents"
+                }, 
+                {
+                    "label": "Politician", 
+                    "uri": "http://dbpedia.org/class/yago/Politician110451263"
+                }, 
+                {
+                    "label": "One of the presidents of the United States", 
+                    "uri": "http://sw.opencyc.org/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "national president", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Lawyer", 
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                }, 
+                {
+                    "label": "male person", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Politician", 
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                }, 
+                {
+                    "label": "One of the presidents of the United States", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Agent", 
+                    "uri": "http://xmlns.com/foaf/0.1/Agent"
+                }, 
+                {
+                    "label": "elected head of state", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rtesQRlujEdqAAAACs71DGQ"
+                }, 
+                {
+                    "label": "United States president", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Delegates To The Republican National Convention", 
+                    "uri": "http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+                }, 
+                {
+                    "label": "Presidents Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Social Entity", 
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Assassinated United States Presidents", 
+                    "uri": "http://dbpedia.org/class/yago/AssassinatedUnitedStatesPresidents"
+                }, 
+                {
+                    "label": "United States president", 
+                    "uri": "http://sw.cyc.com/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "President", 
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                }, 
+                {
+                    "label": "Union Army Officers", 
+                    "uri": "http://dbpedia.org/class/yago/UnionArmyOfficers"
+                }, 
+                {
+                    "label": "Ohio Republicans", 
+                    "uri": "http://dbpedia.org/class/yago/OhioRepublicans"
+                }, 
+                {
+                    "label": "thing", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "United States President", 
+                    "uri": "http://umbel.org/umbel/sc/UnitedStatesPresident"
+                }, 
+                {
+                    "label": "Albany Law School alumni", 
+                    "uri": "http://dbpedia.org/resource/Albany_Law_School_alumni"
+                }, 
+                {
+                    "label": "Military Person", 
+                    "uri": "http://dbpedia.org/ontology/MilitaryPerson"
+                }, 
+                {
+                    "label": "executive", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rKz0WiMsgEdmAAAACs6hRjg"
+                }, 
+                {
+                    "label": "United States president", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "President of the United States", 
+                    "uri": "http://www.w3.org/2006/03/wn/wn20/instances/synset-President_of_the_United_States-noun-1"
+                }, 
+                {
+                    "label": "Governors Of Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfOhio"
+                }, 
+                {
+                    "label": "President of the United States", 
+                    "uri": "http://dbpedia.org/resource/President_of_the_United_States"
+                }, 
+                {
+                    "label": "President of the United States", 
+                    "uri": "http://www.w3.org/2006/03/wn/wn20/instances/synset-President_of_the_United_States-noun-2"
+                }, 
+                {
+                    "label": "federal employee", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjvRpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "head of government", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBQ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Assassinated American politicians", 
+                    "uri": "http://dbpedia.org/resource/Assassinated_American_politicians"
+                }, 
+                {
+                    "label": "One of the presidents of the United States", 
+                    "uri": "http://sw.cyc.com/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#Person"
+                }, 
+                {
+                    "label": "People Of The Spanish-American War", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfTheSpanish-AmericanWar"
+                }, 
+                {
+                    "label": "Delegate", 
+                    "uri": "http://dbpedia.org/class/yago/Delegate110000787"
+                }, 
+                {
+                    "label": "Agent", 
+                    "uri": "http://purl.org/dc/terms/Agent"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "politician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Military Officer", 
+                    "uri": "http://dbpedia.org/class/yago/MilitaryOfficer110317007"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "United States citizen", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvy05U5wpEbGdrcN5Y29ycB4rvVikKpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Albany Law School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/AlbanyLawSchoolAlumni"
+                }, 
+                {
+                    "label": "President", 
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/William_McKinley"
+        }, 
+        {
+            "label": "Mary", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 1588
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Feminine given names", 
+                    "uri": "http://dbpedia.org/resource/Feminine_given_names"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "English given names", 
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mary"
+        }
+    ], 
+    "mainText": "Edison had other animals publicly electrocuted in his fight against alternating current.)\n(The poor creature had been deemed a menace, having killed several men.\nThe film pioneer Thomas A. Edison, in an early example of synergistic branding, advertised two innovations at once in his 1901 exploitation item &ldquo; Execution of Czolgosz, With Panorama of Auburn Prison ,&rdquo; a re-creation of the electrocution of President William McKinley&rsquo;s assassin.\nAmong the earliest subjects for nonfiction cinema were war, battles and death, with execution films, as the scholar Mary Ann Doane has observed, a popular subgenre.\nFar more disturbing is &ldquo;Electrocuting an Elephant&rdquo; (1903), in which Topsy, a real Coney Island elephant, was killed on camera with 6,600 volts of electricity with help from Edison&rsquo;s assistants.\nIf any of this seems shocking, it shouldn&rsquo;t be.\nMovies have been transfixed by violence from their beginning.", 
+    "shownText": "The enterprising Web site All Outta Bubblegum , which racks up the dead, mostly in action flicks, estimates that the &ldquo;killcount&rdquo; for &ldquo;Marvel&rsquo;s The Avengers,&rdquo; the highest grossing movie last year, is 964 &mdash; which I suspect is higher than that for &ldquo;Savages.&rdquo;\nI wonder what Culkin would have made of Oliver Stone&rsquo;s &ldquo;Savages,&rdquo; a 2012 release about drugs and dudes that opens with a spooky scene in which a killer beheads some men with a chain saw.\n&ldquo;The Avengers&rdquo; received a PG-13 rating: &ldquo;Parents strongly cautioned.&rdquo;\nThe more explicit &ldquo;Savages&rdquo; was rated R for, among its other attractions, &ldquo;strong brutal and grisly violence.&rdquo;\nOne problem for those who would prefer their violence less graphically deployed is that big studios historically play it safe by recycling the same stories, character types and bang-bang, shoot-&rsquo;em-up, kill-or-be-killed, vengeance is mine, yours, ours distractions.\n\nEdison had other animals publicly electrocuted in his fight against alternating current.)\n(The poor creature had been deemed a menace, having killed several men.\nThe film pioneer Thomas A. Edison, in an early example of synergistic branding, advertised two innovations at once in his 1901 exploitation item &ldquo; Execution of Czolgosz, With Panorama of Auburn Prison ,&rdquo; a re-creation of the electrocution of President William McKinley&rsquo;s assassin.\nAmong the earliest subjects for nonfiction cinema were war, battles and death, with execution films, as the scholar Mary Ann Doane has observed, a popular subgenre.\nFar more disturbing is &ldquo;Electrocuting an Elephant&rdquo; (1903), in which Topsy, a real Coney Island elephant, was killed on camera with 6,600 volts of electricity with help from Edison&rsquo;s assistants.\nIf any of this seems shocking, it shouldn&rsquo;t be.\nMovies have been transfixed by violence from their beginning.\n\nLibrary of Congress Moving Image Section\n", 
+    "title": "Big Bang Theories: Critics Address Violence on Screen - Interactive Feature - NYTimes.com"
+}

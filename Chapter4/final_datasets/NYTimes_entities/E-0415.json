@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Martin Schulz",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "German politicians",
+                    "uri": "http://dbpedia.org/resource/German_politicians"
+                },
+                {
+                    "label": "German SPD MEPs serving before 2004",
+                    "uri": "http://dbpedia.org/resource/German_SPD_MEPs_serving_before_2004"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Martin_Schulz"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0415",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Martin Schulz",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "German politicians",
+                    "uri": "http://dbpedia.org/resource/German_politicians"
+                },
+                {
+                    "label": "German SPD MEPs serving before 2004",
+                    "uri": "http://dbpedia.org/resource/German_SPD_MEPs_serving_before_2004"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Martin_Schulz"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "West Germany",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/West_Germany"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0183",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "West Germany",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/West_Germany"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,277 @@
+{
+  "mainText":"Moskowitz, who studied mathematics and holds a Ph.D. in experimental psychology from Harvard, runs a consulting firm in White Plains, where for more than three decades he has \u201coptimized\u201d a variety of products for Campbell Soup, General Foods, Kraft and PepsiCo.\n\u201cI\u2019ve optimized soups,\u201d Moskowitz told me.\nStung by the rejection, Cadbury Schweppes in 2004 turned to a food-industry legend named Howard Moskowitz.\nIn this field, I\u2019m a game changer.\u201d\nI\u2019ve optimized salad dressings and pickles.\n\u201cI\u2019ve optimized pizzas.",
+  "shownText":"\u201cIt\u2019s disgusting.\nBut consumers hated Red Fusion.\nGagging.\nNever again.\u201d\n\u201cDr Pepper is my all-time favorite drink, so I was curious about the Red Fusion,\u201d a California mother of three wrote on a blog to warn other Peppers away.\n\nMoskowitz, who studied mathematics and holds a Ph.D. in experimental psychology from Harvard, runs a consulting firm in White Plains, where for more than three decades he has \u201coptimized\u201d a variety of products for Campbell Soup, General Foods, Kraft and PepsiCo.\n\u201cI\u2019ve optimized soups,\u201d Moskowitz told me.\nStung by the rejection, Cadbury Schweppes in 2004 turned to a food-industry legend named Howard Moskowitz.\nIn this field, I\u2019m a game changer.\u201d\nI\u2019ve optimized salad dressings and pickles.\n\u201cI\u2019ve optimized pizzas.\n\nIn the most complicated projects, Color 23 must be combined with Syrup 11 and Packaging 6, and on and on, in seemingly infinite combinations.\nOrdinary consumers are paid to spend hours sitting in rooms where they touch, feel, sip, smell, swirl and taste whatever product is in question.\nIn the process of product optimization, food engineers alter a litany of variables with the sole intent of finding the most perfect version (or versions) of a product.\n\u201cThe mathematical model maps out the ingredients to the sensory perceptions these ingredients create,\u201d he told me, \u201cso I can just dial a new product.\nThis is the engineering approach.\u201d\nBut it\u2019s not simply a matter of comparing Color 23 with Color 24.\nTheir opinions are dumped into a computer, and the data are sifted and sorted through a statistical method called conjoint analysis, which determines what features will be most attractive to consumers.\nMoskowitz likes to imagine that his computer is divided into silos, in which each of the attributes is stacked.\nEven for jobs in which the only concern is taste and the variables are limited to the ingredients, endless charts and graphs will come spewing out of Moskowitz\u2019s computer.\n",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P3-0172",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/General_Foods",
+      "label":"General Foods",
+      "offsets":[
+        {
+          "offset":457,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Altria Group subsidiaries",
+          "uri":"http://dbpedia.org/resource/Altria_Group_subsidiaries"
+        },
+        {
+          "label":"Defunct Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/DefunctCompaniesOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cadbury_Schweppes",
+      "label":"Cadbury Schweppes",
+      "offsets":[
+        {
+          "offset":558,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Cadbury-Schweppes brands",
+          "uri":"http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+        },
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Food companies",
+          "uri":"http://dbpedia.org/resource/Food_companies"
+        },
+        {
+          "label":"Beverage companies",
+          "uri":"http://dbpedia.org/resource/Beverage_companies"
+        },
+        {
+          "label":"British brands",
+          "uri":"http://dbpedia.org/resource/British_brands"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":314,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/California",
+      "label":"California",
+      "offsets":[
+        {
+          "offset":157,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/General_Foods",
+      "label":"General Foods",
+      "offsets":[
+        {
+          "offset":457,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Altria Group subsidiaries",
+          "uri":"http://dbpedia.org/resource/Altria_Group_subsidiaries"
+        },
+        {
+          "label":"Defunct Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/DefunctCompaniesOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cadbury_Schweppes",
+      "label":"Cadbury Schweppes",
+      "offsets":[
+        {
+          "offset":558,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Cadbury-Schweppes brands",
+          "uri":"http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+        },
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Food companies",
+          "uri":"http://dbpedia.org/resource/Food_companies"
+        },
+        {
+          "label":"Beverage companies",
+          "uri":"http://dbpedia.org/resource/Beverage_companies"
+        },
+        {
+          "label":"British brands",
+          "uri":"http://dbpedia.org/resource/British_brands"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":314,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ]
+}

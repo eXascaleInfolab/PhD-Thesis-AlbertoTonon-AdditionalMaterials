@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "James Franco",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "California Actors",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaActors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From The San Francisco Bay Area",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheSanFranciscoBayArea"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/James_Franco"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0614",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "James Franco",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "California Actors",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaActors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From The San Francisco Bay Area",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheSanFranciscoBayArea"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/James_Franco"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Marie Antoinette",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Sovereign",
+                    "uri": "http://dbpedia.org/class/yago/Sovereign110628644"
+                },
+                {
+                    "label": "Executed royalty",
+                    "uri": "http://dbpedia.org/resource/Executed_royalty"
+                },
+                {
+                    "label": "British Royalty",
+                    "uri": "http://dbpedia.org/ontology/BritishRoyalty"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marie_Antoinette"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0187",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Marie Antoinette",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Sovereign",
+                    "uri": "http://dbpedia.org/class/yago/Sovereign110628644"
+                },
+                {
+                    "label": "Executed royalty",
+                    "uri": "http://dbpedia.org/resource/Executed_royalty"
+                },
+                {
+                    "label": "British Royalty",
+                    "uri": "http://dbpedia.org/ontology/BritishRoyalty"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marie_Antoinette"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

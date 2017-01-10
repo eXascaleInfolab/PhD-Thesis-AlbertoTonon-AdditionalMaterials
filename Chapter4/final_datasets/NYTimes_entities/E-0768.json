@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Neiman Marcus",
+            "types": [
+                {
+                    "label": "individual",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies Established In1907",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1907"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Based In Dallas,Texas",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInDallas,Texas"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Neiman_Marcus"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0768",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Neiman Marcus",
+            "types": [
+                {
+                    "label": "individual",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies Established In1907",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1907"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Based In Dallas,Texas",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInDallas,Texas"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Neiman_Marcus"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

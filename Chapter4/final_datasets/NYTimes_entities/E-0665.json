@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "South Korea",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "industrialized country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Divided Regions",
+                    "uri": "http://dbpedia.org/class/yago/DividedRegions"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "East Asian country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4Lv8vphsQdiR_YfP3ntNlg"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/South_Korea"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0665",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "South Korea",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "industrialized country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Divided Regions",
+                    "uri": "http://dbpedia.org/class/yago/DividedRegions"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "East Asian country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4Lv8vphsQdiR_YfP3ntNlg"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/South_Korea"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

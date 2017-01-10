@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Whitney Museum of American Art",
+            "types": [
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                },
+                {
+                    "label": "Art museums and galleries",
+                    "uri": "http://dbpedia.org/resource/Art_museums_and_galleries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0026",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Whitney Museum of American Art",
+            "types": [
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                },
+                {
+                    "label": "Art museums and galleries",
+                    "uri": "http://dbpedia.org/resource/Art_museums_and_galleries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Whitney_Museum_of_American_Art"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Harvard Munch Club",
+            "types": [
+                {
+                    "label": "Boston culture",
+                    "uri": "http://dbpedia.org/resource/Boston_culture"
+                },
+                {
+                    "label": "Massachusetts Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+                },
+                {
+                    "label": "Glee Clubs",
+                    "uri": "http://dbpedia.org/class/yago/GleeClubs"
+                },
+                {
+                    "label": "Harvard Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/HarvardMusicalGroups"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harvard_Glee_Club"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0177",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Harvard Munch Club",
+            "types": [
+                {
+                    "label": "Boston culture",
+                    "uri": "http://dbpedia.org/resource/Boston_culture"
+                },
+                {
+                    "label": "Massachusetts Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+                },
+                {
+                    "label": "Glee Clubs",
+                    "uri": "http://dbpedia.org/class/yago/GleeClubs"
+                },
+                {
+                    "label": "Harvard Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/HarvardMusicalGroups"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harvard_Glee_Club"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

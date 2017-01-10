@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "FarmVille",
+            "types": [
+                {
+                    "label": "Video Game Controversies",
+                    "uri": "http://dbpedia.org/class/yago/VideoGameControversies"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Facebook Applications",
+                    "uri": "http://dbpedia.org/class/yago/FacebookApplications"
+                },
+                {
+                    "label": "Video Games Developed In The United States",
+                    "uri": "http://dbpedia.org/class/yago/VideoGamesDevelopedInTheUnitedStates"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/ontology/Software"
+                },
+                {
+                    "label": "Video Games With Isometric Graphics",
+                    "uri": "http://dbpedia.org/class/yago/VideoGamesWithIsometricGraphics"
+                },
+                {
+                    "label": "Browser-based Multiplayer Online Games",
+                    "uri": "http://dbpedia.org/class/yago/Browser-basedMultiplayerOnlineGames"
+                },
+                {
+                    "label": "Video Game",
+                    "uri": "http://dbpedia.org/ontology/VideoGame"
+                },
+                {
+                    "label": "2009Video Games",
+                    "uri": "http://dbpedia.org/class/yago/2009VideoGames"
+                },
+                {
+                    "label": "Life Simulation Games",
+                    "uri": "http://dbpedia.org/class/yago/LifeSimulationGames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/FarmVille"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0095",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "FarmVille",
+            "types": [
+                {
+                    "label": "Video Game Controversies",
+                    "uri": "http://dbpedia.org/class/yago/VideoGameControversies"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Facebook Applications",
+                    "uri": "http://dbpedia.org/class/yago/FacebookApplications"
+                },
+                {
+                    "label": "Video Games Developed In The United States",
+                    "uri": "http://dbpedia.org/class/yago/VideoGamesDevelopedInTheUnitedStates"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/ontology/Software"
+                },
+                {
+                    "label": "Video Games With Isometric Graphics",
+                    "uri": "http://dbpedia.org/class/yago/VideoGamesWithIsometricGraphics"
+                },
+                {
+                    "label": "Browser-based Multiplayer Online Games",
+                    "uri": "http://dbpedia.org/class/yago/Browser-basedMultiplayerOnlineGames"
+                },
+                {
+                    "label": "Video Game",
+                    "uri": "http://dbpedia.org/ontology/VideoGame"
+                },
+                {
+                    "label": "2009Video Games",
+                    "uri": "http://dbpedia.org/class/yago/2009VideoGames"
+                },
+                {
+                    "label": "Life Simulation Games",
+                    "uri": "http://dbpedia.org/class/yago/LifeSimulationGames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/FarmVille"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

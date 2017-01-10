@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mobile World Congress",
+            "types": [
+                {
+                    "label": "Business Organizations",
+                    "uri": "http://dbpedia.org/class/yago/BusinessOrganizations"
+                },
+                {
+                    "label": "Convention",
+                    "uri": "http://dbpedia.org/ontology/Convention"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mobile_World_Congress"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0119",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mobile World Congress",
+            "types": [
+                {
+                    "label": "Business Organizations",
+                    "uri": "http://dbpedia.org/class/yago/BusinessOrganizations"
+                },
+                {
+                    "label": "Convention",
+                    "uri": "http://dbpedia.org/ontology/Convention"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mobile_World_Congress"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

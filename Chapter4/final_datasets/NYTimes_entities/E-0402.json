@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "E.U. Fines Microsoft",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Municipalities In Almer%C3%ADa",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesInAlmer%C3%ADa"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Almer%EDa province",
+                    "uri": "http://dbpedia.org/resource/Almer%EDa_province"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fines"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0402",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "E.U. Fines Microsoft",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Municipalities In Almer%C3%ADa",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesInAlmer%C3%ADa"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Almer%EDa province",
+                    "uri": "http://dbpedia.org/resource/Almer%EDa_province"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fines"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

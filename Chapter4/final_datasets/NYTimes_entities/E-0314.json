@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Hong Kong",
+            "types": [
+                {
+                    "label": "Chinese-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/Chinese-speaking_countries_and_territories"
+                },
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Port Cities And Towns In China",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInChina"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "China-related lists",
+                    "uri": "http://dbpedia.org/resource/China-related_lists"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Relation",
+                    "uri": "http://umbel.org/umbel/sc/Relation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Independent Country",
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "English-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/English-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Chinese-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Special Territories",
+                    "uri": "http://dbpedia.org/class/yago/SpecialTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Metropolitan Areas Of China",
+                    "uri": "http://dbpedia.org/class/yago/MetropolitanAreasOfChina"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://umbel.org/umbel/sc/AdministrativeDistrict"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hong_Kong"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0314",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hong Kong",
+            "types": [
+                {
+                    "label": "Chinese-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/Chinese-speaking_countries_and_territories"
+                },
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Port Cities And Towns In China",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInChina"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "China-related lists",
+                    "uri": "http://dbpedia.org/resource/China-related_lists"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Relation",
+                    "uri": "http://umbel.org/umbel/sc/Relation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Independent Country",
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "English-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/English-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Chinese-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Special Territories",
+                    "uri": "http://dbpedia.org/class/yago/SpecialTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Metropolitan Areas Of China",
+                    "uri": "http://dbpedia.org/class/yago/MetropolitanAreasOfChina"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://umbel.org/umbel/sc/AdministrativeDistrict"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hong_Kong"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

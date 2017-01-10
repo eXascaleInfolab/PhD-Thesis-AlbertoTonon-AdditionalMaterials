@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Gordon Bell",
+            "types": [
+                {
+                    "label": "Computer designers",
+                    "uri": "http://dbpedia.org/resource/Computer_designers"
+                },
+                {
+                    "label": "Fellows Of The Institute Of Electrical And Electronics Engineers",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfTheInstituteOfElectricalAndElectronicsEngineers"
+                },
+                {
+                    "label": "Computer Pioneers",
+                    "uri": "http://dbpedia.org/class/yago/ComputerPioneers"
+                },
+                {
+                    "label": "Computer hardware engineers",
+                    "uri": "http://dbpedia.org/resource/Computer_hardware_engineers"
+                },
+                {
+                    "label": "Computer Hardware Engineers",
+                    "uri": "http://dbpedia.org/class/yago/ComputerHardwareEngineers"
+                },
+                {
+                    "label": "Fellows Of The Association For Computing Machinery",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfTheAssociationForComputingMachinery"
+                },
+                {
+                    "label": "People From Kirksville,Missouri",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKirksville,Missouri"
+                },
+                {
+                    "label": "Microsoft Employees",
+                    "uri": "http://dbpedia.org/class/yago/MicrosoftEmployees"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Computer Designers",
+                    "uri": "http://dbpedia.org/class/yago/ComputerDesigners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gordon_Bell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0237",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gordon Bell",
+            "types": [
+                {
+                    "label": "Computer designers",
+                    "uri": "http://dbpedia.org/resource/Computer_designers"
+                },
+                {
+                    "label": "Fellows Of The Institute Of Electrical And Electronics Engineers",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfTheInstituteOfElectricalAndElectronicsEngineers"
+                },
+                {
+                    "label": "Computer Pioneers",
+                    "uri": "http://dbpedia.org/class/yago/ComputerPioneers"
+                },
+                {
+                    "label": "Computer hardware engineers",
+                    "uri": "http://dbpedia.org/resource/Computer_hardware_engineers"
+                },
+                {
+                    "label": "Computer Hardware Engineers",
+                    "uri": "http://dbpedia.org/class/yago/ComputerHardwareEngineers"
+                },
+                {
+                    "label": "Fellows Of The Association For Computing Machinery",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfTheAssociationForComputingMachinery"
+                },
+                {
+                    "label": "People From Kirksville,Missouri",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKirksville,Missouri"
+                },
+                {
+                    "label": "Microsoft Employees",
+                    "uri": "http://dbpedia.org/class/yago/MicrosoftEmployees"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Computer Designers",
+                    "uri": "http://dbpedia.org/class/yago/ComputerDesigners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gordon_Bell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

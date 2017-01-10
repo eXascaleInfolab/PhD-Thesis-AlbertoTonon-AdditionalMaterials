@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Kyle Quincey",
+            "types": [
+                {
+                    "label": "Grand Rapids Griffins players",
+                    "uri": "http://dbpedia.org/resource/Grand_Rapids_Griffins_players"
+                },
+                {
+                    "label": "Mississauga Ice Dogs Alumni",
+                    "uri": "http://dbpedia.org/class/yago/MississaugaIceDogsAlumni"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kyle_Quincey"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0009",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kyle Quincey",
+            "types": [
+                {
+                    "label": "Grand Rapids Griffins players",
+                    "uri": "http://dbpedia.org/resource/Grand_Rapids_Griffins_players"
+                },
+                {
+                    "label": "Mississauga Ice Dogs Alumni",
+                    "uri": "http://dbpedia.org/class/yago/MississaugaIceDogsAlumni"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kyle_Quincey"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

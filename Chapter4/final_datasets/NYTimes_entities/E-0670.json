@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "The New York TimesThe Bank of America Tower",
+            "types": [
+                {
+                    "label": "Skyscrapers In New York City",
+                    "uri": "http://dbpedia.org/class/yago/SkyscrapersInNewYorkCity"
+                },
+                {
+                    "label": "LEEDPlatinum Certified Buildings",
+                    "uri": "http://dbpedia.org/class/yago/LEEDPlatinumCertifiedBuildings"
+                },
+                {
+                    "label": "Skyscraper",
+                    "uri": "http://dbpedia.org/class/yago/Skyscraper104233124"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bank_of_America_Tower_(New_York)"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0670",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "The New York TimesThe Bank of America Tower",
+            "types": [
+                {
+                    "label": "Skyscrapers In New York City",
+                    "uri": "http://dbpedia.org/class/yago/SkyscrapersInNewYorkCity"
+                },
+                {
+                    "label": "LEEDPlatinum Certified Buildings",
+                    "uri": "http://dbpedia.org/class/yago/LEEDPlatinumCertifiedBuildings"
+                },
+                {
+                    "label": "Skyscraper",
+                    "uri": "http://dbpedia.org/class/yago/Skyscraper104233124"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bank_of_America_Tower_(New_York)"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

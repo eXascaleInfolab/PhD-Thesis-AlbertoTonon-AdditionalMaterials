@@ -1,0 +1,109 @@
+{
+  "mainText":"After sending a team to Handan in January, Greenpeace East Asia issued a report on the spill.\nIt said that there were about 100 coal-to-chemical factories on the upper reaches of the Zhuozhang River.\n\u201cThere is a history of clashes between heavily water-consuming coal-to-chemical factories and citizens downstream who are trying to compete for water to drink,\u201d the report said.\nLarger factories like those of Tianji use 2,000 to 3,000 tons of water per hour, equivalent to the amount of water that more than 300,000 people use in a year.",
+  "shownText":"After sending a team to Handan in January, Greenpeace East Asia issued a report on the spill.\nIt said that there were about 100 coal-to-chemical factories on the upper reaches of the Zhuozhang River.\n\u201cThere is a history of clashes between heavily water-consuming coal-to-chemical factories and citizens downstream who are trying to compete for water to drink,\u201d the report said.\nLarger factories like those of Tianji use 2,000 to 3,000 tons of water per hour, equivalent to the amount of water that more than 300,000 people use in a year.",
+  "title":"Spill in China Lays Bare Environmental Concerns - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/world/asia/spill-in-china-lays-bare-environmental-concerns.html?ref=science",
+  "category":"science",
+  "docID":"P-0194",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Guangxi_Tianji",
+      "label":"Tianji",
+      "offsets":[
+        {
+          "offset":409,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Football (soccer) clubs",
+          "uri":"http://dbpedia.org/resource/Football_%28soccer%29_clubs"
+        },
+        {
+          "label":"Chinese football clubs",
+          "uri":"http://dbpedia.org/resource/Chinese_football_clubs"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Greenpeace",
+      "label":"Greenpeace",
+      "offsets":[
+        {
+          "offset":43,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Anti-nuclear power movement",
+          "uri":"http://dbpedia.org/resource/Anti-nuclear_power_movement"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Anti-nuclear weapons movement",
+          "uri":"http://dbpedia.org/resource/Anti-nuclear_weapons_movement"
+        },
+        {
+          "label":"Climate change organizations",
+          "uri":"http://dbpedia.org/resource/Climate_change_organizations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Guangxi_Tianji",
+      "label":"Tianji",
+      "offsets":[
+        {
+          "offset":409,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Football (soccer) clubs",
+          "uri":"http://dbpedia.org/resource/Football_%28soccer%29_clubs"
+        },
+        {
+          "label":"Chinese football clubs",
+          "uri":"http://dbpedia.org/resource/Chinese_football_clubs"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Greenpeace",
+      "label":"Greenpeace",
+      "offsets":[
+        {
+          "offset":43,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Anti-nuclear power movement",
+          "uri":"http://dbpedia.org/resource/Anti-nuclear_power_movement"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Anti-nuclear weapons movement",
+          "uri":"http://dbpedia.org/resource/Anti-nuclear_weapons_movement"
+        },
+        {
+          "label":"Climate change organizations",
+          "uri":"http://dbpedia.org/resource/Climate_change_organizations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+    "allEntities": [
+        {
+            "label": "Tianji", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Football (soccer) clubs", 
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_clubs"
+                }, 
+                {
+                    "label": "Chinese football clubs", 
+                    "uri": "http://dbpedia.org/resource/Chinese_football_clubs"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+        }, 
+        {
+            "label": "Greenpeace", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 169
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Anti-nuclear power movement", 
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_power_movement"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Anti-nuclear weapons movement", 
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_weapons_movement"
+                }, 
+                {
+                    "label": "Climate change organizations", 
+                    "uri": "http://dbpedia.org/resource/Climate_change_organizations"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Greenpeace"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/03/world/asia/spill-in-china-lays-bare-environmental-concerns.html?ref=science", 
+    "category": "science", 
+    "docID": "S-0241", 
+    "elementNumber": 38, 
+    "mainEntities": [
+        {
+            "label": "Tianji", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Football (soccer) clubs", 
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_clubs"
+                }, 
+                {
+                    "label": "Chinese football clubs", 
+                    "uri": "http://dbpedia.org/resource/Chinese_football_clubs"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+        }, 
+        {
+            "label": "Greenpeace", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 169
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Anti-nuclear power movement", 
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_power_movement"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Anti-nuclear weapons movement", 
+                    "uri": "http://dbpedia.org/resource/Anti-nuclear_weapons_movement"
+                }, 
+                {
+                    "label": "Climate change organizations", 
+                    "uri": "http://dbpedia.org/resource/Climate_change_organizations"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Greenpeace"
+        }
+    ], 
+    "mainText": "Tianji&rsquo;s pollution was abnormally high throughout most of 2011, so provincial officials asked the Changzhi environmental protection bureau to monitor the factory, Greenpeace reported.", 
+    "shownText": "Tianji&rsquo;s pollution was abnormally high throughout most of 2011, so provincial officials asked the Changzhi environmental protection bureau to monitor the factory, Greenpeace reported.", 
+    "title": "Spill in China Lays Bare Environmental Concerns - NYTimes.com"
+}

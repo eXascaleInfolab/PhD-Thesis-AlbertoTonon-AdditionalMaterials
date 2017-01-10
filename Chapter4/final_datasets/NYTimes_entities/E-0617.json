@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "The Times",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Publications Established In1785",
+                    "uri": "http://dbpedia.org/class/yago/PublicationsEstablishedIn1785"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Newspapers Published In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInTheUnitedKingdom"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "newspaper",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Times"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0617",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "The Times",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Publications Established In1785",
+                    "uri": "http://dbpedia.org/class/yago/PublicationsEstablishedIn1785"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Newspapers Published In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInTheUnitedKingdom"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "newspaper",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Times"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

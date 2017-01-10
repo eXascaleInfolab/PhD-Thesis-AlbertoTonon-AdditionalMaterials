@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Central Park",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Central_Park"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0764",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Central Park",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Central_Park"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

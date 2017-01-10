@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Homo habilis",
+            "types": [
+                {
+                    "label": "Early hominids",
+                    "uri": "http://dbpedia.org/resource/Early_hominids"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Homo_habilis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0219",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Homo habilis",
+            "types": [
+                {
+                    "label": "Early hominids",
+                    "uri": "http://dbpedia.org/resource/Early_hominids"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Homo_habilis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

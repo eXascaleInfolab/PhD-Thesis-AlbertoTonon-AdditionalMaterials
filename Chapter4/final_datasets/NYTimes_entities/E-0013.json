@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Northwestern University",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In1851",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1851"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "medical school",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkJnZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Universities And Colleges In Chicago",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInChicago"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Educational Organization",
+                    "uri": "http://umbel.org/umbel/sc/EducationalOrganization"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Northwestern_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0013",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Northwestern University",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In1851",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1851"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "medical school",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkJnZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Universities And Colleges In Chicago",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInChicago"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Educational Organization",
+                    "uri": "http://umbel.org/umbel/sc/EducationalOrganization"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Northwestern_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

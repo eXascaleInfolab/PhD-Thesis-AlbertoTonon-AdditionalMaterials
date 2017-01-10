@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Justine Picardie",
+            "types": [
+                {
+                    "label": "NUTS2Statistical Regions Of The European Union",
+                    "uri": "http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheEuropeanUnion"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://dbpedia.org/class/yago/Region108630039"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Picardie"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0521",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Justine Picardie",
+            "types": [
+                {
+                    "label": "NUTS2Statistical Regions Of The European Union",
+                    "uri": "http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheEuropeanUnion"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://dbpedia.org/class/yago/Region108630039"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Picardie"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

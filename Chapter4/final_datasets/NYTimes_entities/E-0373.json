@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Khalil",
+            "types": [
+                {
+                    "label": "Crusade people (Muslims)",
+                    "uri": "http://dbpedia.org/resource/Crusade_people_%28Muslims%29"
+                },
+                {
+                    "label": "Murdered Monarchs",
+                    "uri": "http://dbpedia.org/class/yago/MurderedMonarchs"
+                },
+                {
+                    "label": "Egyptian nobility",
+                    "uri": "http://dbpedia.org/resource/Egyptian_nobility"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Khalil"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0373",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Khalil",
+            "types": [
+                {
+                    "label": "Crusade people (Muslims)",
+                    "uri": "http://dbpedia.org/resource/Crusade_people_%28Muslims%29"
+                },
+                {
+                    "label": "Murdered Monarchs",
+                    "uri": "http://dbpedia.org/class/yago/MurderedMonarchs"
+                },
+                {
+                    "label": "Egyptian nobility",
+                    "uri": "http://dbpedia.org/resource/Egyptian_nobility"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Khalil"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

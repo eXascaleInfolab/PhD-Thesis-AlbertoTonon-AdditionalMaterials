@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Maracaibo",
+            "types": [
+                {
+                    "label": "Port Cities And Towns In Venezuela",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInVenezuela"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Port Cities On The Caribbean Sea",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesOnTheCaribbeanSea"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Settlements Established In1529",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1529"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Cities In Venezuela",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInVenezuela"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Maracaibo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0189",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Maracaibo",
+            "types": [
+                {
+                    "label": "Port Cities And Towns In Venezuela",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInVenezuela"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Port Cities On The Caribbean Sea",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesOnTheCaribbeanSea"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Settlements Established In1529",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1529"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Cities In Venezuela",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInVenezuela"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Maracaibo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

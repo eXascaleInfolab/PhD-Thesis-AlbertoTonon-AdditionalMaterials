@@ -1,0 +1,273 @@
+{
+  "mainText":"Meanwhile, though sports is glaringly corrupt, fans are as passionate as ever.\nAs the owner of the big soccer club A. C. Milan, Mr. Berlusconi decided, at the beginning of his campaign, to buy the star striker Mario Balotelli.\nAgain he was rewarded in the opinion polls.",
+  "shownText":"Statistics show that tax evasion is endemic, and the more so the more one moves south, to the point that around Naples, dentists declare lower incomes than policemen.\nNeedless to say, the fiscal shortfall has to be made up with government borrowing and higher taxes for those who do pay.\n\nMeanwhile, though sports is glaringly corrupt, fans are as passionate as ever.\nAs the owner of the big soccer club A. C. Milan, Mr. Berlusconi decided, at the beginning of his campaign, to buy the star striker Mario Balotelli.\nAgain he was rewarded in the opinion polls.\n\nThe constant discrepancy between how one might expect things to pan out and how they actually do is nothing new.\nOn a tour through Italy in 1869, Mark Twain wrote, \u201cI can not understand how a bankrupt Government can have such palatial railroad depots.\u201d\n",
+  "title":"In Italy, Illusion Is the Only Reality - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/opinion/sunday/in-italy-illusion-is-the-only-reality.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P3-0140",
+  "elementNumber":13,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Milan",
+      "label":"Milan",
+      "offsets":[
+        {
+          "offset":410,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"cuisine",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Settlements Established In The1st Millennium BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mario_Balotelli",
+      "label":"Mario Balotelli",
+      "offsets":[
+        {
+          "offset":499,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Football (soccer) strikers",
+          "uri":"http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+        },
+        {
+          "label":"People From Palermo(city)",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPalermo(city)"
+        },
+        {
+          "label":"Football(soccer)Strikers",
+          "uri":"http://dbpedia.org/class/yago/Football(soccer)Strikers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Naples",
+      "label":"Naples",
+      "offsets":[
+        {
+          "offset":112,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The7th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe7thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"World Heritage Sites In Italy",
+          "uri":"http://dbpedia.org/class/yago/WorldHeritageSitesInItaly"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Settlements Established In The1st Millennium BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+        },
+        {
+          "label":"Cities And Towns In Campania",
+          "uri":"http://dbpedia.org/class/yago/CitiesAndTownsInCampania"
+        },
+        {
+          "label":"Renaissance Sites Of Campania",
+          "uri":"http://dbpedia.org/class/yago/RenaissanceSitesOfCampania"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Ancient Greek Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientGreekCities"
+        },
+        {
+          "label":"Ancient Greek cities",
+          "uri":"http://dbpedia.org/resource/Ancient_Greek_cities"
+        },
+        {
+          "label":"Baroque Sites Of Campania",
+          "uri":"http://dbpedia.org/class/yago/BaroqueSitesOfCampania"
+        },
+        {
+          "label":"Mediterranean Port Cities And Towns In Italy",
+          "uri":"http://dbpedia.org/class/yago/MediterraneanPortCitiesAndTownsInItaly"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Port Cities In Italy",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInItaly"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Milan",
+      "label":"Milan",
+      "offsets":[
+        {
+          "offset":410,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"cuisine",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Settlements Established In The1st Millennium BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mario_Balotelli",
+      "label":"Mario Balotelli",
+      "offsets":[
+        {
+          "offset":499,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Football (soccer) strikers",
+          "uri":"http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+        },
+        {
+          "label":"People From Palermo(city)",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPalermo(city)"
+        },
+        {
+          "label":"Football(soccer)Strikers",
+          "uri":"http://dbpedia.org/class/yago/Football(soccer)Strikers"
+        }
+      ]
+    }
+  ]
+}

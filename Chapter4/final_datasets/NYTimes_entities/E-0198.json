@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Bangladesh",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "South Asian country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "nationality",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViWHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "Least Developed Countries",
+                    "uri": "http://dbpedia.org/class/yago/LeastDevelopedCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Developing8Countries Member States",
+                    "uri": "http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+                },
+                {
+                    "label": "Divided Regions",
+                    "uri": "http://dbpedia.org/class/yago/DividedRegions"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Developing 8 Countries member states",
+                    "uri": "http://dbpedia.org/resource/Developing_8_Countries_member_states"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bangladesh"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0198",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bangladesh",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "South Asian country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "nationality",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViWHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "Least Developed Countries",
+                    "uri": "http://dbpedia.org/class/yago/LeastDevelopedCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Developing8Countries Member States",
+                    "uri": "http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+                },
+                {
+                    "label": "Divided Regions",
+                    "uri": "http://dbpedia.org/class/yago/DividedRegions"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Developing 8 Countries member states",
+                    "uri": "http://dbpedia.org/resource/Developing_8_Countries_member_states"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bangladesh"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

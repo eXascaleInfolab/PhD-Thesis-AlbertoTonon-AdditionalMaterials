@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Berlin",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Populated Places Established In The13th Century",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe13thCentury"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "States Of Germany",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfGermany"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Weather",
+                    "uri": "http://dbpedia.org/class/yago/Weather111524662"
+                },
+                {
+                    "label": "Settlements Established In The13th Century",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe13thCentury"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "Cities In Germany",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInGermany"
+                },
+                {
+                    "label": "German state capitals",
+                    "uri": "http://dbpedia.org/resource/German_state_capitals"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Geoclass Capital Of APolitical Entity",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "States And Territories Established In1237",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1237"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "European Capitals Of Culture",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "German State Capitals",
+                    "uri": "http://dbpedia.org/class/yago/GermanStateCapitals"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Berlin"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0451",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Berlin",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Populated Places Established In The13th Century",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe13thCentury"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "States Of Germany",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfGermany"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Weather",
+                    "uri": "http://dbpedia.org/class/yago/Weather111524662"
+                },
+                {
+                    "label": "Settlements Established In The13th Century",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe13thCentury"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "Cities In Germany",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInGermany"
+                },
+                {
+                    "label": "German state capitals",
+                    "uri": "http://dbpedia.org/resource/German_state_capitals"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Geoclass Capital Of APolitical Entity",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "States And Territories Established In1237",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1237"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "European Capitals Of Culture",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "German State Capitals",
+                    "uri": "http://dbpedia.org/class/yago/GermanStateCapitals"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Berlin"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

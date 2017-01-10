@@ -1,0 +1,205 @@
+{
+  "mainText":"He attended George Washington University in Washington, D.C., but found it \u201ca miserable place.\"",
+  "shownText":"He attended George Washington University in Washington, D.C., but found it \u201ca miserable place.\"",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"S-0316",
+  "elementNumber":68,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":19,
+          "length":10
+        },
+        {
+          "offset":44,
+          "length":10
+        },
+        {
+          "offset":19,
+          "length":10
+        },
+        {
+          "offset":44,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_Washington_University",
+      "label":"George Washington University",
+      "offsets":[
+        {
+          "offset":12,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":19,
+          "length":10
+        },
+        {
+          "offset":44,
+          "length":10
+        },
+        {
+          "offset":19,
+          "length":10
+        },
+        {
+          "offset":44,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_Washington_University",
+      "label":"George Washington University",
+      "offsets":[
+        {
+          "offset":12,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

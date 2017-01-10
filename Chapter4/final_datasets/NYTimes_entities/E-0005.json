@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Joe Clarke",
+            "types": [
+                {
+                    "label": "American Soccer Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "California Surf Players",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaSurfPlayers"
+                },
+                {
+                    "label": "Soccer Manager",
+                    "uri": "http://dbpedia.org/ontology/SoccerManager"
+                },
+                {
+                    "label": "St.Louis Kutis Players",
+                    "uri": "http://dbpedia.org/class/yago/St.LouisKutisPlayers"
+                },
+                {
+                    "label": "St.Louis Steamers(original MISL)Players",
+                    "uri": "http://dbpedia.org/class/yago/St.LouisSteamers(originalMISL)Players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "NASLPlayers",
+                    "uri": "http://dbpedia.org/class/yago/NASLPlayers"
+                },
+                {
+                    "label": "Major Indoor Soccer League(original)Players",
+                    "uri": "http://dbpedia.org/class/yago/MajorIndoorSoccerLeague(original)Players"
+                },
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Players",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerPlayers"
+                },
+                {
+                    "label": "American soccer coaches",
+                    "uri": "http://dbpedia.org/resource/American_soccer_coaches"
+                },
+                {
+                    "label": "Saint Louis University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisUniversityAlumni"
+                },
+                {
+                    "label": "People From St.Louis,Missouri",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"
+                },
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Coaches",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerCoaches"
+                },
+                {
+                    "label": "California Surf players",
+                    "uri": "http://dbpedia.org/resource/California_Surf_players"
+                },
+                {
+                    "label": "American Soccer Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerCoaches"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Saint Louis Stars Players",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisStarsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Joe_Clarke"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0005",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Joe Clarke",
+            "types": [
+                {
+                    "label": "American Soccer Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "California Surf Players",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaSurfPlayers"
+                },
+                {
+                    "label": "Soccer Manager",
+                    "uri": "http://dbpedia.org/ontology/SoccerManager"
+                },
+                {
+                    "label": "St.Louis Kutis Players",
+                    "uri": "http://dbpedia.org/class/yago/St.LouisKutisPlayers"
+                },
+                {
+                    "label": "St.Louis Steamers(original MISL)Players",
+                    "uri": "http://dbpedia.org/class/yago/St.LouisSteamers(originalMISL)Players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "NASLPlayers",
+                    "uri": "http://dbpedia.org/class/yago/NASLPlayers"
+                },
+                {
+                    "label": "Major Indoor Soccer League(original)Players",
+                    "uri": "http://dbpedia.org/class/yago/MajorIndoorSoccerLeague(original)Players"
+                },
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Players",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerPlayers"
+                },
+                {
+                    "label": "American soccer coaches",
+                    "uri": "http://dbpedia.org/resource/American_soccer_coaches"
+                },
+                {
+                    "label": "Saint Louis University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisUniversityAlumni"
+                },
+                {
+                    "label": "People From St.Louis,Missouri",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"
+                },
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Coaches",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerCoaches"
+                },
+                {
+                    "label": "California Surf players",
+                    "uri": "http://dbpedia.org/resource/California_Surf_players"
+                },
+                {
+                    "label": "American Soccer Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerCoaches"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Saint Louis Stars Players",
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisStarsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Joe_Clarke"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

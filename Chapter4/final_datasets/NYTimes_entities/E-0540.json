@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Silvia C. Formenti",
+            "types": [
+                {
+                    "label": "Italian boxers",
+                    "uri": "http://dbpedia.org/resource/Italian_boxers"
+                },
+                {
+                    "label": "Olympic Boxers Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBoxersOfItaly"
+                },
+                {
+                    "label": "Boxers At The1948Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BoxersAtThe1948SummerOlympics"
+                },
+                {
+                    "label": "Featherweights",
+                    "uri": "http://dbpedia.org/resource/Featherweights"
+                },
+                {
+                    "label": "Italian Boxers",
+                    "uri": "http://dbpedia.org/class/yago/ItalianBoxers"
+                },
+                {
+                    "label": "Featherweights",
+                    "uri": "http://dbpedia.org/class/yago/Featherweights"
+                },
+                {
+                    "label": "Olympic Gold Medalists For Italy",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForItaly"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ernesto_Formenti"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0540",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Silvia C. Formenti",
+            "types": [
+                {
+                    "label": "Italian boxers",
+                    "uri": "http://dbpedia.org/resource/Italian_boxers"
+                },
+                {
+                    "label": "Olympic Boxers Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBoxersOfItaly"
+                },
+                {
+                    "label": "Boxers At The1948Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BoxersAtThe1948SummerOlympics"
+                },
+                {
+                    "label": "Featherweights",
+                    "uri": "http://dbpedia.org/resource/Featherweights"
+                },
+                {
+                    "label": "Italian Boxers",
+                    "uri": "http://dbpedia.org/class/yago/ItalianBoxers"
+                },
+                {
+                    "label": "Featherweights",
+                    "uri": "http://dbpedia.org/class/yago/Featherweights"
+                },
+                {
+                    "label": "Olympic Gold Medalists For Italy",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForItaly"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ernesto_Formenti"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

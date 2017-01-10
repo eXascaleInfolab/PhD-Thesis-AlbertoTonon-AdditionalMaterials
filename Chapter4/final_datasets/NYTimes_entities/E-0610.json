@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "International Monetary Fund",
+            "types": [
+                {
+                    "label": "International Finance Institutions",
+                    "uri": "http://dbpedia.org/class/yago/InternationalFinanceInstitutions"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "financial organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkFd5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Central Bank",
+                    "uri": "http://dbpedia.org/class/yago/CentralBank108349916"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "organization of countries",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Monetary_Fund"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0610",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "International Monetary Fund",
+            "types": [
+                {
+                    "label": "International Finance Institutions",
+                    "uri": "http://dbpedia.org/class/yago/InternationalFinanceInstitutions"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "financial organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkFd5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Central Bank",
+                    "uri": "http://dbpedia.org/class/yago/CentralBank108349916"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "organization of countries",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Monetary_Fund"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,117 @@
+{
+  "mainText":"A spokesman for BP, Geoff Morrell, said that the idea that the oil giant would accept a settlement demand of $16 billion was \u201cfar-fetched.\u201d\nThe most BP is liable for under the Clean Water Act is about $17.5 billion and the company is subject to billions more in other environmental damage penalties.",
+  "shownText":"A spokesman for BP, Geoff Morrell, said that the idea that the oil giant would accept a settlement demand of $16 billion was \u201cfar-fetched.\u201d\nThe most BP is liable for under the Clean Water Act is about $17.5 billion and the company is subject to billions more in other environmental damage penalties.",
+  "title":"BP and Gulf Coast States Jockey Over Settlement on Deepwater Horizon Oil Spill - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/business/energy-environment/bp-and-gulf-coast-states-jockey-over-settlement-on-deepwater-horizon-oil-spill.html?ref=business",
+  "category":"business",
+  "docID":"P-0067",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Morrell",
+      "label":"Morrell",
+      "offsets":[
+        {
+          "offset":26,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Geoff_Morrell",
+      "label":"Geoff Morrell",
+      "offsets":[
+        {
+          "offset":20,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Australian Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AustralianStageActors"
+        },
+        {
+          "label":"Australian film actors",
+          "uri":"http://dbpedia.org/resource/Australian_film_actors"
+        },
+        {
+          "label":"Film actors",
+          "uri":"http://dbpedia.org/resource/Film_actors"
+        },
+        {
+          "label":"Australian television actors",
+          "uri":"http://dbpedia.org/resource/Australian_television_actors"
+        },
+        {
+          "label":"Australian stage actors",
+          "uri":"http://dbpedia.org/resource/Australian_stage_actors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Morrell",
+      "label":"Morrell",
+      "offsets":[
+        {
+          "offset":26,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Geoff_Morrell",
+      "label":"Geoff Morrell",
+      "offsets":[
+        {
+          "offset":20,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Australian Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AustralianStageActors"
+        },
+        {
+          "label":"Australian film actors",
+          "uri":"http://dbpedia.org/resource/Australian_film_actors"
+        },
+        {
+          "label":"Film actors",
+          "uri":"http://dbpedia.org/resource/Film_actors"
+        },
+        {
+          "label":"Australian television actors",
+          "uri":"http://dbpedia.org/resource/Australian_television_actors"
+        },
+        {
+          "label":"Australian stage actors",
+          "uri":"http://dbpedia.org/resource/Australian_stage_actors"
+        }
+      ]
+    }
+  ]
+}

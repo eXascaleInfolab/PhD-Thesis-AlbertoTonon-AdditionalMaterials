@@ -1,0 +1,149 @@
+{
+  "mainText":"Two of those regional channels, each in Los Angeles, recently lost the rights to carry the Lakers and the Dodgers \u2014 each to networks created by Time Warner Cable.",
+  "shownText":"Two of those regional channels, each in Los Angeles, recently lost the rights to carry the Lakers and the Dodgers \u2014 each to networks created by Time Warner Cable.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0262",
+  "elementNumber":47,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":40,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Time_Warner_Cable",
+      "label":"Time Warner Cable",
+      "offsets":[
+        {
+          "offset":144,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Entertainment Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1989",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":40,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Time_Warner_Cable",
+      "label":"Time Warner Cable",
+      "offsets":[
+        {
+          "offset":144,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Entertainment Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1989",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+        }
+      ]
+    }
+  ]
+}

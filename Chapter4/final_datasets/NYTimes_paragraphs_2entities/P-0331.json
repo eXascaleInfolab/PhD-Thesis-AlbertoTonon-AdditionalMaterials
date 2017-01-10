@@ -1,0 +1,469 @@
+{
+  "mainText":"And the battle for Damascus, Syria\u2019s capital, has barely begun.\nShould fighting overwhelm that religiously and politically mixed city of 2.5 million a half-hour drive from Lebanon, the Lebanese fear a cataclysm that could sweep away their tenuous calm.",
+  "shownText":"And the battle for Damascus, Syria\u2019s capital, has barely begun.\nShould fighting overwhelm that religiously and politically mixed city of 2.5 million a half-hour drive from Lebanon, the Lebanese fear a cataclysm that could sweep away their tenuous calm.",
+  "title":"Syrian Flood Into Lebanon Stirs Fear of Looming Disaster - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/world/middleeast/syrian-flood-into-lebanon-stirs-fear-of-looming-disaster.html?ref=world",
+  "category":"world",
+  "docID":"P-0331",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lebanon",
+      "label":"Lebanon",
+      "offsets":[
+        {
+          "offset":172,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Levant country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwSREjZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"country with a parliamentary government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4raK9PDm24EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":29,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Damascus",
+      "label":"Damascus",
+      "offsets":[
+        {
+          "offset":19,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Cities In Syria",
+          "uri":"http://dbpedia.org/class/yago/CitiesInSyria"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Amarna Letters Locations",
+          "uri":"http://dbpedia.org/class/yago/AmarnaLettersLocations"
+        },
+        {
+          "label":"Ancient Greek Sites In Syria",
+          "uri":"http://dbpedia.org/class/yago/AncientGreekSitesInSyria"
+        },
+        {
+          "label":"Hellenistic colonies",
+          "uri":"http://dbpedia.org/resource/Hellenistic_colonies"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Capitals In Asia",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInAsia"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Amarna letters locations",
+          "uri":"http://dbpedia.org/resource/Amarna_letters_locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lebanon",
+      "label":"Lebanon",
+      "offsets":[
+        {
+          "offset":172,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Levant country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwSREjZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"country with a parliamentary government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4raK9PDm24EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":29,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Damascus",
+      "label":"Damascus",
+      "offsets":[
+        {
+          "offset":19,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Cities In Syria",
+          "uri":"http://dbpedia.org/class/yago/CitiesInSyria"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Amarna Letters Locations",
+          "uri":"http://dbpedia.org/class/yago/AmarnaLettersLocations"
+        },
+        {
+          "label":"Ancient Greek Sites In Syria",
+          "uri":"http://dbpedia.org/class/yago/AncientGreekSitesInSyria"
+        },
+        {
+          "label":"Hellenistic colonies",
+          "uri":"http://dbpedia.org/resource/Hellenistic_colonies"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Capitals In Asia",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInAsia"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Amarna letters locations",
+          "uri":"http://dbpedia.org/resource/Amarna_letters_locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

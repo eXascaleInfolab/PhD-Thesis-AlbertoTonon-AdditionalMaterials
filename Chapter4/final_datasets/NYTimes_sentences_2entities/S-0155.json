@@ -1,0 +1,229 @@
+{
+  "mainText":"Their reconstructed governments also desired protection, particularly from the Soviet Union and China.",
+  "shownText":"Their reconstructed governments also desired protection, particularly from the Soviet Union and China.",
+  "title":"Come Home, America - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/opinion/come-home-america.html?ref=opinion",
+  "category":"opinion",
+  "docID":"S-0155",
+  "elementNumber":27,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Soviet_Union",
+      "label":"Soviet Union",
+      "offsets":[
+        {
+          "offset":79,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Former Communist Economies",
+          "uri":"http://dbpedia.org/class/yago/FormerCommunistEconomies"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economies Of Former Countries",
+          "uri":"http://dbpedia.org/class/yago/EconomiesOfFormerCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Early Soviet Republics",
+          "uri":"http://dbpedia.org/resource/Early_Soviet_Republics"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/China",
+      "label":"China",
+      "offsets":[
+        {
+          "offset":96,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Civilization",
+          "uri":"http://dbpedia.org/class/yago/Civilization108111783"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"geographical region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Qi",
+          "uri":"http://dbpedia.org/class/yago/Qi114050559"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Soviet_Union",
+      "label":"Soviet Union",
+      "offsets":[
+        {
+          "offset":79,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Former Communist Economies",
+          "uri":"http://dbpedia.org/class/yago/FormerCommunistEconomies"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economies Of Former Countries",
+          "uri":"http://dbpedia.org/class/yago/EconomiesOfFormerCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Early Soviet Republics",
+          "uri":"http://dbpedia.org/resource/Early_Soviet_Republics"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/China",
+      "label":"China",
+      "offsets":[
+        {
+          "offset":96,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Civilization",
+          "uri":"http://dbpedia.org/class/yago/Civilization108111783"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"geographical region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Qi",
+          "uri":"http://dbpedia.org/class/yago/Qi114050559"
+        }
+      ]
+    }
+  ]
+}

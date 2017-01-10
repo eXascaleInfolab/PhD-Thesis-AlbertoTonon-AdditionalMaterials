@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Pittsburgh Medical Center",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Hospital networks",
+                    "uri": "http://dbpedia.org/resource/Hospital_networks"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0759",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Pittsburgh Medical Center",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Hospital networks",
+                    "uri": "http://dbpedia.org/resource/Hospital_networks"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

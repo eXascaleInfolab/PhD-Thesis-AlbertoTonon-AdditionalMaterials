@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Patrick Willis",
+            "types": [
+                {
+                    "label": "National Conference Pro Bowl Players",
+                    "uri": "http://dbpedia.org/class/yago/NationalConferenceProBowlPlayers"
+                },
+                {
+                    "label": "Ole Miss Rebels Football Players",
+                    "uri": "http://dbpedia.org/class/yago/OleMissRebelsFootballPlayers"
+                },
+                {
+                    "label": "American football linebackers",
+                    "uri": "http://dbpedia.org/resource/American_football_linebackers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Patrick_Willis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0597",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Patrick Willis",
+            "types": [
+                {
+                    "label": "National Conference Pro Bowl Players",
+                    "uri": "http://dbpedia.org/class/yago/NationalConferenceProBowlPlayers"
+                },
+                {
+                    "label": "Ole Miss Rebels Football Players",
+                    "uri": "http://dbpedia.org/class/yago/OleMissRebelsFootballPlayers"
+                },
+                {
+                    "label": "American football linebackers",
+                    "uri": "http://dbpedia.org/resource/American_football_linebackers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Patrick_Willis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

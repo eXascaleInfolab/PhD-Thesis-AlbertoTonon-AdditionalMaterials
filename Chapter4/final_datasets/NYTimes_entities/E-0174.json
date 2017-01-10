@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Neil J. Stone",
+            "types": [
+                {
+                    "label": "1995Albums",
+                    "uri": "http://dbpedia.org/class/yago/1995Albums"
+                },
+                {
+                    "label": "Vince Neil Albums",
+                    "uri": "http://dbpedia.org/class/yago/VinceNeilAlbums"
+                },
+                {
+                    "label": "Album",
+                    "uri": "http://dbpedia.org/class/yago/Album106591815"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carved_in_Stone_(Vince_Neil_album)"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0174",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Neil J. Stone",
+            "types": [
+                {
+                    "label": "1995Albums",
+                    "uri": "http://dbpedia.org/class/yago/1995Albums"
+                },
+                {
+                    "label": "Vince Neil Albums",
+                    "uri": "http://dbpedia.org/class/yago/VinceNeilAlbums"
+                },
+                {
+                    "label": "Album",
+                    "uri": "http://dbpedia.org/class/yago/Album106591815"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carved_in_Stone_(Vince_Neil_album)"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

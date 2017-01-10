@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Harry Reid",
+            "types": [
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/resource/American_Latter_Day_Saints"
+                },
+                {
+                    "label": "Officeholder",
+                    "uri": "http://dbpedia.org/class/yago/Officeholder110371450"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Nevada Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/NevadaLawyers"
+                },
+                {
+                    "label": "Converts to Mormonism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Mormonism"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Democratic Party (United States) politicians",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_politicians"
+                },
+                {
+                    "label": "Converts To Mormonism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToMormonism"
+                },
+                {
+                    "label": "United States Senators From Nevada",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNevada"
+                },
+                {
+                    "label": "George Washington University alumni",
+                    "uri": "http://dbpedia.org/resource/George_Washington_University_alumni"
+                },
+                {
+                    "label": "Congressional scandals",
+                    "uri": "http://dbpedia.org/resource/Congressional_scandals"
+                },
+                {
+                    "label": "Lieutenant Governors Of Nevada",
+                    "uri": "http://dbpedia.org/class/yago/LieutenantGovernorsOfNevada"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harry_Reid"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0528",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Harry Reid",
+            "types": [
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/resource/American_Latter_Day_Saints"
+                },
+                {
+                    "label": "Officeholder",
+                    "uri": "http://dbpedia.org/class/yago/Officeholder110371450"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Nevada Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/NevadaLawyers"
+                },
+                {
+                    "label": "Converts to Mormonism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Mormonism"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Democratic Party (United States) politicians",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_politicians"
+                },
+                {
+                    "label": "Converts To Mormonism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToMormonism"
+                },
+                {
+                    "label": "United States Senators From Nevada",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNevada"
+                },
+                {
+                    "label": "George Washington University alumni",
+                    "uri": "http://dbpedia.org/resource/George_Washington_University_alumni"
+                },
+                {
+                    "label": "Congressional scandals",
+                    "uri": "http://dbpedia.org/resource/Congressional_scandals"
+                },
+                {
+                    "label": "Lieutenant Governors Of Nevada",
+                    "uri": "http://dbpedia.org/class/yago/LieutenantGovernorsOfNevada"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harry_Reid"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

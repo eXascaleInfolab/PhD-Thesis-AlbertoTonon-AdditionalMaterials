@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Fort Lauderdale",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fort_Lauderdale"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0180",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fort Lauderdale",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fort_Lauderdale"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

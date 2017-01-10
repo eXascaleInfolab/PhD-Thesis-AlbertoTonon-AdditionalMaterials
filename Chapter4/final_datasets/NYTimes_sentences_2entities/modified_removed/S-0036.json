@@ -1,0 +1,213 @@
+{
+    "allEntities": [
+        {
+            "label": "Nile Rodgers", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 65
+                }
+            ], 
+            "types": [
+                {
+                    "label": "African American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanMusicians"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRecordProducers"
+                }, 
+                {
+                    "label": "African American musicians", 
+                    "uri": "http://dbpedia.org/resource/African_American_musicians"
+                }, 
+                {
+                    "label": "American Guitarists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanGuitarists"
+                }, 
+                {
+                    "label": "American Funk Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFunkMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American record producers", 
+                    "uri": "http://dbpedia.org/resource/American_record_producers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People From Westport,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestport,Connecticut"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "American funk musicians", 
+                    "uri": "http://dbpedia.org/resource/American_funk_musicians"
+                }, 
+                {
+                    "label": "American guitarists", 
+                    "uri": "http://dbpedia.org/resource/American_guitarists"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Nile_Rodgers"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 45
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 107
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "S-0036", 
+    "elementNumber": 73, 
+    "mainEntities": [
+        {
+            "label": "Nile Rodgers", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 65
+                }
+            ], 
+            "types": [
+                {
+                    "label": "African American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanMusicians"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRecordProducers"
+                }, 
+                {
+                    "label": "African American musicians", 
+                    "uri": "http://dbpedia.org/resource/African_American_musicians"
+                }, 
+                {
+                    "label": "American Guitarists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanGuitarists"
+                }, 
+                {
+                    "label": "American Funk Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFunkMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American record producers", 
+                    "uri": "http://dbpedia.org/resource/American_record_producers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People From Westport,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestport,Connecticut"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "American funk musicians", 
+                    "uri": "http://dbpedia.org/resource/American_funk_musicians"
+                }, 
+                {
+                    "label": "American guitarists", 
+                    "uri": "http://dbpedia.org/resource/American_guitarists"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Nile_Rodgers"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 45
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 107
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "For &ldquo;Black Tie White Noise,&rdquo; Mr. Bowie reunited with Nile Rodgers of Chic, the producer of Mr. Bowie&rsquo;s 1983 blockbuster, &ldquo; Let&rsquo;s Dance .&rdquo;", 
+    "shownText": "For &ldquo;Black Tie White Noise,&rdquo; Mr. Bowie reunited with Nile Rodgers of Chic, the producer of Mr. Bowie&rsquo;s 1983 blockbuster, &ldquo; Let&rsquo;s Dance .&rdquo;", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

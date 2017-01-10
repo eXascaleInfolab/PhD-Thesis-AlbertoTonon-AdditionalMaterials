@@ -1,0 +1,237 @@
+{
+    "allEntities": [
+        {
+            "label": "CLINTON", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 30
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "English surnames", 
+                    "uri": "http://dbpedia.org/resource/English_surnames"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Clinton"
+        }, 
+        {
+            "label": "Michelle Obama", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 70
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Office Holder", 
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Harvard Law School alumni", 
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Female Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFemaleLawyers"
+                }, 
+                {
+                    "label": "People From Chicago", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                }, 
+                {
+                    "label": "African American Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanLawyers"
+                }, 
+                {
+                    "label": "Harvard Law School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                }, 
+                {
+                    "label": "People From Chicago,Illinois", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago,Illinois"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Illinois lawyers", 
+                    "uri": "http://dbpedia.org/resource/Illinois_lawyers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Princeton University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+                }, 
+                {
+                    "label": "Vice President", 
+                    "uri": "http://dbpedia.org/class/yago/VicePresident110751265"
+                }, 
+                {
+                    "label": "Illinois Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/IllinoisLawyers"
+                }, 
+                {
+                    "label": "First Ladies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Women In Illinois Politics", 
+                    "uri": "http://dbpedia.org/class/yago/WomenInIllinoisPolitics"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Michelle_Obama"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/28/us/politics/new-attention-to-first-lady.html?ref=health", 
+    "category": "health", 
+    "docID": "P3-0094", 
+    "elementNumber": 3, 
+    "mainEntities": [
+        {
+            "label": "CLINTON", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 30
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "English surnames", 
+                    "uri": "http://dbpedia.org/resource/English_surnames"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Clinton"
+        }, 
+        {
+            "label": "Michelle Obama", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 70
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Office Holder", 
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Harvard Law School alumni", 
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Female Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFemaleLawyers"
+                }, 
+                {
+                    "label": "People From Chicago", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                }, 
+                {
+                    "label": "African American Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanLawyers"
+                }, 
+                {
+                    "label": "Harvard Law School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                }, 
+                {
+                    "label": "People From Chicago,Illinois", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago,Illinois"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Illinois lawyers", 
+                    "uri": "http://dbpedia.org/resource/Illinois_lawyers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Princeton University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+                }, 
+                {
+                    "label": "Vice President", 
+                    "uri": "http://dbpedia.org/class/yago/VicePresident110751265"
+                }, 
+                {
+                    "label": "Illinois Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/IllinoisLawyers"
+                }, 
+                {
+                    "label": "First Ladies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Women In Illinois Politics", 
+                    "uri": "http://dbpedia.org/class/yago/WomenInIllinoisPolitics"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Michelle_Obama"
+        }
+    ], 
+    "mainText": "CLINTON, Miss. &mdash; To her admirers, Michelle Obama is the patron saint of quinoa, charged with reducing the nation&rsquo;s dangerous obesity rate and helping children eat better.\nTo her detractors, she is the fun-killer, possessed with crushing America&rsquo;s cookies.", 
+    "shownText": "Published: February 27, 2013\n\nCLINTON, Miss. &mdash; To her admirers, Michelle Obama is the patron saint of quinoa, charged with reducing the nation&rsquo;s dangerous obesity rate and helping children eat better.\nTo her detractors, she is the fun-killer, possessed with crushing America&rsquo;s cookies.\n\nBut either way Mrs. Obama has taken her message once again on the road and is making clear that her campaign for healthy school lunches and fewer fat children will not be deterred.\n", 
+    "title": "New Attention to First Lady - NYTimes.com"
+}

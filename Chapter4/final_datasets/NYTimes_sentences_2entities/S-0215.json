@@ -1,0 +1,469 @@
+{
+  "mainText":"John Lennon couldn\u2019t find it in England, so he had cases of it shipped from New York to fuel the \u201cImagine\u201d sessions.",
+  "shownText":"John Lennon couldn\u2019t find it in England, so he had cases of it shipped from New York to fuel the \u201cImagine\u201d sessions.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"S-0215",
+  "elementNumber":95,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/John_Lennon",
+      "label":"John Lennon",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Liverpool",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLiverpool"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Best Original Music Score Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Original_Music_Score_Academy_Award_winners"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"Apple Records Artists",
+          "uri":"http://dbpedia.org/class/yago/AppleRecordsArtists"
+        },
+        {
+          "label":"English Rock Guitarists",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockGuitarists"
+        },
+        {
+          "label":"Apple Records artists",
+          "uri":"http://dbpedia.org/resource/Apple_Records_artists"
+        },
+        {
+          "label":"English Rock Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockSingers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"People Of Irish Descent In Great Britain",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+        },
+        {
+          "label":"British experimental musicians",
+          "uri":"http://dbpedia.org/resource/British_experimental_musicians"
+        },
+        {
+          "label":"English pacifists",
+          "uri":"http://dbpedia.org/resource/English_pacifists"
+        },
+        {
+          "label":"People From Greenwich Village,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromGreenwichVillage,NewYork"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Murdered Entertainers",
+          "uri":"http://dbpedia.org/class/yago/MurderedEntertainers"
+        },
+        {
+          "label":"English Murder Victims",
+          "uri":"http://dbpedia.org/class/yago/EnglishMurderVictims"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"English Rock Pianists",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockPianists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English rock guitarists",
+          "uri":"http://dbpedia.org/resource/English_rock_guitarists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"British Expatriates In The United States",
+          "uri":"http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Male Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishMaleSingers"
+        },
+        {
+          "label":"English rock pianists",
+          "uri":"http://dbpedia.org/resource/English_rock_pianists"
+        },
+        {
+          "label":"popular music star",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rCThRjlILEdqAAAACs71DGQ"
+        },
+        {
+          "label":"English Pacifists",
+          "uri":"http://dbpedia.org/class/yago/EnglishPacifists"
+        },
+        {
+          "label":"English rock singers",
+          "uri":"http://dbpedia.org/resource/English_rock_singers"
+        },
+        {
+          "label":"English murder victims",
+          "uri":"http://dbpedia.org/resource/English_murder_victims"
+        },
+        {
+          "label":"British Experimental Musicians",
+          "uri":"http://dbpedia.org/class/yago/BritishExperimentalMusicians"
+        },
+        {
+          "label":"performer of rock music",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv9t9NFMnQdeStuhcY3fjLA"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/England",
+      "label":"England",
+      "offsets":[
+        {
+          "offset":32,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"British Isles",
+          "uri":"http://dbpedia.org/class/yago/BritishIsles"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/John_Lennon",
+      "label":"John Lennon",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Liverpool",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLiverpool"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Best Original Music Score Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Original_Music_Score_Academy_Award_winners"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"Apple Records Artists",
+          "uri":"http://dbpedia.org/class/yago/AppleRecordsArtists"
+        },
+        {
+          "label":"English Rock Guitarists",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockGuitarists"
+        },
+        {
+          "label":"Apple Records artists",
+          "uri":"http://dbpedia.org/resource/Apple_Records_artists"
+        },
+        {
+          "label":"English Rock Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockSingers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"People Of Irish Descent In Great Britain",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+        },
+        {
+          "label":"British experimental musicians",
+          "uri":"http://dbpedia.org/resource/British_experimental_musicians"
+        },
+        {
+          "label":"English pacifists",
+          "uri":"http://dbpedia.org/resource/English_pacifists"
+        },
+        {
+          "label":"People From Greenwich Village,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromGreenwichVillage,NewYork"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Murdered Entertainers",
+          "uri":"http://dbpedia.org/class/yago/MurderedEntertainers"
+        },
+        {
+          "label":"English Murder Victims",
+          "uri":"http://dbpedia.org/class/yago/EnglishMurderVictims"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"English Rock Pianists",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockPianists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English rock guitarists",
+          "uri":"http://dbpedia.org/resource/English_rock_guitarists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"British Expatriates In The United States",
+          "uri":"http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Male Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishMaleSingers"
+        },
+        {
+          "label":"English rock pianists",
+          "uri":"http://dbpedia.org/resource/English_rock_pianists"
+        },
+        {
+          "label":"popular music star",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rCThRjlILEdqAAAACs71DGQ"
+        },
+        {
+          "label":"English Pacifists",
+          "uri":"http://dbpedia.org/class/yago/EnglishPacifists"
+        },
+        {
+          "label":"English rock singers",
+          "uri":"http://dbpedia.org/resource/English_rock_singers"
+        },
+        {
+          "label":"English murder victims",
+          "uri":"http://dbpedia.org/resource/English_murder_victims"
+        },
+        {
+          "label":"British Experimental Musicians",
+          "uri":"http://dbpedia.org/class/yago/BritishExperimentalMusicians"
+        },
+        {
+          "label":"performer of rock music",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv9t9NFMnQdeStuhcY3fjLA"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/England",
+      "label":"England",
+      "offsets":[
+        {
+          "offset":32,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"British Isles",
+          "uri":"http://dbpedia.org/class/yago/BritishIsles"
+        },
+        {
+          "label":"country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ]
+}

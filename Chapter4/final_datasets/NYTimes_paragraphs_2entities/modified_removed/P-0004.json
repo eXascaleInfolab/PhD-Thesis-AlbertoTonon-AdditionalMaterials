@@ -1,0 +1,165 @@
+{
+    "allEntities": [
+        {
+            "label": "Regina King", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 367
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American Voice Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                }, 
+                {
+                    "label": "California actors", 
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                }, 
+                {
+                    "label": "American voice actors", 
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Regina_King"
+        }, 
+        {
+            "label": "Ben Sherman", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 154
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Label", 
+                    "uri": "http://dbpedia.org/class/yago/Label107202579"
+                }, 
+                {
+                    "label": "Clothing brands", 
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                }, 
+                {
+                    "label": "Clothing Companies Of The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Ben_Sherman"
+        }, 
+        {
+            "label": "Shawn Hatosy", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 329
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "American Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                }, 
+                {
+                    "label": "American Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Shawn_Hatosy"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/27/arts/television/southland-on-tnt-pursues-bad-guys-and-realism.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P-0004", 
+    "elementNumber": 9, 
+    "mainEntities": [
+        {
+            "label": "Regina King", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 367
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American Voice Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                }, 
+                {
+                    "label": "California actors", 
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                }, 
+                {
+                    "label": "American voice actors", 
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Regina_King"
+        }, 
+        {
+            "label": "Ben Sherman", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 154
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Label", 
+                    "uri": "http://dbpedia.org/class/yago/Label107202579"
+                }, 
+                {
+                    "label": "Clothing brands", 
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                }, 
+                {
+                    "label": "Clothing Companies Of The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Ben_Sherman"
+        }, 
+        {
+            "label": "Shawn Hatosy", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 329
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "American Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                }, 
+                {
+                    "label": "American Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Shawn_Hatosy"
+        }
+    ], 
+    "mainText": "In Season 5 of &ldquo;Southland&rdquo; several major characters have been behaving in ways bound to alienate both fellow cops and casual viewers.\nOfficer Ben Sherman ( Ben McKenzie ), recipient of an award for bravery, has begun to exhibit a self-righteous, gung-ho bluster that has turned off his more skeptical partner, Sammy (Shawn Hatosy).\nDetective Lydia Adams (Regina King), testy at the best of times, has been driven so far around the bend by her new baby that she can barely bring herself to enter her house at the end of a shift.", 
+    "shownText": "In Season 5 of &ldquo;Southland&rdquo; several major characters have been behaving in ways bound to alienate both fellow cops and casual viewers.\nOfficer Ben Sherman ( Ben McKenzie ), recipient of an award for bravery, has begun to exhibit a self-righteous, gung-ho bluster that has turned off his more skeptical partner, Sammy (Shawn Hatosy).\nDetective Lydia Adams (Regina King), testy at the best of times, has been driven so far around the bend by her new baby that she can barely bring herself to enter her house at the end of a shift.", 
+    "title": "&acirc;Southland,&acirc; on TNT, Pursues Bad Guys and Realism - NYTimes.com"
+}

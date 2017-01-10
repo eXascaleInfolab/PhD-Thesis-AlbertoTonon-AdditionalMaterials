@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Google",
+            "types": [
+                {
+                    "label": "Companies Established In1998",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Google"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0432",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Google",
+            "types": [
+                {
+                    "label": "Companies Established In1998",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Google"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

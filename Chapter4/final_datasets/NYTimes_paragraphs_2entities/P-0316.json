@@ -1,0 +1,573 @@
+{
+  "mainText":"\u201cThe hegemonic pretensions of the American empire are placing at risk the very survival of the human species,\u201d he said in a 2006 speech at the United Nations.\nIn the same speech he called President George W. Bush \u201cthe devil.\u201d",
+  "shownText":"\u201cThe hegemonic pretensions of the American empire are placing at risk the very survival of the human species,\u201d he said in a 2006 speech at the United Nations.\nIn the same speech he called President George W. Bush \u201cthe devil.\u201d",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"P-0316",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":143,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_W._Bush",
+      "label":"George W. Bush",
+      "offsets":[
+        {
+          "offset":198,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Converts to Methodism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Methodism"
+        },
+        {
+          "label":"American cheerleaders",
+          "uri":"http://dbpedia.org/resource/American_cheerleaders"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Phillips Academy Alumni",
+          "uri":"http://dbpedia.org/class/yago/PhillipsAcademyAlumni"
+        },
+        {
+          "label":"Major League Baseball Owners",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballOwners"
+        },
+        {
+          "label":"American Aviators",
+          "uri":"http://dbpedia.org/class/yago/AmericanAviators"
+        },
+        {
+          "label":"Businessperson",
+          "uri":"http://dbpedia.org/class/yago/Businessperson109882716"
+        },
+        {
+          "label":"Children Of Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/ChildrenOfPresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"People From Midland,Texas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMidland,Texas"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"American People Of Welsh Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfWelshDescent"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Oil Industrialists",
+          "uri":"http://dbpedia.org/class/yago/AmericanOilIndustrialists"
+        },
+        {
+          "label":"People From New Haven,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewHaven,Connecticut"
+        },
+        {
+          "label":"American Rugby Union Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanRugbyUnionPlayers"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"American People Of Irish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfIrishDescent"
+        },
+        {
+          "label":"American People Of German Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfGermanDescent"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"American Cheerleaders",
+          "uri":"http://dbpedia.org/class/yago/AmericanCheerleaders"
+        },
+        {
+          "label":"American People Of Scottish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfScottishDescent"
+        },
+        {
+          "label":"American sports businesspeople",
+          "uri":"http://dbpedia.org/resource/American_sports_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Motivational Speakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanMotivationalSpeakers"
+        },
+        {
+          "label":"Texas Rangers Executives",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersExecutives"
+        },
+        {
+          "label":"Texas Rangers",
+          "uri":"http://dbpedia.org/class/yago/TexasRangers"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Converts To Methodism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToMethodism"
+        },
+        {
+          "label":"American People Of French Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfFrenchDescent"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Republican",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhvt4ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Governors Of Texas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfTexas"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Texas Republicans",
+          "uri":"http://dbpedia.org/class/yago/TexasRepublicans"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Yale University Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleUniversityAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Major League Baseball Executives",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballExecutives"
+        },
+        {
+          "label":"Converts From Anglicanism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsFromAnglicanism"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Texas Rangers Owners",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersOwners"
+        },
+        {
+          "label":"American People Of English Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfEnglishDescent"
+        },
+        {
+          "label":"Politicians Convicted Of Alcohol-related Driving Offenses",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansConvictedOfAlcohol-relatedDrivingOffenses"
+        },
+        {
+          "label":"United States Air Force Officers",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesAirForceOfficers"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"21st-century Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/21st-centuryPresidentsOfTheUnitedStates"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":143,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_W._Bush",
+      "label":"George W. Bush",
+      "offsets":[
+        {
+          "offset":198,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Converts to Methodism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Methodism"
+        },
+        {
+          "label":"American cheerleaders",
+          "uri":"http://dbpedia.org/resource/American_cheerleaders"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Phillips Academy Alumni",
+          "uri":"http://dbpedia.org/class/yago/PhillipsAcademyAlumni"
+        },
+        {
+          "label":"Major League Baseball Owners",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballOwners"
+        },
+        {
+          "label":"American Aviators",
+          "uri":"http://dbpedia.org/class/yago/AmericanAviators"
+        },
+        {
+          "label":"Businessperson",
+          "uri":"http://dbpedia.org/class/yago/Businessperson109882716"
+        },
+        {
+          "label":"Children Of Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/ChildrenOfPresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"People From Midland,Texas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMidland,Texas"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"American People Of Welsh Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfWelshDescent"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Oil Industrialists",
+          "uri":"http://dbpedia.org/class/yago/AmericanOilIndustrialists"
+        },
+        {
+          "label":"People From New Haven,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewHaven,Connecticut"
+        },
+        {
+          "label":"American Rugby Union Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanRugbyUnionPlayers"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"American People Of Irish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfIrishDescent"
+        },
+        {
+          "label":"American People Of German Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfGermanDescent"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"American Cheerleaders",
+          "uri":"http://dbpedia.org/class/yago/AmericanCheerleaders"
+        },
+        {
+          "label":"American People Of Scottish Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfScottishDescent"
+        },
+        {
+          "label":"American sports businesspeople",
+          "uri":"http://dbpedia.org/resource/American_sports_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Motivational Speakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanMotivationalSpeakers"
+        },
+        {
+          "label":"Texas Rangers Executives",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersExecutives"
+        },
+        {
+          "label":"Texas Rangers",
+          "uri":"http://dbpedia.org/class/yago/TexasRangers"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Converts To Methodism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToMethodism"
+        },
+        {
+          "label":"American People Of French Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfFrenchDescent"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Republican",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhvt4ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Governors Of Texas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfTexas"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Texas Republicans",
+          "uri":"http://dbpedia.org/class/yago/TexasRepublicans"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Yale University Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleUniversityAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Major League Baseball Executives",
+          "uri":"http://dbpedia.org/class/yago/MajorLeagueBaseballExecutives"
+        },
+        {
+          "label":"Converts From Anglicanism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsFromAnglicanism"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Texas Rangers Owners",
+          "uri":"http://dbpedia.org/class/yago/TexasRangersOwners"
+        },
+        {
+          "label":"American People Of English Descent",
+          "uri":"http://dbpedia.org/class/yago/AmericanPeopleOfEnglishDescent"
+        },
+        {
+          "label":"Politicians Convicted Of Alcohol-related Driving Offenses",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansConvictedOfAlcohol-relatedDrivingOffenses"
+        },
+        {
+          "label":"United States Air Force Officers",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesAirForceOfficers"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"21st-century Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/21st-centuryPresidentsOfTheUnitedStates"
+        }
+      ]
+    }
+  ]
+}

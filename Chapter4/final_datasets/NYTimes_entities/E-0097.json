@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "GREG BISHOP",
+            "types": [
+                {
+                    "label": "American football offensive linemen",
+                    "uri": "http://dbpedia.org/resource/American_football_offensive_linemen"
+                },
+                {
+                    "label": "Atlanta Falcons players",
+                    "uri": "http://dbpedia.org/resource/Atlanta_Falcons_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greg_Bishop"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0097",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "GREG BISHOP",
+            "types": [
+                {
+                    "label": "American football offensive linemen",
+                    "uri": "http://dbpedia.org/resource/American_football_offensive_linemen"
+                },
+                {
+                    "label": "Atlanta Falcons players",
+                    "uri": "http://dbpedia.org/resource/Atlanta_Falcons_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greg_Bishop"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

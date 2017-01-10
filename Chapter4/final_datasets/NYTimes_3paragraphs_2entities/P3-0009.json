@@ -1,0 +1,537 @@
+{
+  "mainText":"At the time, America had produced an exceptional generation of pianists besides Mr. Cliburn who were all in promising stages of their own careers, among them Leon Fleisher, Byron Janis, Gary Graffman and Eugene Istomin.\nBut the Tchaikovsky competition came at a historically important time: a period when American morale had been badly shaken by the Soviet Union\u2019s launching of the world\u2019s first orbiting satellite, the Sputnik, in 1957.",
+  "shownText":"Even before his Moscow victory, the Juilliard-trained Mr. Cliburn was a notable up-and-coming pianist.\nHe won the Leventritt Foundation Award in 1954, which earned him debuts with five major orchestras, including the New York Philharmonic under Dimitri Mitropoulos.\nFor that performance, at Carnegie Hall in November 1954, he performed the work that would become his signature piece, Tchaikovsky\u2019s Piano Concert No. 1, garnering enthusiastic reviews and a contract with Columbia Artists.\n\nAt the time, America had produced an exceptional generation of pianists besides Mr. Cliburn who were all in promising stages of their own careers, among them Leon Fleisher, Byron Janis, Gary Graffman and Eugene Istomin.\nBut the Tchaikovsky competition came at a historically important time: a period when American morale had been badly shaken by the Soviet Union\u2019s launching of the world\u2019s first orbiting satellite, the Sputnik, in 1957.\n\nThe impact of Mr. Cliburn\u2019s victory was further enhanced by a series of vivid articles written for The New York Times by Max Frankel, then a foreign correspondent based in Moscow and later an executive editor of the paper.\nThe reports of Mr. Cliburn\u2019s progress \u2014 prevailing during the early rounds, making it to the finals and becoming the darling of the Russian people, who embraced him in the streets and flooded him with fan mail and flowers \u2014 created national anticipation as he went into the finals.\n",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0009",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Soviet_Union",
+      "label":"Soviet Union",
+      "offsets":[
+        {
+          "offset":839,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Former Communist Economies",
+          "uri":"http://dbpedia.org/class/yago/FormerCommunistEconomies"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economies Of Former Countries",
+          "uri":"http://dbpedia.org/class/yago/EconomiesOfFormerCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Early Soviet Republics",
+          "uri":"http://dbpedia.org/resource/Early_Soviet_Republics"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Byron_Janis",
+      "label":"Byron Janis",
+      "offsets":[
+        {
+          "offset":662,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Jewish American musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_musicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eugene_Istomin",
+      "label":"Eugene Istomin",
+      "offsets":[
+        {
+          "offset":693,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Fleisher",
+      "label":"Leon Fleisher",
+      "offsets":[
+        {
+          "offset":647,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gary_Graffman",
+      "label":"Gary Graffman",
+      "offsets":[
+        {
+          "offset":675,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Classical pianists",
+          "uri":"http://dbpedia.org/resource/Classical_pianists"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Classical Pianists",
+          "uri":"http://dbpedia.org/class/yago/ClassicalPianists"
+        },
+        {
+          "label":"Jewish musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_musicians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":1027,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Max_Frankel",
+      "label":"Max Frankel",
+      "offsets":[
+        {
+          "offset":1049,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American newspaper editors",
+          "uri":"http://dbpedia.org/resource/American_newspaper_editors"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soviet_Union",
+      "label":"Soviet Union",
+      "offsets":[
+        {
+          "offset":839,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Former Communist Economies",
+          "uri":"http://dbpedia.org/class/yago/FormerCommunistEconomies"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economies Of Former Countries",
+          "uri":"http://dbpedia.org/class/yago/EconomiesOfFormerCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Early Soviet Republics",
+          "uri":"http://dbpedia.org/resource/Early_Soviet_Republics"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":16,
+          "length":6
+        },
+        {
+          "offset":1100,
+          "length":6
+        },
+        {
+          "offset":16,
+          "length":6
+        },
+        {
+          "offset":1100,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Byron_Janis",
+      "label":"Byron Janis",
+      "offsets":[
+        {
+          "offset":662,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Jewish American musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_musicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eugene_Istomin",
+      "label":"Eugene Istomin",
+      "offsets":[
+        {
+          "offset":693,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Fleisher",
+      "label":"Leon Fleisher",
+      "offsets":[
+        {
+          "offset":647,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Carnegie_Hall",
+      "label":"Carnegie Hall",
+      "offsets":[
+        {
+          "offset":291,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Registered Historic Places In Manhattan",
+          "uri":"http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+        },
+        {
+          "label":"National Historic Landmarks Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Historic Place",
+          "uri":"http://dbpedia.org/ontology/HistoricPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"place",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjTtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"fixed free-standing structure",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjGR5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"theater",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"theater",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Music Venues In New York City",
+          "uri":"http://dbpedia.org/class/yago/MusicVenuesInNewYorkCity"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"large construction",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjPSpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"public place",
+          "uri":"http://sw.opencyc.org/concept/Mx4rg7oNHCl-EduAAAACs0uFOQ"
+        },
+        {
+          "label":"theater",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        },
+        {
+          "label":"Theater Physical Structure",
+          "uri":"http://umbel.org/umbel/sc/Theater_PhysicalStructure"
+        },
+        {
+          "label":"Landmarks In New York City",
+          "uri":"http://dbpedia.org/class/yago/LandmarksInNewYorkCity"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gary_Graffman",
+      "label":"Gary Graffman",
+      "offsets":[
+        {
+          "offset":675,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Classical pianists",
+          "uri":"http://dbpedia.org/resource/Classical_pianists"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Classical Pianists",
+          "uri":"http://dbpedia.org/class/yago/ClassicalPianists"
+        },
+        {
+          "label":"Jewish musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_musicians"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "mainText":"The local tribal population largely shuns the jobs, so children and other laborers are brought here from Nepal and Bangladesh in informal networks that advocates have decried as trafficking.",
+  "shownText":"The local tribal population largely shuns the jobs, so children and other laborers are brought here from Nepal and Bangladesh in informal networks that advocates have decried as trafficking.",
+  "title":"In India, Missing School to Work in the Mine - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/world/asia/in-india-missing-school-to-work-in-the-mine.html?ref=world",
+  "category":"world",
+  "docID":"S-0429",
+  "elementNumber":65,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nepal",
+      "label":"Nepal",
+      "offsets":[
+        {
+          "offset":105,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"independent republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rC9ySfm2oEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bangladesh",
+      "label":"Bangladesh",
+      "offsets":[
+        {
+          "offset":115,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViWHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nepal",
+      "label":"Nepal",
+      "offsets":[
+        {
+          "offset":105,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"independent republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rC9ySfm2oEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bangladesh",
+      "label":"Bangladesh",
+      "offsets":[
+        {
+          "offset":115,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViWHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

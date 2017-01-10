@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Mary",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Feminine given names",
+                    "uri": "http://dbpedia.org/resource/Feminine_given_names"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mary"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0471",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mary",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Feminine given names",
+                    "uri": "http://dbpedia.org/resource/Feminine_given_names"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mary"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

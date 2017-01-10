@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Prince",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Court titles",
+                    "uri": "http://dbpedia.org/resource/Court_titles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Prince"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0000",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Prince",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Court titles",
+                    "uri": "http://dbpedia.org/resource/Court_titles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Prince"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

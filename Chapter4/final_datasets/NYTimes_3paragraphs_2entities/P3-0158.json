@@ -1,0 +1,589 @@
+{
+  "mainText":"A native of West Virginia, Ms. Burwell is a graduate of Harvard and Oxford, where she was a Rhodes scholar.\nIn the 1990s, she served in a variety of economic policy roles in the Clinton administration, including as a top aide to Robert E. Rubin, then the Treasury secretary, and as a staff member of the White House\u2019s National Economic Council.",
+  "shownText":"In addition, the temporary measure that is financing the government will run out at the end of March, setting up another potential fight between the White House and Republicans in Congress.\n\nA native of West Virginia, Ms. Burwell is a graduate of Harvard and Oxford, where she was a Rhodes scholar.\nIn the 1990s, she served in a variety of economic policy roles in the Clinton administration, including as a top aide to Robert E. Rubin, then the Treasury secretary, and as a staff member of the White House\u2019s National Economic Council.\n\nMs. Burwell would bring a new voice to an administration that has developed a reputation for insularity, and she would provide some gender diversity to a circle of top White House aides that is dominated by men.\n",
+  "title":"Sylvia Mathews Burwell Picked for Budget Chief - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/us/politics/obama-picks-foundation-president-for-budget-chief.html",
+  "category":"politics",
+  "docID":"P3-0158",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Oxford",
+      "label":"Oxford",
+      "offsets":[
+        {
+          "offset":259,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"city in England",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvViWaZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Local Government Districts Of South East England",
+          "uri":"http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfSouthEastEngland"
+        },
+        {
+          "label":"Cities In England",
+          "uri":"http://dbpedia.org/class/yago/CitiesInEngland"
+        },
+        {
+          "label":"Non-metropolitan Districts Of Oxfordshire",
+          "uri":"http://dbpedia.org/class/yago/Non-metropolitanDistrictsOfOxfordshire"
+        },
+        {
+          "label":"County Towns In England",
+          "uri":"http://dbpedia.org/class/yago/CountyTownsInEngland"
+        },
+        {
+          "label":"Shire Districts",
+          "uri":"http://dbpedia.org/class/yago/ShireDistricts"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Geoclass Populated Place",
+          "uri":"http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Populated Places Established In The8th Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCentury"
+        },
+        {
+          "label":"Settlements Established In The8th Century",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCentury"
+        },
+        {
+          "label":"Cities In South East England",
+          "uri":"http://dbpedia.org/class/yago/CitiesInSouthEastEngland"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"University Towns",
+          "uri":"http://dbpedia.org/class/yago/UniversityTowns"
+        },
+        {
+          "label":"University Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Clinton",
+      "label":"Clinton",
+      "offsets":[
+        {
+          "offset":369,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/West_Virginia",
+      "label":"West Virginia",
+      "offsets":[
+        {
+          "offset":203,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":247,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":149,
+          "length":11
+        },
+        {
+          "offset":495,
+          "length":11
+        },
+        {
+          "offset":705,
+          "length":11
+        },
+        {
+          "offset":149,
+          "length":11
+        },
+        {
+          "offset":495,
+          "length":11
+        },
+        {
+          "offset":705,
+          "length":11
+        },
+        {
+          "offset":149,
+          "length":11
+        },
+        {
+          "offset":495,
+          "length":11
+        },
+        {
+          "offset":705,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Oxford",
+      "label":"Oxford",
+      "offsets":[
+        {
+          "offset":259,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"city in England",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvViWaZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Local Government Districts Of South East England",
+          "uri":"http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfSouthEastEngland"
+        },
+        {
+          "label":"Cities In England",
+          "uri":"http://dbpedia.org/class/yago/CitiesInEngland"
+        },
+        {
+          "label":"Non-metropolitan Districts Of Oxfordshire",
+          "uri":"http://dbpedia.org/class/yago/Non-metropolitanDistrictsOfOxfordshire"
+        },
+        {
+          "label":"County Towns In England",
+          "uri":"http://dbpedia.org/class/yago/CountyTownsInEngland"
+        },
+        {
+          "label":"Shire Districts",
+          "uri":"http://dbpedia.org/class/yago/ShireDistricts"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Geoclass Populated Place",
+          "uri":"http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Populated Places Established In The8th Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCentury"
+        },
+        {
+          "label":"Settlements Established In The8th Century",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCentury"
+        },
+        {
+          "label":"Cities In South East England",
+          "uri":"http://dbpedia.org/class/yago/CitiesInSouthEastEngland"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"University Towns",
+          "uri":"http://dbpedia.org/class/yago/UniversityTowns"
+        },
+        {
+          "label":"University Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Clinton",
+      "label":"Clinton",
+      "offsets":[
+        {
+          "offset":369,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/West_Virginia",
+      "label":"West Virginia",
+      "offsets":[
+        {
+          "offset":203,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":247,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":149,
+          "length":11
+        },
+        {
+          "offset":495,
+          "length":11
+        },
+        {
+          "offset":705,
+          "length":11
+        },
+        {
+          "offset":149,
+          "length":11
+        },
+        {
+          "offset":495,
+          "length":11
+        },
+        {
+          "offset":705,
+          "length":11
+        },
+        {
+          "offset":149,
+          "length":11
+        },
+        {
+          "offset":495,
+          "length":11
+        },
+        {
+          "offset":705,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ]
+}

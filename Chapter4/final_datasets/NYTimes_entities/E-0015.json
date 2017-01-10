@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Harold C. Schonberg",
+            "types": [
+                {
+                    "label": "American music critics",
+                    "uri": "http://dbpedia.org/resource/American_music_critics"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harold_C._Schonberg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0015",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Harold C. Schonberg",
+            "types": [
+                {
+                    "label": "American music critics",
+                    "uri": "http://dbpedia.org/resource/American_music_critics"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harold_C._Schonberg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

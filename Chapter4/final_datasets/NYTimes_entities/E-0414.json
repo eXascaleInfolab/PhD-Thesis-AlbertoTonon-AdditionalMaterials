@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "SABRINA TAVERNISE",
+            "types": [
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/ontology/Journalist"
+                },
+                {
+                    "label": "Barnard College alumni",
+                    "uri": "http://dbpedia.org/resource/Barnard_College_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sabrina_Tavernise"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0414",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "SABRINA TAVERNISE",
+            "types": [
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/ontology/Journalist"
+                },
+                {
+                    "label": "Barnard College alumni",
+                    "uri": "http://dbpedia.org/resource/Barnard_College_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sabrina_Tavernise"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

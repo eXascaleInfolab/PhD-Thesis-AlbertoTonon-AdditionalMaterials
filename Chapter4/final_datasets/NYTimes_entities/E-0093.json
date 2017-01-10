@@ -1,0 +1,225 @@
+{
+    "allEntities": [
+        {
+            "label": "Zimbabwe",
+            "types": [
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Economy",
+                    "uri": "http://dbpedia.org/class/yago/Economy108366753"
+                },
+                {
+                    "label": "System",
+                    "uri": "http://dbpedia.org/class/yago/System108435388"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "African Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/English-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Economic Disasters",
+                    "uri": "http://dbpedia.org/class/yago/EconomicDisasters"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "African Union Member States",
+                    "uri": "http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Zimbabwe"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0093",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Zimbabwe",
+            "types": [
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Economy",
+                    "uri": "http://dbpedia.org/class/yago/Economy108366753"
+                },
+                {
+                    "label": "System",
+                    "uri": "http://dbpedia.org/class/yago/System108435388"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "African Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/English-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Economic Disasters",
+                    "uri": "http://dbpedia.org/class/yago/EconomicDisasters"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "African Union Member States",
+                    "uri": "http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Zimbabwe"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "GlaxoSmithKline",
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Dental companies",
+                    "uri": "http://dbpedia.org/resource/Dental_companies"
+                },
+                {
+                    "label": "Biotechnology companies",
+                    "uri": "http://dbpedia.org/resource/Biotechnology_companies"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies listed on the London Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/GlaxoSmithKline"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0077",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "GlaxoSmithKline",
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Dental companies",
+                    "uri": "http://dbpedia.org/resource/Dental_companies"
+                },
+                {
+                    "label": "Biotechnology companies",
+                    "uri": "http://dbpedia.org/resource/Biotechnology_companies"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies listed on the London Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/GlaxoSmithKline"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

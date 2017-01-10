@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Georgetown University",
+            "types": [
+                {
+                    "label": "fictional universe.school in fiction",
+                    "uri": "http://rdf.freebase.com/ns/fictional_universe.school_in_fiction"
+                },
+                {
+                    "label": "location.location",
+                    "uri": "http://rdf.freebase.com/ns/location.location"
+                },
+                {
+                    "label": "common.topic",
+                    "uri": "http://rdf.freebase.com/ns/common.topic"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In Washington,D.C.",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInWashington,D.C."
+                },
+                {
+                    "label": "business.employer",
+                    "uri": "http://rdf.freebase.com/ns/business.employer"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "base.washingtondc.topic",
+                    "uri": "http://rdf.freebase.com/ns/base.washingtondc.topic"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Educational Organization",
+                    "uri": "http://umbel.org/umbel/sc/EducationalOrganization"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "education.university",
+                    "uri": "http://rdf.freebase.com/ns/education.university"
+                },
+                {
+                    "label": "Educational Institutions Established In The1780s",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe1780s"
+                },
+                {
+                    "label": "Educational Institutions Established In The1630s",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe1630s"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "organization.organization",
+                    "uri": "http://rdf.freebase.com/ns/organization.organization"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "education.educational institution",
+                    "uri": "http://rdf.freebase.com/ns/education.educational_institution"
+                },
+                {
+                    "label": "medicine.cancer center constituent",
+                    "uri": "http://rdf.freebase.com/ns/medicine.cancer_center_constituent"
+                },
+                {
+                    "label": "Roman Catholic Universities And Colleges In The United States",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicUniversitiesAndCollegesInTheUnitedStates"
+                },
+                {
+                    "label": "freebase.apps.hosts.com.appspot.acre.juggle.juggle",
+                    "uri": "http://rdf.freebase.com/ns/freebase.apps.hosts.com.appspot.acre.juggle.juggle"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Jesuit Universities And Colleges In The United States",
+                    "uri": "http://dbpedia.org/class/yago/JesuitUniversitiesAndCollegesInTheUnitedStates"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Georgetown_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0590",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Georgetown University",
+            "types": [
+                {
+                    "label": "fictional universe.school in fiction",
+                    "uri": "http://rdf.freebase.com/ns/fictional_universe.school_in_fiction"
+                },
+                {
+                    "label": "location.location",
+                    "uri": "http://rdf.freebase.com/ns/location.location"
+                },
+                {
+                    "label": "common.topic",
+                    "uri": "http://rdf.freebase.com/ns/common.topic"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In Washington,D.C.",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInWashington,D.C."
+                },
+                {
+                    "label": "business.employer",
+                    "uri": "http://rdf.freebase.com/ns/business.employer"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "base.washingtondc.topic",
+                    "uri": "http://rdf.freebase.com/ns/base.washingtondc.topic"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Educational Organization",
+                    "uri": "http://umbel.org/umbel/sc/EducationalOrganization"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "education.university",
+                    "uri": "http://rdf.freebase.com/ns/education.university"
+                },
+                {
+                    "label": "Educational Institutions Established In The1780s",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe1780s"
+                },
+                {
+                    "label": "Educational Institutions Established In The1630s",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe1630s"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "organization.organization",
+                    "uri": "http://rdf.freebase.com/ns/organization.organization"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "education.educational institution",
+                    "uri": "http://rdf.freebase.com/ns/education.educational_institution"
+                },
+                {
+                    "label": "medicine.cancer center constituent",
+                    "uri": "http://rdf.freebase.com/ns/medicine.cancer_center_constituent"
+                },
+                {
+                    "label": "Roman Catholic Universities And Colleges In The United States",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicUniversitiesAndCollegesInTheUnitedStates"
+                },
+                {
+                    "label": "freebase.apps.hosts.com.appspot.acre.juggle.juggle",
+                    "uri": "http://rdf.freebase.com/ns/freebase.apps.hosts.com.appspot.acre.juggle.juggle"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Jesuit Universities And Colleges In The United States",
+                    "uri": "http://dbpedia.org/class/yago/JesuitUniversitiesAndCollegesInTheUnitedStates"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Georgetown_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

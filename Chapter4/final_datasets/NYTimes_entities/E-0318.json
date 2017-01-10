@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Tom Cole",
+            "types": [
+                {
+                    "label": "Chickasaw people",
+                    "uri": "http://dbpedia.org/resource/Chickasaw_people"
+                },
+                {
+                    "label": "Native American People",
+                    "uri": "http://dbpedia.org/class/yago/NativeAmericanPeople"
+                },
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/class/yago/Congressman109955781"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Oklahoma State Senators",
+                    "uri": "http://dbpedia.org/class/yago/OklahomaStateSenators"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Grinnell College people",
+                    "uri": "http://dbpedia.org/resource/Grinnell_College_people"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tom_Cole"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0318",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Tom Cole",
+            "types": [
+                {
+                    "label": "Chickasaw people",
+                    "uri": "http://dbpedia.org/resource/Chickasaw_people"
+                },
+                {
+                    "label": "Native American People",
+                    "uri": "http://dbpedia.org/class/yago/NativeAmericanPeople"
+                },
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/class/yago/Congressman109955781"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Oklahoma State Senators",
+                    "uri": "http://dbpedia.org/class/yago/OklahomaStateSenators"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Grinnell College people",
+                    "uri": "http://dbpedia.org/resource/Grinnell_College_people"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tom_Cole"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

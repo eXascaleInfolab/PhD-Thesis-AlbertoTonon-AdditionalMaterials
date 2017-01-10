@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mia Li",
+            "types": [
+                {
+                    "label": "Bands with female lead singers",
+                    "uri": "http://dbpedia.org/resource/Bands_with_female_lead_singers"
+                },
+                {
+                    "label": "German musical groups",
+                    "uri": "http://dbpedia.org/resource/German_musical_groups"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/MIA."
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0738",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mia Li",
+            "types": [
+                {
+                    "label": "Bands with female lead singers",
+                    "uri": "http://dbpedia.org/resource/Bands_with_female_lead_singers"
+                },
+                {
+                    "label": "German musical groups",
+                    "uri": "http://dbpedia.org/resource/German_musical_groups"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/MIA."
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

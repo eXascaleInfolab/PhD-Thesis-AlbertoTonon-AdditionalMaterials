@@ -1,0 +1,337 @@
+{
+    "allEntities": [
+        {
+            "label": "Woody Allen",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Adoptive Parents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+                },
+                {
+                    "label": "American comedians",
+                    "uri": "http://dbpedia.org/resource/American_comedians"
+                },
+                {
+                    "label": "comedic actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwDq49pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American adoptive parents",
+                    "uri": "http://dbpedia.org/resource/American_adoptive_parents"
+                },
+                {
+                    "label": "American short story writers",
+                    "uri": "http://dbpedia.org/resource/American_short_story_writers"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "American vegetarians",
+                    "uri": "http://dbpedia.org/resource/American_vegetarians"
+                },
+                {
+                    "label": "American Short Story Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanShortStoryWriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Jewish American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+                },
+                {
+                    "label": "Best Original Screenplay Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Original_Screenplay_Academy_Award_winners"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "American Jazz Clarinetists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanJazzClarinetists"
+                },
+                {
+                    "label": "American Stand-up Comedians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStand-upComedians"
+                },
+                {
+                    "label": "English-language Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilmDirectors"
+                },
+                {
+                    "label": "American Dixieland Revivalists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanDixielandRevivalists"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "C%E9sar Award winners",
+                    "uri": "http://dbpedia.org/resource/C%E9sar_Award_winners"
+                },
+                {
+                    "label": "Jewish comedy and humor",
+                    "uri": "http://dbpedia.org/resource/Jewish_comedy_and_humor"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Best Director Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+                },
+                {
+                    "label": "Dixieland Revivalist Clarinetists",
+                    "uri": "http://dbpedia.org/class/yago/DixielandRevivalistClarinetists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "American Dixieland revivalists",
+                    "uri": "http://dbpedia.org/resource/American_Dixieland_revivalists"
+                },
+                {
+                    "label": "English-language film directors",
+                    "uri": "http://dbpedia.org/resource/English-language_film_directors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "Jewish American film directors",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_film_directors"
+                },
+                {
+                    "label": "American Vegetarians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVegetarians"
+                },
+                {
+                    "label": "American jazz clarinetists",
+                    "uri": "http://dbpedia.org/resource/American_jazz_clarinetists"
+                },
+                {
+                    "label": "Dixieland revivalist clarinetists",
+                    "uri": "http://dbpedia.org/resource/Dixieland_revivalist_clarinetists"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "New York Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Woody_Allen"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0038",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Woody Allen",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Adoptive Parents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+                },
+                {
+                    "label": "American comedians",
+                    "uri": "http://dbpedia.org/resource/American_comedians"
+                },
+                {
+                    "label": "comedic actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwDq49pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American adoptive parents",
+                    "uri": "http://dbpedia.org/resource/American_adoptive_parents"
+                },
+                {
+                    "label": "American short story writers",
+                    "uri": "http://dbpedia.org/resource/American_short_story_writers"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "American vegetarians",
+                    "uri": "http://dbpedia.org/resource/American_vegetarians"
+                },
+                {
+                    "label": "American Short Story Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanShortStoryWriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Jewish American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+                },
+                {
+                    "label": "Best Original Screenplay Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Original_Screenplay_Academy_Award_winners"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "American Jazz Clarinetists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanJazzClarinetists"
+                },
+                {
+                    "label": "American Stand-up Comedians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStand-upComedians"
+                },
+                {
+                    "label": "English-language Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilmDirectors"
+                },
+                {
+                    "label": "American Dixieland Revivalists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanDixielandRevivalists"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "C%E9sar Award winners",
+                    "uri": "http://dbpedia.org/resource/C%E9sar_Award_winners"
+                },
+                {
+                    "label": "Jewish comedy and humor",
+                    "uri": "http://dbpedia.org/resource/Jewish_comedy_and_humor"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Best Director Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+                },
+                {
+                    "label": "Dixieland Revivalist Clarinetists",
+                    "uri": "http://dbpedia.org/class/yago/DixielandRevivalistClarinetists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "American Dixieland revivalists",
+                    "uri": "http://dbpedia.org/resource/American_Dixieland_revivalists"
+                },
+                {
+                    "label": "English-language film directors",
+                    "uri": "http://dbpedia.org/resource/English-language_film_directors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "Jewish American film directors",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_film_directors"
+                },
+                {
+                    "label": "American Vegetarians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVegetarians"
+                },
+                {
+                    "label": "American jazz clarinetists",
+                    "uri": "http://dbpedia.org/resource/American_jazz_clarinetists"
+                },
+                {
+                    "label": "Dixieland revivalist clarinetists",
+                    "uri": "http://dbpedia.org/resource/Dixieland_revivalist_clarinetists"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "New York Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Woody_Allen"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

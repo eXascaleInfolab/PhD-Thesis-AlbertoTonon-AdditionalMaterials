@@ -1,0 +1,209 @@
+{
+    "allEntities": [
+        {
+            "label": "CNBC",
+            "types": [
+                {
+                    "label": "Mental Situation",
+                    "uri": "http://umbel.org/umbel/sc/MentalSituation"
+                },
+                {
+                    "label": "Sirius Satellite Radio Channels",
+                    "uri": "http://dbpedia.org/class/yago/SiriusSatelliteRadioChannels"
+                },
+                {
+                    "label": "NBCUniversal Networks",
+                    "uri": "http://dbpedia.org/class/yago/NBCUniversalNetworks"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Competition",
+                    "uri": "http://umbel.org/umbel/sc/Competition"
+                },
+                {
+                    "label": "HD channels",
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                },
+                {
+                    "label": "HDChannels",
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                },
+                {
+                    "label": "XMSatellite Radio Channels",
+                    "uri": "http://dbpedia.org/class/yago/XMSatelliteRadioChannels"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "cable television network",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvjMrW5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "24-hour Television News Channels",
+                    "uri": "http://dbpedia.org/class/yago/24-hourTelevisionNewsChannels"
+                },
+                {
+                    "label": "24-hour television news channels",
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                },
+                {
+                    "label": "CNBC global channels",
+                    "uri": "http://dbpedia.org/resource/CNBC_global_channels"
+                },
+                {
+                    "label": "Digital only radio stations",
+                    "uri": "http://dbpedia.org/resource/Digital_only_radio_stations"
+                },
+                {
+                    "label": "Business-related television channels",
+                    "uri": "http://dbpedia.org/resource/Business-related_television_channels"
+                },
+                {
+                    "label": "General Electric Subsidiaries",
+                    "uri": "http://dbpedia.org/class/yago/GeneralElectricSubsidiaries"
+                },
+                {
+                    "label": "General Electric subsidiaries",
+                    "uri": "http://dbpedia.org/resource/General_Electric_subsidiaries"
+                },
+                {
+                    "label": "Channel",
+                    "uri": "http://dbpedia.org/class/yago/Channel106259898"
+                },
+                {
+                    "label": "Business-related Television Channels",
+                    "uri": "http://dbpedia.org/class/yago/Business-relatedTelevisionChannels"
+                },
+                {
+                    "label": "Du Pont-Columbia Award recipients",
+                    "uri": "http://dbpedia.org/resource/DuPont-Columbia_Award_recipients"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CNBC"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0405",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "CNBC",
+            "types": [
+                {
+                    "label": "Mental Situation",
+                    "uri": "http://umbel.org/umbel/sc/MentalSituation"
+                },
+                {
+                    "label": "Sirius Satellite Radio Channels",
+                    "uri": "http://dbpedia.org/class/yago/SiriusSatelliteRadioChannels"
+                },
+                {
+                    "label": "NBCUniversal Networks",
+                    "uri": "http://dbpedia.org/class/yago/NBCUniversalNetworks"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Competition",
+                    "uri": "http://umbel.org/umbel/sc/Competition"
+                },
+                {
+                    "label": "HD channels",
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                },
+                {
+                    "label": "HDChannels",
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                },
+                {
+                    "label": "XMSatellite Radio Channels",
+                    "uri": "http://dbpedia.org/class/yago/XMSatelliteRadioChannels"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "cable television network",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvjMrW5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "24-hour Television News Channels",
+                    "uri": "http://dbpedia.org/class/yago/24-hourTelevisionNewsChannels"
+                },
+                {
+                    "label": "24-hour television news channels",
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                },
+                {
+                    "label": "CNBC global channels",
+                    "uri": "http://dbpedia.org/resource/CNBC_global_channels"
+                },
+                {
+                    "label": "Digital only radio stations",
+                    "uri": "http://dbpedia.org/resource/Digital_only_radio_stations"
+                },
+                {
+                    "label": "Business-related television channels",
+                    "uri": "http://dbpedia.org/resource/Business-related_television_channels"
+                },
+                {
+                    "label": "General Electric Subsidiaries",
+                    "uri": "http://dbpedia.org/class/yago/GeneralElectricSubsidiaries"
+                },
+                {
+                    "label": "General Electric subsidiaries",
+                    "uri": "http://dbpedia.org/resource/General_Electric_subsidiaries"
+                },
+                {
+                    "label": "Channel",
+                    "uri": "http://dbpedia.org/class/yago/Channel106259898"
+                },
+                {
+                    "label": "Business-related Television Channels",
+                    "uri": "http://dbpedia.org/class/yago/Business-relatedTelevisionChannels"
+                },
+                {
+                    "label": "Du Pont-Columbia Award recipients",
+                    "uri": "http://dbpedia.org/resource/DuPont-Columbia_Award_recipients"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CNBC"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

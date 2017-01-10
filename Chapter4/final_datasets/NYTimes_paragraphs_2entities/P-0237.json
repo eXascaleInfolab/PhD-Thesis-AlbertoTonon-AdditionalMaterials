@@ -1,0 +1,205 @@
+{
+  "mainText":"When designers talk about clothes with \u201craw emotion,\u201d \u201cdesire\u201d and \u201chappiness,\u201d as they have since the fall shows began a month ago, you wonder what they mean.\nCertainly the relaxed shapes at Stella McCartney on Monday \u2014 or at Céline , Prada and Marc Jacobs \u2014 come as a happy surprise.\nThey are not only beautiful, they are comfortable as well.",
+  "shownText":"When designers talk about clothes with \u201craw emotion,\u201d \u201cdesire\u201d and \u201chappiness,\u201d as they have since the fall shows began a month ago, you wonder what they mean.\nCertainly the relaxed shapes at Stella McCartney on Monday \u2014 or at Céline , Prada and Marc Jacobs \u2014 come as a happy surprise.\nThey are not only beautiful, they are comfortable as well.",
+  "title":"Stella McCartney, Givenchy, ChloÃ© -  Fashion Review - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/fashion/stella-mccartney-givenchy-chloe-fashion-review.html?ref=style",
+  "category":"style",
+  "docID":"P-0237",
+  "elementNumber":7,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Prada",
+      "label":"Prada",
+      "offsets":[
+        {
+          "offset":236,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Established In1913",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1913"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Italian clothing and textile companies",
+          "uri":"http://dbpedia.org/resource/Italian_clothing_and_textile_companies"
+        },
+        {
+          "label":"High Fashion Brands",
+          "uri":"http://dbpedia.org/class/yago/HighFashionBrands"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"High fashion brands",
+          "uri":"http://dbpedia.org/resource/High_fashion_brands"
+        },
+        {
+          "label":"Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/CompaniesOfItaly"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Clothing Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfItaly"
+        },
+        {
+          "label":"commercial organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViS05wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Italian fashion designers",
+          "uri":"http://dbpedia.org/resource/Italian_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stella_McCartney",
+      "label":"Stella McCartney",
+      "offsets":[
+        {
+          "offset":192,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"English Activists",
+          "uri":"http://dbpedia.org/class/yago/EnglishActivists"
+        },
+        {
+          "label":"English Jews",
+          "uri":"http://dbpedia.org/resource/English_Jews"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"English activists",
+          "uri":"http://dbpedia.org/resource/English_activists"
+        },
+        {
+          "label":"English vegetarians",
+          "uri":"http://dbpedia.org/resource/English_vegetarians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Prada",
+      "label":"Prada",
+      "offsets":[
+        {
+          "offset":236,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Established In1913",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1913"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Italian clothing and textile companies",
+          "uri":"http://dbpedia.org/resource/Italian_clothing_and_textile_companies"
+        },
+        {
+          "label":"High Fashion Brands",
+          "uri":"http://dbpedia.org/class/yago/HighFashionBrands"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"High fashion brands",
+          "uri":"http://dbpedia.org/resource/High_fashion_brands"
+        },
+        {
+          "label":"Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/CompaniesOfItaly"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Clothing Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfItaly"
+        },
+        {
+          "label":"commercial organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViS05wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Italian fashion designers",
+          "uri":"http://dbpedia.org/resource/Italian_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stella_McCartney",
+      "label":"Stella McCartney",
+      "offsets":[
+        {
+          "offset":192,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"English Activists",
+          "uri":"http://dbpedia.org/class/yago/EnglishActivists"
+        },
+        {
+          "label":"English Jews",
+          "uri":"http://dbpedia.org/resource/English_Jews"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"English activists",
+          "uri":"http://dbpedia.org/resource/English_activists"
+        },
+        {
+          "label":"English vegetarians",
+          "uri":"http://dbpedia.org/resource/English_vegetarians"
+        }
+      ]
+    }
+  ]
+}

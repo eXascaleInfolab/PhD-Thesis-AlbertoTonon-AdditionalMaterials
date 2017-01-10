@@ -1,0 +1,429 @@
+{
+  "mainText":"Alex Beidas, a lawyer based in London with the law firm Linklaters, warned that the legislation signified \u2018\u2018a major disadvantage in the global market\u2019\u2019 for banks, and she said there was \u2018\u2018a real danger that this will result in bankers moving to the U.S. and Asia.\u2019\u2019",
+  "shownText":"Alex Beidas, a lawyer based in London with the law firm Linklaters, warned that the legislation signified \u2018\u2018a major disadvantage in the global market\u2019\u2019 for banks, and she said there was \u2018\u2018a real danger that this will result in bankers moving to the U.S. and Asia.\u2019\u2019",
+  "title":"European Union Moves Toward Bonus Cap for Bankers - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/business/global/european-union-agrees-on-plan-to-cap-banker-bonuses.html?ref=business",
+  "category":"business",
+  "docID":"S-0069",
+  "elementNumber":31,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":31,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":249,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Linklaters",
+      "label":"Linklaters",
+      "offsets":[
+        {
+          "offset":56,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Law Firms",
+          "uri":"http://dbpedia.org/class/yago/LawFirms"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Intellectual Property Law Firms",
+          "uri":"http://dbpedia.org/class/yago/IntellectualPropertyLawFirms"
+        },
+        {
+          "label":"Biopharmaceutical Law Firms",
+          "uri":"http://dbpedia.org/class/yago/BiopharmaceuticalLawFirms"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Law Firms Of Singapore",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfSingapore"
+        },
+        {
+          "label":"Law Firm",
+          "uri":"http://dbpedia.org/class/yago/LawFirm108064039"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://dbpedia.org/class/yago/Institution108053576"
+        },
+        {
+          "label":"Companies Based In London",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInLondon"
+        },
+        {
+          "label":"Law Firms Of The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedKingdom"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Intellectual property law firms",
+          "uri":"http://dbpedia.org/resource/Intellectual_property_law_firms"
+        },
+        {
+          "label":"Law Firms Of Hong Kong",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfHongKong"
+        },
+        {
+          "label":"Law Firms Of The United States",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1838",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1838"
+        },
+        {
+          "label":"Biopharmaceutical law firms",
+          "uri":"http://dbpedia.org/resource/Biopharmaceutical_law_firms"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":31,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":249,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Linklaters",
+      "label":"Linklaters",
+      "offsets":[
+        {
+          "offset":56,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Law Firms",
+          "uri":"http://dbpedia.org/class/yago/LawFirms"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Intellectual Property Law Firms",
+          "uri":"http://dbpedia.org/class/yago/IntellectualPropertyLawFirms"
+        },
+        {
+          "label":"Biopharmaceutical Law Firms",
+          "uri":"http://dbpedia.org/class/yago/BiopharmaceuticalLawFirms"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Law Firms Of Singapore",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfSingapore"
+        },
+        {
+          "label":"Law Firm",
+          "uri":"http://dbpedia.org/class/yago/LawFirm108064039"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://dbpedia.org/class/yago/Institution108053576"
+        },
+        {
+          "label":"Companies Based In London",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInLondon"
+        },
+        {
+          "label":"Law Firms Of The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedKingdom"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Intellectual property law firms",
+          "uri":"http://dbpedia.org/resource/Intellectual_property_law_firms"
+        },
+        {
+          "label":"Law Firms Of Hong Kong",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfHongKong"
+        },
+        {
+          "label":"Law Firms Of The United States",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1838",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1838"
+        },
+        {
+          "label":"Biopharmaceutical law firms",
+          "uri":"http://dbpedia.org/resource/Biopharmaceutical_law_firms"
+        }
+      ]
+    }
+  ]
+}

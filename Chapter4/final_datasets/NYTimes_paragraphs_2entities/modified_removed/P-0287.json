@@ -1,0 +1,141 @@
+{
+    "allEntities": [
+        {
+            "label": "Houston", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 81
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Houston"
+        }, 
+        {
+            "label": "Methodist", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 59
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Methodist"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/25/us/bloodless-lung-transplants-for-jehovahs-witnesses.html?ref=us", 
+    "category": "us", 
+    "docID": "P-0287", 
+    "elementNumber": 13, 
+    "mainEntities": [
+        {
+            "label": "Houston", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 81
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Houston"
+        }, 
+        {
+            "label": "Methodist", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 59
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Methodist"
+        }
+    ], 
+    "mainText": "By the time Ms. Tomczak found Dr. Scott A. Scheinin at The Methodist Hospital in Houston last spring, he had long since made peace with such quandaries.\nLike a number of physicians, he had become persuaded by a growing body of research that transfusions often pose unnecessary risks and should be avoided when possible, even in complicated cases.", 
+    "shownText": "By the time Ms. Tomczak found Dr. Scott A. Scheinin at The Methodist Hospital in Houston last spring, he had long since made peace with such quandaries.\nLike a number of physicians, he had become persuaded by a growing body of research that transfusions often pose unnecessary risks and should be avoided when possible, even in complicated cases.", 
+    "title": "&acirc;Bloodless&acirc; Lung Transplants for Jehovah&acirc;s Witnesses - NYTimes.com"
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Chris Terrio",
+            "types": [
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chris_Terrio"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0061",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chris Terrio",
+            "types": [
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chris_Terrio"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Rob Lowe",
+            "types": [
+                {
+                    "label": "People From Dayton,Ohio",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDayton,Ohio"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American stage actors",
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                },
+                {
+                    "label": "Ohio Actors",
+                    "uri": "http://dbpedia.org/class/yago/OhioActors"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "individual",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStageActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                },
+                {
+                    "label": "People From Virginia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromVirginia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rob_Lowe"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0748",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rob Lowe",
+            "types": [
+                {
+                    "label": "People From Dayton,Ohio",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDayton,Ohio"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American stage actors",
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                },
+                {
+                    "label": "Ohio Actors",
+                    "uri": "http://dbpedia.org/class/yago/OhioActors"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "individual",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStageActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                },
+                {
+                    "label": "People From Virginia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromVirginia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rob_Lowe"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

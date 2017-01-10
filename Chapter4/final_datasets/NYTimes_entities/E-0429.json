@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Poynter Institute",
+            "types": [
+                {
+                    "label": "Journalism organizations",
+                    "uri": "http://dbpedia.org/resource/Journalism_organizations"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                },
+                {
+                    "label": "Journalism Organizations",
+                    "uri": "http://dbpedia.org/class/yago/JournalismOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Poynter_Institute"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0429",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Poynter Institute",
+            "types": [
+                {
+                    "label": "Journalism organizations",
+                    "uri": "http://dbpedia.org/resource/Journalism_organizations"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                },
+                {
+                    "label": "Journalism Organizations",
+                    "uri": "http://dbpedia.org/class/yago/JournalismOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Poynter_Institute"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

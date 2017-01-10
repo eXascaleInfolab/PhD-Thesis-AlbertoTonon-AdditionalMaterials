@@ -1,0 +1,273 @@
+{
+    "allEntities": [
+        {
+            "label": "Hugh Grant",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "People From London",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLondon"
+                },
+                {
+                    "label": "English Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmProducers"
+                },
+                {
+                    "label": "Best Musical or Comedy Actor Golden Globe (film)",
+                    "uri": "http://dbpedia.org/resource/Best_Musical_or_Comedy_Actor_Golden_Globe_%28film%29"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "People From Middlesex",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMiddlesex"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "People Of Scottish Descent",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfScottishDescent"
+                },
+                {
+                    "label": "English film producers",
+                    "uri": "http://dbpedia.org/resource/English_film_producers"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "C%E9sar Award winners",
+                    "uri": "http://dbpedia.org/resource/C%E9sar_Award_winners"
+                },
+                {
+                    "label": "People From Chiswick",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChiswick"
+                },
+                {
+                    "label": "English Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "British Actors",
+                    "uri": "http://dbpedia.org/class/yago/BritishActors"
+                },
+                {
+                    "label": "British film producers",
+                    "uri": "http://dbpedia.org/resource/British_film_producers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Alumni Of New College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfNewCollege,Oxford"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From Hammersmith",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHammersmith"
+                },
+                {
+                    "label": "British Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/BritishFilmProducers"
+                },
+                {
+                    "label": "British actors",
+                    "uri": "http://dbpedia.org/resource/British_actors"
+                },
+                {
+                    "label": "English television actors",
+                    "uri": "http://dbpedia.org/resource/English_television_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hugh_Grant"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0354",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hugh Grant",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "People From London",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLondon"
+                },
+                {
+                    "label": "English Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmProducers"
+                },
+                {
+                    "label": "Best Musical or Comedy Actor Golden Globe (film)",
+                    "uri": "http://dbpedia.org/resource/Best_Musical_or_Comedy_Actor_Golden_Globe_%28film%29"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "People From Middlesex",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMiddlesex"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "People Of Scottish Descent",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfScottishDescent"
+                },
+                {
+                    "label": "English film producers",
+                    "uri": "http://dbpedia.org/resource/English_film_producers"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "C%E9sar Award winners",
+                    "uri": "http://dbpedia.org/resource/C%E9sar_Award_winners"
+                },
+                {
+                    "label": "People From Chiswick",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChiswick"
+                },
+                {
+                    "label": "English Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "British Actors",
+                    "uri": "http://dbpedia.org/class/yago/BritishActors"
+                },
+                {
+                    "label": "British film producers",
+                    "uri": "http://dbpedia.org/resource/British_film_producers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Alumni Of New College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfNewCollege,Oxford"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From Hammersmith",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHammersmith"
+                },
+                {
+                    "label": "British Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/BritishFilmProducers"
+                },
+                {
+                    "label": "British actors",
+                    "uri": "http://dbpedia.org/resource/British_actors"
+                },
+                {
+                    "label": "English television actors",
+                    "uri": "http://dbpedia.org/resource/English_television_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hugh_Grant"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

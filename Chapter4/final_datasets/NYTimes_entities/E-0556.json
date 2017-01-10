@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Indonesia",
+            "types": [
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Island countries",
+                    "uri": "http://dbpedia.org/resource/Island_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Indonesia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0556",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Indonesia",
+            "types": [
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Island countries",
+                    "uri": "http://dbpedia.org/resource/Island_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Indonesia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Julius Genachowski",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Julius_Genachowski"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0234",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Julius Genachowski",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Julius_Genachowski"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

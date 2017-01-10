@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Peru",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "G15Nations",
+                    "uri": "http://dbpedia.org/class/yago/G15Nations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Former Spanish Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerSpanishColonies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Peru"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0562",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Peru",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "G15Nations",
+                    "uri": "http://dbpedia.org/class/yago/G15Nations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Former Spanish Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerSpanishColonies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Peru"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

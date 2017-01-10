@@ -1,0 +1,213 @@
+{
+  "mainText":"\u201cYou\u2019ll see 14-year-old mothers, 28-year-old grandmothers, 40-year-old great-grandmothers,\u201d said Lt. David Glassberg, who runs the program in Brooklyn.\n\u201cIt\u2019s crazy.\u201d",
+  "shownText":"\u201cYou\u2019ll see 14-year-old mothers, 28-year-old grandmothers, 40-year-old great-grandmothers,\u201d said Lt. David Glassberg, who runs the program in Brooklyn.\n\u201cIt\u2019s crazy.\u201d",
+  "title":"For Troubled Teenagers in New York City, a New Tack -  Forced Outreach - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/nyregion/to-stem-juvenile-robberies-police-trail-youths-before-the-crime.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P-0103",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lauren_Glassberg",
+      "label":"David Glassberg",
+      "offsets":[
+        {
+          "offset":107,
+          "length":9
+        },
+        {
+          "offset":101,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Alumnus",
+          "uri":"http://dbpedia.org/class/yago/Alumnus109786338"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Northwestern University Alumni",
+          "uri":"http://dbpedia.org/class/yago/NorthwesternUniversityAlumni"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":142,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lauren_Glassberg",
+      "label":"David Glassberg",
+      "offsets":[
+        {
+          "offset":107,
+          "length":9
+        },
+        {
+          "offset":101,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Alumnus",
+          "uri":"http://dbpedia.org/class/yago/Alumnus109786338"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Northwestern University Alumni",
+          "uri":"http://dbpedia.org/class/yago/NorthwesternUniversityAlumni"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":142,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

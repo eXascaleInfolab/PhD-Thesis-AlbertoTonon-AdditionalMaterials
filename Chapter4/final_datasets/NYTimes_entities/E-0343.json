@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Jerome",
+            "types": [
+                {
+                    "label": "Ancient Roman Christianity",
+                    "uri": "http://dbpedia.org/resource/Ancient_Roman_Christianity"
+                },
+                {
+                    "label": "Bible translators",
+                    "uri": "http://dbpedia.org/resource/Bible_translators"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "Christian Theologians",
+                    "uri": "http://dbpedia.org/class/yago/ChristianTheologians"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/class/yago/Saint110546850"
+                },
+                {
+                    "label": "Roman Catholic Theologians",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicTheologians"
+                },
+                {
+                    "label": "Bible Translators",
+                    "uri": "http://dbpedia.org/class/yago/BibleTranslators"
+                },
+                {
+                    "label": "Church Fathers",
+                    "uri": "http://dbpedia.org/class/yago/ChurchFathers"
+                },
+                {
+                    "label": "Latin letter writers",
+                    "uri": "http://dbpedia.org/resource/Latin_letter_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Doctors Of The Church",
+                    "uri": "http://dbpedia.org/class/yago/DoctorsOfTheChurch"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/ontology/Saint"
+                },
+                {
+                    "label": "Latin Letter Writers",
+                    "uri": "http://dbpedia.org/class/yago/LatinLetterWriters"
+                },
+                {
+                    "label": "5th century deaths",
+                    "uri": "http://dbpedia.org/resource/5th_century_deaths"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jerome"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0343",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jerome",
+            "types": [
+                {
+                    "label": "Ancient Roman Christianity",
+                    "uri": "http://dbpedia.org/resource/Ancient_Roman_Christianity"
+                },
+                {
+                    "label": "Bible translators",
+                    "uri": "http://dbpedia.org/resource/Bible_translators"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "Christian Theologians",
+                    "uri": "http://dbpedia.org/class/yago/ChristianTheologians"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/class/yago/Saint110546850"
+                },
+                {
+                    "label": "Roman Catholic Theologians",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicTheologians"
+                },
+                {
+                    "label": "Bible Translators",
+                    "uri": "http://dbpedia.org/class/yago/BibleTranslators"
+                },
+                {
+                    "label": "Church Fathers",
+                    "uri": "http://dbpedia.org/class/yago/ChurchFathers"
+                },
+                {
+                    "label": "Latin letter writers",
+                    "uri": "http://dbpedia.org/resource/Latin_letter_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Doctors Of The Church",
+                    "uri": "http://dbpedia.org/class/yago/DoctorsOfTheChurch"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/ontology/Saint"
+                },
+                {
+                    "label": "Latin Letter Writers",
+                    "uri": "http://dbpedia.org/class/yago/LatinLetterWriters"
+                },
+                {
+                    "label": "5th century deaths",
+                    "uri": "http://dbpedia.org/resource/5th_century_deaths"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jerome"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

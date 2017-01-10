@@ -1,0 +1,281 @@
+{
+    "allEntities": [
+        {
+            "label": "Switzerland",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "German-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/German-speakingCountries"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "French-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/French-speakingCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Republic",
+                    "uri": "http://en.wikipedia.org/wiki/Republic"
+                },
+                {
+                    "label": "Independent Country",
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "NUTS1Statistical Regions Of The European Union",
+                    "uri": "http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "Italian-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Italian-speaking_countries"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Italian-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Italian-speakingCountries"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://umbel.org/umbel/sc/AdministrativeDistrict"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Switzerland"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0278",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Switzerland",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "some countries geography topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+                },
+                {
+                    "label": "German-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/German-speakingCountries"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "French-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/French-speakingCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Western European country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Republic",
+                    "uri": "http://en.wikipedia.org/wiki/Republic"
+                },
+                {
+                    "label": "Independent Country",
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "NUTS1Statistical Regions Of The European Union",
+                    "uri": "http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "Italian-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Italian-speaking_countries"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Italian-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Italian-speakingCountries"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://umbel.org/umbel/sc/AdministrativeDistrict"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Switzerland"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

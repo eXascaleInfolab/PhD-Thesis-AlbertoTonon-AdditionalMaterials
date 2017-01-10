@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Billy Crystal",
+            "types": [
+                {
+                    "label": "People From Nassau County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNassauCounty,NewYork"
+                },
+                {
+                    "label": "American comedians",
+                    "uri": "http://dbpedia.org/resource/American_comedians"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Award winners",
+                    "uri": "http://dbpedia.org/resource/Award_winners"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Comedian",
+                    "uri": "http://dbpedia.org/ontology/Comedian"
+                },
+                {
+                    "label": "American Stand-up Comedians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStand-upComedians"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American impressionists (entertainers)",
+                    "uri": "http://dbpedia.org/resource/American_impressionists_%28entertainers%29"
+                },
+                {
+                    "label": "Jewish Comedians",
+                    "uri": "http://dbpedia.org/class/yago/JewishComedians"
+                },
+                {
+                    "label": "Jewish comedians",
+                    "uri": "http://dbpedia.org/resource/Jewish_comedians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "People From Long Island",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLongIsland"
+                },
+                {
+                    "label": "WWECelebrities",
+                    "uri": "http://dbpedia.org/class/yago/WWECelebrities"
+                },
+                {
+                    "label": "American Comedians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComedians"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "New York University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkUniversityAlumni"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Billy_Crystal"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0554",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Billy Crystal",
+            "types": [
+                {
+                    "label": "People From Nassau County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNassauCounty,NewYork"
+                },
+                {
+                    "label": "American comedians",
+                    "uri": "http://dbpedia.org/resource/American_comedians"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Award winners",
+                    "uri": "http://dbpedia.org/resource/Award_winners"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Comedian",
+                    "uri": "http://dbpedia.org/ontology/Comedian"
+                },
+                {
+                    "label": "American Stand-up Comedians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStand-upComedians"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American impressionists (entertainers)",
+                    "uri": "http://dbpedia.org/resource/American_impressionists_%28entertainers%29"
+                },
+                {
+                    "label": "Jewish Comedians",
+                    "uri": "http://dbpedia.org/class/yago/JewishComedians"
+                },
+                {
+                    "label": "Jewish comedians",
+                    "uri": "http://dbpedia.org/resource/Jewish_comedians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "People From Long Island",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLongIsland"
+                },
+                {
+                    "label": "WWECelebrities",
+                    "uri": "http://dbpedia.org/class/yago/WWECelebrities"
+                },
+                {
+                    "label": "American Comedians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComedians"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "New York University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkUniversityAlumni"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Billy_Crystal"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

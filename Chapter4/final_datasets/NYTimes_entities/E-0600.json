@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mary Lou Falcone",
+            "types": [
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mary_Lou"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0600",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mary Lou Falcone",
+            "types": [
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mary_Lou"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,305 @@
+{
+    "allEntities": [
+        {
+            "label": "Franklin D. Roosevelt",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Americans with Huguenot ancestry",
+                    "uri": "http://dbpedia.org/resource/Americans_with_Huguenot_ancestry"
+                },
+                {
+                    "label": "People With Paraplegia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleWithParaplegia"
+                },
+                {
+                    "label": "New York State Senators",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkStateSenators"
+                },
+                {
+                    "label": "Alumnus",
+                    "uri": "http://dbpedia.org/class/yago/Alumnus109786338"
+                },
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "People From Dutchess County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDutchessCounty,NewYork"
+                },
+                {
+                    "label": "United States president",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Groton School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/GrotonSchoolAlumni"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "Lawyer",
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                },
+                {
+                    "label": "One of the presidents of the United States",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Politicians With Physical Disabilities",
+                    "uri": "http://dbpedia.org/class/yago/PoliticiansWithPhysicalDisabilities"
+                },
+                {
+                    "label": "Democratic Party (United States) presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Groton School alumni",
+                    "uri": "http://dbpedia.org/resource/Groton_School_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Philatelists",
+                    "uri": "http://dbpedia.org/class/yago/Philatelists"
+                },
+                {
+                    "label": "World War IIPolitical Leaders",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+                },
+                {
+                    "label": "Democratic Party (United States) vice presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_vice_presidential_nominees"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "New York Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkLawyers"
+                },
+                {
+                    "label": "Columbia Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaLawSchoolAlumni"
+                },
+                {
+                    "label": "Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Duchess County,NYPoliticians",
+                    "uri": "http://dbpedia.org/class/yago/DuchessCounty,NYPoliticians"
+                },
+                {
+                    "label": "Governors Of New York",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfNewYork"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0553",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Franklin D. Roosevelt",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Americans with Huguenot ancestry",
+                    "uri": "http://dbpedia.org/resource/Americans_with_Huguenot_ancestry"
+                },
+                {
+                    "label": "People With Paraplegia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleWithParaplegia"
+                },
+                {
+                    "label": "New York State Senators",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkStateSenators"
+                },
+                {
+                    "label": "Alumnus",
+                    "uri": "http://dbpedia.org/class/yago/Alumnus109786338"
+                },
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "People From Dutchess County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDutchessCounty,NewYork"
+                },
+                {
+                    "label": "United States president",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Groton School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/GrotonSchoolAlumni"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "Lawyer",
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                },
+                {
+                    "label": "One of the presidents of the United States",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Politicians With Physical Disabilities",
+                    "uri": "http://dbpedia.org/class/yago/PoliticiansWithPhysicalDisabilities"
+                },
+                {
+                    "label": "Democratic Party (United States) presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Groton School alumni",
+                    "uri": "http://dbpedia.org/resource/Groton_School_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Philatelists",
+                    "uri": "http://dbpedia.org/class/yago/Philatelists"
+                },
+                {
+                    "label": "World War IIPolitical Leaders",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+                },
+                {
+                    "label": "Democratic Party (United States) vice presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_vice_presidential_nominees"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "New York Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkLawyers"
+                },
+                {
+                    "label": "Columbia Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaLawSchoolAlumni"
+                },
+                {
+                    "label": "Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Duchess County,NYPoliticians",
+                    "uri": "http://dbpedia.org/class/yago/DuchessCounty,NYPoliticians"
+                },
+                {
+                    "label": "Governors Of New York",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfNewYork"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

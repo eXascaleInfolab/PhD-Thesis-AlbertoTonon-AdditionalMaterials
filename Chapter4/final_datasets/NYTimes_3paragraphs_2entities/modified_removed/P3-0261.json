@@ -1,0 +1,401 @@
+{
+    "allEntities": [
+        {
+            "label": "Trendrr", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 601
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Trendrr"
+        }, 
+        {
+            "label": "Hawaii", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 891
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Area", 
+                    "uri": "http://dbpedia.org/ontology/Area"
+                }, 
+                {
+                    "label": "Village", 
+                    "uri": "http://umbel.org/umbel/sc/Village"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Independent Country", 
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                }, 
+                {
+                    "label": "States Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Settlements Established In1959", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1959"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Administrative Region", 
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Hawaii"
+        }, 
+        {
+            "label": "MSNBC", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 671
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Network", 
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "cable television network", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvjMrW5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "24-hour Television News Channels", 
+                    "uri": "http://dbpedia.org/class/yago/24-hourTelevisionNewsChannels"
+                }, 
+                {
+                    "label": "24-hour television news channels", 
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/MSNBC"
+        }, 
+        {
+            "label": "Fred Graver", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 1133
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American fiction writers", 
+                    "uri": "http://dbpedia.org/resource/American_fiction_writers"
+                }, 
+                {
+                    "label": "American novelists", 
+                    "uri": "http://dbpedia.org/resource/American_novelists"
+                }, 
+                {
+                    "label": "Choose Your Own Adventure writers", 
+                    "uri": "http://dbpedia.org/resource/Choose_Your_Own_Adventure_writers"
+                }, 
+                {
+                    "label": "Choose Your Own Adventure Writers", 
+                    "uri": "http://dbpedia.org/class/yago/ChooseYourOwnAdventureWriters"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fred_Graver"
+        }, 
+        {
+            "label": "CBS", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 872
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 995
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Network", 
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "television network", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American Television Networks", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+                }, 
+                {
+                    "label": "HD channels", 
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                }, 
+                {
+                    "label": "CBS television network", 
+                    "uri": "http://dbpedia.org/resource/CBS_television_network"
+                }, 
+                {
+                    "label": "HDChannels", 
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/CBS"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/27/arts/television/american-idol-fans-can-now-tweet-their-views.html?ref=technology", 
+    "category": "technology", 
+    "docID": "P3-0261", 
+    "elementNumber": 14, 
+    "mainEntities": [
+        {
+            "label": "Trendrr", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 601
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Trendrr"
+        }, 
+        {
+            "label": "Hawaii", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 891
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Area", 
+                    "uri": "http://dbpedia.org/ontology/Area"
+                }, 
+                {
+                    "label": "Village", 
+                    "uri": "http://umbel.org/umbel/sc/Village"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Independent Country", 
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                }, 
+                {
+                    "label": "States Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Settlements Established In1959", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1959"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Administrative Region", 
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Hawaii"
+        }, 
+        {
+            "label": "MSNBC", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 671
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Network", 
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "cable television network", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvjMrW5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "24-hour Television News Channels", 
+                    "uri": "http://dbpedia.org/class/yago/24-hourTelevisionNewsChannels"
+                }, 
+                {
+                    "label": "24-hour television news channels", 
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/MSNBC"
+        }, 
+        {
+            "label": "CBS", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 872
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 995
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Network", 
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "television network", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American Television Networks", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+                }, 
+                {
+                    "label": "HD channels", 
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                }, 
+                {
+                    "label": "CBS television network", 
+                    "uri": "http://dbpedia.org/resource/CBS_television_network"
+                }, 
+                {
+                    "label": "HDChannels", 
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/CBS"
+        }
+    ], 
+    "mainText": "What tends to work best is true interactivity &mdash; &ldquo;talking with&rdquo; the audience, instead of &ldquo;talking to,&rdquo; said Mark Ghuneim, a co-founder of Trendrr, a company that tracks online chatter about television shows.\nMSNBC&rsquo;s &ldquo;Daily Rundown,&rdquo; for instance, has a daily trivia question, with a prize (a mention on the newscast) for the first person to submit the correct answer via Twitter.\nLast month CBS&rsquo;s &ldquo;Hawaii Five-o&rdquo; let viewers choose the ending of an episode by commenting on Twitter and voting on CBS.com .", 
+    "shownText": "But sometimes bigger attempts at social TV (that&rsquo;s the current industry catchphrase) feel forced; for an example, look no further than the Oscars on Sunday, when the preshow was mocked for promoting an &ldquo;Oscars mystery&rdquo; hashtag.\nAt other times, all the social TV talk can be downright distracting to viewers at home who don&rsquo;t want an overeager host to read comments from the Web and prod others to contribute.\n\nWhat tends to work best is true interactivity &mdash; &ldquo;talking with&rdquo; the audience, instead of &ldquo;talking to,&rdquo; said Mark Ghuneim, a co-founder of Trendrr, a company that tracks online chatter about television shows.\nMSNBC&rsquo;s &ldquo;Daily Rundown,&rdquo; for instance, has a daily trivia question, with a prize (a mention on the newscast) for the first person to submit the correct answer via Twitter.\nLast month CBS&rsquo;s &ldquo;Hawaii Five-o&rdquo; let viewers choose the ending of an episode by commenting on Twitter and voting on CBS.com .\n\n&ldquo;One of the things we&rsquo;ve learned is that the audience loves to affect the show in some meaningful way,&rdquo; said Fred Graver, Twitter&rsquo;s head of television, who praised &ldquo;Idol&rdquo; for what the series is doing with the &ldquo;fan meter.&rdquo;\n", 
+    "title": "&acirc;American Idol&acirc; Fans Can Now Tweet Their Views - NYTimes.com"
+}

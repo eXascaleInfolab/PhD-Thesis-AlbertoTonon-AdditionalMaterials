@@ -1,0 +1,101 @@
+{
+    "allEntities": [
+        {
+            "label": "Julien Temple", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 98
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmDirectors"
+                }, 
+                {
+                    "label": "English music video directors", 
+                    "uri": "http://dbpedia.org/resource/English_music_video_directors"
+                }, 
+                {
+                    "label": "English Music Video Directors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicVideoDirectors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Julien_Temple"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 53
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "S-0035", 
+    "elementNumber": 70, 
+    "mainEntities": [
+        {
+            "label": "Julien Temple", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 98
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmDirectors"
+                }, 
+                {
+                    "label": "English music video directors", 
+                    "uri": "http://dbpedia.org/resource/English_music_video_directors"
+                }, 
+                {
+                    "label": "English Music Video Directors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicVideoDirectors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Julien_Temple"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 53
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "Speaking of &ldquo;the grueling nature&rdquo; of Mr. Bowie&rsquo;s self-reinvention, the director Julien Temple, who made videos for him and directedhimin the 1986 movie &ldquo; Absolute Beginners ,&rdquo; said, &ldquo;It takes its toll, psychically.&rdquo;", 
+    "shownText": "Speaking of &ldquo;the grueling nature&rdquo; of Mr. Bowie&rsquo;s self-reinvention, the director Julien Temple, who made videos for him and directedhimin the 1986 movie &ldquo; Absolute Beginners ,&rdquo; said, &ldquo;It takes its toll, psychically.&rdquo;", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

@@ -1,0 +1,141 @@
+{
+  "mainText":"In the late 1990s, Fox tied a package of M.L.B. games and a news operation with Keith Olbermann as the star anchor on its regional sports channels.",
+  "shownText":"In the late 1990s, Fox tied a package of M.L.B. games and a news operation with Keith Olbermann as the star anchor on its regional sports channels.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0264",
+  "elementNumber":50,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Keith_Olbermann",
+      "label":"Keith Olbermann",
+      "offsets":[
+        {
+          "offset":80,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"American political pundits",
+          "uri":"http://dbpedia.org/resource/American_political_pundits"
+        },
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        },
+        {
+          "label":"American sports announcers",
+          "uri":"http://dbpedia.org/resource/American_sports_announcers"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"Boston television anchors",
+          "uri":"http://dbpedia.org/resource/Boston_television_anchors"
+        },
+        {
+          "label":"Cornell University alumni",
+          "uri":"http://dbpedia.org/resource/Cornell_University_alumni"
+        },
+        {
+          "label":"American Political Pundits",
+          "uri":"http://dbpedia.org/class/yago/AmericanPoliticalPundits"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fox",
+      "label":"Fox",
+      "offsets":[
+        {
+          "offset":19,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Keith_Olbermann",
+      "label":"Keith Olbermann",
+      "offsets":[
+        {
+          "offset":80,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"American political pundits",
+          "uri":"http://dbpedia.org/resource/American_political_pundits"
+        },
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        },
+        {
+          "label":"American sports announcers",
+          "uri":"http://dbpedia.org/resource/American_sports_announcers"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"Boston television anchors",
+          "uri":"http://dbpedia.org/resource/Boston_television_anchors"
+        },
+        {
+          "label":"Cornell University alumni",
+          "uri":"http://dbpedia.org/resource/Cornell_University_alumni"
+        },
+        {
+          "label":"American Political Pundits",
+          "uri":"http://dbpedia.org/class/yago/AmericanPoliticalPundits"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fox",
+      "label":"Fox",
+      "offsets":[
+        {
+          "offset":19,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        }
+      ]
+    }
+  ]
+}

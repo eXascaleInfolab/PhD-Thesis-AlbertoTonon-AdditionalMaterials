@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Mathieu Schneider",
+            "types": [
+                {
+                    "label": "Jewish ice hockey players",
+                    "uri": "http://dbpedia.org/resource/Jewish_ice_hockey_players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Jewish American sportspeople",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_sportspeople"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Cornwall Royals alumni",
+                    "uri": "http://dbpedia.org/resource/Cornwall_Royals_alumni"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mathieu_Schneider"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0653",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mathieu Schneider",
+            "types": [
+                {
+                    "label": "Jewish ice hockey players",
+                    "uri": "http://dbpedia.org/resource/Jewish_ice_hockey_players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Jewish American sportspeople",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_sportspeople"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Cornwall Royals alumni",
+                    "uri": "http://dbpedia.org/resource/Cornwall_Royals_alumni"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mathieu_Schneider"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

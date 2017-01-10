@@ -1,0 +1,233 @@
+{
+    "allEntities": [
+        {
+            "label": "Facebook", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 39
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Internet Properties Established In2004", 
+                    "uri": "http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+                }, 
+                {
+                    "label": "Global internet community", 
+                    "uri": "http://dbpedia.org/resource/Global_internet_community"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies Based In Palo Alto,California", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+                }, 
+                {
+                    "label": "Privately Held Companies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Companies Based In Silicon Valley", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Facebook"
+        }, 
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 430
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Rachel Sklar", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 308
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Jewish bloggers", 
+                    "uri": "http://dbpedia.org/resource/Jewish_bloggers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Canadian Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/CanadianLawyers"
+                }, 
+                {
+                    "label": "Debating Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/DebatingAlumni"
+                }, 
+                {
+                    "label": "Jewish Bloggers", 
+                    "uri": "http://dbpedia.org/class/yago/JewishBloggers"
+                }, 
+                {
+                    "label": "Canadian lawyers", 
+                    "uri": "http://dbpedia.org/resource/Canadian_lawyers"
+                }, 
+                {
+                    "label": "Debating alumni", 
+                    "uri": "http://dbpedia.org/resource/Debating_alumni"
+                }, 
+                {
+                    "label": "Lawyer", 
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Rachel_Sklar"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us", 
+    "category": "us", 
+    "docID": "P3-0307", 
+    "elementNumber": 22, 
+    "mainEntities": [
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 430
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Rachel Sklar", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 308
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Jewish bloggers", 
+                    "uri": "http://dbpedia.org/resource/Jewish_bloggers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Canadian Lawyers", 
+                    "uri": "http://dbpedia.org/class/yago/CanadianLawyers"
+                }, 
+                {
+                    "label": "Debating Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/DebatingAlumni"
+                }, 
+                {
+                    "label": "Jewish Bloggers", 
+                    "uri": "http://dbpedia.org/class/yago/JewishBloggers"
+                }, 
+                {
+                    "label": "Canadian lawyers", 
+                    "uri": "http://dbpedia.org/resource/Canadian_lawyers"
+                }, 
+                {
+                    "label": "Debating alumni", 
+                    "uri": "http://dbpedia.org/resource/Debating_alumni"
+                }, 
+                {
+                    "label": "Lawyer", 
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Rachel_Sklar"
+        }
+    ], 
+    "mainText": "&ldquo;She is using all of her social capital on this,&rdquo; said Rachel Sklar, founder of a networking list for women in technology, who is on the Lean In launch committee.\nAsked how Ms. Sandberg would balance her demanding job with the creation of a new movement, a member of the team offered a tentative answer: she plans to use her vacation days.", 
+    "shownText": "Though she insists she is committed to Facebook, which might be awkward for her to leave given its rocky initial public offering, some wonder whether &ldquo;Lean In&rdquo; is the first step toward a new career for her, perhaps in politics.\n\n&ldquo;She is using all of her social capital on this,&rdquo; said Rachel Sklar, founder of a networking list for women in technology, who is on the Lean In launch committee.\nAsked how Ms. Sandberg would balance her demanding job with the creation of a new movement, a member of the team offered a tentative answer: she plans to use her vacation days.\n\nA version of this article appeared in print on February 22, 2013, on page A1 of the New York edition with the headline: A Titan&acirc;s How-To on Breaking the Glass Ceiling.\n", 
+    "title": "Sheryl Sandberg, &acirc;Lean In&acirc; Author, Hopes to Spur Movement - NYTimes.com"
+}

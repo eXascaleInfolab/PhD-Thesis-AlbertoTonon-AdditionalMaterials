@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Congressional Budget Office",
+            "types": [
+                {
+                    "label": "Employees Of The United States Congress",
+                    "uri": "http://dbpedia.org/class/yago/EmployeesOfTheUnitedStatesCongress"
+                },
+                {
+                    "label": "Agencies Of The United States Congress",
+                    "uri": "http://dbpedia.org/class/yago/AgenciesOfTheUnitedStatesCongress"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Congressional_Budget_Office"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0549",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Congressional Budget Office",
+            "types": [
+                {
+                    "label": "Employees Of The United States Congress",
+                    "uri": "http://dbpedia.org/class/yago/EmployeesOfTheUnitedStatesCongress"
+                },
+                {
+                    "label": "Agencies Of The United States Congress",
+                    "uri": "http://dbpedia.org/class/yago/AgenciesOfTheUnitedStatesCongress"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Congressional_Budget_Office"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

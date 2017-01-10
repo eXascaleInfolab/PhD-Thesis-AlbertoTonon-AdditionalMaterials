@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Harvard",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harvard"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0298",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Harvard",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harvard"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Starbucks",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies Based In Seattle,Washington",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Starbucks"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0109",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Starbucks",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies Based In Seattle,Washington",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Starbucks"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

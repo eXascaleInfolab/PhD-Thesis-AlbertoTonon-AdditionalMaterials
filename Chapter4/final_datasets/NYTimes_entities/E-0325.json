@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "David Carr",
+            "types": [
+                {
+                    "label": "Fresno State Bulldogs football players",
+                    "uri": "http://dbpedia.org/resource/Fresno_State_Bulldogs_football_players"
+                },
+                {
+                    "label": "American football quarterbacks",
+                    "uri": "http://dbpedia.org/resource/American_football_quarterbacks"
+                },
+                {
+                    "label": "Houston Texans players",
+                    "uri": "http://dbpedia.org/resource/Houston_Texans_players"
+                },
+                {
+                    "label": "Carolina Panthers players",
+                    "uri": "http://dbpedia.org/resource/Carolina_Panthers_players"
+                },
+                {
+                    "label": "Fresno State Bulldogs Football Players",
+                    "uri": "http://dbpedia.org/class/yago/FresnoStateBulldogsFootballPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_Carr"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0325",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "David Carr",
+            "types": [
+                {
+                    "label": "Fresno State Bulldogs football players",
+                    "uri": "http://dbpedia.org/resource/Fresno_State_Bulldogs_football_players"
+                },
+                {
+                    "label": "American football quarterbacks",
+                    "uri": "http://dbpedia.org/resource/American_football_quarterbacks"
+                },
+                {
+                    "label": "Houston Texans players",
+                    "uri": "http://dbpedia.org/resource/Houston_Texans_players"
+                },
+                {
+                    "label": "Carolina Panthers players",
+                    "uri": "http://dbpedia.org/resource/Carolina_Panthers_players"
+                },
+                {
+                    "label": "Fresno State Bulldogs Football Players",
+                    "uri": "http://dbpedia.org/class/yago/FresnoStateBulldogsFootballPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_Carr"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Syria",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arabic-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Arabic-speaking_countries"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Democracy",
+                    "uri": "http://dbpedia.org/class/yago/Democracy108361329"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "State",
+                    "uri": "http://dbpedia.org/class/yago/State108168978"
+                },
+                {
+                    "label": "Near Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/NearEasternCountries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Syria"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0413",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Syria",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arabic-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Arabic-speaking_countries"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Democracy",
+                    "uri": "http://dbpedia.org/class/yago/Democracy108361329"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "State",
+                    "uri": "http://dbpedia.org/class/yago/State108168978"
+                },
+                {
+                    "label": "Near Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/NearEasternCountries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Syria"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

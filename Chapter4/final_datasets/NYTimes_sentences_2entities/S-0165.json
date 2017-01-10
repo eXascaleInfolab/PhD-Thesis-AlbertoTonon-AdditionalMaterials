@@ -1,0 +1,93 @@
+{
+  "mainText":"The definitive part of the long creation story evidently began with the primitive Homo habilis (or a species closely related to it) two million years ago.",
+  "shownText":"The definitive part of the long creation story evidently began with the primitive Homo habilis (or a species closely related to it) two million years ago.",
+  "title":"The Riddle of the Human Species - NYTimes.com",
+  "articleUrl":"http://opinionator.blogs.nytimes.com/2013/02/24/the-riddle-of-the-human-species/?ref=opinion",
+  "category":"opinion",
+  "docID":"S-0165",
+  "elementNumber":61,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Homo",
+      "label":"Homo",
+      "offsets":[
+        {
+          "offset":82,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        },
+        {
+          "label":"Mammal",
+          "uri":"http://dbpedia.org/ontology/Mammal"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Homo_habilis",
+      "label":"Homo habilis",
+      "offsets":[
+        {
+          "offset":82,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Early hominids",
+          "uri":"http://dbpedia.org/resource/Early_hominids"
+        },
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Homo",
+      "label":"Homo",
+      "offsets":[
+        {
+          "offset":82,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        },
+        {
+          "label":"Mammal",
+          "uri":"http://dbpedia.org/ontology/Mammal"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Homo_habilis",
+      "label":"Homo habilis",
+      "offsets":[
+        {
+          "offset":82,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Early hominids",
+          "uri":"http://dbpedia.org/resource/Early_hominids"
+        },
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        }
+      ]
+    }
+  ]
+}

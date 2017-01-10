@@ -1,0 +1,281 @@
+{
+    "allEntities": [
+        {
+            "label": "Snoop Dogg",
+            "types": [
+                {
+                    "label": "California musicians",
+                    "uri": "http://dbpedia.org/resource/California_musicians"
+                },
+                {
+                    "label": "African American rappers",
+                    "uri": "http://dbpedia.org/resource/African_American_rappers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Koch Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/KochRecordsArtists"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Geffen Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/GeffenRecordsArtists"
+                },
+                {
+                    "label": "Rapper",
+                    "uri": "http://dbpedia.org/class/yago/Rapper110507482"
+                },
+                {
+                    "label": "American Pornographers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPornographers"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Koch Records artists",
+                    "uri": "http://dbpedia.org/resource/Koch_Records_artists"
+                },
+                {
+                    "label": "actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmProducers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "West Coast Rappers",
+                    "uri": "http://dbpedia.org/class/yago/WestCoastRappers"
+                },
+                {
+                    "label": "California Musicians",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaMusicians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "African American Rappers",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanRappers"
+                },
+                {
+                    "label": "People From Long Beach,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLongBeach,California"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American pornographers",
+                    "uri": "http://dbpedia.org/resource/American_pornographers"
+                },
+                {
+                    "label": "Entertainers with Crip affiliations",
+                    "uri": "http://dbpedia.org/resource/Entertainers_with_Crip_affiliations"
+                },
+                {
+                    "label": "African-American Actors",
+                    "uri": "http://dbpedia.org/class/yago/African-AmericanActors"
+                },
+                {
+                    "label": "Star Trak Entertainment Artists",
+                    "uri": "http://dbpedia.org/class/yago/StarTrakEntertainmentArtists"
+                },
+                {
+                    "label": "rap music performer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rZPcwWlMLQdeRwPloCN1QRg"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "Entertainers With Crip Affiliations",
+                    "uri": "http://dbpedia.org/class/yago/EntertainersWithCripAffiliations"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Death Row Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/DeathRowRecordsArtists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Snoop_Dogg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0509",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Snoop Dogg",
+            "types": [
+                {
+                    "label": "California musicians",
+                    "uri": "http://dbpedia.org/resource/California_musicians"
+                },
+                {
+                    "label": "African American rappers",
+                    "uri": "http://dbpedia.org/resource/African_American_rappers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Koch Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/KochRecordsArtists"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Geffen Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/GeffenRecordsArtists"
+                },
+                {
+                    "label": "Rapper",
+                    "uri": "http://dbpedia.org/class/yago/Rapper110507482"
+                },
+                {
+                    "label": "American Pornographers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPornographers"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Koch Records artists",
+                    "uri": "http://dbpedia.org/resource/Koch_Records_artists"
+                },
+                {
+                    "label": "actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmProducers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "West Coast Rappers",
+                    "uri": "http://dbpedia.org/class/yago/WestCoastRappers"
+                },
+                {
+                    "label": "California Musicians",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaMusicians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "African American Rappers",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanRappers"
+                },
+                {
+                    "label": "People From Long Beach,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLongBeach,California"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American pornographers",
+                    "uri": "http://dbpedia.org/resource/American_pornographers"
+                },
+                {
+                    "label": "Entertainers with Crip affiliations",
+                    "uri": "http://dbpedia.org/resource/Entertainers_with_Crip_affiliations"
+                },
+                {
+                    "label": "African-American Actors",
+                    "uri": "http://dbpedia.org/class/yago/African-AmericanActors"
+                },
+                {
+                    "label": "Star Trak Entertainment Artists",
+                    "uri": "http://dbpedia.org/class/yago/StarTrakEntertainmentArtists"
+                },
+                {
+                    "label": "rap music performer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rZPcwWlMLQdeRwPloCN1QRg"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "Entertainers With Crip Affiliations",
+                    "uri": "http://dbpedia.org/class/yago/EntertainersWithCripAffiliations"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Death Row Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/DeathRowRecordsArtists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Snoop_Dogg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

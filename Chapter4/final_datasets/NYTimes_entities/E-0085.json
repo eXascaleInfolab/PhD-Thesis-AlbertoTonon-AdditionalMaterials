@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Long Island Rail Road",
+            "types": [
+                {
+                    "label": "Railroads On Long Island",
+                    "uri": "http://dbpedia.org/class/yago/RailroadsOnLongIsland"
+                },
+                {
+                    "label": "E. H. Harriman Award recipients",
+                    "uri": "http://dbpedia.org/resource/E._H._Harriman_Award_recipients"
+                },
+                {
+                    "label": "New York Railroads",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRailroads"
+                },
+                {
+                    "label": "Railway Organization",
+                    "uri": "http://umbel.org/umbel/sc/RailwayOrganization"
+                },
+                {
+                    "label": "Artifact",
+                    "uri": "http://umbel.org/umbel/ac/Artifact"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Long_Island_Rail_Road"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0085",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Long Island Rail Road",
+            "types": [
+                {
+                    "label": "Railroads On Long Island",
+                    "uri": "http://dbpedia.org/class/yago/RailroadsOnLongIsland"
+                },
+                {
+                    "label": "E. H. Harriman Award recipients",
+                    "uri": "http://dbpedia.org/resource/E._H._Harriman_Award_recipients"
+                },
+                {
+                    "label": "New York Railroads",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRailroads"
+                },
+                {
+                    "label": "Railway Organization",
+                    "uri": "http://umbel.org/umbel/sc/RailwayOrganization"
+                },
+                {
+                    "label": "Artifact",
+                    "uri": "http://umbel.org/umbel/ac/Artifact"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Long_Island_Rail_Road"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

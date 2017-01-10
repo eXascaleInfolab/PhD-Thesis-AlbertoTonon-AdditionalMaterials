@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Dean College",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Universities And Colleges In Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInMassachusetts"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Junior Colleges",
+                    "uri": "http://dbpedia.org/class/yago/JuniorColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dean_College"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0101",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dean College",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Universities And Colleges In Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInMassachusetts"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Junior Colleges",
+                    "uri": "http://dbpedia.org/class/yago/JuniorColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dean_College"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "MARC SANTORA",
+            "types": [
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                },
+                {
+                    "label": "American television producers",
+                    "uri": "http://dbpedia.org/resource/American_television_producers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nick_Santora"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0606",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "MARC SANTORA",
+            "types": [
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                },
+                {
+                    "label": "American television producers",
+                    "uri": "http://dbpedia.org/resource/American_television_producers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nick_Santora"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

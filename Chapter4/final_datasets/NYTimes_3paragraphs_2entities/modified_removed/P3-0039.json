@@ -1,0 +1,221 @@
+{
+    "allEntities": [
+        {
+            "label": "Jacques Brel", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 1523
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Belgian actors", 
+                    "uri": "http://dbpedia.org/resource/Belgian_actors"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Belgian Actors", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianActors"
+                }, 
+                {
+                    "label": "Belgian Singers", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianSingers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Belgian poets", 
+                    "uri": "http://dbpedia.org/resource/Belgian_poets"
+                }, 
+                {
+                    "label": "Belgian Poets", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianPoets"
+                }, 
+                {
+                    "label": "French-language Singers", 
+                    "uri": "http://dbpedia.org/class/yago/French-languageSingers"
+                }, 
+                {
+                    "label": "Cabaret Singers", 
+                    "uri": "http://dbpedia.org/class/yago/CabaretSingers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jacques_Brel"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 240
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 780
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 999
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1273
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1475
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1575
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1807
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1959
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P3-0039", 
+    "elementNumber": 25, 
+    "mainEntities": [
+        {
+            "label": "Jacques Brel", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 1523
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Belgian actors", 
+                    "uri": "http://dbpedia.org/resource/Belgian_actors"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Belgian Actors", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianActors"
+                }, 
+                {
+                    "label": "Belgian Singers", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianSingers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Belgian poets", 
+                    "uri": "http://dbpedia.org/resource/Belgian_poets"
+                }, 
+                {
+                    "label": "Belgian Poets", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianPoets"
+                }, 
+                {
+                    "label": "French-language Singers", 
+                    "uri": "http://dbpedia.org/class/yago/French-languageSingers"
+                }, 
+                {
+                    "label": "Cabaret Singers", 
+                    "uri": "http://dbpedia.org/class/yago/CabaretSingers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jacques_Brel"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 240
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 780
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 999
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1273
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1475
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1575
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1807
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1959
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "&ldquo;That realization, when it comes, usually later in life, can either be a really daunting prospect or it makes things a lot clearer.&rdquo;\nThe Grim Reaper is no stranger to the Bowie songbook.\nFacing the final curtain the singer seems exposed as rarely before, his uncertainty and disorientation no longer couched in allegory or elegantly stylized.\nThere is little evidence of serenity or enlightenment.\nBut judging by &ldquo;The Next Day,&rdquo; Mr. Bowie&rsquo;s close encounter of the near-fatal kind has only muddied things.\n&ldquo;The Hearts Filthy Lesson,&rdquo; on &ldquo;Outside,&rdquo; addresses &ldquo;the fact that life is finite,&rdquo; Mr. Bowie has said.\nIn his Ziggy guise he performed Jacques Brel&rsquo;s &ldquo;My Death&rdquo; and Mr. Bowie&rsquo;shit &ldquo;Ashes to Ashes&rdquo; derives its title from a burial service.", 
+    "shownText": "&ldquo;I gaze in defeat at the stars in the nightThe light in my life burned awayThere will be no tomorrow,&rdquo; he sings in &ldquo;How Does the Grass Grow?\n&ldquo;The Next Day&rdquo; has Mr. Visconti at the helm again, but this time Mr. Bowie seems galvanized by a desperate energy that overrides the frailty palpable in his haggard vocals.\nBut elsewhere the imagery seems inspired by his own brush with mortality.\n,&rdquo; one of several songs building on the overdriven guitar clangor of &ldquo;Lodger&rdquo; and &ldquo;Scary Monsters (and Super Creeps),&rdquo; from 1980.\nSome of the morbidity &mdash; references to &ldquo;a room full of bloody history&rdquo; in &ldquo;You Feel So Lonely You Could Die&rdquo; &mdash; may be influenced by books on medieval tyrants that Mr. Bowie has reportedly been reading.\n\n&ldquo;That realization, when it comes, usually later in life, can either be a really daunting prospect or it makes things a lot clearer.&rdquo;\nThe Grim Reaper is no stranger to the Bowie songbook.\nFacing the final curtain the singer seems exposed as rarely before, his uncertainty and disorientation no longer couched in allegory or elegantly stylized.\nThere is little evidence of serenity or enlightenment.\nBut judging by &ldquo;The Next Day,&rdquo; Mr. Bowie&rsquo;s close encounter of the near-fatal kind has only muddied things.\n&ldquo;The Hearts Filthy Lesson,&rdquo; on &ldquo;Outside,&rdquo; addresses &ldquo;the fact that life is finite,&rdquo; Mr. Bowie has said.\nIn his Ziggy guise he performed Jacques Brel&rsquo;s &ldquo;My Death&rdquo; and Mr. Bowie&rsquo;shit &ldquo;Ashes to Ashes&rdquo; derives its title from a burial service.\n\nThe climactic song &ldquo;Heat&rdquo; pays homage to the existentialist balladry of Scott Walker, who covered &ldquo;My Death&rdquo; before Mr. Bowie and whose own work includes songs about the abjection of the body and about dictators like Ceausescu.\n&ldquo;My father ran the prison,&rdquo; Mr. Bowie intones enigmatically, moving through ominous lines about missions grown dark and worlds ending, before confessing &ldquo;I don&rsquo;t know who I am,&rdquo; and &ldquo;I am a seerBut I am a liar.&rdquo;\n", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

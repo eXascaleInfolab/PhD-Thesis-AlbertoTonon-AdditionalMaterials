@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Mary Landrieu",
+            "types": [
+                {
+                    "label": "United States Senators From Louisiana",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromLouisiana"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+                },
+                {
+                    "label": "American women",
+                    "uri": "http://dbpedia.org/resource/American_women"
+                },
+                {
+                    "label": "1992United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/1992UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "People From Virginia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromVirginia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mary_Landrieu"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0246",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mary Landrieu",
+            "types": [
+                {
+                    "label": "United States Senators From Louisiana",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromLouisiana"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+                },
+                {
+                    "label": "American women",
+                    "uri": "http://dbpedia.org/resource/American_women"
+                },
+                {
+                    "label": "1992United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/1992UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "People From Virginia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromVirginia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mary_Landrieu"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

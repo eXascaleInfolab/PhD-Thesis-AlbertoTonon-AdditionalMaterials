@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Palermo",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://umbel.org/umbel/sc/Village"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Coastal Cities And Towns In Italy",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCitiesAndTownsInItaly"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlements Established In The8th Century BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Area",
+                    "uri": "http://dbpedia.org/ontology/Area"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Coastal towns",
+                    "uri": "http://dbpedia.org/resource/Coastal_towns"
+                },
+                {
+                    "label": "Port Cities In Italy",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInItaly"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Palermo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0008",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Palermo",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://umbel.org/umbel/sc/Village"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Coastal Cities And Towns In Italy",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCitiesAndTownsInItaly"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlements Established In The8th Century BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Area",
+                    "uri": "http://dbpedia.org/ontology/Area"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Coastal towns",
+                    "uri": "http://dbpedia.org/resource/Coastal_towns"
+                },
+                {
+                    "label": "Port Cities In Italy",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInItaly"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Palermo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

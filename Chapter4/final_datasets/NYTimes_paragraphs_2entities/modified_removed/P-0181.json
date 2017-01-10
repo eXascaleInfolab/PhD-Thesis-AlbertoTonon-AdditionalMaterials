@@ -1,0 +1,93 @@
+{
+    "allEntities": [
+        {
+            "label": "Fr&eacute;d&eacute;ric Parrenin", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 46
+                }
+            ], 
+            "types": [
+                {
+                    "label": "French Female Singers", 
+                    "uri": "http://dbpedia.org/class/yago/FrenchFemaleSingers"
+                }, 
+                {
+                    "label": "French Singers", 
+                    "uri": "http://dbpedia.org/class/yago/FrenchSingers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+        }, 
+        {
+            "label": "Antarctic", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 205
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Antarctic"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/01/science/earth/at-ice-age-end-a-smaller-gap-in-warming-and-carbon-dioxide.html?ref=science", 
+    "category": "science", 
+    "docID": "P-0181", 
+    "elementNumber": 21, 
+    "mainEntities": [
+        {
+            "label": "Fr&eacute;d&eacute;ric Parrenin", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 46
+                }
+            ], 
+            "types": [
+                {
+                    "label": "French Female Singers", 
+                    "uri": "http://dbpedia.org/class/yago/FrenchFemaleSingers"
+                }, 
+                {
+                    "label": "French Singers", 
+                    "uri": "http://dbpedia.org/class/yago/FrenchSingers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+        }, 
+        {
+            "label": "Antarctic", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 205
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Antarctic"
+        }
+    ], 
+    "mainText": "Using high-precision chemical techniques, Dr. Parrenin and his colleagues have essentially reduced the error margin.\nTheir findings suggest that increases of carbon dioxide lagged temperature increases in Antarctica by no more than about 200 years and may have even preceded the temperature increase.", 
+    "shownText": "Using high-precision chemical techniques, Dr. Parrenin and his colleagues have essentially reduced the error margin.\nTheir findings suggest that increases of carbon dioxide lagged temperature increases in Antarctica by no more than about 200 years and may have even preceded the temperature increase.", 
+    "title": "At Ice Age End, a Smaller Gap in Warming and Carbon Dioxide - NYTimes.com"
+}

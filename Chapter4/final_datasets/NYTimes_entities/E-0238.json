@@ -1,0 +1,177 @@
+{
+    "allEntities": [
+        {
+            "label": "Michelle Obama",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Female Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFemaleLawyers"
+                },
+                {
+                    "label": "People From Chicago",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                },
+                {
+                    "label": "African American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanLawyers"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "People From Chicago,Illinois",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago,Illinois"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Illinois lawyers",
+                    "uri": "http://dbpedia.org/resource/Illinois_lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Princeton University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+                },
+                {
+                    "label": "Vice President",
+                    "uri": "http://dbpedia.org/class/yago/VicePresident110751265"
+                },
+                {
+                    "label": "Illinois Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisLawyers"
+                },
+                {
+                    "label": "First Ladies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+                },
+                {
+                    "label": "Women In Illinois Politics",
+                    "uri": "http://dbpedia.org/class/yago/WomenInIllinoisPolitics"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michelle_Obama"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0238",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Michelle Obama",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Female Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFemaleLawyers"
+                },
+                {
+                    "label": "People From Chicago",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                },
+                {
+                    "label": "African American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanLawyers"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "People From Chicago,Illinois",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago,Illinois"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Illinois lawyers",
+                    "uri": "http://dbpedia.org/resource/Illinois_lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Princeton University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+                },
+                {
+                    "label": "Vice President",
+                    "uri": "http://dbpedia.org/class/yago/VicePresident110751265"
+                },
+                {
+                    "label": "Illinois Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisLawyers"
+                },
+                {
+                    "label": "First Ladies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+                },
+                {
+                    "label": "Women In Illinois Politics",
+                    "uri": "http://dbpedia.org/class/yago/WomenInIllinoisPolitics"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michelle_Obama"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

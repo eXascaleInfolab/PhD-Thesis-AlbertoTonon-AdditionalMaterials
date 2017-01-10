@@ -1,0 +1,245 @@
+{
+  "mainText":"Nico Wisdom\u2019s case was one of the 16 no-pay cases that the city won.\nHe was arrested in May 2010 in Brooklyn after the police said he had been serving as a lookout for another man who was accused of selling crack cocaine to an undercover detective, the lawsuit said.",
+  "shownText":"\u201cBut,\u201d he added, \u201cthat doesn\u2019t mean therefore that you should settle every case.\u201d\n\nNico Wisdom\u2019s case was one of the 16 no-pay cases that the city won.\nHe was arrested in May 2010 in Brooklyn after the police said he had been serving as a lookout for another man who was accused of selling crack cocaine to an undercover detective, the lawsuit said.\n\nThe charge against Mr. Wisdom was later adjourned in contemplation of dismissal, according to the civil-rights suit that he filed.\nMr. Wisdom denied that he had committed a crime or that the police had probable cause to arrest him.\n",
+  "title":"New York, to Stem Civil-Rights Suits, Is Now Reluctant to Settle - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/nyregion/new-york-to-stem-civil-rights-suits-is-now-reluctant-to-settle.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0121",
+  "elementNumber":31,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nico",
+      "label":"Nico Wisdom",
+      "offsets":[
+        {
+          "offset":83,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"German female singers",
+          "uri":"http://dbpedia.org/resource/German_female_singers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"German film actors",
+          "uri":"http://dbpedia.org/resource/German_film_actors"
+        },
+        {
+          "label":"German rock singers",
+          "uri":"http://dbpedia.org/resource/German_rock_singers"
+        },
+        {
+          "label":"German fashion models",
+          "uri":"http://dbpedia.org/resource/German_fashion_models"
+        },
+        {
+          "label":"Dark cabaret musicians",
+          "uri":"http://dbpedia.org/resource/Dark_cabaret_musicians"
+        },
+        {
+          "label":"German Female Singers",
+          "uri":"http://dbpedia.org/class/yago/GermanFemaleSingers"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":183,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nico",
+      "label":"Nico Wisdom",
+      "offsets":[
+        {
+          "offset":83,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"German female singers",
+          "uri":"http://dbpedia.org/resource/German_female_singers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"German film actors",
+          "uri":"http://dbpedia.org/resource/German_film_actors"
+        },
+        {
+          "label":"German rock singers",
+          "uri":"http://dbpedia.org/resource/German_rock_singers"
+        },
+        {
+          "label":"German fashion models",
+          "uri":"http://dbpedia.org/resource/German_fashion_models"
+        },
+        {
+          "label":"Dark cabaret musicians",
+          "uri":"http://dbpedia.org/resource/Dark_cabaret_musicians"
+        },
+        {
+          "label":"German Female Singers",
+          "uri":"http://dbpedia.org/class/yago/GermanFemaleSingers"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":183,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

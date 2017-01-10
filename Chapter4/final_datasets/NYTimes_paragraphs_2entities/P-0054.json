@@ -1,0 +1,181 @@
+{
+  "mainText":"The actual loss total is in dispute because they are estimates, but it ranges from $70 billion or so to well over $100 billion.\nThe dispute involves a 2011 settlement that Bank of America reached with some of the world\u2019s biggest investors, including Pimco and BlackRock for $8.5 billion.\nOn a conference call last week held by Mike Mayo, the CLSA bank analyst, a legal expert suggested that if things went south in the courts for Bank of America, the settlement might rise to $25 billion to $30 billion.\nThat means, at the high end of the range, the settlement was for pennies on the dollar.\nThat amount covers more than $400 billion of Countrywide loans, on which there have been tens of billions of losses.",
+  "shownText":"The actual loss total is in dispute because they are estimates, but it ranges from $70 billion or so to well over $100 billion.\nThe dispute involves a 2011 settlement that Bank of America reached with some of the world\u2019s biggest investors, including Pimco and BlackRock for $8.5 billion.\nOn a conference call last week held by Mike Mayo, the CLSA bank analyst, a legal expert suggested that if things went south in the courts for Bank of America, the settlement might rise to $25 billion to $30 billion.\nThat means, at the high end of the range, the settlement was for pennies on the dollar.\nThat amount covers more than $400 billion of Countrywide loans, on which there have been tens of billions of losses.",
+  "title":"With Legal Reserves Low, Bank of America Faces a Big Lawsuit - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/03/06/with-legal-reserves-low-bank-of-america-faces-a-big-lawsuit/?ref=business",
+  "category":"business",
+  "docID":"P-0054",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bank_of_America",
+      "label":"Bank of America",
+      "offsets":[
+        {
+          "offset":172,
+          "length":15
+        },
+        {
+          "offset":430,
+          "length":15
+        },
+        {
+          "offset":172,
+          "length":15
+        },
+        {
+          "offset":430,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Other Diversified Financial Services",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhciPYwhuEduVNADggVaqog"
+        },
+        {
+          "label":"bank",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVirgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Companies Established In1874",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1874"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Charlotte,North Carolina",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInCharlotte,NorthCarolina"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BlackRock",
+      "label":"BlackRock",
+      "offsets":[
+        {
+          "offset":260,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Investment Management Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InvestmentManagementCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bank_of_America",
+      "label":"Bank of America",
+      "offsets":[
+        {
+          "offset":172,
+          "length":15
+        },
+        {
+          "offset":430,
+          "length":15
+        },
+        {
+          "offset":172,
+          "length":15
+        },
+        {
+          "offset":430,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Other Diversified Financial Services",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhciPYwhuEduVNADggVaqog"
+        },
+        {
+          "label":"bank",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVirgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Companies Established In1874",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1874"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Charlotte,North Carolina",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInCharlotte,NorthCarolina"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BlackRock",
+      "label":"BlackRock",
+      "offsets":[
+        {
+          "offset":260,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Investment Management Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InvestmentManagementCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

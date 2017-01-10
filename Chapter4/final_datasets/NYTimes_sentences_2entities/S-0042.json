@@ -1,0 +1,109 @@
+{
+  "mainText":"\u201cIt really is embarrassing for the journalists who stumbled upon this and decided to promote it or share it with their audience,\u201d said Kelly McBride, the senior faculty for ethics, reporting and writing at the Poynter Institute.",
+  "shownText":"\u201cIt really is embarrassing for the journalists who stumbled upon this and decided to promote it or share it with their audience,\u201d said Kelly McBride, the senior faculty for ethics, reporting and writing at the Poynter Institute.",
+  "title":"Pig Rescues Goat, and the Video Is Really Cute, but Totally Faked - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/pig-rescues-goat-and-the-video-is-really-cute-but-totally-faked.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0042",
+  "elementNumber":9,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/McBride",
+      "label":"Kelly McBride",
+      "offsets":[
+        {
+          "offset":141,
+          "length":7
+        },
+        {
+          "offset":135,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Poynter_Institute",
+      "label":"Poynter Institute",
+      "offsets":[
+        {
+          "offset":210,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Journalism organizations",
+          "uri":"http://dbpedia.org/resource/Journalism_organizations"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Journalism Organizations",
+          "uri":"http://dbpedia.org/class/yago/JournalismOrganizations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/McBride",
+      "label":"Kelly McBride",
+      "offsets":[
+        {
+          "offset":141,
+          "length":7
+        },
+        {
+          "offset":135,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Poynter_Institute",
+      "label":"Poynter Institute",
+      "offsets":[
+        {
+          "offset":210,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Journalism organizations",
+          "uri":"http://dbpedia.org/resource/Journalism_organizations"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Journalism Organizations",
+          "uri":"http://dbpedia.org/class/yago/JournalismOrganizations"
+        }
+      ]
+    }
+  ]
+}

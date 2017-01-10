@@ -1,0 +1,93 @@
+{
+  "mainText":"David Doniger, the director of the climate and clean air program at the Natural Resources Defense Council, said that the big issues before the Obama administration were the budget, immigration , gun control and climate.",
+  "shownText":"David Doniger, the director of the climate and clean air program at the Natural Resources Defense Council, said that the big issues before the Obama administration were the budget, immigration , gun control and climate.",
+  "title":"Obama Names 2 to Fill E.P.A. and Energy Posts - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/us/politics/obama-names-2-to-fill-epa-and-energy-posts.html",
+  "category":"politics",
+  "docID":"S-0206",
+  "elementNumber":33,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Wendy_Doniger",
+      "label":"Doniger",
+      "offsets":[
+        {
+          "offset":6,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"American Indologists",
+          "uri":"http://dbpedia.org/resource/American_Indologists"
+        },
+        {
+          "label":"Scientist",
+          "uri":"http://dbpedia.org/ontology/Scientist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Natural_Resources_Defense_Council",
+      "label":"Natural Resources Defense Council",
+      "offsets":[
+        {
+          "offset":72,
+          "length":33
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Wendy_Doniger",
+      "label":"Doniger",
+      "offsets":[
+        {
+          "offset":6,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"American Indologists",
+          "uri":"http://dbpedia.org/resource/American_Indologists"
+        },
+        {
+          "label":"Scientist",
+          "uri":"http://dbpedia.org/ontology/Scientist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Natural_Resources_Defense_Council",
+      "label":"Natural Resources Defense Council",
+      "offsets":[
+        {
+          "offset":72,
+          "length":33
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ]
+}

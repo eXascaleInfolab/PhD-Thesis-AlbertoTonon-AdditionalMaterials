@@ -1,0 +1,469 @@
+{
+  "mainText":"(Maybe Fox will discover that the judge Mariah Carey is more popular in the East, while Nicki Minaj is more popular out West.)",
+  "shownText":"(Maybe Fox will discover that the judge Mariah Carey is more popular in the East, while Nicki Minaj is more popular out West.)",
+  "title":"âAmerican Idolâ Fans Can Now Tweet Their Views - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/american-idol-fans-can-now-tweet-their-views.html?ref=technology",
+  "category":"technology",
+  "docID":"S-0322",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mariah_Carey",
+      "label":"Mariah Carey",
+      "offsets":[
+        {
+          "offset":40,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Pop Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPopSingers"
+        },
+        {
+          "label":"English-language singers",
+          "uri":"http://dbpedia.org/resource/English-language_singers"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Music Video Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanMusicVideoDirectors"
+        },
+        {
+          "label":"American Record Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRecordProducers"
+        },
+        {
+          "label":"American pop singers",
+          "uri":"http://dbpedia.org/resource/American_pop_singers"
+        },
+        {
+          "label":"African American musicians",
+          "uri":"http://dbpedia.org/resource/African_American_musicians"
+        },
+        {
+          "label":"American Dance Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanDanceMusicians"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"American record producers",
+          "uri":"http://dbpedia.org/resource/American_record_producers"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"African-American Singers",
+          "uri":"http://dbpedia.org/class/yago/African-AmericanSingers"
+        },
+        {
+          "label":"American Female Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFemaleSingers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Songwriter",
+          "uri":"http://dbpedia.org/class/yago/Songwriter110624540"
+        },
+        {
+          "label":"Spanish-language Singers",
+          "uri":"http://dbpedia.org/class/yago/Spanish-languageSingers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American female singers",
+          "uri":"http://dbpedia.org/resource/American_female_singers"
+        },
+        {
+          "label":"New York Musicians",
+          "uri":"http://dbpedia.org/class/yago/NewYorkMusicians"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"1990s pop music performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r3ZQqJlM0QdeQBYyu4r21Ew"
+        },
+        {
+          "label":"Irish-American Musicians",
+          "uri":"http://dbpedia.org/class/yago/Irish-AmericanMusicians"
+        },
+        {
+          "label":"singer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjiz5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American dance musicians",
+          "uri":"http://dbpedia.org/resource/American_dance_musicians"
+        },
+        {
+          "label":"Singer",
+          "uri":"http://dbpedia.org/class/yago/Singer110599806"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African-American Actors",
+          "uri":"http://dbpedia.org/class/yago/African-AmericanActors"
+        },
+        {
+          "label":"American music video directors",
+          "uri":"http://dbpedia.org/resource/American_music_video_directors"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"English-language Singers",
+          "uri":"http://dbpedia.org/class/yago/English-languageSingers"
+        },
+        {
+          "label":"Irish-American musicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_musicians"
+        },
+        {
+          "label":"woman",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American actors",
+          "uri":"http://dbpedia.org/resource/American_actors"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fox",
+      "label":"Fox",
+      "offsets":[
+        {
+          "offset":7,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Nicki_Minaj",
+      "label":"Nicki Minaj",
+      "offsets":[
+        {
+          "offset":88,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mariah_Carey",
+      "label":"Mariah Carey",
+      "offsets":[
+        {
+          "offset":40,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Pop Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPopSingers"
+        },
+        {
+          "label":"English-language singers",
+          "uri":"http://dbpedia.org/resource/English-language_singers"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Music Video Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanMusicVideoDirectors"
+        },
+        {
+          "label":"American Record Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRecordProducers"
+        },
+        {
+          "label":"American pop singers",
+          "uri":"http://dbpedia.org/resource/American_pop_singers"
+        },
+        {
+          "label":"African American musicians",
+          "uri":"http://dbpedia.org/resource/African_American_musicians"
+        },
+        {
+          "label":"American Dance Musicians",
+          "uri":"http://dbpedia.org/class/yago/AmericanDanceMusicians"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"American record producers",
+          "uri":"http://dbpedia.org/resource/American_record_producers"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"African-American Singers",
+          "uri":"http://dbpedia.org/class/yago/African-AmericanSingers"
+        },
+        {
+          "label":"American Female Singers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFemaleSingers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Songwriter",
+          "uri":"http://dbpedia.org/class/yago/Songwriter110624540"
+        },
+        {
+          "label":"Spanish-language Singers",
+          "uri":"http://dbpedia.org/class/yago/Spanish-languageSingers"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American female singers",
+          "uri":"http://dbpedia.org/resource/American_female_singers"
+        },
+        {
+          "label":"New York Musicians",
+          "uri":"http://dbpedia.org/class/yago/NewYorkMusicians"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"1990s pop music performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r3ZQqJlM0QdeQBYyu4r21Ew"
+        },
+        {
+          "label":"Irish-American Musicians",
+          "uri":"http://dbpedia.org/class/yago/Irish-AmericanMusicians"
+        },
+        {
+          "label":"singer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjiz5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American dance musicians",
+          "uri":"http://dbpedia.org/resource/American_dance_musicians"
+        },
+        {
+          "label":"Singer",
+          "uri":"http://dbpedia.org/class/yago/Singer110599806"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African-American Actors",
+          "uri":"http://dbpedia.org/class/yago/African-AmericanActors"
+        },
+        {
+          "label":"American music video directors",
+          "uri":"http://dbpedia.org/resource/American_music_video_directors"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"English-language Singers",
+          "uri":"http://dbpedia.org/class/yago/English-languageSingers"
+        },
+        {
+          "label":"Irish-American musicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_musicians"
+        },
+        {
+          "label":"woman",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American actors",
+          "uri":"http://dbpedia.org/resource/American_actors"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fox",
+      "label":"Fox",
+      "offsets":[
+        {
+          "offset":7,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Eukaryote",
+          "uri":"http://dbpedia.org/ontology/Eukaryote"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Nicki_Minaj",
+      "label":"Nicki Minaj",
+      "offsets":[
+        {
+          "offset":88,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    }
+  ]
+}

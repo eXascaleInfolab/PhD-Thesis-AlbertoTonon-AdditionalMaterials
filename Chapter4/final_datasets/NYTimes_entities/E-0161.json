@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Anna Karenina",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "1878Novels",
+                    "uri": "http://dbpedia.org/class/yago/1878Novels"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Suicidal Fictional Characters",
+                    "uri": "http://dbpedia.org/class/yago/SuicidalFictionalCharacters"
+                },
+                {
+                    "label": "Book",
+                    "uri": "http://dbpedia.org/ontology/Book"
+                },
+                {
+                    "label": "Novels By Leo Tolstoy",
+                    "uri": "http://dbpedia.org/class/yago/NovelsByLeoTolstoy"
+                },
+                {
+                    "label": "novel",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJb5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anna_Karenina"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0161",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Anna Karenina",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "1878Novels",
+                    "uri": "http://dbpedia.org/class/yago/1878Novels"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Suicidal Fictional Characters",
+                    "uri": "http://dbpedia.org/class/yago/SuicidalFictionalCharacters"
+                },
+                {
+                    "label": "Book",
+                    "uri": "http://dbpedia.org/ontology/Book"
+                },
+                {
+                    "label": "Novels By Leo Tolstoy",
+                    "uri": "http://dbpedia.org/class/yago/NovelsByLeoTolstoy"
+                },
+                {
+                    "label": "novel",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViJb5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anna_Karenina"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

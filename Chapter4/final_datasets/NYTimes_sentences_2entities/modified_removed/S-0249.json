@@ -1,0 +1,461 @@
+{
+    "allEntities": [
+        {
+            "label": "Bryce Drew", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 89
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballPlayers"
+                }, 
+                {
+                    "label": "People From Baton Rouge", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+                }, 
+                {
+                    "label": "Charlotte Hornets Players", 
+                    "uri": "http://dbpedia.org/class/yago/CharlotteHornetsPlayers"
+                }, 
+                {
+                    "label": "Charlotte Hornets players", 
+                    "uri": "http://dbpedia.org/resource/Charlotte_Hornets_players"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "New Orleans Hornets Players", 
+                    "uri": "http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }, 
+                {
+                    "label": "American Basketball Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballCoaches"
+                }, 
+                {
+                    "label": "American Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                }, 
+                {
+                    "label": "Chicago Bulls players", 
+                    "uri": "http://dbpedia.org/resource/Chicago_Bulls_players"
+                }, 
+                {
+                    "label": "Houston Rockets players", 
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                }, 
+                {
+                    "label": "People From Valparaiso,Indiana", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromValparaiso,Indiana"
+                }, 
+                {
+                    "label": "Chicago Bulls Players", 
+                    "uri": "http://dbpedia.org/class/yago/ChicagoBullsPlayers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Valencia BCBasketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/ValenciaBCBasketballPlayers"
+                }, 
+                {
+                    "label": "ACBLeague Players", 
+                    "uri": "http://dbpedia.org/class/yago/ACBLeaguePlayers"
+                }, 
+                {
+                    "label": "College Coach", 
+                    "uri": "http://dbpedia.org/ontology/CollegeCoach"
+                }, 
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballCoaches"
+                }, 
+                {
+                    "label": "ACB league players", 
+                    "uri": "http://dbpedia.org/resource/ACB_league_players"
+                }, 
+                {
+                    "label": "American basketball coaches", 
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Houston Rockets Players", 
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bryce_Drew"
+        }, 
+        {
+            "label": "Rasaun Young", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 6
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English actors", 
+                    "uri": "http://dbpedia.org/resource/English_actors"
+                }, 
+                {
+                    "label": "English pop singers", 
+                    "uri": "http://dbpedia.org/resource/English_pop_singers"
+                }, 
+                {
+                    "label": "English Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                }, 
+                {
+                    "label": "People From Hungerford", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHungerford"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "BRIT Award winners", 
+                    "uri": "http://dbpedia.org/resource/BRIT_Award_winners"
+                }, 
+                {
+                    "label": "Gay Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/GayMusicians"
+                }, 
+                {
+                    "label": "Ivor Novello Award winners", 
+                    "uri": "http://dbpedia.org/resource/Ivor_Novello_Award_winners"
+                }, 
+                {
+                    "label": "English Pop Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishPopSingers"
+                }, 
+                {
+                    "label": "LGBT musicians from the United Kingdom", 
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_Kingdom"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Gay actors from the United Kingdom", 
+                    "uri": "http://dbpedia.org/resource/Gay_actors_from_the_United_Kingdom"
+                }, 
+                {
+                    "label": "Alumni Of The University Of Exeter", 
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfTheUniversityOfExeter"
+                }, 
+                {
+                    "label": "People From Wokingham", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWokingham"
+                }, 
+                {
+                    "label": "English film actors", 
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "LGBTMusicians From The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedKingdom"
+                }, 
+                {
+                    "label": "Pop Idol Contestants", 
+                    "uri": "http://dbpedia.org/class/yago/PopIdolContestants"
+                }, 
+                {
+                    "label": "LGBTPeople From England", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+                }, 
+                {
+                    "label": "Gay musicians", 
+                    "uri": "http://dbpedia.org/resource/Gay_musicians"
+                }, 
+                {
+                    "label": "People From Reading,Berkshire", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+                }, 
+                {
+                    "label": "English Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishActors"
+                }, 
+                {
+                    "label": "Gay Actors From The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/GayActorsFromTheUnitedKingdom"
+                }, 
+                {
+                    "label": "English Male Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Sony BMGArtists", 
+                    "uri": "http://dbpedia.org/class/yago/SonyBMGArtists"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Will_Young"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/khalil-edney-is-big-shot-at-new-rochelle-high-school-and-on-youtube.html?ref=sports", 
+    "category": "sports", 
+    "docID": "S-0249", 
+    "elementNumber": 36, 
+    "mainEntities": [
+        {
+            "label": "Bryce Drew", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 89
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballPlayers"
+                }, 
+                {
+                    "label": "People From Baton Rouge", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+                }, 
+                {
+                    "label": "Charlotte Hornets Players", 
+                    "uri": "http://dbpedia.org/class/yago/CharlotteHornetsPlayers"
+                }, 
+                {
+                    "label": "Charlotte Hornets players", 
+                    "uri": "http://dbpedia.org/resource/Charlotte_Hornets_players"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "New Orleans Hornets Players", 
+                    "uri": "http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }, 
+                {
+                    "label": "American Basketball Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballCoaches"
+                }, 
+                {
+                    "label": "American Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                }, 
+                {
+                    "label": "Chicago Bulls players", 
+                    "uri": "http://dbpedia.org/resource/Chicago_Bulls_players"
+                }, 
+                {
+                    "label": "Houston Rockets players", 
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                }, 
+                {
+                    "label": "People From Valparaiso,Indiana", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromValparaiso,Indiana"
+                }, 
+                {
+                    "label": "Chicago Bulls Players", 
+                    "uri": "http://dbpedia.org/class/yago/ChicagoBullsPlayers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Valencia BCBasketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/ValenciaBCBasketballPlayers"
+                }, 
+                {
+                    "label": "ACBLeague Players", 
+                    "uri": "http://dbpedia.org/class/yago/ACBLeaguePlayers"
+                }, 
+                {
+                    "label": "College Coach", 
+                    "uri": "http://dbpedia.org/ontology/CollegeCoach"
+                }, 
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballCoaches"
+                }, 
+                {
+                    "label": "ACB league players", 
+                    "uri": "http://dbpedia.org/resource/ACB_league_players"
+                }, 
+                {
+                    "label": "American basketball coaches", 
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Houston Rockets Players", 
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bryce_Drew"
+        }, 
+        {
+            "label": "Rasaun Young", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 6
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English actors", 
+                    "uri": "http://dbpedia.org/resource/English_actors"
+                }, 
+                {
+                    "label": "English pop singers", 
+                    "uri": "http://dbpedia.org/resource/English_pop_singers"
+                }, 
+                {
+                    "label": "English Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                }, 
+                {
+                    "label": "People From Hungerford", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHungerford"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "BRIT Award winners", 
+                    "uri": "http://dbpedia.org/resource/BRIT_Award_winners"
+                }, 
+                {
+                    "label": "Gay Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/GayMusicians"
+                }, 
+                {
+                    "label": "Ivor Novello Award winners", 
+                    "uri": "http://dbpedia.org/resource/Ivor_Novello_Award_winners"
+                }, 
+                {
+                    "label": "English Pop Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishPopSingers"
+                }, 
+                {
+                    "label": "LGBT musicians from the United Kingdom", 
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_Kingdom"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Gay actors from the United Kingdom", 
+                    "uri": "http://dbpedia.org/resource/Gay_actors_from_the_United_Kingdom"
+                }, 
+                {
+                    "label": "Alumni Of The University Of Exeter", 
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfTheUniversityOfExeter"
+                }, 
+                {
+                    "label": "People From Wokingham", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWokingham"
+                }, 
+                {
+                    "label": "English film actors", 
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "LGBTMusicians From The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedKingdom"
+                }, 
+                {
+                    "label": "Pop Idol Contestants", 
+                    "uri": "http://dbpedia.org/class/yago/PopIdolContestants"
+                }, 
+                {
+                    "label": "LGBTPeople From England", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+                }, 
+                {
+                    "label": "Gay musicians", 
+                    "uri": "http://dbpedia.org/resource/Gay_musicians"
+                }, 
+                {
+                    "label": "People From Reading,Berkshire", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+                }, 
+                {
+                    "label": "English Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishActors"
+                }, 
+                {
+                    "label": "Gay Actors From The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/GayActorsFromTheUnitedKingdom"
+                }, 
+                {
+                    "label": "English Male Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Sony BMGArtists", 
+                    "uri": "http://dbpedia.org/class/yago/SonyBMGArtists"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Will_Young"
+        }
+    ], 
+    "mainText": "Coach Rasaun Young called for an inbounds play named Valpo, after the buzzer-beater that Bryce Drew made in the 1998 N.C.A.A. tournament to secure a first-round victory for Valparaiso.", 
+    "shownText": "Coach Rasaun Young called for an inbounds play named Valpo, after the buzzer-beater that Bryce Drew made in the 1998 N.C.A.A. tournament to secure a first-round victory for Valparaiso.", 
+    "title": "Khalil Edney Is Big Shot at New Rochelle High School and on YouTube - NYTimes.com"
+}

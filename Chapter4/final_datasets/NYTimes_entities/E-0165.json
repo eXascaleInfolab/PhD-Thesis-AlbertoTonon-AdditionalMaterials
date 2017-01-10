@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Louisiana",
+            "types": [
+                {
+                    "label": "States And Territories Established In1812",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1812"
+                },
+                {
+                    "label": "Southern United States",
+                    "uri": "http://dbpedia.org/class/yago/SouthernUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "States Of The Confederate States Of America",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Louisiana"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0165",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Louisiana",
+            "types": [
+                {
+                    "label": "States And Territories Established In1812",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1812"
+                },
+                {
+                    "label": "Southern United States",
+                    "uri": "http://dbpedia.org/class/yago/SouthernUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "States Of The Confederate States Of America",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Louisiana"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

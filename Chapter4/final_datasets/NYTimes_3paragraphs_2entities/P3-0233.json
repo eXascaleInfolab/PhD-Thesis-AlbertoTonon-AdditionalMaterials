@@ -1,0 +1,349 @@
+{
+  "mainText":"Thinking of the degrading jokes at the Oscars, I wouldn\u2019t mind if Tina Fey and Amy Poehler took over next year \u2014 and while they\u2019re at it, can they do something about these shows?\nIt\u2019s not that designers are misogynist, or not especially misogynist, as in the past when some presented women as trussed-up Kewpie dolls.\nBut banalities persist.",
+  "shownText":"One difference at Balenciaga was that the clothes were friendly toward women, of any age.\nAnn Demeulemeester\u2019s show also looked especially inviting, and individual, with its romantic white smocks and underplayed tailoring.\nBut such genuine warmth isn\u2019t always evident this season.\n\nThinking of the degrading jokes at the Oscars, I wouldn\u2019t mind if Tina Fey and Amy Poehler took over next year \u2014 and while they\u2019re at it, can they do something about these shows?\nIt\u2019s not that designers are misogynist, or not especially misogynist, as in the past when some presented women as trussed-up Kewpie dolls.\nBut banalities persist.\n\nSaying he wanted to present \u201cthe notion of a dignified womanly persona, with a wealth of experience,\u201d Marco Zanini of Rochas showed chic if unremarkable slacks-and-sweater outfits with loafers, silk pajamas and slim coats brushed to a careworn softness.\nBut it\u2019s hard for a woman to maintain her dignity when her midcalf pencil skirt forces her to take short steps or her majestically oversize coat seems a royal pain.\n(Surely, a reference in the show notes to \u201cPrince of Whales\u201d check was a typo.)\n",
+  "title":"Alexander Wangâs Debut at Balenciaga During Paris Fashion Week - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/fashion/alexander-wangs-debut-at-balenciaga-during-paris-fashion-week.html?ref=style",
+  "category":"style",
+  "docID":"P3-0233",
+  "elementNumber":21,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Amy_Poehler",
+      "label":"Amy Poehler",
+      "offsets":[
+        {
+          "offset":361,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston College alumni",
+          "uri":"http://dbpedia.org/resource/Boston_College_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"Boston College Alumni",
+          "uri":"http://dbpedia.org/class/yago/BostonCollegeAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Feminist artists",
+          "uri":"http://dbpedia.org/resource/Feminist_artists"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Massachusetts Actors",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsActors"
+        },
+        {
+          "label":"Feminist Artists",
+          "uri":"http://dbpedia.org/class/yago/FeministArtists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Impressionists (entertainers)",
+          "uri":"http://dbpedia.org/resource/Impressionists_%28entertainers%29"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"People From Middlesex County,Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMiddlesexCounty,Massachusetts"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tina_Fey",
+      "label":"Tina Fey",
+      "offsets":[
+        {
+          "offset":348,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"American Comedy Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedyWriters"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"People From Philadelphia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Pennsylvania Actors",
+          "uri":"http://dbpedia.org/class/yago/PennsylvaniaActors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Philadelphia Writers",
+          "uri":"http://dbpedia.org/class/yago/PhiladelphiaWriters"
+        },
+        {
+          "label":"American comedy writers",
+          "uri":"http://dbpedia.org/resource/American_comedy_writers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Second City Alumni",
+          "uri":"http://dbpedia.org/class/yago/SecondCityAlumni"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Amy_Poehler",
+      "label":"Amy Poehler",
+      "offsets":[
+        {
+          "offset":361,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston College alumni",
+          "uri":"http://dbpedia.org/resource/Boston_College_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"Boston College Alumni",
+          "uri":"http://dbpedia.org/class/yago/BostonCollegeAlumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Feminist artists",
+          "uri":"http://dbpedia.org/resource/Feminist_artists"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Massachusetts Actors",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsActors"
+        },
+        {
+          "label":"Feminist Artists",
+          "uri":"http://dbpedia.org/class/yago/FeministArtists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Impressionists (entertainers)",
+          "uri":"http://dbpedia.org/resource/Impressionists_%28entertainers%29"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"People From Middlesex County,Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMiddlesexCounty,Massachusetts"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tina_Fey",
+      "label":"Tina Fey",
+      "offsets":[
+        {
+          "offset":348,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"American Comedy Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedyWriters"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"People From Philadelphia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Pennsylvania Actors",
+          "uri":"http://dbpedia.org/class/yago/PennsylvaniaActors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Philadelphia Writers",
+          "uri":"http://dbpedia.org/class/yago/PhiladelphiaWriters"
+        },
+        {
+          "label":"American comedy writers",
+          "uri":"http://dbpedia.org/resource/American_comedy_writers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Second City Alumni",
+          "uri":"http://dbpedia.org/class/yago/SecondCityAlumni"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ]
+}

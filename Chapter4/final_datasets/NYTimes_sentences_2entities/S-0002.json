@@ -1,0 +1,117 @@
+{
+  "mainText":"Officer Ben Sherman ( Ben McKenzie ), recipient of an award for bravery, has begun to exhibit a self-righteous, gung-ho bluster that has turned off his more skeptical partner, Sammy (Shawn Hatosy).",
+  "shownText":"Officer Ben Sherman ( Ben McKenzie ), recipient of an award for bravery, has begun to exhibit a self-righteous, gung-ho bluster that has turned off his more skeptical partner, Sammy (Shawn Hatosy).",
+  "title":"âSouthland,â on TNT, Pursues Bad Guys and Realism - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/southland-on-tnt-pursues-bad-guys-and-realism.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0002",
+  "elementNumber":17,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ben_Sherman",
+      "label":"Ben Sherman",
+      "offsets":[
+        {
+          "offset":8,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Label",
+          "uri":"http://dbpedia.org/class/yago/Label107202579"
+        },
+        {
+          "label":"Clothing brands",
+          "uri":"http://dbpedia.org/resource/Clothing_brands"
+        },
+        {
+          "label":"Clothing Companies Of The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Shawn_Hatosy",
+      "label":"Shawn Hatosy",
+      "offsets":[
+        {
+          "offset":183,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ben_Sherman",
+      "label":"Ben Sherman",
+      "offsets":[
+        {
+          "offset":8,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Label",
+          "uri":"http://dbpedia.org/class/yago/Label107202579"
+        },
+        {
+          "label":"Clothing brands",
+          "uri":"http://dbpedia.org/resource/Clothing_brands"
+        },
+        {
+          "label":"Clothing Companies Of The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Shawn_Hatosy",
+      "label":"Shawn Hatosy",
+      "offsets":[
+        {
+          "offset":183,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ]
+}

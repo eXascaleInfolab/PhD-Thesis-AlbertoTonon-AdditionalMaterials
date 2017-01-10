@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "University of British Columbia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Educational Institutions Established In1915",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1915"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In1890",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1890"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Film Schools",
+                    "uri": "http://dbpedia.org/class/yago/FilmSchools"
+                },
+                {
+                    "label": "Nursing Schools In Canada",
+                    "uri": "http://dbpedia.org/class/yago/NursingSchoolsInCanada"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_British_Columbia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0727",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of British Columbia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Educational Institutions Established In1915",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1915"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In1890",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1890"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Film Schools",
+                    "uri": "http://dbpedia.org/class/yago/FilmSchools"
+                },
+                {
+                    "label": "Nursing Schools In Canada",
+                    "uri": "http://dbpedia.org/class/yago/NursingSchoolsInCanada"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_British_Columbia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

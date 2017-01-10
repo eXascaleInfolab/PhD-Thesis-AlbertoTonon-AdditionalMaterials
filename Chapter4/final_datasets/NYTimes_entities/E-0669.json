@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Nairobi",
+            "types": [
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nairobi"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0669",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Nairobi",
+            "types": [
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nairobi"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

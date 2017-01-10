@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Adam Lambert",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Adam_Lambert"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0084",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Adam Lambert",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Adam_Lambert"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

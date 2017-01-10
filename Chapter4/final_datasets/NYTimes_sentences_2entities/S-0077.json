@@ -1,0 +1,381 @@
+{
+  "mainText":"\u201cThese are the very first lab tests in a very grand experiment,\u201d said Jeff Berman, the president of BermanBraun, a media company that makes programming for NBC, HGTV, AOL and YouTube , among others.",
+  "shownText":"\u201cThese are the very first lab tests in a very grand experiment,\u201d said Jeff Berman, the president of BermanBraun, a media company that makes programming for NBC, HGTV, AOL and YouTube , among others.",
+  "title":"Online-Only TV Shows Join Fight for Attention - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/business/media/online-only-tv-shows-join-fight-for-attention.html?ref=business",
+  "category":"business",
+  "docID":"S-0077",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/YouTube",
+      "label":"YouTube",
+      "offsets":[
+        {
+          "offset":175,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet advertising and promotion",
+          "uri":"http://dbpedia.org/resource/Internet_advertising_and_promotion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Internet Properties Established In2005",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2005"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Entertainment websites",
+          "uri":"http://dbpedia.org/resource/Entertainment_websites"
+        },
+        {
+          "label":"Google Services",
+          "uri":"http://dbpedia.org/class/yago/GoogleServices"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In San Mateo County",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSanMateoCounty"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":156,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/AOL",
+      "label":"AOL",
+      "offsets":[
+        {
+          "offset":167,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Established In1983",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1983"
+        },
+        {
+          "label":"technology company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r_QItpk1AQdmXyb0GoTXPSA"
+        },
+        {
+          "label":"service company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjxuZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Based In Dulles,Virginia",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInDulles,Virginia"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"internet service provider",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhx2A5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Internet Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InternetCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Time Warner Subsidiaries",
+          "uri":"http://dbpedia.org/class/yago/TimeWarnerSubsidiaries"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/YouTube",
+      "label":"YouTube",
+      "offsets":[
+        {
+          "offset":175,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet advertising and promotion",
+          "uri":"http://dbpedia.org/resource/Internet_advertising_and_promotion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Internet Properties Established In2005",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2005"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Entertainment websites",
+          "uri":"http://dbpedia.org/resource/Entertainment_websites"
+        },
+        {
+          "label":"Google Services",
+          "uri":"http://dbpedia.org/class/yago/GoogleServices"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In San Mateo County",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSanMateoCounty"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":156,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/AOL",
+      "label":"AOL",
+      "offsets":[
+        {
+          "offset":167,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Established In1983",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1983"
+        },
+        {
+          "label":"technology company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r_QItpk1AQdmXyb0GoTXPSA"
+        },
+        {
+          "label":"service company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjxuZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Based In Dulles,Virginia",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInDulles,Virginia"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"internet service provider",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhx2A5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Internet Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InternetCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Time Warner Subsidiaries",
+          "uri":"http://dbpedia.org/class/yago/TimeWarnerSubsidiaries"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

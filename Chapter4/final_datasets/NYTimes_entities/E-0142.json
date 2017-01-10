@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Adam Candeub",
+            "types": [
+                {
+                    "label": "Hebrew Bible people",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_people"
+                },
+                {
+                    "label": "Bah%E1%27%ED interpretation",
+                    "uri": "http://dbpedia.org/resource/Bah%E1%27%ED_interpretation"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Adam"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0142",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Adam Candeub",
+            "types": [
+                {
+                    "label": "Hebrew Bible people",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_people"
+                },
+                {
+                    "label": "Bah%E1%27%ED interpretation",
+                    "uri": "http://dbpedia.org/resource/Bah%E1%27%ED_interpretation"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Adam"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

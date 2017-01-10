@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Marriott International",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marriott_International"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0371",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Marriott International",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marriott_International"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

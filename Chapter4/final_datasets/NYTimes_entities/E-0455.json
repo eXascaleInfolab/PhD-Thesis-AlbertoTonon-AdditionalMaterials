@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Van Noten",
+            "types": [
+                {
+                    "label": "People From Antwerp,Belgium",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAntwerp,Belgium"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Belgian Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/BelgianFashionDesigners"
+                },
+                {
+                    "label": "Belgian fashion designers",
+                    "uri": "http://dbpedia.org/resource/Belgian_fashion_designers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dries_van_Noten"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0455",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Van Noten",
+            "types": [
+                {
+                    "label": "People From Antwerp,Belgium",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAntwerp,Belgium"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Belgian Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/BelgianFashionDesigners"
+                },
+                {
+                    "label": "Belgian fashion designers",
+                    "uri": "http://dbpedia.org/resource/Belgian_fashion_designers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dries_van_Noten"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Robert",
+            "types": [
+                {
+                    "label": "German given names",
+                    "uri": "http://dbpedia.org/resource/German_given_names"
+                },
+                {
+                    "label": "French surnames",
+                    "uri": "http://dbpedia.org/resource/French_surnames"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0327",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Robert",
+            "types": [
+                {
+                    "label": "German given names",
+                    "uri": "http://dbpedia.org/resource/German_given_names"
+                },
+                {
+                    "label": "French surnames",
+                    "uri": "http://dbpedia.org/resource/French_surnames"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

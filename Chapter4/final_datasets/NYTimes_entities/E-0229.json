@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Dan Bylsma",
+            "types": [
+                {
+                    "label": "Albany River Rats players",
+                    "uri": "http://dbpedia.org/resource/Albany_River_Rats_players"
+                },
+                {
+                    "label": "Cincinnati Mighty Ducks players",
+                    "uri": "http://dbpedia.org/resource/Cincinnati_Mighty_Ducks_players"
+                },
+                {
+                    "label": "Bowling Green State University alumni",
+                    "uri": "http://dbpedia.org/resource/Bowling_Green_State_University_alumni"
+                },
+                {
+                    "label": "Ice hockey players from Michigan",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_players_from_Michigan"
+                },
+                {
+                    "label": "Bowling Green Falcons ice hockey players",
+                    "uri": "http://dbpedia.org/resource/Bowling_Green_Falcons_ice_hockey_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Greensboro Monarchs players",
+                    "uri": "http://dbpedia.org/resource/Greensboro_Monarchs_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dan_Bylsma"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0229",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dan Bylsma",
+            "types": [
+                {
+                    "label": "Albany River Rats players",
+                    "uri": "http://dbpedia.org/resource/Albany_River_Rats_players"
+                },
+                {
+                    "label": "Cincinnati Mighty Ducks players",
+                    "uri": "http://dbpedia.org/resource/Cincinnati_Mighty_Ducks_players"
+                },
+                {
+                    "label": "Bowling Green State University alumni",
+                    "uri": "http://dbpedia.org/resource/Bowling_Green_State_University_alumni"
+                },
+                {
+                    "label": "Ice hockey players from Michigan",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_players_from_Michigan"
+                },
+                {
+                    "label": "Bowling Green Falcons ice hockey players",
+                    "uri": "http://dbpedia.org/resource/Bowling_Green_Falcons_ice_hockey_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Greensboro Monarchs players",
+                    "uri": "http://dbpedia.org/resource/Greensboro_Monarchs_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dan_Bylsma"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,789 @@
+{
+    "allEntities": [
+        {
+            "label": "Nile Rodgers", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 835
+                }
+            ], 
+            "types": [
+                {
+                    "label": "African American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanMusicians"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRecordProducers"
+                }, 
+                {
+                    "label": "African American musicians", 
+                    "uri": "http://dbpedia.org/resource/African_American_musicians"
+                }, 
+                {
+                    "label": "American Guitarists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanGuitarists"
+                }, 
+                {
+                    "label": "American Funk Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFunkMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American record producers", 
+                    "uri": "http://dbpedia.org/resource/American_record_producers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People From Westport,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestport,Connecticut"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "American funk musicians", 
+                    "uri": "http://dbpedia.org/resource/American_funk_musicians"
+                }, 
+                {
+                    "label": "American guitarists", 
+                    "uri": "http://dbpedia.org/resource/American_guitarists"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Nile_Rodgers"
+        }, 
+        {
+            "label": "David Bowie", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 16
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "English Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                }, 
+                {
+                    "label": "English Rock Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicians"
+                }, 
+                {
+                    "label": "glam rock performer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "People Of Irish Descent In Great Britain", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                }, 
+                {
+                    "label": "Bisexual Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "English songwriters", 
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                }, 
+                {
+                    "label": "English Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                }, 
+                {
+                    "label": "English record producers", 
+                    "uri": "http://dbpedia.org/resource/English_record_producers"
+                }, 
+                {
+                    "label": "LGBTComposers", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                }, 
+                {
+                    "label": "English rock musicians", 
+                    "uri": "http://dbpedia.org/resource/English_rock_musicians"
+                }, 
+                {
+                    "label": "English film actors", 
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Daytime Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                }, 
+                {
+                    "label": "English Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishRecordProducers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "English Buddhists", 
+                    "uri": "http://dbpedia.org/resource/English_Buddhists"
+                }, 
+                {
+                    "label": "English baritones", 
+                    "uri": "http://dbpedia.org/resource/English_baritones"
+                }, 
+                {
+                    "label": "English Baritones", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishBaritones"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "English Male Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                }, 
+                {
+                    "label": "People From Brixton", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrixton"
+                }, 
+                {
+                    "label": "English Songwriters", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                }, 
+                {
+                    "label": "Bisexual musicians", 
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/David_Bowie"
+        }, 
+        {
+            "label": "Tony Visconti", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 985
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "American Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRecordProducers"
+                }, 
+                {
+                    "label": "People From Brooklyn", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                }, 
+                {
+                    "label": "Italian-American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/Italian-AmericanMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American record producers", 
+                    "uri": "http://dbpedia.org/resource/American_record_producers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Italian-American musicians", 
+                    "uri": "http://dbpedia.org/resource/Italian-American_musicians"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Tony_Visconti"
+        }, 
+        {
+            "label": "Julien Temple", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 394
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmDirectors"
+                }, 
+                {
+                    "label": "English music video directors", 
+                    "uri": "http://dbpedia.org/resource/English_music_video_directors"
+                }, 
+                {
+                    "label": "English Music Video Directors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicVideoDirectors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Julien_Temple"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 22
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 289
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 349
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 726
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 815
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 877
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1181
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1717
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2257
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }, 
+        {
+            "label": "Berlin", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 685
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Populated Places Established In The13th Century", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe13thCentury"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "States Of Germany", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfGermany"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Weather", 
+                    "uri": "http://dbpedia.org/class/yago/Weather111524662"
+                }, 
+                {
+                    "label": "Settlements Established In The13th Century", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe13thCentury"
+                }, 
+                {
+                    "label": "Host Cities Of The Summer Olympic Games", 
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                }, 
+                {
+                    "label": "Cities In Germany", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInGermany"
+                }, 
+                {
+                    "label": "German state capitals", 
+                    "uri": "http://dbpedia.org/resource/German_state_capitals"
+                }, 
+                {
+                    "label": "Locations", 
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                }, 
+                {
+                    "label": "city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }, 
+                {
+                    "label": "States And Territories Established In1237", 
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1237"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "state", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "European Capitals Of Culture", 
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Educational Institution", 
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "German State Capitals", 
+                    "uri": "http://dbpedia.org/class/yago/GermanStateCapitals"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Berlin"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P3-0038", 
+    "elementNumber": 23, 
+    "mainEntities": [
+        {
+            "label": "Nile Rodgers", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 835
+                }
+            ], 
+            "types": [
+                {
+                    "label": "African American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanMusicians"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRecordProducers"
+                }, 
+                {
+                    "label": "African American musicians", 
+                    "uri": "http://dbpedia.org/resource/African_American_musicians"
+                }, 
+                {
+                    "label": "American Guitarists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanGuitarists"
+                }, 
+                {
+                    "label": "American Funk Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFunkMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American record producers", 
+                    "uri": "http://dbpedia.org/resource/American_record_producers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People From Westport,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestport,Connecticut"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "American funk musicians", 
+                    "uri": "http://dbpedia.org/resource/American_funk_musicians"
+                }, 
+                {
+                    "label": "American guitarists", 
+                    "uri": "http://dbpedia.org/resource/American_guitarists"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Nile_Rodgers"
+        }, 
+        {
+            "label": "Tony Visconti", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 985
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "American Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRecordProducers"
+                }, 
+                {
+                    "label": "People From Brooklyn", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                }, 
+                {
+                    "label": "Italian-American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/Italian-AmericanMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American record producers", 
+                    "uri": "http://dbpedia.org/resource/American_record_producers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Italian-American musicians", 
+                    "uri": "http://dbpedia.org/resource/Italian-American_musicians"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Tony_Visconti"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 22
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 289
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 349
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 726
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 815
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 877
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1181
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1717
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2257
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }, 
+        {
+            "label": "Berlin", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 685
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Populated Places Established In The13th Century", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe13thCentury"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "States Of Germany", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfGermany"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Weather", 
+                    "uri": "http://dbpedia.org/class/yago/Weather111524662"
+                }, 
+                {
+                    "label": "Settlements Established In The13th Century", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe13thCentury"
+                }, 
+                {
+                    "label": "Host Cities Of The Summer Olympic Games", 
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                }, 
+                {
+                    "label": "Cities In Germany", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInGermany"
+                }, 
+                {
+                    "label": "German state capitals", 
+                    "uri": "http://dbpedia.org/resource/German_state_capitals"
+                }, 
+                {
+                    "label": "Locations", 
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                }, 
+                {
+                    "label": "city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }, 
+                {
+                    "label": "States And Territories Established In1237", 
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1237"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "state", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "European Capitals Of Culture", 
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Educational Institution", 
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "German State Capitals", 
+                    "uri": "http://dbpedia.org/class/yago/GermanStateCapitals"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Berlin"
+        }
+    ], 
+    "mainText": "For the adventurous but confused &ldquo;Outside,&rdquo; he re-enlisted Brian Eno, his foil during an experimental late-&rsquo;70s Berlin period.\nDuring the &rsquo;90s Mr. Bowie did seem to be running close toempty.\nFor &ldquo;Black Tie White Noise,&rdquo; Mr. Bowie reunited with Nile Rodgers of Chic, the producer of Mr. Bowie&rsquo;s 1983 blockbuster, &ldquo; Let&rsquo;s Dance .&rdquo;\nAnd in the early 2000s he regrouped with Tony Visconti, the producer ofmost of his &rsquo;70s albums, for &ldquo;Heathen&rdquo; and &ldquo;Reality,&rdquo; records on which he settled into an elder statesman role.\nSwitching strategy, Mr. Bowie refueled using cutting-edge electronic dance ideas on &ldquo;Earthling,&rdquo; an endearing if semi-successful dabble in drum and bass.\nFor a while he subsumed himself in the collective identity of a hard rock band, Tin Machine.\nThen he tried reverting to successful stages of his career.", 
+    "shownText": "Perusing &ldquo;David Bowie Is&rdquo; (V&amp;A Publishing, distributed by Abrams), the exhibition&rsquo;s catalog, with its procession of poses and costumes and weightyessays tracking thecross-references to pop culture and high art, you get a sense of how much hard work it took to be Mr. Bowie.\nSpeaking of &ldquo;the grueling nature&rdquo; of Mr. Bowie&rsquo;s self-reinvention, the director Julien Temple, who made videos for him and directedhimin the 1986 movie &ldquo; Absolute Beginners ,&rdquo; said, &ldquo;It takes its toll, psychically.&rdquo;\n\nFor the adventurous but confused &ldquo;Outside,&rdquo; he re-enlisted Brian Eno, his foil during an experimental late-&rsquo;70s Berlin period.\nDuring the &rsquo;90s Mr. Bowie did seem to be running close toempty.\nFor &ldquo;Black Tie White Noise,&rdquo; Mr. Bowie reunited with Nile Rodgers of Chic, the producer of Mr. Bowie&rsquo;s 1983 blockbuster, &ldquo; Let&rsquo;s Dance .&rdquo;\nAnd in the early 2000s he regrouped with Tony Visconti, the producer ofmost of his &rsquo;70s albums, for &ldquo;Heathen&rdquo; and &ldquo;Reality,&rdquo; records on which he settled into an elder statesman role.\nSwitching strategy, Mr. Bowie refueled using cutting-edge electronic dance ideas on &ldquo;Earthling,&rdquo; an endearing if semi-successful dabble in drum and bass.\nFor a while he subsumed himself in the collective identity of a hard rock band, Tin Machine.\nThen he tried reverting to successful stages of his career.\n\n&ldquo;I gaze in defeat at the stars in the nightThe light in my life burned awayThere will be no tomorrow,&rdquo; he sings in &ldquo;How Does the Grass Grow?\n&ldquo;The Next Day&rdquo; has Mr. Visconti at the helm again, but this time Mr. Bowie seems galvanized by a desperate energy that overrides the frailty palpable in his haggard vocals.\nBut elsewhere the imagery seems inspired by his own brush with mortality.\n,&rdquo; one of several songs building on the overdriven guitar clangor of &ldquo;Lodger&rdquo; and &ldquo;Scary Monsters (and Super Creeps),&rdquo; from 1980.\nSome of the morbidity &mdash; references to &ldquo;a room full of bloody history&rdquo; in &ldquo;You Feel So Lonely You Could Die&rdquo; &mdash; may be influenced by books on medieval tyrants that Mr. Bowie has reportedly been reading.\n", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

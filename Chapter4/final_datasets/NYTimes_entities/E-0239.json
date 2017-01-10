@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Nicky Hilton",
+            "types": [
+                {
+                    "label": "American Models",
+                    "uri": "http://dbpedia.org/class/yago/AmericanModels"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American fashion designers",
+                    "uri": "http://dbpedia.org/resource/American_fashion_designers"
+                },
+                {
+                    "label": "People From The Greater Los Angeles Area",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheGreaterLosAngelesArea"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFashionDesigners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nicky_Hilton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0239",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Nicky Hilton",
+            "types": [
+                {
+                    "label": "American Models",
+                    "uri": "http://dbpedia.org/class/yago/AmericanModels"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American fashion designers",
+                    "uri": "http://dbpedia.org/resource/American_fashion_designers"
+                },
+                {
+                    "label": "People From The Greater Los Angeles Area",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheGreaterLosAngelesArea"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFashionDesigners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nicky_Hilton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

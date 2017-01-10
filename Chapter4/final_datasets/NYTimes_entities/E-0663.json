@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Naples",
+            "types": [
+                {
+                    "label": "Populated Places Established In The7th Century BC",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe7thCenturyBC"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "World Heritage Sites In Italy",
+                    "uri": "http://dbpedia.org/class/yago/WorldHeritageSitesInItaly"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Settlements Established In The1st Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+                },
+                {
+                    "label": "Cities And Towns In Campania",
+                    "uri": "http://dbpedia.org/class/yago/CitiesAndTownsInCampania"
+                },
+                {
+                    "label": "Renaissance Sites Of Campania",
+                    "uri": "http://dbpedia.org/class/yago/RenaissanceSitesOfCampania"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Ancient Greek Cities",
+                    "uri": "http://dbpedia.org/class/yago/AncientGreekCities"
+                },
+                {
+                    "label": "Ancient Greek cities",
+                    "uri": "http://dbpedia.org/resource/Ancient_Greek_cities"
+                },
+                {
+                    "label": "Baroque Sites Of Campania",
+                    "uri": "http://dbpedia.org/class/yago/BaroqueSitesOfCampania"
+                },
+                {
+                    "label": "Mediterranean Port Cities And Towns In Italy",
+                    "uri": "http://dbpedia.org/class/yago/MediterraneanPortCitiesAndTownsInItaly"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Port Cities In Italy",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInItaly"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Naples"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0663",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Naples",
+            "types": [
+                {
+                    "label": "Populated Places Established In The7th Century BC",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe7thCenturyBC"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "World Heritage Sites In Italy",
+                    "uri": "http://dbpedia.org/class/yago/WorldHeritageSitesInItaly"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Settlements Established In The1st Millennium BC",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+                },
+                {
+                    "label": "Cities And Towns In Campania",
+                    "uri": "http://dbpedia.org/class/yago/CitiesAndTownsInCampania"
+                },
+                {
+                    "label": "Renaissance Sites Of Campania",
+                    "uri": "http://dbpedia.org/class/yago/RenaissanceSitesOfCampania"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Ancient Greek Cities",
+                    "uri": "http://dbpedia.org/class/yago/AncientGreekCities"
+                },
+                {
+                    "label": "Ancient Greek cities",
+                    "uri": "http://dbpedia.org/resource/Ancient_Greek_cities"
+                },
+                {
+                    "label": "Baroque Sites Of Campania",
+                    "uri": "http://dbpedia.org/class/yago/BaroqueSitesOfCampania"
+                },
+                {
+                    "label": "Mediterranean Port Cities And Towns In Italy",
+                    "uri": "http://dbpedia.org/class/yago/MediterraneanPortCitiesAndTownsInItaly"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Port Cities In Italy",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInItaly"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Naples"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

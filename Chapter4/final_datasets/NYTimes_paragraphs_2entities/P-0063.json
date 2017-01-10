@@ -1,0 +1,789 @@
+{
+  "mainText":"Internet-delivered TV, which until recently was unready for prime time, is the new front in the war for Americans\u2019 attention spans.\nWhen Amazon sizes up the television marketplace, it sees opportunity.\nNetflix is following up on the $100 million drama \u201c House of Cards \u201d with four more series this year.\nOther companies, from AOL to Sony to Twitter, are likely to follow.\nMicrosoft is producing programming for the Xbox video game console with the help of a former CBS president .",
+  "shownText":"Internet-delivered TV, which until recently was unready for prime time, is the new front in the war for Americans\u2019 attention spans.\nWhen Amazon sizes up the television marketplace, it sees opportunity.\nNetflix is following up on the $100 million drama \u201c House of Cards \u201d with four more series this year.\nOther companies, from AOL to Sony to Twitter, are likely to follow.\nMicrosoft is producing programming for the Xbox video game console with the help of a former CBS president .",
+  "title":"Online-Only TV Shows Join Fight for Attention - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/business/media/online-only-tv-shows-join-fight-for-attention.html?ref=business",
+  "category":"business",
+  "docID":"P-0063",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/House_of_Cards",
+      "label":"House of Cards",
+      "offsets":[
+        {
+          "offset":254,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Television Programs Based On Novels",
+          "uri":"http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Film",
+          "uri":"http://dbpedia.org/ontology/Film"
+        },
+        {
+          "label":"BBC television dramas",
+          "uri":"http://dbpedia.org/resource/BBC_television_dramas"
+        },
+        {
+          "label":"BBCTelevision Dramas",
+          "uri":"http://dbpedia.org/class/yago/BBCTelevisionDramas"
+        },
+        {
+          "label":"British television miniseries",
+          "uri":"http://dbpedia.org/resource/British_television_miniseries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CBS",
+      "label":"CBS",
+      "offsets":[
+        {
+          "offset":465,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Netflix",
+      "label":"Netflix",
+      "offsets":[
+        {
+          "offset":202,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":372,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sony",
+      "label":"Sony",
+      "offsets":[
+        {
+          "offset":333,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Japanese company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r_DNawd91EdaeFgACs6MxsQ"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Based In Tokyo",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInTokyo"
+        },
+        {
+          "label":"Electronics Companies Of Japan",
+          "uri":"http://dbpedia.org/class/yago/ElectronicsCompaniesOfJapan"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Audio equipment manufacturers",
+          "uri":"http://dbpedia.org/resource/Audio_equipment_manufacturers"
+        },
+        {
+          "label":"Audio Equipment Manufacturers",
+          "uri":"http://dbpedia.org/class/yago/AudioEquipmentManufacturers"
+        },
+        {
+          "label":"Semiconductor Companies",
+          "uri":"http://dbpedia.org/class/yago/SemiconductorCompanies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"Manufacturing Organization",
+          "uri":"http://umbel.org/umbel/sc/ManufacturingOrganization"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Companies Established In1946",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1946"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/AOL",
+      "label":"AOL",
+      "offsets":[
+        {
+          "offset":326,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Established In1983",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1983"
+        },
+        {
+          "label":"technology company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r_QItpk1AQdmXyb0GoTXPSA"
+        },
+        {
+          "label":"service company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjxuZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Based In Dulles,Virginia",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInDulles,Virginia"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"internet service provider",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhx2A5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Internet Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InternetCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Time Warner Subsidiaries",
+          "uri":"http://dbpedia.org/class/yago/TimeWarnerSubsidiaries"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/House_of_Cards",
+      "label":"House of Cards",
+      "offsets":[
+        {
+          "offset":254,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Television Programs Based On Novels",
+          "uri":"http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Film",
+          "uri":"http://dbpedia.org/ontology/Film"
+        },
+        {
+          "label":"BBC television dramas",
+          "uri":"http://dbpedia.org/resource/BBC_television_dramas"
+        },
+        {
+          "label":"BBCTelevision Dramas",
+          "uri":"http://dbpedia.org/class/yago/BBCTelevisionDramas"
+        },
+        {
+          "label":"British television miniseries",
+          "uri":"http://dbpedia.org/resource/British_television_miniseries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CBS",
+      "label":"CBS",
+      "offsets":[
+        {
+          "offset":465,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Netflix",
+      "label":"Netflix",
+      "offsets":[
+        {
+          "offset":202,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":372,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sony",
+      "label":"Sony",
+      "offsets":[
+        {
+          "offset":333,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Japanese company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r_DNawd91EdaeFgACs6MxsQ"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Based In Tokyo",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInTokyo"
+        },
+        {
+          "label":"Electronics Companies Of Japan",
+          "uri":"http://dbpedia.org/class/yago/ElectronicsCompaniesOfJapan"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Audio equipment manufacturers",
+          "uri":"http://dbpedia.org/resource/Audio_equipment_manufacturers"
+        },
+        {
+          "label":"Audio Equipment Manufacturers",
+          "uri":"http://dbpedia.org/class/yago/AudioEquipmentManufacturers"
+        },
+        {
+          "label":"Semiconductor Companies",
+          "uri":"http://dbpedia.org/class/yago/SemiconductorCompanies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"Manufacturing Organization",
+          "uri":"http://umbel.org/umbel/sc/ManufacturingOrganization"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Companies Established In1946",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1946"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/AOL",
+      "label":"AOL",
+      "offsets":[
+        {
+          "offset":326,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Established In1983",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1983"
+        },
+        {
+          "label":"technology company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r_QItpk1AQdmXyb0GoTXPSA"
+        },
+        {
+          "label":"service company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjxuZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Based In Dulles,Virginia",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInDulles,Virginia"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"internet service provider",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvhx2A5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Internet Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InternetCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Time Warner Subsidiaries",
+          "uri":"http://dbpedia.org/class/yago/TimeWarnerSubsidiaries"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

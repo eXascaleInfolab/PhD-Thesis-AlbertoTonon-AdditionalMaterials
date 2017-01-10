@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Alberta",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "State",
+                    "uri": "http://dbpedia.org/class/yago/State108654360"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alberta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0469",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Alberta",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "State",
+                    "uri": "http://dbpedia.org/class/yago/State108654360"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alberta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

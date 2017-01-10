@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Jim Hood",
+            "types": [
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Mississippi Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/MississippiLawyers"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "American jurists",
+                    "uri": "http://dbpedia.org/resource/American_jurists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jim_Hood"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0136",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jim Hood",
+            "types": [
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Mississippi Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/MississippiLawyers"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "American jurists",
+                    "uri": "http://dbpedia.org/resource/American_jurists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jim_Hood"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

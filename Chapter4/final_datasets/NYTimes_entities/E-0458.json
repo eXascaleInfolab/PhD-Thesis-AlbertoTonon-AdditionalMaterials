@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Salt Lake City",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Salt_Lake_City"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0458",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Salt Lake City",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Salt_Lake_City"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

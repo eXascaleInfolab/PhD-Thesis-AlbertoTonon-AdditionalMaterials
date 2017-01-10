@@ -1,0 +1,429 @@
+{
+  "mainText":"Gov. Sam Brownback of Kansas, as he did before last week\u2019s storm, declared a state of emergency, as did Mayor Sly James of Kansas City.",
+  "shownText":"Gov. Sam Brownback of Kansas, as he did before last week\u2019s storm, declared a state of emergency, as did Mayor Sly James of Kansas City.",
+  "title":"Strong Storm in Plains Brings Added Hazards - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/us/strong-storm-in-plains-brings-added-hazards.html?ref=us",
+  "category":"us",
+  "docID":"S-0351",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":123,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sam_Brownback",
+      "label":"Sam Brownback",
+      "offsets":[
+        {
+          "offset":5,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"United States Senators From Kansas",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKansas"
+        },
+        {
+          "label":"Converts To Roman Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"Promise Keepers",
+          "uri":"http://dbpedia.org/class/yago/PromiseKeepers"
+        },
+        {
+          "label":"Intelligent design advocates",
+          "uri":"http://dbpedia.org/resource/Intelligent_design_advocates"
+        },
+        {
+          "label":"Kansas Lawyers",
+          "uri":"http://dbpedia.org/class/yago/KansasLawyers"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/ontology/Senator"
+        },
+        {
+          "label":"Protestant Converts To Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ProtestantConvertsToCatholicism"
+        },
+        {
+          "label":"American Farmers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFarmers"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Kansas Politicians",
+          "uri":"http://dbpedia.org/class/yago/KansasPoliticians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Intelligent Design Advocates",
+          "uri":"http://dbpedia.org/class/yago/IntelligentDesignAdvocates"
+        },
+        {
+          "label":"Kansas politicians",
+          "uri":"http://dbpedia.org/resource/Kansas_politicians"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"State Cabinet Secretaries Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StateCabinetSecretariesOfTheUnitedStates"
+        },
+        {
+          "label":"American farmers",
+          "uri":"http://dbpedia.org/resource/American_farmers"
+        },
+        {
+          "label":"Former Protestants",
+          "uri":"http://dbpedia.org/resource/Former_Protestants"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Convert",
+          "uri":"http://dbpedia.org/class/yago/Convert109962414"
+        },
+        {
+          "label":"Kansas lawyers",
+          "uri":"http://dbpedia.org/resource/Kansas_lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"Farmer",
+          "uri":"http://dbpedia.org/class/yago/Farmer110078806"
+        },
+        {
+          "label":"Converts to Roman Catholicism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":22,
+          "length":6
+        },
+        {
+          "offset":123,
+          "length":6
+        },
+        {
+          "offset":22,
+          "length":6
+        },
+        {
+          "offset":123,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":123,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sam_Brownback",
+      "label":"Sam Brownback",
+      "offsets":[
+        {
+          "offset":5,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"United States Senators From Kansas",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKansas"
+        },
+        {
+          "label":"Converts To Roman Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"Promise Keepers",
+          "uri":"http://dbpedia.org/class/yago/PromiseKeepers"
+        },
+        {
+          "label":"Intelligent design advocates",
+          "uri":"http://dbpedia.org/resource/Intelligent_design_advocates"
+        },
+        {
+          "label":"Kansas Lawyers",
+          "uri":"http://dbpedia.org/class/yago/KansasLawyers"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/ontology/Senator"
+        },
+        {
+          "label":"Protestant Converts To Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ProtestantConvertsToCatholicism"
+        },
+        {
+          "label":"American Farmers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFarmers"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Kansas Politicians",
+          "uri":"http://dbpedia.org/class/yago/KansasPoliticians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Intelligent Design Advocates",
+          "uri":"http://dbpedia.org/class/yago/IntelligentDesignAdvocates"
+        },
+        {
+          "label":"Kansas politicians",
+          "uri":"http://dbpedia.org/resource/Kansas_politicians"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"State Cabinet Secretaries Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StateCabinetSecretariesOfTheUnitedStates"
+        },
+        {
+          "label":"American farmers",
+          "uri":"http://dbpedia.org/resource/American_farmers"
+        },
+        {
+          "label":"Former Protestants",
+          "uri":"http://dbpedia.org/resource/Former_Protestants"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Convert",
+          "uri":"http://dbpedia.org/class/yago/Convert109962414"
+        },
+        {
+          "label":"Kansas lawyers",
+          "uri":"http://dbpedia.org/resource/Kansas_lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"Farmer",
+          "uri":"http://dbpedia.org/class/yago/Farmer110078806"
+        },
+        {
+          "label":"Converts to Roman Catholicism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":22,
+          "length":6
+        },
+        {
+          "offset":123,
+          "length":6
+        },
+        {
+          "offset":22,
+          "length":6
+        },
+        {
+          "offset":123,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

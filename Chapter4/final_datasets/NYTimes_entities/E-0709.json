@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Raila Odinga",
+            "types": [
+                {
+                    "label": "Kenyan democracy activists",
+                    "uri": "http://dbpedia.org/resource/Kenyan_democracy_activists"
+                },
+                {
+                    "label": "Kenyan politicians",
+                    "uri": "http://dbpedia.org/resource/Kenyan_politicians"
+                },
+                {
+                    "label": "Kenyan Politicians",
+                    "uri": "http://dbpedia.org/class/yago/KenyanPoliticians"
+                },
+                {
+                    "label": "Kenyan Anglicans",
+                    "uri": "http://dbpedia.org/resource/Kenyan_Anglicans"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Raila_Odinga"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0709",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Raila Odinga",
+            "types": [
+                {
+                    "label": "Kenyan democracy activists",
+                    "uri": "http://dbpedia.org/resource/Kenyan_democracy_activists"
+                },
+                {
+                    "label": "Kenyan politicians",
+                    "uri": "http://dbpedia.org/resource/Kenyan_politicians"
+                },
+                {
+                    "label": "Kenyan Politicians",
+                    "uri": "http://dbpedia.org/class/yago/KenyanPoliticians"
+                },
+                {
+                    "label": "Kenyan Anglicans",
+                    "uri": "http://dbpedia.org/resource/Kenyan_Anglicans"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Raila_Odinga"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Stephen McGee",
+            "types": [
+                {
+                    "label": "American football quarterbacks",
+                    "uri": "http://dbpedia.org/resource/American_football_quarterbacks"
+                },
+                {
+                    "label": "People From Austin,Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAustin,Texas"
+                },
+                {
+                    "label": "Texas A&amp;MAggies Football Players",
+                    "uri": "http://dbpedia.org/class/yago/TexasA&MAggiesFootballPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stephen_McGee"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0286",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Stephen McGee",
+            "types": [
+                {
+                    "label": "American football quarterbacks",
+                    "uri": "http://dbpedia.org/resource/American_football_quarterbacks"
+                },
+                {
+                    "label": "People From Austin,Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAustin,Texas"
+                },
+                {
+                    "label": "Texas A&amp;MAggies Football Players",
+                    "uri": "http://dbpedia.org/class/yago/TexasA&MAggiesFootballPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stephen_McGee"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

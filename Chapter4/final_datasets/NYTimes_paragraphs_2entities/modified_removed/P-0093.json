@@ -1,0 +1,101 @@
+{
+    "allEntities": [
+        {
+            "label": "Starbucks", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 377
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Companies Based In Seattle,Washington", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Starbucks"
+        }, 
+        {
+            "label": "Americanos", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 361
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "1989Singles", 
+                    "uri": "http://dbpedia.org/class/yago/1989Singles"
+                }, 
+                {
+                    "label": "Medium", 
+                    "uri": "http://dbpedia.org/class/yago/Medium106254669"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Americanos"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/07/nyregion/new-sugary-drink-rules-complicate-coffee-orders.html?ref=health", 
+    "category": "health", 
+    "docID": "P-0093", 
+    "elementNumber": 8, 
+    "mainEntities": [
+        {
+            "label": "Starbucks", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 377
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Companies Based In Seattle,Washington", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Starbucks"
+        }, 
+        {
+            "label": "Americanos", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 361
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "1989Singles", 
+                    "uri": "http://dbpedia.org/class/yago/1989Singles"
+                }, 
+                {
+                    "label": "Medium", 
+                    "uri": "http://dbpedia.org/class/yago/Medium106254669"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Americanos"
+        }
+    ], 
+    "mainText": "Come Tuesday, when Mayor Michael R. Bloomberg &rsquo;s ban on the sale of large sugary drinks goes into effect after months of public debate over the measure, its impact on beverages like soda will be clear: no more jumbo colas.\nBut coffee drinkers, and those who pour them, are likely to face a thicket of complications as varied as the lattes, macchiatos and Americanos on a Starbucks menu.", 
+    "shownText": "Come Tuesday, when Mayor Michael R. Bloomberg &rsquo;s ban on the sale of large sugary drinks goes into effect after months of public debate over the measure, its impact on beverages like soda will be clear: no more jumbo colas.\nBut coffee drinkers, and those who pour them, are likely to face a thicket of complications as varied as the lattes, macchiatos and Americanos on a Starbucks menu.", 
+    "title": "New Sugary Drink Rules Complicate Coffee Orders - NYTimes.com"
+}

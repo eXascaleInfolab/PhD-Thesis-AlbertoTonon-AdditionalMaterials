@@ -1,0 +1,165 @@
+{
+  "mainText":"But Henrik Lundqvist stopped both Buffalo shots, and Nash and Ryan Callahan scored on Sabres goalie Ryan Miller.\nThat gave the Rangers their second straight victory.",
+  "shownText":"The Rangers survived a two-man disadvantage in the extra session \u2014 one of the penalties was to Dan Girardi for boarding Buffalo\u2019s Tyler Ennis \u2014 and sent the game to a shootout.\nIt was the third straight shootout for the Sabres, who won the previous two.\n\nBut Henrik Lundqvist stopped both Buffalo shots, and Nash and Ryan Callahan scored on Sabres goalie Ryan Miller.\nThat gave the Rangers their second straight victory.\n\nBut most of the talk afterward was about the hit Kaleta had delivered.\n",
+  "title":"Rangers Hold Off Sabres in Shootout - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/sports/hockey/rangers-beat-sabres-in-shootout.html?ref=sports",
+  "category":"sports",
+  "docID":"P3-0224",
+  "elementNumber":17,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Henrik_Lundqvist",
+      "label":"Henrik Lundqvist",
+      "offsets":[
+        {
+          "offset":259,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Fr%F6lunda HC players",
+          "uri":"http://dbpedia.org/resource/Fr%F6lunda_HC_players"
+        },
+        {
+          "label":"Identical Twins",
+          "uri":"http://dbpedia.org/class/yago/IdenticalTwins"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_Callahan",
+      "label":"Ryan Callahan",
+      "offsets":[
+        {
+          "offset":317,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Guelph Storm alumni",
+          "uri":"http://dbpedia.org/resource/Guelph_Storm_alumni"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Henrik_Lundqvist",
+      "label":"Henrik Lundqvist",
+      "offsets":[
+        {
+          "offset":259,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Fr%F6lunda HC players",
+          "uri":"http://dbpedia.org/resource/Fr%F6lunda_HC_players"
+        },
+        {
+          "label":"Identical Twins",
+          "uri":"http://dbpedia.org/class/yago/IdenticalTwins"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_Callahan",
+      "label":"Ryan Callahan",
+      "offsets":[
+        {
+          "offset":317,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Guelph Storm alumni",
+          "uri":"http://dbpedia.org/resource/Guelph_Storm_alumni"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":471,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ]
+}

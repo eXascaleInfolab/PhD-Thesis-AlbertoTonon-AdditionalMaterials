@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Kamba",
+            "types": [
+                {
+                    "label": "Kenyan society",
+                    "uri": "http://dbpedia.org/resource/Kenyan_society"
+                },
+                {
+                    "label": "Kenyan culture",
+                    "uri": "http://dbpedia.org/resource/Kenyan_culture"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kamba"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0393",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kamba",
+            "types": [
+                {
+                    "label": "Kenyan society",
+                    "uri": "http://dbpedia.org/resource/Kenyan_society"
+                },
+                {
+                    "label": "Kenyan culture",
+                    "uri": "http://dbpedia.org/resource/Kenyan_culture"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kamba"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

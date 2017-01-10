@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Michael SchumacherAmarillo Globe-News",
+            "types": [
+                {
+                    "label": "British satirists",
+                    "uri": "http://dbpedia.org/resource/British_satirists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "British Satirists",
+                    "uri": "http://dbpedia.org/class/yago/BritishSatirists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "British writers",
+                    "uri": "http://dbpedia.org/resource/British_writers"
+                },
+                {
+                    "label": "British Humorists",
+                    "uri": "http://dbpedia.org/class/yago/BritishHumorists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michael_%22Atters%22_Attree"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0391",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Michael SchumacherAmarillo Globe-News",
+            "types": [
+                {
+                    "label": "British satirists",
+                    "uri": "http://dbpedia.org/resource/British_satirists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "British Satirists",
+                    "uri": "http://dbpedia.org/class/yago/BritishSatirists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "British writers",
+                    "uri": "http://dbpedia.org/resource/British_writers"
+                },
+                {
+                    "label": "British Humorists",
+                    "uri": "http://dbpedia.org/class/yago/BritishHumorists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michael_%22Atters%22_Attree"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

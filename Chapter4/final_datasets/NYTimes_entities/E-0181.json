@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Bill Daly",
+            "types": [
+                {
+                    "label": "Ice hockey personnel",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel"
+                },
+                {
+                    "label": "National Hockey League Executives",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeagueExecutives"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bill_Daly"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0181",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bill Daly",
+            "types": [
+                {
+                    "label": "Ice hockey personnel",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel"
+                },
+                {
+                    "label": "National Hockey League Executives",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeagueExecutives"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bill_Daly"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,373 @@
+{
+  "mainText":"The goal of the proposed bonus cap is to balance many different interests, including \u2018\u2018the desire to limit bankers\u2019 pay while maintaining a competitive European banking sector,\u2019\u2019 Michael Noonan, the finance minister of Ireland, which holds the rotating E.U. presidency, said in a statement after the talks ended.\nMr. Noonan said he would present the plan at a meeting of finance ministers next week.",
+  "shownText":"Mr. Karas acknowledged that more work lay ahead, with a need for technical working groups to \u2018\u2018put it into a text\u2019\u2019 that \u2018\u2018holds water legally.\u2019\u2019\nLegislators said they would work to ensure that bankers did not get around the rules with so-called \u2018\u2018golden handshakes\u2019\u2019 and \u2018\u2018contract buyouts.\u2019\u2019\n\nThe goal of the proposed bonus cap is to balance many different interests, including \u2018\u2018the desire to limit bankers\u2019 pay while maintaining a competitive European banking sector,\u2019\u2019 Michael Noonan, the finance minister of Ireland, which holds the rotating E.U. presidency, said in a statement after the talks ended.\nMr. Noonan said he would present the plan at a meeting of finance ministers next week.\n\nUnder the proposal, the bonus rules would also apply to bankers employed by E.U. banks but working outside the bloc, in New York, for example.\nThe E.U. authorities are drafting separate rules that could restrict remuneration at private equity firms and hedge funds.\n",
+  "title":"European Union Moves Toward Bonus Cap for Bankers - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/business/global/european-union-agrees-on-plan-to-cap-banker-bonuses.html?ref=business",
+  "category":"business",
+  "docID":"P3-0059",
+  "elementNumber":18,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":447,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Michael_Noonan",
+      "label":"Michael Noonan",
+      "offsets":[
+        {
+          "offset":474,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Fine Gael politicians",
+          "uri":"http://dbpedia.org/resource/Fine_Gael_politicians"
+        },
+        {
+          "label":"People From County Limerick",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCountyLimerick"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Leaders Of Fine Gael",
+          "uri":"http://dbpedia.org/class/yago/LeadersOfFineGael"
+        },
+        {
+          "label":"Fine Gael Politicians",
+          "uri":"http://dbpedia.org/class/yago/FineGaelPoliticians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ireland",
+      "label":"Ireland",
+      "offsets":[
+        {
+          "offset":514,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"ontology#Feature",
+          "uri":"http://www.geonames.org/ontology#Feature"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Island",
+          "uri":"http://dbpedia.org/ontology/Island"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"Island",
+          "uri":"http://dbpedia.org/class/yago/Island109316454"
+        },
+        {
+          "label":"International Islands",
+          "uri":"http://dbpedia.org/class/yago/InternationalIslands"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":447,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Michael_Noonan",
+      "label":"Michael Noonan",
+      "offsets":[
+        {
+          "offset":474,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Fine Gael politicians",
+          "uri":"http://dbpedia.org/resource/Fine_Gael_politicians"
+        },
+        {
+          "label":"People From County Limerick",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCountyLimerick"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Leaders Of Fine Gael",
+          "uri":"http://dbpedia.org/class/yago/LeadersOfFineGael"
+        },
+        {
+          "label":"Fine Gael Politicians",
+          "uri":"http://dbpedia.org/class/yago/FineGaelPoliticians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ireland",
+      "label":"Ireland",
+      "offsets":[
+        {
+          "offset":514,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"ontology#Feature",
+          "uri":"http://www.geonames.org/ontology#Feature"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Island",
+          "uri":"http://dbpedia.org/ontology/Island"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"Island",
+          "uri":"http://dbpedia.org/class/yago/Island109316454"
+        },
+        {
+          "label":"International Islands",
+          "uri":"http://dbpedia.org/class/yago/InternationalIslands"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

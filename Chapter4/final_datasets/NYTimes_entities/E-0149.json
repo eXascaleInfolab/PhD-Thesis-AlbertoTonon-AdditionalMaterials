@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Hamas",
+            "types": [
+                {
+                    "label": "Party",
+                    "uri": "http://dbpedia.org/class/yago/Party108256968"
+                },
+                {
+                    "label": "Protocols Of The Elders Of Zion",
+                    "uri": "http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+                },
+                {
+                    "label": "Palestinian Militant Groups",
+                    "uri": "http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+                },
+                {
+                    "label": "Political Party",
+                    "uri": "http://umbel.org/umbel/sc/PoliticalParty"
+                },
+                {
+                    "label": "Palestinian Political Parties",
+                    "uri": "http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "U.S.State Department Designated Terrorist Organizations",
+                    "uri": "http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hamas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0149",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hamas",
+            "types": [
+                {
+                    "label": "Party",
+                    "uri": "http://dbpedia.org/class/yago/Party108256968"
+                },
+                {
+                    "label": "Protocols Of The Elders Of Zion",
+                    "uri": "http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+                },
+                {
+                    "label": "Palestinian Militant Groups",
+                    "uri": "http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+                },
+                {
+                    "label": "Political Party",
+                    "uri": "http://umbel.org/umbel/sc/PoliticalParty"
+                },
+                {
+                    "label": "Palestinian Political Parties",
+                    "uri": "http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "U.S.State Department Designated Terrorist Organizations",
+                    "uri": "http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hamas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

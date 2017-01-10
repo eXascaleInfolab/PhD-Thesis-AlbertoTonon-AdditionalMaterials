@@ -1,0 +1,677 @@
+{
+    "allEntities": [
+        {
+            "label": "Adam Lambert", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 1244
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Adam_Lambert"
+        }, 
+        {
+            "label": "Lady Gaga", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 1898
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Lady_Gaga"
+        }, 
+        {
+            "label": "Nicki Minaj", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 2261
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Nicki_Minaj"
+        }, 
+        {
+            "label": "Alice Cooper", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 1575
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanActors"
+                }, 
+                {
+                    "label": "Heavy metal musicians", 
+                    "uri": "http://dbpedia.org/resource/Heavy_metal_musicians"
+                }, 
+                {
+                    "label": "American rock singers", 
+                    "uri": "http://dbpedia.org/resource/American_rock_singers"
+                }, 
+                {
+                    "label": "American Christians", 
+                    "uri": "http://dbpedia.org/resource/American_Christians"
+                }, 
+                {
+                    "label": "People From Detroit", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDetroit"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://umbel.org/umbel/sc/Actor"
+                }, 
+                {
+                    "label": "Americans with Huguenot ancestry", 
+                    "uri": "http://dbpedia.org/resource/Americans_with_Huguenot_ancestry"
+                }, 
+                {
+                    "label": "Arizona musicians", 
+                    "uri": "http://dbpedia.org/resource/Arizona_musicians"
+                }, 
+                {
+                    "label": "Michigan Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/MichiganMusicians"
+                }, 
+                {
+                    "label": "Heavy Metal Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/HeavyMetalMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "People From Phoenix,Arizona", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPhoenix,Arizona"
+                }, 
+                {
+                    "label": "Communicator", 
+                    "uri": "http://umbel.org/umbel/sc/Communicator"
+                }, 
+                {
+                    "label": "Glam rock groups", 
+                    "uri": "http://dbpedia.org/resource/Glam_rock_groups"
+                }, 
+                {
+                    "label": "American radio personalities", 
+                    "uri": "http://dbpedia.org/resource/American_radio_personalities"
+                }, 
+                {
+                    "label": "Hard rock groups", 
+                    "uri": "http://dbpedia.org/resource/Hard_rock_groups"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Arizona Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/ArizonaMusicians"
+                }, 
+                {
+                    "label": "American Rock Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockMusicians"
+                }, 
+                {
+                    "label": "Songwriter", 
+                    "uri": "http://dbpedia.org/class/yago/Songwriter110624540"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American Rock Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockSingers"
+                }, 
+                {
+                    "label": "Disk Jockey", 
+                    "uri": "http://dbpedia.org/class/yago/DiskJockey110017272"
+                }, 
+                {
+                    "label": "Famous Human", 
+                    "uri": "http://umbel.org/umbel/sc/FamousHuman"
+                }, 
+                {
+                    "label": "Entertainer", 
+                    "uri": "http://umbel.org/umbel/sc/Entertainer"
+                }, 
+                {
+                    "label": "Singer", 
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                }, 
+                {
+                    "label": "Arizona musical groups", 
+                    "uri": "http://dbpedia.org/resource/Arizona_musical_groups"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://umbel.org/umbel/sc/Person"
+                }, 
+                {
+                    "label": "individual", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Musical Composer", 
+                    "uri": "http://umbel.org/umbel/sc/MusicalComposer"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://umbel.org/umbel/sc/Artist"
+                }, 
+                {
+                    "label": "WWECelebrities", 
+                    "uri": "http://dbpedia.org/class/yago/WWECelebrities"
+                }, 
+                {
+                    "label": "American actors", 
+                    "uri": "http://dbpedia.org/resource/American_actors"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "American rock musicians", 
+                    "uri": "http://dbpedia.org/resource/American_rock_musicians"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Alice_Cooper"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 4
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 323
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 629
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1001
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1048
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1153
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1493
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2382
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2649
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2773
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 3054
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P3-0034", 
+    "elementNumber": 17, 
+    "mainEntities": [
+        {
+            "label": "Adam Lambert", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 1244
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Adam_Lambert"
+        }, 
+        {
+            "label": "Lady Gaga", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 1898
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Lady_Gaga"
+        }, 
+        {
+            "label": "Nicki Minaj", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 2261
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Nicki_Minaj"
+        }, 
+        {
+            "label": "Alice Cooper", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 1575
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanActors"
+                }, 
+                {
+                    "label": "Heavy metal musicians", 
+                    "uri": "http://dbpedia.org/resource/Heavy_metal_musicians"
+                }, 
+                {
+                    "label": "American rock singers", 
+                    "uri": "http://dbpedia.org/resource/American_rock_singers"
+                }, 
+                {
+                    "label": "American Christians", 
+                    "uri": "http://dbpedia.org/resource/American_Christians"
+                }, 
+                {
+                    "label": "People From Detroit", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDetroit"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://umbel.org/umbel/sc/Actor"
+                }, 
+                {
+                    "label": "Americans with Huguenot ancestry", 
+                    "uri": "http://dbpedia.org/resource/Americans_with_Huguenot_ancestry"
+                }, 
+                {
+                    "label": "Arizona musicians", 
+                    "uri": "http://dbpedia.org/resource/Arizona_musicians"
+                }, 
+                {
+                    "label": "Michigan Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/MichiganMusicians"
+                }, 
+                {
+                    "label": "Heavy Metal Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/HeavyMetalMusicians"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "People From Phoenix,Arizona", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPhoenix,Arizona"
+                }, 
+                {
+                    "label": "Communicator", 
+                    "uri": "http://umbel.org/umbel/sc/Communicator"
+                }, 
+                {
+                    "label": "Glam rock groups", 
+                    "uri": "http://dbpedia.org/resource/Glam_rock_groups"
+                }, 
+                {
+                    "label": "American radio personalities", 
+                    "uri": "http://dbpedia.org/resource/American_radio_personalities"
+                }, 
+                {
+                    "label": "Hard rock groups", 
+                    "uri": "http://dbpedia.org/resource/Hard_rock_groups"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Arizona Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/ArizonaMusicians"
+                }, 
+                {
+                    "label": "American Rock Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockMusicians"
+                }, 
+                {
+                    "label": "Songwriter", 
+                    "uri": "http://dbpedia.org/class/yago/Songwriter110624540"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American Rock Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockSingers"
+                }, 
+                {
+                    "label": "Disk Jockey", 
+                    "uri": "http://dbpedia.org/class/yago/DiskJockey110017272"
+                }, 
+                {
+                    "label": "Famous Human", 
+                    "uri": "http://umbel.org/umbel/sc/FamousHuman"
+                }, 
+                {
+                    "label": "Entertainer", 
+                    "uri": "http://umbel.org/umbel/sc/Entertainer"
+                }, 
+                {
+                    "label": "Singer", 
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                }, 
+                {
+                    "label": "Arizona musical groups", 
+                    "uri": "http://dbpedia.org/resource/Arizona_musical_groups"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://umbel.org/umbel/sc/Person"
+                }, 
+                {
+                    "label": "individual", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Musical Composer", 
+                    "uri": "http://umbel.org/umbel/sc/MusicalComposer"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://umbel.org/umbel/sc/Artist"
+                }, 
+                {
+                    "label": "WWECelebrities", 
+                    "uri": "http://dbpedia.org/class/yago/WWECelebrities"
+                }, 
+                {
+                    "label": "American actors", 
+                    "uri": "http://dbpedia.org/resource/American_actors"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "American rock musicians", 
+                    "uri": "http://dbpedia.org/resource/American_rock_musicians"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Alice_Cooper"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 4
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 323
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 629
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1001
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1048
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1153
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1493
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2382
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2649
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 2773
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 3054
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "Yet while Mr. Bowie himself receded for the past decade, the Bowie-esque has been omnipresent.\nWhile it&rsquo;s unlikely that Ms. Minaj is directly influenced by Mr. Bowie, the parallels between his serial personas and her constant image changes are clear.\nAdam Lambert, the &ldquo;AmericanIdol&rdquo; graduate, called his first major tour Glam Nation.\nAs a host on the music channel Fuse put it, &ldquo;She says she&rsquo;s just being herself, but who she is changes every day.&rdquo;\nThe things that Mr. Bowie explored to the hilt, alongside his fellow glam rockers like Roxy Music and Alice Cooper, during the early &rsquo;70s &mdash; over-the-top theatricality andstaging, extremist fashion and sexual androgyny &mdash; became defining principles of 21st-century pop.\nBeyonc&eacute; made a Ziggy Stardust-like gambit by creating the persona Sasha Fierce as a vehicle for her walk-on-the-wild-side impulses.\nLady Gaga is the most visible of his inheritors, with her freaky costumes and her gender games (the male alter ego Jo Calderone; the artfully concocted rumor that she&rsquo;s a hermaphrodite).\nAfter the &rsquo;90s, a period dominated by the grit and authenticity of grunge and gangsta rap, the 2000s saw the return ofartifice and glitter.\nAbove all there&rsquo;s Nicki Minaj, whose guises include the gay male Roman Zolanski and the ultrafeminine cartoon she calls Barbie.", 
+    "shownText": "Mr. Bowie&rsquo;s career has been governed by a bipolar rhythm, alternating between relentless pursuit of the limelight and shattered retreat from it.\nHe&rsquo;s often returned to the subject, as with his 1999 album &ldquo;&lsquo;Hours ...,&rsquo;&rdquo; an exploration of &ldquo;fame as injury,&rdquo; in the words of the Bowieologist Nick Stevenson, and the new album&rsquo;s &ldquo;(You Will) Set the Earth on Fire,&rdquo; the sales pitch of a Svengali to a potential prot&eacute;g&eacute;.\nWith &ldquo;The Stars,&rdquo; a superstar&rsquo;s critique of celebrity culture could be taken as somewhat hypocritical of course.\nMr. Bowie has always had an ambivalent attitude toward fame.\nHis biggest American hit of the 1970s, &ldquo; Fame ,&rdquo; was a harrowing dispatch from inside the paranoid bubble of stardom.\nNow, after his longest musical break ever, this 66-year old Englishman and New York resident is back for what could well be his last blast, the supernova of his stardom.\n\nYet while Mr. Bowie himself receded for the past decade, the Bowie-esque has been omnipresent.\nWhile it&rsquo;s unlikely that Ms. Minaj is directly influenced by Mr. Bowie, the parallels between his serial personas and her constant image changes are clear.\nAdam Lambert, the &ldquo;AmericanIdol&rdquo; graduate, called his first major tour Glam Nation.\nAs a host on the music channel Fuse put it, &ldquo;She says she&rsquo;s just being herself, but who she is changes every day.&rdquo;\nThe things that Mr. Bowie explored to the hilt, alongside his fellow glam rockers like Roxy Music and Alice Cooper, during the early &rsquo;70s &mdash; over-the-top theatricality andstaging, extremist fashion and sexual androgyny &mdash; became defining principles of 21st-century pop.\nBeyonc&eacute; made a Ziggy Stardust-like gambit by creating the persona Sasha Fierce as a vehicle for her walk-on-the-wild-side impulses.\nLady Gaga is the most visible of his inheritors, with her freaky costumes and her gender games (the male alter ego Jo Calderone; the artfully concocted rumor that she&rsquo;s a hermaphrodite).\nAfter the &rsquo;90s, a period dominated by the grit and authenticity of grunge and gangsta rap, the 2000s saw the return ofartifice and glitter.\nAbove all there&rsquo;s Nicki Minaj, whose guises include the gay male Roman Zolanski and the ultrafeminine cartoon she calls Barbie.\n\nAmong Mr. Bowie&rsquo;s most famous pronouncements early in his career were &ldquo;I feel like an actor when I&rsquo;m onstage, rather than a rock artist,&rdquo; and &ldquo;If anything, maybe I&rsquo;ve helped establish that rock &rsquo;n&rsquo; roll is a pose.&rdquo;\nBut Mr. Bowie talked about playing characters, such as therock god Ziggy Stardust , or the cold, remote Thin White Duke.\nBefore Mr. Bowie came along, rock defined itself against showbiz and Hollywood.\nThere was supposed to be a more-or-less direct correspondence between the performer and his real-life personality.\nLike a movie star taking on different roles that refract a fundamental, unchanging charisma, Mr. Bowie, in his heyday, was paradoxically the same and yet different each time he came before the public with a new album and tour.\n", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

@@ -1,0 +1,205 @@
+{
+  "mainText":"Rick Nash and Ryan McDonagh are believed to be out of the lineup with concussions, but the team has issued no details regarding their conditions.",
+  "shownText":"Rick Nash and Ryan McDonagh are believed to be out of the lineup with concussions, but the team has issued no details regarding their conditions.",
+  "title":"A Wave of Concussions Hits the N.H.L. - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/sports/hockey/another-wave-of-concussions-hits-nhl.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0273",
+  "elementNumber":28,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Rick_Nash",
+      "label":"Rick Nash",
+      "offsets":[
+        {
+          "offset":0,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"People From Brampton,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrampton,Ontario"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ice Hockey Player",
+          "uri":"http://dbpedia.org/ontology/IceHockeyPlayer"
+        },
+        {
+          "label":"Columbus Blue Jackets Players",
+          "uri":"http://dbpedia.org/class/yago/ColumbusBlueJacketsPlayers"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"London Knights Alumni",
+          "uri":"http://dbpedia.org/class/yago/LondonKnightsAlumni"
+        },
+        {
+          "label":"Canadian Ice Hockey Left Wingers",
+          "uri":"http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_McDonagh",
+      "label":"Ryan McDonagh",
+      "offsets":[
+        {
+          "offset":14,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Rick_Nash",
+      "label":"Rick Nash",
+      "offsets":[
+        {
+          "offset":0,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"People From Brampton,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrampton,Ontario"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ice Hockey Player",
+          "uri":"http://dbpedia.org/ontology/IceHockeyPlayer"
+        },
+        {
+          "label":"Columbus Blue Jackets Players",
+          "uri":"http://dbpedia.org/class/yago/ColumbusBlueJacketsPlayers"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"London Knights Alumni",
+          "uri":"http://dbpedia.org/class/yago/LondonKnightsAlumni"
+        },
+        {
+          "label":"Canadian Ice Hockey Left Wingers",
+          "uri":"http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ryan_McDonagh",
+      "label":"Ryan McDonagh",
+      "offsets":[
+        {
+          "offset":14,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        }
+      ]
+    }
+  ]
+}

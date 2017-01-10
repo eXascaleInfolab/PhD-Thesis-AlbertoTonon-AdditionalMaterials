@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Angela Merkel",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Current Female Heads Of Government",
+                    "uri": "http://dbpedia.org/class/yago/CurrentFemaleHeadsOfGovernment"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Hamburg",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHamburg"
+                },
+                {
+                    "label": "Current National Leaders",
+                    "uri": "http://dbpedia.org/class/yago/CurrentNationalLeaders"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/class/yago/Chancellor109906986"
+                },
+                {
+                    "label": "Leaders Of Political Parties",
+                    "uri": "http://dbpedia.org/class/yago/LeadersOfPoliticalParties"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "German Scientists",
+                    "uri": "http://dbpedia.org/class/yago/GermanScientists"
+                },
+                {
+                    "label": "German Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/GermanWomenInPolitics"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/ontology/Chancellor"
+                },
+                {
+                    "label": "Chancellors Of Germany",
+                    "uri": "http://dbpedia.org/class/yago/ChancellorsOfGermany"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "German Christian Democrat Politicians",
+                    "uri": "http://dbpedia.org/class/yago/GermanChristianDemocratPoliticians"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Female Heads Of Government",
+                    "uri": "http://dbpedia.org/class/yago/FemaleHeadsOfGovernment"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Angela_Merkel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0683",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Angela Merkel",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Current Female Heads Of Government",
+                    "uri": "http://dbpedia.org/class/yago/CurrentFemaleHeadsOfGovernment"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Hamburg",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHamburg"
+                },
+                {
+                    "label": "Current National Leaders",
+                    "uri": "http://dbpedia.org/class/yago/CurrentNationalLeaders"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/class/yago/Chancellor109906986"
+                },
+                {
+                    "label": "Leaders Of Political Parties",
+                    "uri": "http://dbpedia.org/class/yago/LeadersOfPoliticalParties"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "German Scientists",
+                    "uri": "http://dbpedia.org/class/yago/GermanScientists"
+                },
+                {
+                    "label": "German Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/GermanWomenInPolitics"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/ontology/Chancellor"
+                },
+                {
+                    "label": "Chancellors Of Germany",
+                    "uri": "http://dbpedia.org/class/yago/ChancellorsOfGermany"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "German Christian Democrat Politicians",
+                    "uri": "http://dbpedia.org/class/yago/GermanChristianDemocratPoliticians"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Female Heads Of Government",
+                    "uri": "http://dbpedia.org/class/yago/FemaleHeadsOfGovernment"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Angela_Merkel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

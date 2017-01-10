@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "KANSAS CITY",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kansas_City"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0186",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "KANSAS CITY",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kansas_City"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

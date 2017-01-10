@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Leon Panetta",
+            "types": [
+                {
+                    "label": "United States Army Officers",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmyOfficers"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Clinton Administration personnel",
+                    "uri": "http://dbpedia.org/resource/Clinton_Administration_personnel"
+                },
+                {
+                    "label": "Directors Of The Office Of Management And Budget",
+                    "uri": "http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+                },
+                {
+                    "label": "Santa Clara University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/SantaClaraUniversityAlumni"
+                },
+                {
+                    "label": "Official",
+                    "uri": "http://dbpedia.org/class/yago/Official110372373"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Italian-American politicians",
+                    "uri": "http://dbpedia.org/resource/Italian-American_politicians"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Italian-American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/Italian-AmericanPoliticians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "White House Chiefs Of Staff",
+                    "uri": "http://dbpedia.org/class/yago/WhiteHouseChiefsOfStaff"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Leon_Panetta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0140",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Leon Panetta",
+            "types": [
+                {
+                    "label": "United States Army Officers",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmyOfficers"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Clinton Administration personnel",
+                    "uri": "http://dbpedia.org/resource/Clinton_Administration_personnel"
+                },
+                {
+                    "label": "Directors Of The Office Of Management And Budget",
+                    "uri": "http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+                },
+                {
+                    "label": "Santa Clara University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/SantaClaraUniversityAlumni"
+                },
+                {
+                    "label": "Official",
+                    "uri": "http://dbpedia.org/class/yago/Official110372373"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Italian-American politicians",
+                    "uri": "http://dbpedia.org/resource/Italian-American_politicians"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Italian-American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/Italian-AmericanPoliticians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "White House Chiefs Of Staff",
+                    "uri": "http://dbpedia.org/class/yago/WhiteHouseChiefsOfStaff"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Leon_Panetta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

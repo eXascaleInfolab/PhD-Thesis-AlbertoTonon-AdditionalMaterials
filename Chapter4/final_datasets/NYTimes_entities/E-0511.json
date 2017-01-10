@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Michael Haneke",
+            "types": [
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Austrian film directors",
+                    "uri": "http://dbpedia.org/resource/Austrian_film_directors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Austrian Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AustrianFilmDirectors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michael_Haneke"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0511",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Michael Haneke",
+            "types": [
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Austrian film directors",
+                    "uri": "http://dbpedia.org/resource/Austrian_film_directors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Austrian Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AustrianFilmDirectors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michael_Haneke"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

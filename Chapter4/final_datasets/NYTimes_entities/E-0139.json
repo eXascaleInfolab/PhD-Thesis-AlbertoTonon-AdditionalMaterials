@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Ohio State University",
+            "types": [
+                {
+                    "label": "Universities And Colleges In Ohio",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInOhio"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Educational Institutions Established In1870",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1870"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Universities And Colleges In Columbus,Ohio",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInColumbus,Ohio"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": "Land-grant Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ohio_State_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0139",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ohio State University",
+            "types": [
+                {
+                    "label": "Universities And Colleges In Ohio",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInOhio"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Educational Institutions Established In1870",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1870"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Universities And Colleges In Columbus,Ohio",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInColumbus,Ohio"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": "Land-grant Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ohio_State_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

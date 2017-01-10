@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Marcus Camby",
+            "types": [
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Centers (basketball)",
+                    "uri": "http://dbpedia.org/resource/Centers_%28basketball%29"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marcus_Camby"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0645",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Marcus Camby",
+            "types": [
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Centers (basketball)",
+                    "uri": "http://dbpedia.org/resource/Centers_%28basketball%29"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marcus_Camby"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Philadelphia",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Former Capitals Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+                },
+                {
+                    "label": "American city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlements Established In1682",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Former United States State Capitals",
+                    "uri": "http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Cities In Pennsylvania",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInPennsylvania"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philadelphia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0359",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Philadelphia",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Former Capitals Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+                },
+                {
+                    "label": "American city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlements Established In1682",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Former United States State Capitals",
+                    "uri": "http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Cities In Pennsylvania",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInPennsylvania"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philadelphia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

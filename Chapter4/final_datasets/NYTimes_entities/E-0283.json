@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "International Skating Union",
+            "types": [
+                {
+                    "label": "Sports Organisations",
+                    "uri": "http://dbpedia.org/class/yago/SportsOrganisations"
+                },
+                {
+                    "label": "Sport",
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                },
+                {
+                    "label": "Organizations Established In1892",
+                    "uri": "http://dbpedia.org/class/yago/OrganizationsEstablishedIn1892"
+                },
+                {
+                    "label": "IOCRecognised International Federations",
+                    "uri": "http://dbpedia.org/class/yago/IOCRecognisedInternationalFederations"
+                },
+                {
+                    "label": "IOC Recognised International Federations",
+                    "uri": "http://dbpedia.org/resource/IOC_Recognised_International_Federations"
+                },
+                {
+                    "label": "Figure skating organisations",
+                    "uri": "http://dbpedia.org/resource/Figure_skating_organisations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Skating_Union"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0283",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "International Skating Union",
+            "types": [
+                {
+                    "label": "Sports Organisations",
+                    "uri": "http://dbpedia.org/class/yago/SportsOrganisations"
+                },
+                {
+                    "label": "Sport",
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                },
+                {
+                    "label": "Organizations Established In1892",
+                    "uri": "http://dbpedia.org/class/yago/OrganizationsEstablishedIn1892"
+                },
+                {
+                    "label": "IOCRecognised International Federations",
+                    "uri": "http://dbpedia.org/class/yago/IOCRecognisedInternationalFederations"
+                },
+                {
+                    "label": "IOC Recognised International Federations",
+                    "uri": "http://dbpedia.org/resource/IOC_Recognised_International_Federations"
+                },
+                {
+                    "label": "Figure skating organisations",
+                    "uri": "http://dbpedia.org/resource/Figure_skating_organisations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Skating_Union"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

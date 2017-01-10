@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Derek Boogaard",
+            "types": [
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "People From Saskatoon",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSaskatoon"
+                },
+                {
+                    "label": "Regina Pats Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ReginaPatsAlumni"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Ice hockey personnel from Saskatchewan",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Saskatchewan"
+                },
+                {
+                    "label": "Prince George Cougars Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrinceGeorgeCougarsAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Derek_Boogaard"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0416",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Derek Boogaard",
+            "types": [
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "People From Saskatoon",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSaskatoon"
+                },
+                {
+                    "label": "Regina Pats Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ReginaPatsAlumni"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Ice hockey personnel from Saskatchewan",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Saskatchewan"
+                },
+                {
+                    "label": "Prince George Cougars Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrinceGeorgeCougarsAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Derek_Boogaard"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

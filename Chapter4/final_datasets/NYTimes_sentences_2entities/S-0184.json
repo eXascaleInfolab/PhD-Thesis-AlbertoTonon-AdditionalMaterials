@@ -1,0 +1,157 @@
+{
+  "mainText":"\u201cI have talked to a number of colleagues on both sides of the aisle, many of whom are disgusted with the current state of affairs,\u201d Senator Susan Collins , a moderate Republican from Maine, said in an interview Friday.",
+  "shownText":"\u201cI have talked to a number of colleagues on both sides of the aisle, many of whom are disgusted with the current state of affairs,\u201d Senator Susan Collins , a moderate Republican from Maine, said in an interview Friday.",
+  "title":"Speaker Says a Broad Budget Deal Is Possible, but Not With More Revenue - NYTimes.com",
+  "articleUrl":"http://thecaucus.blogs.nytimes.com/2013/03/03/speaker-says-a-broad-budget-deal-is-possible-but-not-with-more-revenue/",
+  "category":"politics",
+  "docID":"S-0184",
+  "elementNumber":32,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Susan_Collins",
+      "label":"Susan Collins",
+      "offsets":[
+        {
+          "offset":140,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Irish-American politicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_politicians"
+        },
+        {
+          "label":"United States Senators From Maine",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMaine"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"American Women In Politics",
+          "uri":"http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+        },
+        {
+          "label":"St.Lawrence University Alumni",
+          "uri":"http://dbpedia.org/class/yago/St.LawrenceUniversityAlumni"
+        },
+        {
+          "label":"American women",
+          "uri":"http://dbpedia.org/resource/American_women"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Maine",
+      "label":"Maine",
+      "offsets":[
+        {
+          "offset":183,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Susan_Collins",
+      "label":"Susan Collins",
+      "offsets":[
+        {
+          "offset":140,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Irish-American politicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_politicians"
+        },
+        {
+          "label":"United States Senators From Maine",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMaine"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"American Women In Politics",
+          "uri":"http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+        },
+        {
+          "label":"St.Lawrence University Alumni",
+          "uri":"http://dbpedia.org/class/yago/St.LawrenceUniversityAlumni"
+        },
+        {
+          "label":"American women",
+          "uri":"http://dbpedia.org/resource/American_women"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Maine",
+      "label":"Maine",
+      "offsets":[
+        {
+          "offset":183,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    }
+  ]
+}

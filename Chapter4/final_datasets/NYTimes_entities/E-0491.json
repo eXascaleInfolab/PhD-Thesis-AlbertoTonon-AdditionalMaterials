@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Donnie Darko",
+            "types": [
+                {
+                    "label": "Art Films",
+                    "uri": "http://dbpedia.org/class/yago/ArtFilms"
+                },
+                {
+                    "label": "Existentialist Works",
+                    "uri": "http://dbpedia.org/class/yago/ExistentialistWorks"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English-language Films",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilms"
+                },
+                {
+                    "label": "Coming-of-age Films",
+                    "uri": "http://dbpedia.org/class/yago/Coming-of-ageFilms"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Teen Films",
+                    "uri": "http://dbpedia.org/class/yago/TeenFilms"
+                },
+                {
+                    "label": "Drama Films",
+                    "uri": "http://dbpedia.org/class/yago/DramaFilms"
+                },
+                {
+                    "label": "Directorial Debut Films",
+                    "uri": "http://dbpedia.org/class/yago/DirectorialDebutFilms"
+                },
+                {
+                    "label": "Tragedy Films",
+                    "uri": "http://dbpedia.org/class/yago/TragedyFilms"
+                },
+                {
+                    "label": "2001Films",
+                    "uri": "http://dbpedia.org/class/yago/2001Films"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Avant-garde and experimental films",
+                    "uri": "http://dbpedia.org/resource/Avant-garde_and_experimental_films"
+                },
+                {
+                    "label": "Psychological Science Fiction Films",
+                    "uri": "http://dbpedia.org/class/yago/PsychologicalScienceFictionFilms"
+                },
+                {
+                    "label": "Satirical Films",
+                    "uri": "http://dbpedia.org/class/yago/SatiricalFilms"
+                },
+                {
+                    "label": "Philosophical Films",
+                    "uri": "http://dbpedia.org/class/yago/PhilosophicalFilms"
+                },
+                {
+                    "label": "Time Travel Films",
+                    "uri": "http://dbpedia.org/class/yago/TimeTravelFilms"
+                },
+                {
+                    "label": "Directorial debut films",
+                    "uri": "http://dbpedia.org/resource/Directorial_debut_films"
+                },
+                {
+                    "label": "Surrealist Films",
+                    "uri": "http://dbpedia.org/class/yago/SurrealistFilms"
+                },
+                {
+                    "label": "American Films",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilms"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Donnie_Darko"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0491",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Donnie Darko",
+            "types": [
+                {
+                    "label": "Art Films",
+                    "uri": "http://dbpedia.org/class/yago/ArtFilms"
+                },
+                {
+                    "label": "Existentialist Works",
+                    "uri": "http://dbpedia.org/class/yago/ExistentialistWorks"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English-language Films",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilms"
+                },
+                {
+                    "label": "Coming-of-age Films",
+                    "uri": "http://dbpedia.org/class/yago/Coming-of-ageFilms"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Teen Films",
+                    "uri": "http://dbpedia.org/class/yago/TeenFilms"
+                },
+                {
+                    "label": "Drama Films",
+                    "uri": "http://dbpedia.org/class/yago/DramaFilms"
+                },
+                {
+                    "label": "Directorial Debut Films",
+                    "uri": "http://dbpedia.org/class/yago/DirectorialDebutFilms"
+                },
+                {
+                    "label": "Tragedy Films",
+                    "uri": "http://dbpedia.org/class/yago/TragedyFilms"
+                },
+                {
+                    "label": "2001Films",
+                    "uri": "http://dbpedia.org/class/yago/2001Films"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Avant-garde and experimental films",
+                    "uri": "http://dbpedia.org/resource/Avant-garde_and_experimental_films"
+                },
+                {
+                    "label": "Psychological Science Fiction Films",
+                    "uri": "http://dbpedia.org/class/yago/PsychologicalScienceFictionFilms"
+                },
+                {
+                    "label": "Satirical Films",
+                    "uri": "http://dbpedia.org/class/yago/SatiricalFilms"
+                },
+                {
+                    "label": "Philosophical Films",
+                    "uri": "http://dbpedia.org/class/yago/PhilosophicalFilms"
+                },
+                {
+                    "label": "Time Travel Films",
+                    "uri": "http://dbpedia.org/class/yago/TimeTravelFilms"
+                },
+                {
+                    "label": "Directorial debut films",
+                    "uri": "http://dbpedia.org/resource/Directorial_debut_films"
+                },
+                {
+                    "label": "Surrealist Films",
+                    "uri": "http://dbpedia.org/class/yago/SurrealistFilms"
+                },
+                {
+                    "label": "American Films",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilms"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Donnie_Darko"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

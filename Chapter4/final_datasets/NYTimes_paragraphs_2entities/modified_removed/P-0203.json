@@ -1,0 +1,229 @@
+{
+    "allEntities": [
+        {
+            "label": "Mount Vernon", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 240
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Presidential Places", 
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlaces"
+                }, 
+                {
+                    "label": "Presidential Places Related To George Washington", 
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlacesRelatedToGeorgeWashington"
+                }, 
+                {
+                    "label": "18th century architecture", 
+                    "uri": "http://dbpedia.org/resource/18th_century_architecture"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mount_Vernon"
+        }, 
+        {
+            "label": "Joe Clarke", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 91
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American Soccer Players", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerPlayers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "California Surf Players", 
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaSurfPlayers"
+                }, 
+                {
+                    "label": "Soccer Manager", 
+                    "uri": "http://dbpedia.org/ontology/SoccerManager"
+                }, 
+                {
+                    "label": "St.Louis Kutis Players", 
+                    "uri": "http://dbpedia.org/class/yago/St.LouisKutisPlayers"
+                }, 
+                {
+                    "label": "St.Louis Steamers(original MISL)Players", 
+                    "uri": "http://dbpedia.org/class/yago/St.LouisSteamers(originalMISL)Players"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "NASLPlayers", 
+                    "uri": "http://dbpedia.org/class/yago/NASLPlayers"
+                }, 
+                {
+                    "label": "Major Indoor Soccer League(original)Players", 
+                    "uri": "http://dbpedia.org/class/yago/MajorIndoorSoccerLeague(original)Players"
+                }, 
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Players", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerPlayers"
+                }, 
+                {
+                    "label": "American soccer coaches", 
+                    "uri": "http://dbpedia.org/resource/American_soccer_coaches"
+                }, 
+                {
+                    "label": "Saint Louis University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisUniversityAlumni"
+                }, 
+                {
+                    "label": "People From St.Louis,Missouri", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"
+                }, 
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerCoaches"
+                }, 
+                {
+                    "label": "California Surf players", 
+                    "uri": "http://dbpedia.org/resource/California_Surf_players"
+                }, 
+                {
+                    "label": "American Soccer Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerCoaches"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Saint Louis Stars Players", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisStarsPlayers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Joe_Clarke"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/khalil-edney-is-big-shot-at-new-rochelle-high-school-and-on-youtube.html?ref=sports", 
+    "category": "sports", 
+    "docID": "P-0203", 
+    "elementNumber": 24, 
+    "mainEntities": [
+        {
+            "label": "Mount Vernon", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 240
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Presidential Places", 
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlaces"
+                }, 
+                {
+                    "label": "Presidential Places Related To George Washington", 
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlacesRelatedToGeorgeWashington"
+                }, 
+                {
+                    "label": "18th century architecture", 
+                    "uri": "http://dbpedia.org/resource/18th_century_architecture"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mount_Vernon"
+        }, 
+        {
+            "label": "Joe Clarke", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 91
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American Soccer Players", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerPlayers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "California Surf Players", 
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaSurfPlayers"
+                }, 
+                {
+                    "label": "Soccer Manager", 
+                    "uri": "http://dbpedia.org/ontology/SoccerManager"
+                }, 
+                {
+                    "label": "St.Louis Kutis Players", 
+                    "uri": "http://dbpedia.org/class/yago/St.LouisKutisPlayers"
+                }, 
+                {
+                    "label": "St.Louis Steamers(original MISL)Players", 
+                    "uri": "http://dbpedia.org/class/yago/St.LouisSteamers(originalMISL)Players"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "NASLPlayers", 
+                    "uri": "http://dbpedia.org/class/yago/NASLPlayers"
+                }, 
+                {
+                    "label": "Major Indoor Soccer League(original)Players", 
+                    "uri": "http://dbpedia.org/class/yago/MajorIndoorSoccerLeague(original)Players"
+                }, 
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Players", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerPlayers"
+                }, 
+                {
+                    "label": "American soccer coaches", 
+                    "uri": "http://dbpedia.org/resource/American_soccer_coaches"
+                }, 
+                {
+                    "label": "Saint Louis University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisUniversityAlumni"
+                }, 
+                {
+                    "label": "People From St.Louis,Missouri", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSt.Louis,Missouri"
+                }, 
+                {
+                    "label": "Saint Louis Billikens Men's Soccer Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisBillikensMen'sSoccerCoaches"
+                }, 
+                {
+                    "label": "California Surf players", 
+                    "uri": "http://dbpedia.org/resource/California_Surf_players"
+                }, 
+                {
+                    "label": "American Soccer Coaches", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanSoccerCoaches"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Saint Louis Stars Players", 
+                    "uri": "http://dbpedia.org/class/yago/SaintLouisStarsPlayers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Joe_Clarke"
+        }
+    ], 
+    "mainText": "Edney took the ball along the baseline and heaved the ball down court, toward his teammate Joe Clarke, the same friend he connected with for a winning touchdown late in the state football semifinals.\nThis pass, though, was intercepted by a Mount Vernon player, who could have held the ball or thrown it straight into the air, but who instead tossed it back toward Edney.", 
+    "shownText": "Edney took the ball along the baseline and heaved the ball down court, toward his teammate Joe Clarke, the same friend he connected with for a winning touchdown late in the state football semifinals.\nThis pass, though, was intercepted by a Mount Vernon player, who could have held the ball or thrown it straight into the air, but who instead tossed it back toward Edney.", 
+    "title": "Khalil Edney Is Big Shot at New Rochelle High School and on YouTube - NYTimes.com"
+}

@@ -1,0 +1,517 @@
+{
+  "mainText":"John Eligon reported from Kansas City, and Steven Yaccino from Chicago.",
+  "shownText":"John Eligon reported from Kansas City, and Steven Yaccino from Chicago.",
+  "title":"Strong Storm in Plains Brings Added Hazards - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/us/strong-storm-in-plains-brings-added-hazards.html?ref=us",
+  "category":"us",
+  "docID":"S-0357",
+  "elementNumber":30,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":26,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_%22Hot_Rod%22_Williams",
+      "label":"John Eligon",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Baton Rouge",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"American Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+        },
+        {
+          "label":"Centers (basketball)",
+          "uri":"http://dbpedia.org/resource/Centers_%28basketball%29"
+        },
+        {
+          "label":"Basketball Player",
+          "uri":"http://dbpedia.org/ontology/BasketballPlayer"
+        },
+        {
+          "label":"Dallas Mavericks players",
+          "uri":"http://dbpedia.org/resource/Dallas_Mavericks_players"
+        },
+        {
+          "label":"Cleveland Cavaliers Players",
+          "uri":"http://dbpedia.org/class/yago/ClevelandCavaliersPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Phoenix Suns Players",
+          "uri":"http://dbpedia.org/class/yago/PhoenixSunsPlayers"
+        },
+        {
+          "label":"Cleveland Cavaliers players",
+          "uri":"http://dbpedia.org/resource/Cleveland_Cavaliers_players"
+        },
+        {
+          "label":"Dallas Mavericks Players",
+          "uri":"http://dbpedia.org/class/yago/DallasMavericksPlayers"
+        },
+        {
+          "label":"Tulane Green Wave Men's Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/TulaneGreenWaveMen'sBasketballPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Chicago",
+      "label":"Chicago",
+      "offsets":[
+        {
+          "offset":63,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Cities In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CitiesInIllinois"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Communities on U.S. Route 66",
+          "uri":"http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economies By City",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByCity"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Settlements Established In1833",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+        },
+        {
+          "label":"Port Cities In The United States",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+        },
+        {
+          "label":"County Seats In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInIllinois"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":26,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kansas_City",
+      "label":"KANSAS CITY",
+      "offsets":[
+        {
+          "offset":26,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_%22Hot_Rod%22_Williams",
+      "label":"John Eligon",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Baton Rouge",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"American Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+        },
+        {
+          "label":"Centers (basketball)",
+          "uri":"http://dbpedia.org/resource/Centers_%28basketball%29"
+        },
+        {
+          "label":"Basketball Player",
+          "uri":"http://dbpedia.org/ontology/BasketballPlayer"
+        },
+        {
+          "label":"Dallas Mavericks players",
+          "uri":"http://dbpedia.org/resource/Dallas_Mavericks_players"
+        },
+        {
+          "label":"Cleveland Cavaliers Players",
+          "uri":"http://dbpedia.org/class/yago/ClevelandCavaliersPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Phoenix Suns Players",
+          "uri":"http://dbpedia.org/class/yago/PhoenixSunsPlayers"
+        },
+        {
+          "label":"Cleveland Cavaliers players",
+          "uri":"http://dbpedia.org/resource/Cleveland_Cavaliers_players"
+        },
+        {
+          "label":"Dallas Mavericks Players",
+          "uri":"http://dbpedia.org/class/yago/DallasMavericksPlayers"
+        },
+        {
+          "label":"Tulane Green Wave Men's Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/TulaneGreenWaveMen'sBasketballPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Chicago",
+      "label":"Chicago",
+      "offsets":[
+        {
+          "offset":63,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Cities In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CitiesInIllinois"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Communities on U.S. Route 66",
+          "uri":"http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economies By City",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByCity"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Settlements Established In1833",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+        },
+        {
+          "label":"Port Cities In The United States",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+        },
+        {
+          "label":"County Seats In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInIllinois"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":26,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Homo",
+            "types": [
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                },
+                {
+                    "label": "Mammal",
+                    "uri": "http://dbpedia.org/ontology/Mammal"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Homo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0296",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Homo",
+            "types": [
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                },
+                {
+                    "label": "Mammal",
+                    "uri": "http://dbpedia.org/ontology/Mammal"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Homo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,189 @@
+{
+  "mainText":"\u201cI\u2019m left with this uneasy feeling that the uncertainties are larger than they claim,\u201d said Eric Steig , a climate scientist at the University of Washington.",
+  "shownText":"\u201cI\u2019m left with this uneasy feeling that the uncertainties are larger than they claim,\u201d said Eric Steig , a climate scientist at the University of Washington.",
+  "title":"At Ice Age End, a Smaller Gap in Warming and Carbon Dioxide - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/science/earth/at-ice-age-end-a-smaller-gap-in-warming-and-carbon-dioxide.html?ref=science",
+  "category":"science",
+  "docID":"S-0229",
+  "elementNumber":36,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/William_Steig",
+      "label":"Eric Steig",
+      "offsets":[
+        {
+          "offset":97,
+          "length":5
+        },
+        {
+          "offset":92,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Caldecott Medal winners",
+          "uri":"http://dbpedia.org/resource/Caldecott_Medal_winners"
+        },
+        {
+          "label":"American cartoonists",
+          "uri":"http://dbpedia.org/resource/American_cartoonists"
+        },
+        {
+          "label":"American illustrators",
+          "uri":"http://dbpedia.org/resource/American_illustrators"
+        },
+        {
+          "label":"American children%27s writers",
+          "uri":"http://dbpedia.org/resource/American_children%27s_writers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Washington",
+      "label":"University of Washington",
+      "offsets":[
+        {
+          "offset":132,
+          "length":24
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institutions Established In1861",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1861"
+        },
+        {
+          "label":"Universities And Colleges In Washington",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInWashington"
+        },
+        {
+          "label":"Universities And Colleges In Seattle",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInSeattle"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/William_Steig",
+      "label":"Eric Steig",
+      "offsets":[
+        {
+          "offset":97,
+          "length":5
+        },
+        {
+          "offset":92,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Caldecott Medal winners",
+          "uri":"http://dbpedia.org/resource/Caldecott_Medal_winners"
+        },
+        {
+          "label":"American cartoonists",
+          "uri":"http://dbpedia.org/resource/American_cartoonists"
+        },
+        {
+          "label":"American illustrators",
+          "uri":"http://dbpedia.org/resource/American_illustrators"
+        },
+        {
+          "label":"American children%27s writers",
+          "uri":"http://dbpedia.org/resource/American_children%27s_writers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Washington",
+      "label":"University of Washington",
+      "offsets":[
+        {
+          "offset":132,
+          "length":24
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institutions Established In1861",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1861"
+        },
+        {
+          "label":"Universities And Colleges In Washington",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInWashington"
+        },
+        {
+          "label":"Universities And Colleges In Seattle",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInSeattle"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

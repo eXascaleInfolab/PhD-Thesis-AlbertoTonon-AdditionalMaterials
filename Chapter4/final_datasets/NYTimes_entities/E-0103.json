@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "White House",
+            "types": [
+                {
+                    "label": "Buildings Of The United States Government In Washington,D.C.",
+                    "uri": "http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+                },
+                {
+                    "label": "Presidential Palaces",
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPalaces"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Rebuilt Buildings And Structures",
+                    "uri": "http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "executive branch of government",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+                },
+                {
+                    "label": "government organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+                },
+                {
+                    "label": "19th century architecture",
+                    "uri": "http://dbpedia.org/resource/19th_century_architecture"
+                },
+                {
+                    "label": "Building",
+                    "uri": "http://dbpedia.org/class/yago/Building102913152"
+                },
+                {
+                    "label": "Building",
+                    "uri": "http://dbpedia.org/ontology/Building"
+                },
+                {
+                    "label": "branch of U.S. Government",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+                },
+                {
+                    "label": "19th century works",
+                    "uri": "http://dbpedia.org/resource/19th_century_works"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/White_House"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0103",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "White House",
+            "types": [
+                {
+                    "label": "Buildings Of The United States Government In Washington,D.C.",
+                    "uri": "http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+                },
+                {
+                    "label": "Presidential Palaces",
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPalaces"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Rebuilt Buildings And Structures",
+                    "uri": "http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "executive branch of government",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+                },
+                {
+                    "label": "government organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+                },
+                {
+                    "label": "19th century architecture",
+                    "uri": "http://dbpedia.org/resource/19th_century_architecture"
+                },
+                {
+                    "label": "Building",
+                    "uri": "http://dbpedia.org/class/yago/Building102913152"
+                },
+                {
+                    "label": "Building",
+                    "uri": "http://dbpedia.org/ontology/Building"
+                },
+                {
+                    "label": "branch of U.S. Government",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+                },
+                {
+                    "label": "19th century works",
+                    "uri": "http://dbpedia.org/resource/19th_century_works"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/White_House"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

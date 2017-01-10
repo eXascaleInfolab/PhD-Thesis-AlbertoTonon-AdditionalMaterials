@@ -1,0 +1,209 @@
+{
+    "allEntities": [
+        {
+            "label": "Benito Mussolini",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Converts To Roman Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Knights Of Malta",
+                    "uri": "http://dbpedia.org/class/yago/KnightsOfMalta"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "historical figure",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwKQB3pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Field Marshals Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/FieldMarshalsOfItaly"
+                },
+                {
+                    "label": "Former dictatorships",
+                    "uri": "http://dbpedia.org/resource/Former_dictatorships"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "World War IIPolitical Leaders",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+                },
+                {
+                    "label": "Italian People Of World War II",
+                    "uri": "http://dbpedia.org/class/yago/ItalianPeopleOfWorldWarII"
+                },
+                {
+                    "label": "Italian Ministers Of Foreign Affairs",
+                    "uri": "http://dbpedia.org/class/yago/ItalianMinistersOfForeignAffairs"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Italian executions",
+                    "uri": "http://dbpedia.org/resource/Italian_executions"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From The Province Of Forl%C3%AC-Cesena",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheProvinceOfForl%C3%AC-Cesena"
+                },
+                {
+                    "label": "Prime Ministers Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/PrimeMinistersOfItaly"
+                },
+                {
+                    "label": "Italian Fascists",
+                    "uri": "http://dbpedia.org/class/yago/ItalianFascists"
+                },
+                {
+                    "label": "Italian Ministers Of The Interior",
+                    "uri": "http://dbpedia.org/class/yago/ItalianMinistersOfTheInterior"
+                },
+                {
+                    "label": "People Executed By Firing Squad",
+                    "uri": "http://dbpedia.org/class/yago/PeopleExecutedByFiringSquad"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "Converts to Roman Catholicism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Benito_Mussolini"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0337",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Benito Mussolini",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Converts To Roman Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Knights Of Malta",
+                    "uri": "http://dbpedia.org/class/yago/KnightsOfMalta"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "historical figure",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwKQB3pwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Field Marshals Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/FieldMarshalsOfItaly"
+                },
+                {
+                    "label": "Former dictatorships",
+                    "uri": "http://dbpedia.org/resource/Former_dictatorships"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "World War IIPolitical Leaders",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+                },
+                {
+                    "label": "Italian People Of World War II",
+                    "uri": "http://dbpedia.org/class/yago/ItalianPeopleOfWorldWarII"
+                },
+                {
+                    "label": "Italian Ministers Of Foreign Affairs",
+                    "uri": "http://dbpedia.org/class/yago/ItalianMinistersOfForeignAffairs"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Italian executions",
+                    "uri": "http://dbpedia.org/resource/Italian_executions"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From The Province Of Forl%C3%AC-Cesena",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheProvinceOfForl%C3%AC-Cesena"
+                },
+                {
+                    "label": "Prime Ministers Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/PrimeMinistersOfItaly"
+                },
+                {
+                    "label": "Italian Fascists",
+                    "uri": "http://dbpedia.org/class/yago/ItalianFascists"
+                },
+                {
+                    "label": "Italian Ministers Of The Interior",
+                    "uri": "http://dbpedia.org/class/yago/ItalianMinistersOfTheInterior"
+                },
+                {
+                    "label": "People Executed By Firing Squad",
+                    "uri": "http://dbpedia.org/class/yago/PeopleExecutedByFiringSquad"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "Converts to Roman Catholicism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Benito_Mussolini"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

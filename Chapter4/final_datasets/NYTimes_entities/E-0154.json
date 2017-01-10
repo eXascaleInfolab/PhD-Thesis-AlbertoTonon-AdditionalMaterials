@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Alice Rivlin",
+            "types": [
+                {
+                    "label": "People From Philadelphia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Bryn Mawr College alumni",
+                    "uri": "http://dbpedia.org/resource/Bryn_Mawr_College_alumni"
+                },
+                {
+                    "label": "Clinton Administration personnel",
+                    "uri": "http://dbpedia.org/resource/Clinton_Administration_personnel"
+                },
+                {
+                    "label": "Bryn Mawr College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/BrynMawrCollegeAlumni"
+                },
+                {
+                    "label": "Directors Of The Office Of Management And Budget",
+                    "uri": "http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+                },
+                {
+                    "label": "Judge",
+                    "uri": "http://dbpedia.org/ontology/Judge"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American economists",
+                    "uri": "http://dbpedia.org/resource/American_economists"
+                },
+                {
+                    "label": "Radcliffe College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/RadcliffeCollegeAlumni"
+                },
+                {
+                    "label": "Mac Arthur Fellows",
+                    "uri": "http://dbpedia.org/class/yago/MacArthurFellows"
+                },
+                {
+                    "label": "American Economists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanEconomists"
+                },
+                {
+                    "label": "Harvard Centennial Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Harvard_Centennial_Medal_recipients"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alice_Rivlin"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0154",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Alice Rivlin",
+            "types": [
+                {
+                    "label": "People From Philadelphia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Bryn Mawr College alumni",
+                    "uri": "http://dbpedia.org/resource/Bryn_Mawr_College_alumni"
+                },
+                {
+                    "label": "Clinton Administration personnel",
+                    "uri": "http://dbpedia.org/resource/Clinton_Administration_personnel"
+                },
+                {
+                    "label": "Bryn Mawr College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/BrynMawrCollegeAlumni"
+                },
+                {
+                    "label": "Directors Of The Office Of Management And Budget",
+                    "uri": "http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+                },
+                {
+                    "label": "Judge",
+                    "uri": "http://dbpedia.org/ontology/Judge"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American economists",
+                    "uri": "http://dbpedia.org/resource/American_economists"
+                },
+                {
+                    "label": "Radcliffe College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/RadcliffeCollegeAlumni"
+                },
+                {
+                    "label": "Mac Arthur Fellows",
+                    "uri": "http://dbpedia.org/class/yago/MacArthurFellows"
+                },
+                {
+                    "label": "American Economists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanEconomists"
+                },
+                {
+                    "label": "Harvard Centennial Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Harvard_Centennial_Medal_recipients"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alice_Rivlin"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

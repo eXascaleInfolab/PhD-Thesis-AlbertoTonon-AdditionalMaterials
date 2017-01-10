@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Bank of America",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Other Diversified Financial Services",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhciPYwhuEduVNADggVaqog"
+                },
+                {
+                    "label": "bank",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVirgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "S&amp;P 500 corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+                },
+                {
+                    "label": "Companies Established In1874",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1874"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Companies Based In Charlotte,North Carolina",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInCharlotte,NorthCarolina"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bank_of_America"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0495",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bank of America",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Other Diversified Financial Services",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhciPYwhuEduVNADggVaqog"
+                },
+                {
+                    "label": "bank",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVirgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "S&amp;P 500 corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+                },
+                {
+                    "label": "Companies Established In1874",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1874"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Companies Based In Charlotte,North Carolina",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInCharlotte,NorthCarolina"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bank_of_America"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

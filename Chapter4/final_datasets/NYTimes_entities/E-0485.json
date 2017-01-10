@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Christoph Waltz",
+            "types": [
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Austrian Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AustrianTelevisionActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Austrian Actors",
+                    "uri": "http://dbpedia.org/class/yago/AustrianActors"
+                },
+                {
+                    "label": "Austrian actors",
+                    "uri": "http://dbpedia.org/resource/Austrian_actors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Austrian television actors",
+                    "uri": "http://dbpedia.org/resource/Austrian_television_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "People From Vienna",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromVienna"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Christoph_Waltz"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0485",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Christoph Waltz",
+            "types": [
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Austrian Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AustrianTelevisionActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Austrian Actors",
+                    "uri": "http://dbpedia.org/class/yago/AustrianActors"
+                },
+                {
+                    "label": "Austrian actors",
+                    "uri": "http://dbpedia.org/resource/Austrian_actors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Austrian television actors",
+                    "uri": "http://dbpedia.org/resource/Austrian_television_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "People From Vienna",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromVienna"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Christoph_Waltz"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

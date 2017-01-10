@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Wally Hedrick",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Pop Artists",
+                    "uri": "http://dbpedia.org/class/yago/PopArtists"
+                },
+                {
+                    "label": "American artists",
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                },
+                {
+                    "label": "California artists",
+                    "uri": "http://dbpedia.org/resource/California_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "California Artists",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaArtists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Wally_Hedrick"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0517",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Wally Hedrick",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Pop Artists",
+                    "uri": "http://dbpedia.org/class/yago/PopArtists"
+                },
+                {
+                    "label": "American artists",
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                },
+                {
+                    "label": "California artists",
+                    "uri": "http://dbpedia.org/resource/California_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "California Artists",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaArtists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Wally_Hedrick"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

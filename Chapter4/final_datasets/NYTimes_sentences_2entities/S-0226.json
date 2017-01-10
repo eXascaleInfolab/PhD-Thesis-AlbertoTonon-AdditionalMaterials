@@ -1,0 +1,165 @@
+{
+  "mainText":"The New York Times 1936: Dr. Clyde Fisher (left) of the American Museum of Natural History and Abram M. Decker of Red Bank, N.J., examined an object believed to be a meteorite that fell on Mr. Decker\u2019s barn.",
+  "shownText":"The New York Times 1936: Dr. Clyde Fisher (left) of the American Museum of Natural History and Abram M. Decker of Red Bank, N.J., examined an object believed to be a meteorite that fell on Mr. Decker\u2019s barn.",
+  "title":"Fireballs in the Sky Are Not Exclusive to Siberia - NYTimes.com",
+  "articleUrl":"http://cityroom.blogs.nytimes.com/2013/02/22/flashy-meteors-fall-on-us-too/?ref=science",
+  "category":"science",
+  "docID":"S-0226",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":0,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/American_Museum_of_Natural_History",
+      "label":"American Museum of Natural History",
+      "offsets":[
+        {
+          "offset":56,
+          "length":34
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Museum",
+          "uri":"http://dbpedia.org/class/yago/Museum103800563"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":0,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/American_Museum_of_Natural_History",
+      "label":"American Museum of Natural History",
+      "offsets":[
+        {
+          "offset":56,
+          "length":34
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Museum",
+          "uri":"http://dbpedia.org/class/yago/Museum103800563"
+        }
+      ]
+    }
+  ]
+}

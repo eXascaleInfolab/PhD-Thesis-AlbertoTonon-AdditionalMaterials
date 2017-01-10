@@ -1,0 +1,1693 @@
+{
+  "mainText":"The list since 2000 includes Toronto\u2019s Bryan Berard, who was struck in the eye with a stick that year and underwent seven eye surgeries the next season to make his comeback; Calgary\u2019s Al MacInnis, who was struck in the eye by a high stick in 2001 and, two years later, had to sit out when the retina in the same eye became detached; Detroit\u2019s Steve Yzerman, who fractured his cheekbone and scratched a cornea when struck by a puck in 2004; Toronto\u2019s Mats Sundin, who was struck in the left eye by a puck that fractured his orbital bone in 2005; Washington\u2019s Tom Poti, who in 2010 took a shot to the face and needed four plates inserted into his shattered cheekbone and orbital bone; Philadelphia\u2019s Ian Laperriere, who in 2010 took a slap shot to the face that broke his orbital bone and gave him a concussion that eventually forced him to retire; Vancouver\u2019s Manny Malhotra, who underwent two eye surgeries after being struck by a puck in 2011 but managed to return; and Pronger, who has been out with concussion symptoms for more than a year and which may be related to the eye injury he sustained.",
+  "shownText":"The list since 2000 includes Toronto\u2019s Bryan Berard, who was struck in the eye with a stick that year and underwent seven eye surgeries the next season to make his comeback; Calgary\u2019s Al MacInnis, who was struck in the eye by a high stick in 2001 and, two years later, had to sit out when the retina in the same eye became detached; Detroit\u2019s Steve Yzerman, who fractured his cheekbone and scratched a cornea when struck by a puck in 2004; Toronto\u2019s Mats Sundin, who was struck in the left eye by a puck that fractured his orbital bone in 2005; Washington\u2019s Tom Poti, who in 2010 took a shot to the face and needed four plates inserted into his shattered cheekbone and orbital bone; Philadelphia\u2019s Ian Laperriere, who in 2010 took a slap shot to the face that broke his orbital bone and gave him a concussion that eventually forced him to retire; Vancouver\u2019s Manny Malhotra, who underwent two eye surgeries after being struck by a puck in 2011 but managed to return; and Pronger, who has been out with concussion symptoms for more than a year and which may be related to the eye injury he sustained.",
+  "title":"Eye Injury to Ranger Raises Issue of Helmet Visors Again - NYTimes.com",
+  "articleUrl":"http://slapshot.blogs.nytimes.com/2013/03/06/eye-injury-to-ranger-raises-issue-of-helmet-visors-again/?ref=sports",
+  "category":"sports",
+  "docID":"S-0294",
+  "elementNumber":39,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Detroit",
+      "label":"Detroit",
+      "offsets":[
+        {
+          "offset":333,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":545,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Calgary",
+      "label":"Calgary",
+      "offsets":[
+        {
+          "offset":174,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Village",
+          "uri":"http://umbel.org/umbel/sc/Village"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1875",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1875"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Towns And Cities With Limited Zero-fare Transport",
+          "uri":"http://dbpedia.org/class/yago/TownsAndCitiesWithLimitedZero-fareTransport"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Town",
+          "uri":"http://umbel.org/umbel/sc/Town"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tom_Poti",
+      "label":"Tom Poti",
+      "offsets":[
+        {
+          "offset":558,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Edmonton Oilers Players",
+          "uri":"http://dbpedia.org/class/yago/EdmontonOilersPlayers"
+        },
+        {
+          "label":"Edmonton Oilers players",
+          "uri":"http://dbpedia.org/resource/Edmonton_Oilers_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ian_Laperriere",
+      "label":"Ian Laperriere",
+      "offsets":[
+        {
+          "offset":698,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Canadian ice hockey centres",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+        },
+        {
+          "label":"Colorado Avalanche players",
+          "uri":"http://dbpedia.org/resource/Colorado_Avalanche_players"
+        },
+        {
+          "label":"Ice hockey personnel from Quebec",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Quebec"
+        },
+        {
+          "label":"Drummondville Voltigeurs alumni",
+          "uri":"http://dbpedia.org/resource/Drummondville_Voltigeurs_alumni"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manny_Malhotra",
+      "label":"Manny Malhotra",
+      "offsets":[
+        {
+          "offset":859,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Calder Cup champions",
+          "uri":"http://dbpedia.org/resource/Calder_Cup_champions"
+        },
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Canadian ice hockey centres",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+        },
+        {
+          "label":"Dallas Stars players",
+          "uri":"http://dbpedia.org/resource/Dallas_Stars_players"
+        },
+        {
+          "label":"HV71 players",
+          "uri":"http://dbpedia.org/resource/HV71_players"
+        },
+        {
+          "label":"Guelph Storm alumni",
+          "uri":"http://dbpedia.org/resource/Guelph_Storm_alumni"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"Asian Canadian sportspeople",
+          "uri":"http://dbpedia.org/resource/Asian_Canadian_sportspeople"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Steve_Yzerman",
+      "label":"Steve Yzerman",
+      "offsets":[
+        {
+          "offset":343,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"Canadian ice hockey centres",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+        },
+        {
+          "label":"National Hockey League Players With50Goal Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+        },
+        {
+          "label":"Bill Masterton Trophy winners",
+          "uri":"http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+        },
+        {
+          "label":"National Hockey League Executives",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeagueExecutives"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Detroit Red Wings players",
+          "uri":"http://dbpedia.org/resource/Detroit_Red_Wings_players"
+        },
+        {
+          "label":"Ice hockey personnel from British Columbia",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_British_Columbia"
+        },
+        {
+          "label":"National Hockey League Players With100Point Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+        },
+        {
+          "label":"Conn Smythe Trophy winners",
+          "uri":"http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian immigrants to the United States",
+          "uri":"http://dbpedia.org/resource/Canadian_immigrants_to_the_United_States"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":683,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mats_Sundin",
+      "label":"Mats Sundin",
+      "offsets":[
+        {
+          "offset":450,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Djurg%E5rdens IF Hockey players",
+          "uri":"http://dbpedia.org/resource/Djurg%E5rdens_IF_Hockey_players"
+        },
+        {
+          "label":"Olympic Ice Hockey Players Of Sweden",
+          "uri":"http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfSweden"
+        },
+        {
+          "label":"Olympic Gold Medalists For Sweden",
+          "uri":"http://dbpedia.org/class/yago/OlympicGoldMedalistsForSweden"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Winter Olympics Medalists",
+          "uri":"http://dbpedia.org/class/yago/WinterOlympicsMedalists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Toronto Maple Leafs Players",
+          "uri":"http://dbpedia.org/class/yago/TorontoMapleLeafsPlayers"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"National Hockey League Players With100Point Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+        },
+        {
+          "label":"Swedish Ice Hockey Players",
+          "uri":"http://dbpedia.org/class/yago/SwedishIceHockeyPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ice Hockey Player",
+          "uri":"http://dbpedia.org/ontology/IceHockeyPlayer"
+        },
+        {
+          "label":"Quebec Nordiques Players",
+          "uri":"http://dbpedia.org/class/yago/QuebecNordiquesPlayers"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"ice hockey player",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjL0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Djurg%C3%A5rdens IFHockey Players",
+          "uri":"http://dbpedia.org/class/yago/Djurg%C3%A5rdensIFHockeyPlayers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Al_MacInnis",
+      "label":"Al MacInnis",
+      "offsets":[
+        {
+          "offset":184,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Calgary Flames Players",
+          "uri":"http://dbpedia.org/class/yago/CalgaryFlamesPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Kitchener Rangers alumni",
+          "uri":"http://dbpedia.org/resource/Kitchener_Rangers_alumni"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Calgary Flames players",
+          "uri":"http://dbpedia.org/resource/Calgary_Flames_players"
+        },
+        {
+          "label":"Olympic Ice Hockey Players Of Canada",
+          "uri":"http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+        },
+        {
+          "label":"People From Kitchener,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKitchener,Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        },
+        {
+          "label":"Conn Smythe Trophy winners",
+          "uri":"http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+        },
+        {
+          "label":"National Hockey League Players With100Point Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+        },
+        {
+          "label":"Ice hockey personnel from Nova Scotia",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Nova_Scotia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bryan_Berard",
+      "label":"Bryan Berard",
+      "offsets":[
+        {
+          "offset":39,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Calder Trophy winners",
+          "uri":"http://dbpedia.org/resource/Calder_Trophy_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American sportspeople",
+          "uri":"http://dbpedia.org/resource/American_sportspeople"
+        },
+        {
+          "label":"Bill Masterton Trophy winners",
+          "uri":"http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+        },
+        {
+          "label":"Detroit Whalers alumni",
+          "uri":"http://dbpedia.org/resource/Detroit_Whalers_alumni"
+        },
+        {
+          "label":"Boston Bruins players",
+          "uri":"http://dbpedia.org/resource/Boston_Bruins_players"
+        },
+        {
+          "label":"Detroit Junior Red Wings alumni",
+          "uri":"http://dbpedia.org/resource/Detroit_Junior_Red_Wings_alumni"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Toronto",
+      "label":"Toronto",
+      "offsets":[
+        {
+          "offset":29,
+          "length":7
+        },
+        {
+          "offset":440,
+          "length":7
+        },
+        {
+          "offset":29,
+          "length":7
+        },
+        {
+          "offset":440,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former Capitals Of Canada",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfCanada"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Underground Railroad Locations",
+          "uri":"http://dbpedia.org/class/yago/UndergroundRailroadLocations"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Populated Places On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesOnTheGreatLakes"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlements Established In1793",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1793"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vancouver",
+      "label":"Vancouver",
+      "offsets":[
+        {
+          "offset":847,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1862",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+        },
+        {
+          "label":"Coastal Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Cities on the Fraser River",
+          "uri":"http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Cities On The Fraser River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+        },
+        {
+          "label":"Cities In British Columbia",
+          "uri":"http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Detroit",
+      "label":"Detroit",
+      "offsets":[
+        {
+          "offset":333,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":545,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Calgary",
+      "label":"Calgary",
+      "offsets":[
+        {
+          "offset":174,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Village",
+          "uri":"http://umbel.org/umbel/sc/Village"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1875",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1875"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Towns And Cities With Limited Zero-fare Transport",
+          "uri":"http://dbpedia.org/class/yago/TownsAndCitiesWithLimitedZero-fareTransport"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Town",
+          "uri":"http://umbel.org/umbel/sc/Town"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tom_Poti",
+      "label":"Tom Poti",
+      "offsets":[
+        {
+          "offset":558,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Edmonton Oilers Players",
+          "uri":"http://dbpedia.org/class/yago/EdmontonOilersPlayers"
+        },
+        {
+          "label":"Edmonton Oilers players",
+          "uri":"http://dbpedia.org/resource/Edmonton_Oilers_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ian_Laperriere",
+      "label":"Ian Laperriere",
+      "offsets":[
+        {
+          "offset":698,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Canadian ice hockey centres",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+        },
+        {
+          "label":"Colorado Avalanche players",
+          "uri":"http://dbpedia.org/resource/Colorado_Avalanche_players"
+        },
+        {
+          "label":"Ice hockey personnel from Quebec",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Quebec"
+        },
+        {
+          "label":"Drummondville Voltigeurs alumni",
+          "uri":"http://dbpedia.org/resource/Drummondville_Voltigeurs_alumni"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manny_Malhotra",
+      "label":"Manny Malhotra",
+      "offsets":[
+        {
+          "offset":859,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Calder Cup champions",
+          "uri":"http://dbpedia.org/resource/Calder_Cup_champions"
+        },
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Canadian ice hockey centres",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+        },
+        {
+          "label":"Dallas Stars players",
+          "uri":"http://dbpedia.org/resource/Dallas_Stars_players"
+        },
+        {
+          "label":"HV71 players",
+          "uri":"http://dbpedia.org/resource/HV71_players"
+        },
+        {
+          "label":"Guelph Storm alumni",
+          "uri":"http://dbpedia.org/resource/Guelph_Storm_alumni"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"Asian Canadian sportspeople",
+          "uri":"http://dbpedia.org/resource/Asian_Canadian_sportspeople"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Steve_Yzerman",
+      "label":"Steve Yzerman",
+      "offsets":[
+        {
+          "offset":343,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"Canadian ice hockey centres",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+        },
+        {
+          "label":"National Hockey League Players With50Goal Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+        },
+        {
+          "label":"Bill Masterton Trophy winners",
+          "uri":"http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+        },
+        {
+          "label":"National Hockey League Executives",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeagueExecutives"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Detroit Red Wings players",
+          "uri":"http://dbpedia.org/resource/Detroit_Red_Wings_players"
+        },
+        {
+          "label":"Ice hockey personnel from British Columbia",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_British_Columbia"
+        },
+        {
+          "label":"National Hockey League Players With100Point Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+        },
+        {
+          "label":"Conn Smythe Trophy winners",
+          "uri":"http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian immigrants to the United States",
+          "uri":"http://dbpedia.org/resource/Canadian_immigrants_to_the_United_States"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":683,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mats_Sundin",
+      "label":"Mats Sundin",
+      "offsets":[
+        {
+          "offset":450,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Djurg%E5rdens IF Hockey players",
+          "uri":"http://dbpedia.org/resource/Djurg%E5rdens_IF_Hockey_players"
+        },
+        {
+          "label":"Olympic Ice Hockey Players Of Sweden",
+          "uri":"http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfSweden"
+        },
+        {
+          "label":"Olympic Gold Medalists For Sweden",
+          "uri":"http://dbpedia.org/class/yago/OlympicGoldMedalistsForSweden"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Winter Olympics Medalists",
+          "uri":"http://dbpedia.org/class/yago/WinterOlympicsMedalists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Toronto Maple Leafs Players",
+          "uri":"http://dbpedia.org/class/yago/TorontoMapleLeafsPlayers"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"National Hockey League Players With100Point Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+        },
+        {
+          "label":"Swedish Ice Hockey Players",
+          "uri":"http://dbpedia.org/class/yago/SwedishIceHockeyPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ice Hockey Player",
+          "uri":"http://dbpedia.org/ontology/IceHockeyPlayer"
+        },
+        {
+          "label":"Quebec Nordiques Players",
+          "uri":"http://dbpedia.org/class/yago/QuebecNordiquesPlayers"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"ice hockey player",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjL0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Djurg%C3%A5rdens IFHockey Players",
+          "uri":"http://dbpedia.org/class/yago/Djurg%C3%A5rdensIFHockeyPlayers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Al_MacInnis",
+      "label":"Al MacInnis",
+      "offsets":[
+        {
+          "offset":184,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Calgary Flames Players",
+          "uri":"http://dbpedia.org/class/yago/CalgaryFlamesPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Kitchener Rangers alumni",
+          "uri":"http://dbpedia.org/resource/Kitchener_Rangers_alumni"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Calgary Flames players",
+          "uri":"http://dbpedia.org/resource/Calgary_Flames_players"
+        },
+        {
+          "label":"Olympic Ice Hockey Players Of Canada",
+          "uri":"http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+        },
+        {
+          "label":"People From Kitchener,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKitchener,Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        },
+        {
+          "label":"Conn Smythe Trophy winners",
+          "uri":"http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+        },
+        {
+          "label":"National Hockey League Players With100Point Seasons",
+          "uri":"http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+        },
+        {
+          "label":"Ice hockey personnel from Nova Scotia",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Nova_Scotia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bryan_Berard",
+      "label":"Bryan Berard",
+      "offsets":[
+        {
+          "offset":39,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Calder Trophy winners",
+          "uri":"http://dbpedia.org/resource/Calder_Trophy_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American sportspeople",
+          "uri":"http://dbpedia.org/resource/American_sportspeople"
+        },
+        {
+          "label":"Bill Masterton Trophy winners",
+          "uri":"http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+        },
+        {
+          "label":"Detroit Whalers alumni",
+          "uri":"http://dbpedia.org/resource/Detroit_Whalers_alumni"
+        },
+        {
+          "label":"Boston Bruins players",
+          "uri":"http://dbpedia.org/resource/Boston_Bruins_players"
+        },
+        {
+          "label":"Detroit Junior Red Wings alumni",
+          "uri":"http://dbpedia.org/resource/Detroit_Junior_Red_Wings_alumni"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Toronto",
+      "label":"Toronto",
+      "offsets":[
+        {
+          "offset":29,
+          "length":7
+        },
+        {
+          "offset":440,
+          "length":7
+        },
+        {
+          "offset":29,
+          "length":7
+        },
+        {
+          "offset":440,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former Capitals Of Canada",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfCanada"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Underground Railroad Locations",
+          "uri":"http://dbpedia.org/class/yago/UndergroundRailroadLocations"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Populated Places On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesOnTheGreatLakes"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlements Established In1793",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1793"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vancouver",
+      "label":"Vancouver",
+      "offsets":[
+        {
+          "offset":847,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1862",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+        },
+        {
+          "label":"Coastal Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Cities on the Fraser River",
+          "uri":"http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Cities On The Fraser River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+        },
+        {
+          "label":"Cities In British Columbia",
+          "uri":"http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

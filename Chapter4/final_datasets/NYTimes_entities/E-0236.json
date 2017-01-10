@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Leon Fleisher",
+            "types": [
+                {
+                    "label": "Kennedy Center Honors recipients",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                },
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Leon_Fleisher"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0236",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Leon Fleisher",
+            "types": [
+                {
+                    "label": "Kennedy Center Honors recipients",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                },
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Leon_Fleisher"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

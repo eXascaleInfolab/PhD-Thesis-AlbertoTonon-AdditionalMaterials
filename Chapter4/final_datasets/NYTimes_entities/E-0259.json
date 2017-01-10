@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Philip Haigis",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "German singers",
+                    "uri": "http://dbpedia.org/resource/German_singers"
+                },
+                {
+                    "label": "German Singers",
+                    "uri": "http://dbpedia.org/class/yago/GermanSingers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anne_Haigis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0259",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Philip Haigis",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "German singers",
+                    "uri": "http://dbpedia.org/resource/German_singers"
+                },
+                {
+                    "label": "German Singers",
+                    "uri": "http://dbpedia.org/class/yago/GermanSingers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anne_Haigis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

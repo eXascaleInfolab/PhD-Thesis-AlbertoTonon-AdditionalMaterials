@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Latin America",
+            "types": [
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "non abducible collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Continent",
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                },
+                {
+                    "label": "Cultural Spheres Of Influence",
+                    "uri": "http://dbpedia.org/class/yago/CulturalSpheresOfInfluence"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country classifications",
+                    "uri": "http://dbpedia.org/resource/Country_classifications"
+                },
+                {
+                    "label": "Country Classifications",
+                    "uri": "http://dbpedia.org/class/yago/CountryClassifications"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "country type by general region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rVvBTrJhkQdiCKs3GWTcWTg"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Latin_America"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0498",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Latin America",
+            "types": [
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "non abducible collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Continent",
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                },
+                {
+                    "label": "Cultural Spheres Of Influence",
+                    "uri": "http://dbpedia.org/class/yago/CulturalSpheresOfInfluence"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country classifications",
+                    "uri": "http://dbpedia.org/resource/Country_classifications"
+                },
+                {
+                    "label": "Country Classifications",
+                    "uri": "http://dbpedia.org/class/yago/CountryClassifications"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "country type by general region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rVvBTrJhkQdiCKs3GWTcWTg"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Latin_America"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

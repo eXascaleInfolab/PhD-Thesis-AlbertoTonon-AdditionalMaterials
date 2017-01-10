@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Gene Sperling",
+            "types": [
+                {
+                    "label": "American economists",
+                    "uri": "http://dbpedia.org/resource/American_economists"
+                },
+                {
+                    "label": "People From Ann Arbor,Michigan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAnnArbor,Michigan"
+                },
+                {
+                    "label": "American Economists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanEconomists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gene_Sperling"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0630",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gene Sperling",
+            "types": [
+                {
+                    "label": "American economists",
+                    "uri": "http://dbpedia.org/resource/American_economists"
+                },
+                {
+                    "label": "People From Ann Arbor,Michigan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAnnArbor,Michigan"
+                },
+                {
+                    "label": "American Economists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanEconomists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gene_Sperling"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

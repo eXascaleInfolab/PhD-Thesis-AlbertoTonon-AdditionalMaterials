@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Steve Ellis",
+            "types": [
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "English Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                },
+                {
+                    "label": "English songwriters",
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Steve_Ellis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0277",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Steve Ellis",
+            "types": [
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "English Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                },
+                {
+                    "label": "English songwriters",
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Steve_Ellis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Tufts University",
+            "types": [
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Liberal Arts Colleges",
+                    "uri": "http://dbpedia.org/class/yago/LiberalArtsColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tufts_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0559",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Tufts University",
+            "types": [
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Liberal Arts Colleges",
+                    "uri": "http://dbpedia.org/class/yago/LiberalArtsColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tufts_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Queens",
+            "types": [
+                {
+                    "label": "Settlements Established In1635",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1635"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "borough",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "US county",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Queens"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0088",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Queens",
+            "types": [
+                {
+                    "label": "Settlements Established In1635",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1635"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "borough",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "US county",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Queens"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

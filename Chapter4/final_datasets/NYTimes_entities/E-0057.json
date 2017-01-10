@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "United Nations",
+            "types": [
+                {
+                    "label": "Political Systems",
+                    "uri": "http://dbpedia.org/class/yago/PoliticalSystems"
+                },
+                {
+                    "label": "some relevant international organizations hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "International Organizations",
+                    "uri": "http://dbpedia.org/class/yago/InternationalOrganizations"
+                },
+                {
+                    "label": "government organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "temporal object type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                },
+                {
+                    "label": "famous organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "organization of countries",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person Function",
+                    "uri": "http://dbpedia.org/ontology/PersonFunction"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/United_Nations"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0057",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "United Nations",
+            "types": [
+                {
+                    "label": "Political Systems",
+                    "uri": "http://dbpedia.org/class/yago/PoliticalSystems"
+                },
+                {
+                    "label": "some relevant international organizations hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "International Organizations",
+                    "uri": "http://dbpedia.org/class/yago/InternationalOrganizations"
+                },
+                {
+                    "label": "government organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "temporal object type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                },
+                {
+                    "label": "famous organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "organization of countries",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person Function",
+                    "uri": "http://dbpedia.org/ontology/PersonFunction"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/United_Nations"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

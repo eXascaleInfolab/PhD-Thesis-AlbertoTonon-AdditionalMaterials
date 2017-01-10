@@ -1,0 +1,313 @@
+{
+    "allEntities": [
+        {
+            "label": "Brendan Shanahan",
+            "types": [
+                {
+                    "label": "D%C3%BCsseldorfer EGPlayers",
+                    "uri": "http://dbpedia.org/class/yago/D%C3%BCsseldorferEGPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "D%FCsseldorfer EG players",
+                    "uri": "http://dbpedia.org/resource/D%FCsseldorfer_EG_players"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Deutsche Eishockey-Liga Players",
+                    "uri": "http://dbpedia.org/class/yago/DeutscheEishockey-LigaPlayers"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Winter Olympics Medalists",
+                    "uri": "http://dbpedia.org/class/yago/WinterOlympicsMedalists"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                },
+                {
+                    "label": "Olympic Gold Medalists For Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForCanada"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Hartford Whalers Players",
+                    "uri": "http://dbpedia.org/class/yago/HartfordWhalersPlayers"
+                },
+                {
+                    "label": "ice hockey player",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjL0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Canadian Ice Hockey Left Wingers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "People From Toronto",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromToronto"
+                },
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "man",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "National Hockey League Players With50Goal Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+                },
+                {
+                    "label": "Ice Hockey Players At The2002Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2002WinterOlympics"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "St.Louis Blues Players",
+                    "uri": "http://dbpedia.org/class/yago/St.LouisBluesPlayers"
+                },
+                {
+                    "label": "Ice Hockey Players At The1998Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe1998WinterOlympics"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "King Clancy Memorial Trophy winners",
+                    "uri": "http://dbpedia.org/resource/King_Clancy_Memorial_Trophy_winners"
+                },
+                {
+                    "label": "London Knights Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LondonKnightsAlumni"
+                },
+                {
+                    "label": "Stanley Cup Champions",
+                    "uri": "http://dbpedia.org/class/yago/StanleyCupChampions"
+                },
+                {
+                    "label": "Detroit Red Wings Players",
+                    "uri": "http://dbpedia.org/class/yago/DetroitRedWingsPlayers"
+                },
+                {
+                    "label": "Hartford Whalers players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Whalers_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Brendan_Shanahan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0145",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Brendan Shanahan",
+            "types": [
+                {
+                    "label": "D%C3%BCsseldorfer EGPlayers",
+                    "uri": "http://dbpedia.org/class/yago/D%C3%BCsseldorferEGPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "D%FCsseldorfer EG players",
+                    "uri": "http://dbpedia.org/resource/D%FCsseldorfer_EG_players"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Deutsche Eishockey-Liga Players",
+                    "uri": "http://dbpedia.org/class/yago/DeutscheEishockey-LigaPlayers"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Winter Olympics Medalists",
+                    "uri": "http://dbpedia.org/class/yago/WinterOlympicsMedalists"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                },
+                {
+                    "label": "Olympic Gold Medalists For Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForCanada"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Hartford Whalers Players",
+                    "uri": "http://dbpedia.org/class/yago/HartfordWhalersPlayers"
+                },
+                {
+                    "label": "ice hockey player",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjL0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Canadian Ice Hockey Left Wingers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "People From Toronto",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromToronto"
+                },
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "man",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "National Hockey League Players With50Goal Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+                },
+                {
+                    "label": "Ice Hockey Players At The2002Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2002WinterOlympics"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "St.Louis Blues Players",
+                    "uri": "http://dbpedia.org/class/yago/St.LouisBluesPlayers"
+                },
+                {
+                    "label": "Ice Hockey Players At The1998Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe1998WinterOlympics"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "King Clancy Memorial Trophy winners",
+                    "uri": "http://dbpedia.org/resource/King_Clancy_Memorial_Trophy_winners"
+                },
+                {
+                    "label": "London Knights Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LondonKnightsAlumni"
+                },
+                {
+                    "label": "Stanley Cup Champions",
+                    "uri": "http://dbpedia.org/class/yago/StanleyCupChampions"
+                },
+                {
+                    "label": "Detroit Red Wings Players",
+                    "uri": "http://dbpedia.org/class/yago/DetroitRedWingsPlayers"
+                },
+                {
+                    "label": "Hartford Whalers players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Whalers_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Brendan_Shanahan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

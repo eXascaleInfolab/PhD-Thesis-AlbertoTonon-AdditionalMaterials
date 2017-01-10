@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Ruth McKenney",
+            "types": [
+                {
+                    "label": "American Journalists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanJournalists"
+                },
+                {
+                    "label": "People From Indiana",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromIndiana"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "People From Cleveland,Ohio",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCleveland,Ohio"
+                },
+                {
+                    "label": "American dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/American_dramatists_and_playwrights"
+                },
+                {
+                    "label": "American Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ruth_McKenney"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0169",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ruth McKenney",
+            "types": [
+                {
+                    "label": "American Journalists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanJournalists"
+                },
+                {
+                    "label": "People From Indiana",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromIndiana"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "People From Cleveland,Ohio",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCleveland,Ohio"
+                },
+                {
+                    "label": "American dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/American_dramatists_and_playwrights"
+                },
+                {
+                    "label": "American Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ruth_McKenney"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

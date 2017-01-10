@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Debbie Halvorson",
+            "types": [
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/ontology/Congressman"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "State Senator",
+                    "uri": "http://dbpedia.org/class/yago/StateSenator110650076"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Chicago Heights,Illinois",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicagoHeights,Illinois"
+                },
+                {
+                    "label": "Illinois State Senators",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisStateSenators"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Illinois politicians",
+                    "uri": "http://dbpedia.org/resource/Illinois_politicians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Debbie_Halvorson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0232",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Debbie Halvorson",
+            "types": [
+                {
+                    "label": "Congressman",
+                    "uri": "http://dbpedia.org/ontology/Congressman"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "State Senator",
+                    "uri": "http://dbpedia.org/class/yago/StateSenator110650076"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Chicago Heights,Illinois",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicagoHeights,Illinois"
+                },
+                {
+                    "label": "Illinois State Senators",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisStateSenators"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Illinois politicians",
+                    "uri": "http://dbpedia.org/resource/Illinois_politicians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Debbie_Halvorson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

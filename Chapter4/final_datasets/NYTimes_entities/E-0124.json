@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "American Hockey League",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ice Hockey League",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyLeague"
+                },
+                {
+                    "label": "minor league hockey",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwLk8C5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "League",
+                    "uri": "http://dbpedia.org/class/yago/League108231184"
+                },
+                {
+                    "label": "Sports League",
+                    "uri": "http://dbpedia.org/ontology/SportsLeague"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Hockey_League"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0124",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "American Hockey League",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ice Hockey League",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyLeague"
+                },
+                {
+                    "label": "minor league hockey",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwLk8C5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "League",
+                    "uri": "http://dbpedia.org/class/yago/League108231184"
+                },
+                {
+                    "label": "Sports League",
+                    "uri": "http://dbpedia.org/ontology/SportsLeague"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Hockey_League"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

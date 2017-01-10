@@ -1,0 +1,565 @@
+{
+  "mainText":"The Academy, desperate to attract younger viewers, hired Ms. Hathaway and James Franco to be hosts in 2011.\nCritics booed , complaining in particular about a near-catatonic Mr. Franco.\nLast year the Academy overcorrected, handing hosting duties to Billy Crystal; the critics hissed , calling the show antiquated.\nIt had hoped to strike the right chord Sunday with Mr. MacFarlane.",
+  "shownText":"Hollywood has learned to have low expectations for the Oscar telecast, which for the past three years has posted declines among viewers ages 18 to 49, the demographic group advertisers pay the most to reach.\n(Last year the Oscar show attracted a total audience of 39.3 million viewers, a 3.7 percent increase from the previous year.)\n\nThe Academy, desperate to attract younger viewers, hired Ms. Hathaway and James Franco to be hosts in 2011.\nCritics booed , complaining in particular about a near-catatonic Mr. Franco.\nLast year the Academy overcorrected, handing hosting duties to Billy Crystal; the critics hissed , calling the show antiquated.\nIt had hoped to strike the right chord Sunday with Mr. MacFarlane.\n\nThe Academy was counting on Mr. MacFarlane to lure young male viewers, the primary audience for his \u201cFamily Guy\u201d television cartoon and R-rated movie \u201cTed.\u201d\nBut in a bit of a disconnect Mr. Zadan, making the publicity rounds last week, said Mr. MacFarlane in rehearsals reminded him of a \u201c throwback to the days of Bob Hope .\u201d\n",
+  "title":"Best Picture for âArgoâ in Varied Oscar Field - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0026",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/James_Franco",
+      "label":"James Franco",
+      "offsets":[
+        {
+          "offset":409,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"California actors",
+          "uri":"http://dbpedia.org/resource/California_actors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"California Actors",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaActors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From The San Francisco Bay Area",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheSanFranciscoBayArea"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Billy_Crystal",
+      "label":"Billy Crystal",
+      "offsets":[
+        {
+          "offset":583,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Nassau County,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNassauCounty,NewYork"
+        },
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Award winners",
+          "uri":"http://dbpedia.org/resource/Award_winners"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Comedian",
+          "uri":"http://dbpedia.org/ontology/Comedian"
+        },
+        {
+          "label":"American Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanStand-upComedians"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American impressionists (entertainers)",
+          "uri":"http://dbpedia.org/resource/American_impressionists_%28entertainers%29"
+        },
+        {
+          "label":"Jewish Comedians",
+          "uri":"http://dbpedia.org/class/yago/JewishComedians"
+        },
+        {
+          "label":"Jewish comedians",
+          "uri":"http://dbpedia.org/resource/Jewish_comedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"WWECelebrities",
+          "uri":"http://dbpedia.org/class/yago/WWECelebrities"
+        },
+        {
+          "label":"American Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedians"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"New York University Alumni",
+          "uri":"http://dbpedia.org/class/yago/NewYorkUniversityAlumni"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Craig_Zadan",
+      "label":"Craig Zadan",
+      "offsets":[
+        {
+          "offset":906,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"LGBT directors",
+          "uri":"http://dbpedia.org/resource/LGBT_directors"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/James_Franco",
+      "label":"James Franco",
+      "offsets":[
+        {
+          "offset":409,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"California actors",
+          "uri":"http://dbpedia.org/resource/California_actors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"California Actors",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaActors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From The San Francisco Bay Area",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheSanFranciscoBayArea"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Billy_Crystal",
+      "label":"Billy Crystal",
+      "offsets":[
+        {
+          "offset":583,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Nassau County,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNassauCounty,NewYork"
+        },
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Award winners",
+          "uri":"http://dbpedia.org/resource/Award_winners"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Comedian",
+          "uri":"http://dbpedia.org/ontology/Comedian"
+        },
+        {
+          "label":"American Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanStand-upComedians"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American impressionists (entertainers)",
+          "uri":"http://dbpedia.org/resource/American_impressionists_%28entertainers%29"
+        },
+        {
+          "label":"Jewish Comedians",
+          "uri":"http://dbpedia.org/class/yago/JewishComedians"
+        },
+        {
+          "label":"Jewish comedians",
+          "uri":"http://dbpedia.org/resource/Jewish_comedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"WWECelebrities",
+          "uri":"http://dbpedia.org/class/yago/WWECelebrities"
+        },
+        {
+          "label":"American Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedians"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"New York University Alumni",
+          "uri":"http://dbpedia.org/class/yago/NewYorkUniversityAlumni"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bob_Hope",
+      "label":"Bob Hope",
+      "offsets":[
+        {
+          "offset":1031,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Honorary British knighthoods",
+          "uri":"http://dbpedia.org/resource/Honorary_British_knighthoods"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Converts To Roman Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"American centenarians",
+          "uri":"http://dbpedia.org/resource/American_centenarians"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American Centenarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanCentenarians"
+        },
+        {
+          "label":"People From Eltham",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromEltham"
+        },
+        {
+          "label":"English radio personalities",
+          "uri":"http://dbpedia.org/resource/English_radio_personalities"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"Burlesque Performers",
+          "uri":"http://dbpedia.org/class/yago/BurlesquePerformers"
+        },
+        {
+          "label":"Vaudeville Performers",
+          "uri":"http://dbpedia.org/class/yago/VaudevillePerformers"
+        },
+        {
+          "label":"Kentucky Colonels",
+          "uri":"http://dbpedia.org/class/yago/KentuckyColonels"
+        },
+        {
+          "label":"English comedians",
+          "uri":"http://dbpedia.org/resource/English_comedians"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"English Comedians",
+          "uri":"http://dbpedia.org/class/yago/EnglishComedians"
+        },
+        {
+          "label":"English Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/EnglishStand-upComedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Roman Catholics",
+          "uri":"http://dbpedia.org/resource/English_Roman_Catholics"
+        },
+        {
+          "label":"Burlesque performers",
+          "uri":"http://dbpedia.org/resource/Burlesque_performers"
+        },
+        {
+          "label":"Academy Honorary Award recipients",
+          "uri":"http://dbpedia.org/resource/Academy_Honorary_Award_recipients"
+        },
+        {
+          "label":"Converts to Roman Catholicism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+        },
+        {
+          "label":"English television actors",
+          "uri":"http://dbpedia.org/resource/English_television_actors"
+        }
+      ]
+    }
+  ]
+}

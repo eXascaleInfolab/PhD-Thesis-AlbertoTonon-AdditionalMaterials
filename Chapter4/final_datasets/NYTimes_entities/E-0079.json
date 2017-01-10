@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "China",
+            "types": [
+                {
+                    "label": "Civilization",
+                    "uri": "http://dbpedia.org/class/yago/Civilization108111783"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "geographical region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://dbpedia.org/class/yago/Region108630039"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Qi",
+                    "uri": "http://dbpedia.org/class/yago/Qi114050559"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/China"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0079",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "China",
+            "types": [
+                {
+                    "label": "Civilization",
+                    "uri": "http://dbpedia.org/class/yago/Civilization108111783"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "geographical region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://dbpedia.org/class/yago/Region108630039"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Qi",
+                    "uri": "http://dbpedia.org/class/yago/Qi114050559"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/China"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

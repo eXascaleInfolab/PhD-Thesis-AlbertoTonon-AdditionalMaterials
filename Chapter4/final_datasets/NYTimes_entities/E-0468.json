@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Bronx",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bronx"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0468",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bronx",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bronx"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

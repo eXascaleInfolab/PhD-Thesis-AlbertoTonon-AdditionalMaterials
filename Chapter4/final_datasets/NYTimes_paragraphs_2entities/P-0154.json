@@ -1,0 +1,541 @@
+{
+  "mainText":"\u201cFiscal questions trump defense in a way they never would have after 911,\u201d said Representative Tom Cole, Republican of Oklahoma.\n\u201cBut the war in Iraq is over.\nTroops are coming home from Afghanistan, and we want to secure the cuts.\u201d",
+  "shownText":"\u201cFiscal questions trump defense in a way they never would have after 911,\u201d said Representative Tom Cole, Republican of Oklahoma.\n\u201cBut the war in Iraq is over.\nTroops are coming home from Afghanistan, and we want to secure the cuts.\u201d",
+  "title":"Democrats and Republicans Miscalculate on Automatic Cuts - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/us/politics/democrats-and-republicans-miscalculate-on-automatic-cuts.html",
+  "category":"politics",
+  "docID":"P-0154",
+  "elementNumber":7,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Iraq",
+      "label":"Iraq",
+      "offsets":[
+        {
+          "offset":145,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"authoritarian government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRd3pAm2hEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the persian gulf hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r68SWVmJsQdiPidDC-DYkdg"
+        },
+        {
+          "label":"Economy",
+          "uri":"http://dbpedia.org/class/yago/Economy108366753"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Persian Gulf Countries",
+          "uri":"http://dbpedia.org/class/yago/PersianGulfCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Territories Under Military Occupation",
+          "uri":"http://dbpedia.org/class/yago/TerritoriesUnderMilitaryOccupation"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"Persian Gulf country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv5I5FZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Southwest Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/SouthwestAsianCountries"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"head sponsor of terrorism",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvWWU7ZwpEbGdrcN5Y29ycB4rvhBcQ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"OPECMember States",
+          "uri":"http://dbpedia.org/class/yago/OPECMemberStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"States And Territories Established In1932",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1932"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Afghanistan",
+      "label":"Afghanistan",
+      "offsets":[
+        {
+          "offset":187,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Middle Eastern country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Oklahoma",
+      "label":"Oklahoma",
+      "offsets":[
+        {
+          "offset":119,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tom_Cole",
+      "label":"Tom Cole",
+      "offsets":[
+        {
+          "offset":95,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Chickasaw people",
+          "uri":"http://dbpedia.org/resource/Chickasaw_people"
+        },
+        {
+          "label":"Native American People",
+          "uri":"http://dbpedia.org/class/yago/NativeAmericanPeople"
+        },
+        {
+          "label":"Congressman",
+          "uri":"http://dbpedia.org/class/yago/Congressman109955781"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Oklahoma State Senators",
+          "uri":"http://dbpedia.org/class/yago/OklahomaStateSenators"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Grinnell College people",
+          "uri":"http://dbpedia.org/resource/Grinnell_College_people"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Iraq",
+      "label":"Iraq",
+      "offsets":[
+        {
+          "offset":145,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"authoritarian government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRd3pAm2hEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the persian gulf hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r68SWVmJsQdiPidDC-DYkdg"
+        },
+        {
+          "label":"Economy",
+          "uri":"http://dbpedia.org/class/yago/Economy108366753"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Persian Gulf Countries",
+          "uri":"http://dbpedia.org/class/yago/PersianGulfCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Arabic-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Arabic-speakingCountries"
+        },
+        {
+          "label":"Territories Under Military Occupation",
+          "uri":"http://dbpedia.org/class/yago/TerritoriesUnderMilitaryOccupation"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Arab League Member States",
+          "uri":"http://dbpedia.org/class/yago/ArabLeagueMemberStates"
+        },
+        {
+          "label":"Persian Gulf country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv5I5FZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rRh4l5m29EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Southwest Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/SouthwestAsianCountries"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"head sponsor of terrorism",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvWWU7ZwpEbGdrcN5Y29ycB4rvhBcQ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"OPECMember States",
+          "uri":"http://dbpedia.org/class/yago/OPECMemberStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"States And Territories Established In1932",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1932"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Afghanistan",
+      "label":"Afghanistan",
+      "offsets":[
+        {
+          "offset":187,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Least Developed Countries",
+          "uri":"http://dbpedia.org/class/yago/LeastDevelopedCountries"
+        },
+        {
+          "label":"Middle Eastern country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Oklahoma",
+      "label":"Oklahoma",
+      "offsets":[
+        {
+          "offset":119,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tom_Cole",
+      "label":"Tom Cole",
+      "offsets":[
+        {
+          "offset":95,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Chickasaw people",
+          "uri":"http://dbpedia.org/resource/Chickasaw_people"
+        },
+        {
+          "label":"Native American People",
+          "uri":"http://dbpedia.org/class/yago/NativeAmericanPeople"
+        },
+        {
+          "label":"Congressman",
+          "uri":"http://dbpedia.org/class/yago/Congressman109955781"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Oklahoma State Senators",
+          "uri":"http://dbpedia.org/class/yago/OklahomaStateSenators"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Grinnell College people",
+          "uri":"http://dbpedia.org/resource/Grinnell_College_people"
+        }
+      ]
+    }
+  ]
+}

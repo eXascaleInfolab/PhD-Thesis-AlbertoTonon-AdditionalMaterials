@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "US",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/US"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0613",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "US",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/US"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

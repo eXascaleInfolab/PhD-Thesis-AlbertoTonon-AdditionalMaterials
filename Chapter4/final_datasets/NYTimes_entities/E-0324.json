@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Rachael Ray",
+            "types": [
+                {
+                    "label": "American television talk show hosts",
+                    "uri": "http://dbpedia.org/resource/American_television_talk_show_hosts"
+                },
+                {
+                    "label": "Chef",
+                    "uri": "http://dbpedia.org/class/yago/Chef109963574"
+                },
+                {
+                    "label": "American food writers",
+                    "uri": "http://dbpedia.org/resource/American_food_writers"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "American television chefs",
+                    "uri": "http://dbpedia.org/resource/American_television_chefs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rachael_Ray"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0324",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rachael Ray",
+            "types": [
+                {
+                    "label": "American television talk show hosts",
+                    "uri": "http://dbpedia.org/resource/American_television_talk_show_hosts"
+                },
+                {
+                    "label": "Chef",
+                    "uri": "http://dbpedia.org/class/yago/Chef109963574"
+                },
+                {
+                    "label": "American food writers",
+                    "uri": "http://dbpedia.org/resource/American_food_writers"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "American television chefs",
+                    "uri": "http://dbpedia.org/resource/American_television_chefs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rachael_Ray"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

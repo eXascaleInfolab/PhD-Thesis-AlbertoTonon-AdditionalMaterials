@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "David Glassberg",
+            "types": [
+                {
+                    "label": "Alumnus",
+                    "uri": "http://dbpedia.org/class/yago/Alumnus109786338"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Northwestern University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/NorthwesternUniversityAlumni"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lauren_Glassberg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0329",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "David Glassberg",
+            "types": [
+                {
+                    "label": "Alumnus",
+                    "uri": "http://dbpedia.org/class/yago/Alumnus109786338"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Northwestern University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/NorthwesternUniversityAlumni"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lauren_Glassberg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Yugoslavia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Former Countries In Europe",
+                    "uri": "http://dbpedia.org/class/yago/FormerCountriesInEurope"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yugoslavia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0221",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Yugoslavia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Former Countries In Europe",
+                    "uri": "http://dbpedia.org/class/yago/FormerCountriesInEurope"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yugoslavia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

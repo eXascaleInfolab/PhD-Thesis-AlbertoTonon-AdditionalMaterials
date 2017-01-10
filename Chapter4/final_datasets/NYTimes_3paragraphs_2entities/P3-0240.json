@@ -1,0 +1,825 @@
+{
+  "mainText":"Designers are common enough in London, even visionaries and stars like Mr. Ford, but just now the city is full of young talent making relevant clothes.\nFor a while, it was the curse of British designers to be misfits.\nIt meant that anyone grounded in a normal life had to struggle against the assumption that they were not as seriously gifted as Vivienne Westwood or Alexander McQueen.",
+  "shownText":"Follow @NYTimesfashion for fashion, beauty and lifestyle news and headlines.\n\nDesigners are common enough in London, even visionaries and stars like Mr. Ford, but just now the city is full of young talent making relevant clothes.\nFor a while, it was the curse of British designers to be misfits.\nIt meant that anyone grounded in a normal life had to struggle against the assumption that they were not as seriously gifted as Vivienne Westwood or Alexander McQueen.\n\n\u201cLondon was a stopping-off place to the important fashion capitals,\u201d said Justine Picardie, the editor of British Harper\u2019s Bazaar, alluding to the creative and financial clout of Milan and Paris.\nBut even some of London\u2019s finest names want the better billing of Paris.\nStella McCartney, Phoebe Philo and Hussein Chalayan all live and work in London but show in Paris.\n",
+  "title":"Londonâs New Designers Unleash Their Creative Force - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/21/fashion/londons-new-designers-unleash-their-creative-force.html?ref=style",
+  "category":"style",
+  "docID":"P3-0240",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        },
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        },
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        },
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vivienne_Westwood",
+      "label":"Vivienne Westwood",
+      "offsets":[
+        {
+          "offset":424,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"Alumni Of The University Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfTheUniversityOfWestminster"
+        },
+        {
+          "label":"Shoe Designers",
+          "uri":"http://dbpedia.org/class/yago/ShoeDesigners"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"People From Derbyshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDerbyshire"
+        },
+        {
+          "label":"Alumni Of Middlesex University",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfMiddlesexUniversity"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alexander_McQueen",
+      "label":"Alexander McQueen",
+      "offsets":[
+        {
+          "offset":445,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"People From London",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLondon"
+        },
+        {
+          "label":"Gucci brands",
+          "uri":"http://dbpedia.org/resource/Gucci_brands"
+        },
+        {
+          "label":"LGBTPeople From England",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+        },
+        {
+          "label":"Commanders Of The Order Of The British Empire",
+          "uri":"http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hussein_Chalayan",
+      "label":"Hussein Chalayan",
+      "offsets":[
+        {
+          "offset":769,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"English Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishDesigners"
+        },
+        {
+          "label":"Anglo-Cypriots",
+          "uri":"http://dbpedia.org/resource/Anglo-Cypriots"
+        },
+        {
+          "label":"English designers",
+          "uri":"http://dbpedia.org/resource/English_designers"
+        },
+        {
+          "label":"Immigrants to the United Kingdom",
+          "uri":"http://dbpedia.org/resource/Immigrants_to_the_United_Kingdom"
+        },
+        {
+          "label":"British fashion designers",
+          "uri":"http://dbpedia.org/resource/British_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        },
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        },
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        },
+        {
+          "offset":109,
+          "length":6
+        },
+        {
+          "offset":466,
+          "length":6
+        },
+        {
+          "offset":678,
+          "length":6
+        },
+        {
+          "offset":807,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Milan",
+      "label":"Milan",
+      "offsets":[
+        {
+          "offset":644,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"cuisine",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Settlements Established In The1st Millennium BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stella_McCartney",
+      "label":"Stella McCartney",
+      "offsets":[
+        {
+          "offset":734,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"English Activists",
+          "uri":"http://dbpedia.org/class/yago/EnglishActivists"
+        },
+        {
+          "label":"English Jews",
+          "uri":"http://dbpedia.org/resource/English_Jews"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"English activists",
+          "uri":"http://dbpedia.org/resource/English_activists"
+        },
+        {
+          "label":"English vegetarians",
+          "uri":"http://dbpedia.org/resource/English_vegetarians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Phoebe_Philo",
+      "label":"Phoebe Philo",
+      "offsets":[
+        {
+          "offset":752,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"Anglo-French people",
+          "uri":"http://dbpedia.org/resource/Anglo-French_people"
+        },
+        {
+          "label":"Anglo-French People",
+          "uri":"http://dbpedia.org/class/yago/Anglo-FrenchPeople"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Paris",
+      "label":"Paris",
+      "offsets":[
+        {
+          "offset":654,
+          "length":5
+        },
+        {
+          "offset":727,
+          "length":5
+        },
+        {
+          "offset":826,
+          "length":5
+        },
+        {
+          "offset":654,
+          "length":5
+        },
+        {
+          "offset":727,
+          "length":5
+        },
+        {
+          "offset":826,
+          "length":5
+        },
+        {
+          "offset":654,
+          "length":5
+        },
+        {
+          "offset":727,
+          "length":5
+        },
+        {
+          "offset":826,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Companions Of The Liberation",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+        },
+        {
+          "label":"French department",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"3rd century BC establishments",
+          "uri":"http://dbpedia.org/resource/3rd_century_BC_establishments"
+        },
+        {
+          "label":"European Capitals Of Culture",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+        },
+        {
+          "label":"French commune",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":"World Heritage Sites In France",
+          "uri":"http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Picardie",
+      "label":"Justine Picardie",
+      "offsets":[
+        {
+          "offset":539,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"NUTS2Statistical Regions Of The European Union",
+          "uri":"http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheEuropeanUnion"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vivienne_Westwood",
+      "label":"Vivienne Westwood",
+      "offsets":[
+        {
+          "offset":424,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"Alumni Of The University Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfTheUniversityOfWestminster"
+        },
+        {
+          "label":"Shoe Designers",
+          "uri":"http://dbpedia.org/class/yago/ShoeDesigners"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"People From Derbyshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDerbyshire"
+        },
+        {
+          "label":"Alumni Of Middlesex University",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfMiddlesexUniversity"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alexander_McQueen",
+      "label":"Alexander McQueen",
+      "offsets":[
+        {
+          "offset":445,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"People From London",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLondon"
+        },
+        {
+          "label":"Gucci brands",
+          "uri":"http://dbpedia.org/resource/Gucci_brands"
+        },
+        {
+          "label":"LGBTPeople From England",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+        },
+        {
+          "label":"Commanders Of The Order Of The British Empire",
+          "uri":"http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

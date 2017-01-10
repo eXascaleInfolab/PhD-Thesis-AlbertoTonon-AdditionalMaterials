@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Max Frankel",
+            "types": [
+                {
+                    "label": "American newspaper editors",
+                    "uri": "http://dbpedia.org/resource/American_newspaper_editors"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Max_Frankel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0062",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Max Frankel",
+            "types": [
+                {
+                    "label": "American newspaper editors",
+                    "uri": "http://dbpedia.org/resource/American_newspaper_editors"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Max_Frankel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

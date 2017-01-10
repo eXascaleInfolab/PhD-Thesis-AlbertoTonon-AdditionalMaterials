@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "International Criminal Court",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "International courts",
+                    "uri": "http://dbpedia.org/resource/International_courts"
+                },
+                {
+                    "label": "Human Rights Organizations",
+                    "uri": "http://dbpedia.org/class/yago/HumanRightsOrganizations"
+                },
+                {
+                    "label": "Human rights organizations",
+                    "uri": "http://dbpedia.org/resource/Human_rights_organizations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "International Courts",
+                    "uri": "http://dbpedia.org/class/yago/InternationalCourts"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Criminal_Court"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0271",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "International Criminal Court",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "International courts",
+                    "uri": "http://dbpedia.org/resource/International_courts"
+                },
+                {
+                    "label": "Human Rights Organizations",
+                    "uri": "http://dbpedia.org/class/yago/HumanRightsOrganizations"
+                },
+                {
+                    "label": "Human rights organizations",
+                    "uri": "http://dbpedia.org/resource/Human_rights_organizations"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "International Courts",
+                    "uri": "http://dbpedia.org/class/yago/InternationalCourts"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Criminal_Court"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

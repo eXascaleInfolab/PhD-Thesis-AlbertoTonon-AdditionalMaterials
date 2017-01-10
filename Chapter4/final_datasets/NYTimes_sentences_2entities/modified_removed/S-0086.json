@@ -1,0 +1,221 @@
+{
+    "allEntities": [
+        {
+            "label": "John Krenicki Jr.", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 13
+                }
+            ], 
+            "types": [
+                {
+                    "label": "People From Baton Rouge", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "African American sportspeople", 
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }, 
+                {
+                    "label": "American Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                }, 
+                {
+                    "label": "Centers (basketball)", 
+                    "uri": "http://dbpedia.org/resource/Centers_%28basketball%29"
+                }, 
+                {
+                    "label": "Basketball Player", 
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                }, 
+                {
+                    "label": "Dallas Mavericks players", 
+                    "uri": "http://dbpedia.org/resource/Dallas_Mavericks_players"
+                }, 
+                {
+                    "label": "Cleveland Cavaliers Players", 
+                    "uri": "http://dbpedia.org/class/yago/ClevelandCavaliersPlayers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Athlete", 
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                }, 
+                {
+                    "label": "Phoenix Suns Players", 
+                    "uri": "http://dbpedia.org/class/yago/PhoenixSunsPlayers"
+                }, 
+                {
+                    "label": "Cleveland Cavaliers players", 
+                    "uri": "http://dbpedia.org/resource/Cleveland_Cavaliers_players"
+                }, 
+                {
+                    "label": "Dallas Mavericks Players", 
+                    "uri": "http://dbpedia.org/class/yago/DallasMavericksPlayers"
+                }, 
+                {
+                    "label": "Tulane Green Wave Men's Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/TulaneGreenWaveMen'sBasketballPlayers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/John_%22Hot_Rod%22_Williams"
+        }, 
+        {
+            "label": "Deloitte", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 173
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Deloitte"
+        }
+    ], 
+    "articleUrl": "http://dealbook.nytimes.com/2013/03/04/hess-to-sell-refining-arm-and-revamp-its-board/", 
+    "category": "dealbook", 
+    "docID": "S-0086", 
+    "elementNumber": 23, 
+    "mainEntities": [
+        {
+            "label": "John Krenicki Jr.", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 13
+                }
+            ], 
+            "types": [
+                {
+                    "label": "People From Baton Rouge", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "African American sportspeople", 
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }, 
+                {
+                    "label": "American Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                }, 
+                {
+                    "label": "Centers (basketball)", 
+                    "uri": "http://dbpedia.org/resource/Centers_%28basketball%29"
+                }, 
+                {
+                    "label": "Basketball Player", 
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                }, 
+                {
+                    "label": "Dallas Mavericks players", 
+                    "uri": "http://dbpedia.org/resource/Dallas_Mavericks_players"
+                }, 
+                {
+                    "label": "Cleveland Cavaliers Players", 
+                    "uri": "http://dbpedia.org/class/yago/ClevelandCavaliersPlayers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Athlete", 
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                }, 
+                {
+                    "label": "Phoenix Suns Players", 
+                    "uri": "http://dbpedia.org/class/yago/PhoenixSunsPlayers"
+                }, 
+                {
+                    "label": "Cleveland Cavaliers players", 
+                    "uri": "http://dbpedia.org/resource/Cleveland_Cavaliers_players"
+                }, 
+                {
+                    "label": "Dallas Mavericks Players", 
+                    "uri": "http://dbpedia.org/class/yago/DallasMavericksPlayers"
+                }, 
+                {
+                    "label": "Tulane Green Wave Men's Basketball Players", 
+                    "uri": "http://dbpedia.org/class/yago/TulaneGreenWaveMen'sBasketballPlayers"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/John_%22Hot_Rod%22_Williams"
+        }, 
+        {
+            "label": "Deloitte", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 173
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Deloitte"
+        }
+    ], 
+    "mainText": "They include John Krenicki Jr., a former head of GE Energy; William Schrader, a former chief operating officer of TNK-BP ; and James H. Quigley, a former chief executive of Deloitte.", 
+    "shownText": "They include John Krenicki Jr., a former head of GE Energy; William Schrader, a former chief operating officer of TNK-BP ; and James H. Quigley, a former chief executive of Deloitte.", 
+    "title": "Hess to Sell Refining Arm and Revamp Its Board  - NYTimes.com"
+}

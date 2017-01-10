@@ -1,0 +1,189 @@
+{
+  "mainText":"But isn\u2019t comfort often associated with food and home?\nCould the message in the roomier coats, formless sweaters and the exquisitely refined slob appeal of Miuccia Prada\u2019s undone tweeds be: eat, enjoy!\nAnd, while you\u2019re at it, pass the potatoes.",
+  "shownText":"But isn\u2019t comfort often associated with food and home?\nCould the message in the roomier coats, formless sweaters and the exquisitely refined slob appeal of Miuccia Prada\u2019s undone tweeds be: eat, enjoy!\nAnd, while you\u2019re at it, pass the potatoes.",
+  "title":"Stella McCartney, Givenchy, ChloÃ© -  Fashion Review - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/fashion/stella-mccartney-givenchy-chloe-fashion-review.html?ref=style",
+  "category":"style",
+  "docID":"P-0238",
+  "elementNumber":8,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Prada",
+      "label":"Prada",
+      "offsets":[
+        {
+          "offset":164,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Established In1913",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1913"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Italian clothing and textile companies",
+          "uri":"http://dbpedia.org/resource/Italian_clothing_and_textile_companies"
+        },
+        {
+          "label":"High Fashion Brands",
+          "uri":"http://dbpedia.org/class/yago/HighFashionBrands"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"High fashion brands",
+          "uri":"http://dbpedia.org/resource/High_fashion_brands"
+        },
+        {
+          "label":"Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/CompaniesOfItaly"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Clothing Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfItaly"
+        },
+        {
+          "label":"commercial organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViS05wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Italian fashion designers",
+          "uri":"http://dbpedia.org/resource/Italian_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Miuccia_Prada",
+      "label":"Miuccia Prada",
+      "offsets":[
+        {
+          "offset":156,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Milan",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMilan"
+        },
+        {
+          "label":"Italian Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/ItalianFashionDesigners"
+        },
+        {
+          "label":"Italian fashion designers",
+          "uri":"http://dbpedia.org/resource/Italian_fashion_designers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Prada",
+      "label":"Prada",
+      "offsets":[
+        {
+          "offset":164,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Established In1913",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1913"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Italian clothing and textile companies",
+          "uri":"http://dbpedia.org/resource/Italian_clothing_and_textile_companies"
+        },
+        {
+          "label":"High Fashion Brands",
+          "uri":"http://dbpedia.org/class/yago/HighFashionBrands"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"High fashion brands",
+          "uri":"http://dbpedia.org/resource/High_fashion_brands"
+        },
+        {
+          "label":"Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/CompaniesOfItaly"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Clothing Companies Of Italy",
+          "uri":"http://dbpedia.org/class/yago/ClothingCompaniesOfItaly"
+        },
+        {
+          "label":"commercial organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViS05wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Italian fashion designers",
+          "uri":"http://dbpedia.org/resource/Italian_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Miuccia_Prada",
+      "label":"Miuccia Prada",
+      "offsets":[
+        {
+          "offset":156,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Milan",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMilan"
+        },
+        {
+          "label":"Italian Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/ItalianFashionDesigners"
+        },
+        {
+          "label":"Italian fashion designers",
+          "uri":"http://dbpedia.org/resource/Italian_fashion_designers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

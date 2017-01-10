@@ -1,0 +1,365 @@
+{
+  "mainText":"With Syria\u2019s two-year-old civil war showing signs of stalemate, scores of new local councils in rebel-held towns like Tilalyan are not only fighting deprivation but trying to set up courts, police forces and social services.\nTheir efforts amount to Syria\u2019s first experiments in self-government after decades of tyranny under President Bashar al-Assad and his father, Hafez al-Assad .",
+  "shownText":"With Syria\u2019s two-year-old civil war showing signs of stalemate, scores of new local councils in rebel-held towns like Tilalyan are not only fighting deprivation but trying to set up courts, police forces and social services.\nTheir efforts amount to Syria\u2019s first experiments in self-government after decades of tyranny under President Bashar al-Assad and his father, Hafez al-Assad .",
+  "title":"Syrian Civilians Take Reins in Test of Self-Government - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/world/middleeast/syrian-civilians-take-reins-in-test-of-self-government.html?ref=world",
+  "category":"world",
+  "docID":"P-0311",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":5,
+          "length":5
+        },
+        {
+          "offset":249,
+          "length":5
+        },
+        {
+          "offset":5,
+          "length":5
+        },
+        {
+          "offset":249,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hafez_al-Assad",
+      "label":"Hafez al-Assad",
+      "offsets":[
+        {
+          "offset":367,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arab Nationalists",
+          "uri":"http://dbpedia.org/class/yago/ArabNationalists"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"head of state",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjnc5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"president of an organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwJmRJZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Syrian Politicians",
+          "uri":"http://dbpedia.org/class/yago/SyrianPoliticians"
+        },
+        {
+          "label":"President Head Of Government Or Head Of State",
+          "uri":"http://umbel.org/umbel/sc/President_HeadOfGovernmentOrHeadOfState"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bashar_al-Assad",
+      "label":"Bashar al-Assad",
+      "offsets":[
+        {
+          "offset":335,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Arab Nationalists",
+          "uri":"http://dbpedia.org/class/yago/ArabNationalists"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Presidents Of Syria",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfSyria"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Ophthalmologists",
+          "uri":"http://dbpedia.org/class/yago/Ophthalmologists"
+        },
+        {
+          "label":"Arab statesmen",
+          "uri":"http://dbpedia.org/resource/Arab_statesmen"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Syria",
+      "label":"Syria",
+      "offsets":[
+        {
+          "offset":5,
+          "length":5
+        },
+        {
+          "offset":249,
+          "length":5
+        },
+        {
+          "offset":5,
+          "length":5
+        },
+        {
+          "offset":249,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arabic-speaking countries",
+          "uri":"http://dbpedia.org/resource/Arabic-speaking_countries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hafez_al-Assad",
+      "label":"Hafez al-Assad",
+      "offsets":[
+        {
+          "offset":367,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Arab Nationalists",
+          "uri":"http://dbpedia.org/class/yago/ArabNationalists"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"head of state",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjnc5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"president of an organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwJmRJZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Syrian Politicians",
+          "uri":"http://dbpedia.org/class/yago/SyrianPoliticians"
+        },
+        {
+          "label":"President Head Of Government Or Head Of State",
+          "uri":"http://umbel.org/umbel/sc/President_HeadOfGovernmentOrHeadOfState"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bashar_al-Assad",
+      "label":"Bashar al-Assad",
+      "offsets":[
+        {
+          "offset":335,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Arab Nationalists",
+          "uri":"http://dbpedia.org/class/yago/ArabNationalists"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Presidents Of Syria",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfSyria"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Ophthalmologists",
+          "uri":"http://dbpedia.org/class/yago/Ophthalmologists"
+        },
+        {
+          "label":"Arab statesmen",
+          "uri":"http://dbpedia.org/resource/Arab_statesmen"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    }
+  ]
+}

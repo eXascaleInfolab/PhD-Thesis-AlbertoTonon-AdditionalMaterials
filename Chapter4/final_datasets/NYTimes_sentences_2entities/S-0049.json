@@ -1,0 +1,549 @@
+{
+  "mainText":"The companies include Walt Disney, Starbucks, Amazon, Levi Strauss, Johnson & Johnson, Marriott International and New York Life, as well as smallfirms like the U.S. Balloon Company in Brooklyn and Holdredge Wines in California.",
+  "shownText":"The companies include Walt Disney, Starbucks, Amazon, Levi Strauss, Johnson & Johnson, Marriott International and New York Life, as well as smallfirms like the U.S. Balloon Company in Brooklyn and Holdredge Wines in California.",
+  "title":"Companies Ask Justices to Overturn Gay Marriage Ban - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/business/companies-ask-justices-to-overturn-gay-marriage-ban.html?ref=business",
+  "category":"business",
+  "docID":"S-0049",
+  "elementNumber":20,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/California",
+      "label":"California",
+      "offsets":[
+        {
+          "offset":216,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Johnson_&_Johnson",
+      "label":"Johnson &amp; Johnson",
+      "offsets":[
+        {
+          "offset":68,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The New York Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+        },
+        {
+          "label":"Pharmaceutical Companies",
+          "uri":"http://dbpedia.org/class/yago/PharmaceuticalCompanies"
+        },
+        {
+          "label":"Pharmaceutical Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1886",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1886"
+        },
+        {
+          "label":"Multinational Companies",
+          "uri":"http://dbpedia.org/class/yago/MultinationalCompanies"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Dental Companies",
+          "uri":"http://dbpedia.org/class/yago/DentalCompanies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Starbucks",
+      "label":"Starbucks",
+      "offsets":[
+        {
+          "offset":35,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Based In Seattle,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":184,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Levi_Strauss",
+      "label":"Levi Strauss",
+      "offsets":[
+        {
+          "offset":54,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"German immigrants to the United States",
+          "uri":"http://dbpedia.org/resource/German_immigrants_to_the_United_States"
+        },
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"People From San Francisco",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marriott_International",
+      "label":"Marriott International",
+      "offsets":[
+        {
+          "offset":87,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/California",
+      "label":"California",
+      "offsets":[
+        {
+          "offset":216,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"type of person classified by geographical residence",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first-order collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"19th century establishments",
+          "uri":"http://dbpedia.org/resource/19th_century_establishments"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Johnson_&_Johnson",
+      "label":"Johnson &amp; Johnson",
+      "offsets":[
+        {
+          "offset":68,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The New York Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+        },
+        {
+          "label":"Pharmaceutical Companies",
+          "uri":"http://dbpedia.org/class/yago/PharmaceuticalCompanies"
+        },
+        {
+          "label":"Pharmaceutical Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1886",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1886"
+        },
+        {
+          "label":"Multinational Companies",
+          "uri":"http://dbpedia.org/class/yago/MultinationalCompanies"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Dental Companies",
+          "uri":"http://dbpedia.org/class/yago/DentalCompanies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Starbucks",
+      "label":"Starbucks",
+      "offsets":[
+        {
+          "offset":35,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Based In Seattle,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":184,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Levi_Strauss",
+      "label":"Levi Strauss",
+      "offsets":[
+        {
+          "offset":54,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"German immigrants to the United States",
+          "uri":"http://dbpedia.org/resource/German_immigrants_to_the_United_States"
+        },
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"People From San Francisco",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marriott_International",
+      "label":"Marriott International",
+      "offsets":[
+        {
+          "offset":87,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

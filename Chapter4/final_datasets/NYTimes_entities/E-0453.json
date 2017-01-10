@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Lindy Ruff",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Buffalo Sabres coaches",
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_coaches"
+                },
+                {
+                    "label": "Canadian ice hockey forwards",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+                },
+                {
+                    "label": "Canadian ice hockey coaches",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_coaches"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ice hockey personnel from Alberta",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                },
+                {
+                    "label": "Jack Adams Award winners",
+                    "uri": "http://dbpedia.org/resource/Jack_Adams_Award_winners"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Buffalo Sabres players",
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lindy_Ruff"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0453",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Lindy Ruff",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Buffalo Sabres coaches",
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_coaches"
+                },
+                {
+                    "label": "Canadian ice hockey forwards",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+                },
+                {
+                    "label": "Canadian ice hockey coaches",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_coaches"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ice hockey personnel from Alberta",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                },
+                {
+                    "label": "Jack Adams Award winners",
+                    "uri": "http://dbpedia.org/resource/Jack_Adams_Award_winners"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Buffalo Sabres players",
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lindy_Ruff"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

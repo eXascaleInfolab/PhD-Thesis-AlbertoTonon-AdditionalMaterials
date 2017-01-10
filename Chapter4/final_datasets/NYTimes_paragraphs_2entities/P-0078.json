@@ -1,0 +1,189 @@
+{
+  "mainText":"Conceived as a serious competitor to Amazon.com\u2019s Kindle, the Nook has instead become an also-ran in the race for digital book supremacy.\nThe Kindle remains the top-selling dedicated e-reader, while the iPad consistently leads the competition among tablets.\nAmazon\u2019s Kindle app has also maintained a huge lead in popularity, limiting Barnes & Noble\u2019s reach across the broader digital bookselling landscape.",
+  "shownText":"Conceived as a serious competitor to Amazon.com\u2019s Kindle, the Nook has instead become an also-ran in the race for digital book supremacy.\nThe Kindle remains the top-selling dedicated e-reader, while the iPad consistently leads the competition among tablets.\nAmazon\u2019s Kindle app has also maintained a huge lead in popularity, limiting Barnes & Noble\u2019s reach across the broader digital bookselling landscape.",
+  "title":"Barnes &amp; Noble Chairman Leonard Riggio to Bid for Bookstore&#039;s Retail Business - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/barnes-noble-chairma-to-bid-for-bookstores-retail-business/",
+  "category":"dealbook",
+  "docID":"P-0078",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Amazon.com",
+      "label":"Amazon.com",
+      "offsets":[
+        {
+          "offset":37,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Commerce websites",
+          "uri":"http://dbpedia.org/resource/Commerce_websites"
+        },
+        {
+          "label":"Online Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/OnlineRetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Established In1995",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1995"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"book seller",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvm4Li5wpEbGdrcN5Y29ycB4rwJaXepwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Seattle,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Listed On NASDAQ",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnNASDAQ"
+        },
+        {
+          "label":"Book websites",
+          "uri":"http://dbpedia.org/resource/Book_websites"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":334,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Amazon.com",
+      "label":"Amazon.com",
+      "offsets":[
+        {
+          "offset":37,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Commerce websites",
+          "uri":"http://dbpedia.org/resource/Commerce_websites"
+        },
+        {
+          "label":"Online Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/OnlineRetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Companies Established In1995",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1995"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"book seller",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rvm4Li5wpEbGdrcN5Y29ycB4rwJaXepwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Seattle,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSeattle,Washington"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Listed On NASDAQ",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnNASDAQ"
+        },
+        {
+          "label":"Book websites",
+          "uri":"http://dbpedia.org/resource/Book_websites"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":334,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ]
+}

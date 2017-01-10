@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Gerald M. Cohen",
+            "types": [
+                {
+                    "label": "20th Century Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyPhilosophers"
+                },
+                {
+                    "label": "21st century philosophers",
+                    "uri": "http://dbpedia.org/resource/21st_century_philosophers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/ontology/Philosopher"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/class/yago/Philosopher110423589"
+                },
+                {
+                    "label": "Marxist Theorists",
+                    "uri": "http://dbpedia.org/class/yago/MarxistTheorists"
+                },
+                {
+                    "label": "Political Theorists",
+                    "uri": "http://dbpedia.org/class/yago/PoliticalTheorists"
+                },
+                {
+                    "label": "Jewish Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/JewishPhilosophers"
+                },
+                {
+                    "label": "Canadian philosophers",
+                    "uri": "http://dbpedia.org/resource/Canadian_philosophers"
+                },
+                {
+                    "label": "Political Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/PoliticalPhilosophers"
+                },
+                {
+                    "label": "British Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/BritishPhilosophers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Canadian Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianPhilosophers"
+                },
+                {
+                    "label": "Fellows Of All Souls College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfAllSoulsCollege,Oxford"
+                },
+                {
+                    "label": "Jewish philosophers",
+                    "uri": "http://dbpedia.org/resource/Jewish_philosophers"
+                },
+                {
+                    "label": "Academics Of University College London",
+                    "uri": "http://dbpedia.org/class/yago/AcademicsOfUniversityCollegeLondon"
+                },
+                {
+                    "label": "Scholars Of Marxism",
+                    "uri": "http://dbpedia.org/class/yago/ScholarsOfMarxism"
+                },
+                {
+                    "label": "British philosophers",
+                    "uri": "http://dbpedia.org/resource/British_philosophers"
+                },
+                {
+                    "label": "20th century philosophers",
+                    "uri": "http://dbpedia.org/resource/20th_century_philosophers"
+                },
+                {
+                    "label": "21st Century Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/21stCenturyPhilosophers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gerald_Cohen"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0134",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gerald M. Cohen",
+            "types": [
+                {
+                    "label": "20th Century Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyPhilosophers"
+                },
+                {
+                    "label": "21st century philosophers",
+                    "uri": "http://dbpedia.org/resource/21st_century_philosophers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/ontology/Philosopher"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/class/yago/Philosopher110423589"
+                },
+                {
+                    "label": "Marxist Theorists",
+                    "uri": "http://dbpedia.org/class/yago/MarxistTheorists"
+                },
+                {
+                    "label": "Political Theorists",
+                    "uri": "http://dbpedia.org/class/yago/PoliticalTheorists"
+                },
+                {
+                    "label": "Jewish Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/JewishPhilosophers"
+                },
+                {
+                    "label": "Canadian philosophers",
+                    "uri": "http://dbpedia.org/resource/Canadian_philosophers"
+                },
+                {
+                    "label": "Political Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/PoliticalPhilosophers"
+                },
+                {
+                    "label": "British Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/BritishPhilosophers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Canadian Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianPhilosophers"
+                },
+                {
+                    "label": "Fellows Of All Souls College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/FellowsOfAllSoulsCollege,Oxford"
+                },
+                {
+                    "label": "Jewish philosophers",
+                    "uri": "http://dbpedia.org/resource/Jewish_philosophers"
+                },
+                {
+                    "label": "Academics Of University College London",
+                    "uri": "http://dbpedia.org/class/yago/AcademicsOfUniversityCollegeLondon"
+                },
+                {
+                    "label": "Scholars Of Marxism",
+                    "uri": "http://dbpedia.org/class/yago/ScholarsOfMarxism"
+                },
+                {
+                    "label": "British philosophers",
+                    "uri": "http://dbpedia.org/resource/British_philosophers"
+                },
+                {
+                    "label": "20th century philosophers",
+                    "uri": "http://dbpedia.org/resource/20th_century_philosophers"
+                },
+                {
+                    "label": "21st Century Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/21stCenturyPhilosophers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gerald_Cohen"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

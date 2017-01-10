@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Denis O'Regan",
+            "types": [
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "Rock Music Photographers",
+                    "uri": "http://dbpedia.org/class/yago/RockMusicPhotographers"
+                },
+                {
+                    "label": "British Photographers",
+                    "uri": "http://dbpedia.org/class/yago/BritishPhotographers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Denis_O'Regan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0364",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Denis O'Regan",
+            "types": [
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "Rock Music Photographers",
+                    "uri": "http://dbpedia.org/class/yago/RockMusicPhotographers"
+                },
+                {
+                    "label": "British Photographers",
+                    "uri": "http://dbpedia.org/class/yago/BritishPhotographers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Denis_O'Regan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

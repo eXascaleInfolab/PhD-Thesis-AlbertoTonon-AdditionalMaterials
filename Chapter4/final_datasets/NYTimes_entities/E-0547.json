@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Minnesota",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Land-grant Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Minnesota"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0547",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Minnesota",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Land-grant Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Minnesota"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

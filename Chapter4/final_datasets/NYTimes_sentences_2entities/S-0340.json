@@ -1,0 +1,421 @@
+{
+  "mainText":"Antitrust regulators find that \u201cmonitoring is time consuming and resource intensive\u201d and \u201cit looks like Microsoft was able to forget about the Internet Explorer commitments without anyone noticing,\u201d said Emanuela Lecchi, a partner in London at the law firm Watson, Farley & Williams.",
+  "shownText":"Antitrust regulators find that \u201cmonitoring is time consuming and resource intensive\u201d and \u201cit looks like Microsoft was able to forget about the Internet Explorer commitments without anyone noticing,\u201d said Emanuela Lecchi, a partner in London at the law firm Watson, Farley & Williams.",
+  "title":"E.U. Fines Microsoft $732 Million Over Browser - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/technology/eu-fines-microsoft-over-browser.html?ref=technology",
+  "category":"technology",
+  "docID":"S-0340",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":234,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":104,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":234,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":104,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

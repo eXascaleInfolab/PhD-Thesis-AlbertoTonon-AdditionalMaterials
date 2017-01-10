@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Citi Field",
+            "types": [
+                {
+                    "label": "Stadium",
+                    "uri": "http://dbpedia.org/ontology/Stadium"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Citi_Field"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0743",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Citi Field",
+            "types": [
+                {
+                    "label": "Stadium",
+                    "uri": "http://dbpedia.org/ontology/Stadium"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Citi_Field"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

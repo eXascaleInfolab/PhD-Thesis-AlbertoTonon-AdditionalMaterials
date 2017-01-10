@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Yalta",
+            "types": [
+                {
+                    "label": "Cities In Ukraine",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInUkraine"
+                },
+                {
+                    "label": "Cities And Towns In Crimea",
+                    "uri": "http://dbpedia.org/class/yago/CitiesAndTownsInCrimea"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "Port Cities And Towns In Ukraine",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInUkraine"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yalta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0696",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Yalta",
+            "types": [
+                {
+                    "label": "Cities In Ukraine",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInUkraine"
+                },
+                {
+                    "label": "Cities And Towns In Crimea",
+                    "uri": "http://dbpedia.org/class/yago/CitiesAndTownsInCrimea"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "Port Cities And Towns In Ukraine",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInUkraine"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yalta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

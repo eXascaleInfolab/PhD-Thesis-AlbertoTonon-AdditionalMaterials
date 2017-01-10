@@ -1,0 +1,449 @@
+{
+  "mainText":"Larry Doyle was stationed in Hong Kong when Gavin was born.\nFour years later, the family moved to Johannesburg, where his father covered apartheid.\nGavin doesn\u2019t remember being the first white child on Nelson Mandela\u2019s shoulders after his release from prison, but growing up, he heard that a lot.",
+  "shownText":"Gavin Doyle is the son of parents who met while working together at CBS News.\nHis father, Larry Doyle, was a correspondent and producer; during the first gulf war, he helped free the \u201cCBS Four\u201d who had been tortured and starved in an Iraqi prison.\n(The younger Mr. Doyle said his parents are \u201cthrilled\u201d by what he has accomplished so far, but think he needs to be \u201cmore focused.\u201d)\nHis mother, Vivian, is an interior decorator.\n\nLarry Doyle was stationed in Hong Kong when Gavin was born.\nFour years later, the family moved to Johannesburg, where his father covered apartheid.\nGavin doesn\u2019t remember being the first white child on Nelson Mandela\u2019s shoulders after his release from prison, but growing up, he heard that a lot.\n\nHe does recall feeling overprivileged.\n\u201cWe had so many toys,\u201d he said of himself and a younger brother, Sean.\n\u201cI mean, it was insane, it was almost embarrassing just living overseas and seeing kids in South Africa \u2014 we had too much and I wasn\u2019t into it.\u201d\n",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"P3-0253",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Johannesburg",
+      "label":"Johannesburg",
+      "offsets":[
+        {
+          "offset":526,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Village",
+          "uri":"http://umbel.org/umbel/sc/Village"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Settlements Established In1886",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1886"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Cities In South Africa",
+          "uri":"http://dbpedia.org/class/yago/CitiesInSouthAfrica"
+        },
+        {
+          "label":"Town",
+          "uri":"http://umbel.org/umbel/sc/Town"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Towns In Gauteng",
+          "uri":"http://dbpedia.org/class/yago/TownsInGauteng"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hong_Kong",
+      "label":"Hong Kong",
+      "offsets":[
+        {
+          "offset":457,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Chinese-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/Chinese-speaking_countries_and_territories"
+        },
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Port Cities And Towns In China",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInChina"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"China-related lists",
+          "uri":"http://dbpedia.org/resource/China-related_lists"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Relation",
+          "uri":"http://umbel.org/umbel/sc/Relation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economic System",
+          "uri":"http://umbel.org/umbel/sc/EconomicSystem"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Chinese-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Special Territories",
+          "uri":"http://dbpedia.org/class/yago/SpecialTerritories"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Metropolitan Areas Of China",
+          "uri":"http://dbpedia.org/class/yago/MetropolitanAreasOfChina"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Johannesburg",
+      "label":"Johannesburg",
+      "offsets":[
+        {
+          "offset":526,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Village",
+          "uri":"http://umbel.org/umbel/sc/Village"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Settlements Established In1886",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1886"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Cities In South Africa",
+          "uri":"http://dbpedia.org/class/yago/CitiesInSouthAfrica"
+        },
+        {
+          "label":"Town",
+          "uri":"http://umbel.org/umbel/sc/Town"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Towns In Gauteng",
+          "uri":"http://dbpedia.org/class/yago/TownsInGauteng"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hong_Kong",
+      "label":"Hong Kong",
+      "offsets":[
+        {
+          "offset":457,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Chinese-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/Chinese-speaking_countries_and_territories"
+        },
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Port Cities And Towns In China",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInChina"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"China-related lists",
+          "uri":"http://dbpedia.org/resource/China-related_lists"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Relation",
+          "uri":"http://umbel.org/umbel/sc/Relation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economic System",
+          "uri":"http://umbel.org/umbel/sc/EconomicSystem"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Chinese-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Special Territories",
+          "uri":"http://dbpedia.org/class/yago/SpecialTerritories"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Metropolitan Areas Of China",
+          "uri":"http://dbpedia.org/class/yago/MetropolitanAreasOfChina"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CBS_News",
+      "label":"CBS News",
+      "offsets":[
+        {
+          "offset":68,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        }
+      ]
+    }
+  ]
+}

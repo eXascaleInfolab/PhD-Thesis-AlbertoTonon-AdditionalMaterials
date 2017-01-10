@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Treatment Action Group",
+            "types": [
+                {
+                    "label": "AIDS activism",
+                    "uri": "http://dbpedia.org/resource/AIDS_activism"
+                },
+                {
+                    "label": "HIV%2FAIDS",
+                    "uri": "http://dbpedia.org/resource/HIV%2FAIDS"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Treatment_Action_Group"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0207",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Treatment Action Group",
+            "types": [
+                {
+                    "label": "AIDS activism",
+                    "uri": "http://dbpedia.org/resource/AIDS_activism"
+                },
+                {
+                    "label": "HIV%2FAIDS",
+                    "uri": "http://dbpedia.org/resource/HIV%2FAIDS"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Treatment_Action_Group"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

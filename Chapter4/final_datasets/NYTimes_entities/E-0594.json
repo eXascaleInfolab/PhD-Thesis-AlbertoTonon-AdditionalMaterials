@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Human Touch in McLean",
+            "types": [
+                {
+                    "label": "Musical Work",
+                    "uri": "http://dbpedia.org/ontology/MusicalWork"
+                },
+                {
+                    "label": "Bruce Springsteen albums",
+                    "uri": "http://dbpedia.org/resource/Bruce_Springsteen_albums"
+                },
+                {
+                    "label": "Album",
+                    "uri": "http://dbpedia.org/class/yago/Album106591815"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Human_Touch"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0594",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Human Touch in McLean",
+            "types": [
+                {
+                    "label": "Musical Work",
+                    "uri": "http://dbpedia.org/ontology/MusicalWork"
+                },
+                {
+                    "label": "Bruce Springsteen albums",
+                    "uri": "http://dbpedia.org/resource/Bruce_Springsteen_albums"
+                },
+                {
+                    "label": "Album",
+                    "uri": "http://dbpedia.org/class/yago/Album106591815"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Human_Touch"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

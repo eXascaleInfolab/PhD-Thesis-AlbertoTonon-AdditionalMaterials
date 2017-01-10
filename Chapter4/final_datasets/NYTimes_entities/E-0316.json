@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Steve Yzerman",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Canadian ice hockey centres",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+                },
+                {
+                    "label": "National Hockey League Players With50Goal Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+                },
+                {
+                    "label": "Bill Masterton Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+                },
+                {
+                    "label": "National Hockey League Executives",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeagueExecutives"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Ice hockey personnel from British Columbia",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_British_Columbia"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Conn Smythe Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Canadian immigrants to the United States",
+                    "uri": "http://dbpedia.org/resource/Canadian_immigrants_to_the_United_States"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Steve_Yzerman"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0316",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Steve Yzerman",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Canadian ice hockey centres",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+                },
+                {
+                    "label": "National Hockey League Players With50Goal Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith50GoalSeasons"
+                },
+                {
+                    "label": "Bill Masterton Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Bill_Masterton_Trophy_winners"
+                },
+                {
+                    "label": "National Hockey League Executives",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeagueExecutives"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Detroit Red Wings players",
+                    "uri": "http://dbpedia.org/resource/Detroit_Red_Wings_players"
+                },
+                {
+                    "label": "Ice hockey personnel from British Columbia",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_British_Columbia"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Conn Smythe Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Conn_Smythe_Trophy_winners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Canadian immigrants to the United States",
+                    "uri": "http://dbpedia.org/resource/Canadian_immigrants_to_the_United_States"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Steve_Yzerman"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

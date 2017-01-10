@@ -1,0 +1,309 @@
+{
+    "allEntities": [
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 178
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }, 
+        {
+            "label": "Netflix", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 313
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies listed on NASDAQ", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Companies Based In Silicon Valley", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Netflix"
+        }, 
+        {
+            "label": "Jeffrey Tambor", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 96
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Jewish actors", 
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                }, 
+                {
+                    "label": "American Scientologists", 
+                    "uri": "http://dbpedia.org/resource/American_Scientologists"
+                }, 
+                {
+                    "label": "People From San Francisco", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jeffrey_Tambor"
+        }, 
+        {
+            "label": "HBO", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 127
+                }
+            ], 
+            "types": [
+                {
+                    "label": "HBO television network", 
+                    "uri": "http://dbpedia.org/resource/HBO_television_network"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Commercial-free television networks", 
+                    "uri": "http://dbpedia.org/resource/Commercial-free_television_networks"
+                }, 
+                {
+                    "label": "HD channels", 
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                }, 
+                {
+                    "label": "Movie Channels", 
+                    "uri": "http://dbpedia.org/class/yago/MovieChannels"
+                }, 
+                {
+                    "label": "HDChannels", 
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/HBO"
+        }, 
+        {
+            "label": "Cheyenne Jackson", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 558
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American stage actors", 
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                }, 
+                {
+                    "label": "Gay actors from the United States", 
+                    "uri": "http://dbpedia.org/resource/Gay_actors_from_the_United_States"
+                }, 
+                {
+                    "label": "American musical theatre actors", 
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_actors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Cheyenne_Jackson"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/business/media/online-only-tv-shows-join-fight-for-attention.html?ref=business", 
+    "category": "business", 
+    "docID": "P-0065", 
+    "elementNumber": 13, 
+    "mainEntities": [
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 178
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }, 
+        {
+            "label": "Netflix", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 313
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies listed on NASDAQ", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Companies Based In Silicon Valley", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Netflix"
+        }, 
+        {
+            "label": "Jeffrey Tambor", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 96
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Jewish actors", 
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                }, 
+                {
+                    "label": "American Scientologists", 
+                    "uri": "http://dbpedia.org/resource/American_Scientologists"
+                }, 
+                {
+                    "label": "People From San Francisco", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jeffrey_Tambor"
+        }, 
+        {
+            "label": "HBO", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 127
+                }
+            ], 
+            "types": [
+                {
+                    "label": "HBO television network", 
+                    "uri": "http://dbpedia.org/resource/HBO_television_network"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Commercial-free television networks", 
+                    "uri": "http://dbpedia.org/resource/Commercial-free_television_networks"
+                }, 
+                {
+                    "label": "HD channels", 
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                }, 
+                {
+                    "label": "Movie Channels", 
+                    "uri": "http://dbpedia.org/class/yago/MovieChannels"
+                }, 
+                {
+                    "label": "HDChannels", 
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/HBO"
+        }, 
+        {
+            "label": "Cheyenne Jackson", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 558
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American stage actors", 
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                }, 
+                {
+                    "label": "Gay actors from the United States", 
+                    "uri": "http://dbpedia.org/resource/Gay_actors_from_the_United_States"
+                }, 
+                {
+                    "label": "American musical theatre actors", 
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_actors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Cheyenne_Jackson"
+        }
+    ], 
+    "mainText": "&ldquo;There&rsquo;s absolutely no difference&rdquo; between TV and these new productions, said Jeffrey Tambor, who starred in HBO&rsquo;s &ldquo;Larry Sanders Show,&rdquo; then Fox&rsquo;s &ldquo; Arrested Development .&rdquo;\nNow, at 68, he is an online pioneer: earlier this year he reprised his character for Netflix&rsquo;s new season of &ldquo;Arrested,&rdquo; which will make its premiere in May.\nWhile taping that show, he read the script for &ldquo; The Onion Presents: The News ,&rdquo; an Amazon pilot.\nHe signed up, and played the older rival to Cheyenne Jackson.", 
+    "shownText": "&ldquo;There&rsquo;s absolutely no difference&rdquo; between TV and these new productions, said Jeffrey Tambor, who starred in HBO&rsquo;s &ldquo;Larry Sanders Show,&rdquo; then Fox&rsquo;s &ldquo; Arrested Development .&rdquo;\nNow, at 68, he is an online pioneer: earlier this year he reprised his character for Netflix&rsquo;s new season of &ldquo;Arrested,&rdquo; which will make its premiere in May.\nWhile taping that show, he read the script for &ldquo; The Onion Presents: The News ,&rdquo; an Amazon pilot.\nHe signed up, and played the older rival to Cheyenne Jackson.", 
+    "title": "Online-Only TV Shows Join Fight for Attention - NYTimes.com"
+}

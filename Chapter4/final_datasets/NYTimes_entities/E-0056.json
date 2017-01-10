@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Yale University",
+            "types": [
+                {
+                    "label": "Colonial Colleges",
+                    "uri": "http://dbpedia.org/class/yago/ColonialColleges"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In The1700s",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe1700s"
+                },
+                {
+                    "label": "Universities And Colleges In Connecticut",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInConnecticut"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yale_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0056",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Yale University",
+            "types": [
+                {
+                    "label": "Colonial Colleges",
+                    "uri": "http://dbpedia.org/class/yago/ColonialColleges"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In The1700s",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe1700s"
+                },
+                {
+                    "label": "Universities And Colleges In Connecticut",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInConnecticut"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yale_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

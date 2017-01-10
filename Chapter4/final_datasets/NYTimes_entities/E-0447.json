@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "DAVID POGUE",
+            "types": [
+                {
+                    "label": "New York Times People",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkTimesPeople"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American technology writers",
+                    "uri": "http://dbpedia.org/resource/American_technology_writers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Technology Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTechnologyWriters"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_Pogue"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0447",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "DAVID POGUE",
+            "types": [
+                {
+                    "label": "New York Times People",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkTimesPeople"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American technology writers",
+                    "uri": "http://dbpedia.org/resource/American_technology_writers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Technology Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTechnologyWriters"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_Pogue"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

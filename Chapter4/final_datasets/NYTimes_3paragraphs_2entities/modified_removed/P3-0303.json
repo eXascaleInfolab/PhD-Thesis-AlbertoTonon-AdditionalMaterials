@@ -1,0 +1,397 @@
+{
+    "allEntities": [
+        {
+            "label": "American Express", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 1060
+                }
+            ], 
+            "types": [
+                {
+                    "label": "brand of credit card", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWJ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Credit Cards", 
+                    "uri": "http://dbpedia.org/class/yago/CreditCards"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies Based In New York City", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/American_Express"
+        }, 
+        {
+            "label": "Johnson &amp; Johnson", 
+            "offsets": [
+                {
+                    "length": 21, 
+                    "offset": 1092
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+                }, 
+                {
+                    "label": "Pharmaceutical Companies", 
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompanies"
+                }, 
+                {
+                    "label": "Pharmaceutical Companies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Companies Established In1886", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1886"
+                }, 
+                {
+                    "label": "Multinational Companies", 
+                    "uri": "http://dbpedia.org/class/yago/MultinationalCompanies"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "Dental Companies", 
+                    "uri": "http://dbpedia.org/class/yago/DentalCompanies"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Johnson_&_Johnson"
+        }, 
+        {
+            "label": "Google", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 1078
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Established In1998", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Google"
+        }, 
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 50
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 277
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 536
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 767
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 873
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Sony", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 1086
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Japanese company", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r_DNawd91EdaeFgACs6MxsQ"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Institution", 
+                    "uri": "http://umbel.org/umbel/sc/Institution"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "Companies Based In Tokyo", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInTokyo"
+                }, 
+                {
+                    "label": "Electronics Companies Of Japan", 
+                    "uri": "http://dbpedia.org/class/yago/ElectronicsCompaniesOfJapan"
+                }, 
+                {
+                    "label": "high tech manufacturer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Audio equipment manufacturers", 
+                    "uri": "http://dbpedia.org/resource/Audio_equipment_manufacturers"
+                }, 
+                {
+                    "label": "Audio Equipment Manufacturers", 
+                    "uri": "http://dbpedia.org/class/yago/AudioEquipmentManufacturers"
+                }, 
+                {
+                    "label": "Semiconductor Companies", 
+                    "uri": "http://dbpedia.org/class/yago/SemiconductorCompanies"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Business", 
+                    "uri": "http://umbel.org/umbel/sc/Business"
+                }, 
+                {
+                    "label": "Manufacturing Organization", 
+                    "uri": "http://umbel.org/umbel/sc/ManufacturingOrganization"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Social Group", 
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                }, 
+                {
+                    "label": "Organization", 
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                }, 
+                {
+                    "label": "Companies Established In1946", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1946"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sony"
+        }, 
+        {
+            "label": "Davos", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 598
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Ski Areas And Resorts In Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/SkiAreasAndResortsInSwitzerland"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Cities In Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Town", 
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                }, 
+                {
+                    "label": "Municipalities Of Grisons", 
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfGrisons"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Davos"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us", 
+    "category": "us", 
+    "docID": "P3-0303", 
+    "elementNumber": 13, 
+    "mainEntities": [
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 50
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 277
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 536
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 767
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 873
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Davos", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 598
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Ski Areas And Resorts In Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/SkiAreasAndResortsInSwitzerland"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Cities In Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Town", 
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                }, 
+                {
+                    "label": "Municipalities Of Grisons", 
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfGrisons"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Davos"
+        }
+    ], 
+    "mainText": "Ms. Sandberg &ldquo;does what too many successful women before her have done: blaming other women for not trying hard enough,&rdquo; wrote Avivah Wittenberg-Cox, a consultant who works with companies to improve their gender balance, after watching a video of Ms. Sandberg speaking on the topic at the World Economic Forum in Davos last month.\n&ldquo;Every resistant man on the planet will be able to quote her&rdquo; saying that women simply must become more ambitious, Ms. Cox continued.\n(Ms. Sandberg writes that she focuses on internal barriers because the external ones get more attention.)", 
+    "shownText": "But criticism is also starting to build: that Ms. Sandberg places too much of the onus on women who are already struggling to fulfill impossible demands, and too little on government and employers to provide better child care, more flexible jobs and other concrete gains.\n\nMs. Sandberg &ldquo;does what too many successful women before her have done: blaming other women for not trying hard enough,&rdquo; wrote Avivah Wittenberg-Cox, a consultant who works with companies to improve their gender balance, after watching a video of Ms. Sandberg speaking on the topic at the World Economic Forum in Davos last month.\n&ldquo;Every resistant man on the planet will be able to quote her&rdquo; saying that women simply must become more ambitious, Ms. Cox continued.\n(Ms. Sandberg writes that she focuses on internal barriers because the external ones get more attention.)\n\nMs. Sandberg&rsquo;s project, according to members of her launch committee and their solicitations, asks little of the corporations signing on as &ldquo;launch partners,&rdquo; which include American Express, Google, Sony, Johnson &amp; Johnson and multiple media businesses.\nMostly they are asked to lend their logo to Lean In and distribute its materials to employees.\nIn exchange, they will get recognition for supporting the Lean In cause, the solicitation says.\n", 
+    "title": "Sheryl Sandberg, &acirc;Lean In&acirc; Author, Hopes to Spur Movement - NYTimes.com"
+}

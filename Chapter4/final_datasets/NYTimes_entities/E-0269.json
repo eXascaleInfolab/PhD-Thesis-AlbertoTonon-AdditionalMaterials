@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Edinburgh",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "Port Cities And Towns In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Districts Of Scotland",
+                    "uri": "http://dbpedia.org/class/yago/DistrictsOfScotland"
+                },
+                {
+                    "label": "British Capitals",
+                    "uri": "http://dbpedia.org/class/yago/BritishCapitals"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "British capitals",
+                    "uri": "http://dbpedia.org/resource/British_capitals"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Lieutenancy Areas Of Scotland",
+                    "uri": "http://dbpedia.org/class/yago/LieutenancyAreasOfScotland"
+                },
+                {
+                    "label": "Host Cities Of The Commonwealth Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Edinburgh"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0269",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Edinburgh",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "Port Cities And Towns In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Districts Of Scotland",
+                    "uri": "http://dbpedia.org/class/yago/DistrictsOfScotland"
+                },
+                {
+                    "label": "British Capitals",
+                    "uri": "http://dbpedia.org/class/yago/BritishCapitals"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "British capitals",
+                    "uri": "http://dbpedia.org/resource/British_capitals"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Lieutenancy Areas Of Scotland",
+                    "uri": "http://dbpedia.org/class/yago/LieutenancyAreasOfScotland"
+                },
+                {
+                    "label": "Host Cities Of The Commonwealth Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Edinburgh"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

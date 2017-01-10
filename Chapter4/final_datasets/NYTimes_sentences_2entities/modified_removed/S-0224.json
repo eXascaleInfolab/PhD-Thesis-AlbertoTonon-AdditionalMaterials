@@ -1,0 +1,173 @@
+{
+    "allEntities": [
+        {
+            "label": "South America", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 231
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Region", 
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Economic System", 
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                }, 
+                {
+                    "label": "Regions Of The Americas", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Economies By Region", 
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                }, 
+                {
+                    "label": "type of person classified by continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "type of person classified by geographical residence", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/South_America"
+        }, 
+        {
+            "label": "Jeffrey Dunn", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 55
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Black metal musicians", 
+                    "uri": "http://dbpedia.org/resource/Black_metal_musicians"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jeffrey_Dunn"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science", 
+    "category": "science", 
+    "docID": "S-0224", 
+    "elementNumber": 413, 
+    "mainEntities": [
+        {
+            "label": "South America", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 231
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Region", 
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Economic System", 
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                }, 
+                {
+                    "label": "Regions Of The Americas", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Economies By Region", 
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                }, 
+                {
+                    "label": "type of person classified by continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "type of person classified by geographical residence", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/South_America"
+        }, 
+        {
+            "label": "Jeffrey Dunn", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 55
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Black metal musicians", 
+                    "uri": "http://dbpedia.org/resource/Black_metal_musicians"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jeffrey_Dunn"
+        }
+    ], 
+    "mainText": "One of the other executives I spoke with at length was Jeffrey Dunn, who, in 2001, at age 44, was directing more than half of Coca-Cola&rsquo;s $20 billion in annual sales as president and chief operating officer in both North and South America.", 
+    "shownText": "One of the other executives I spoke with at length was Jeffrey Dunn, who, in 2001, at age 44, was directing more than half of Coca-Cola&rsquo;s $20 billion in annual sales as president and chief operating officer in both North and South America.", 
+    "title": "The Extraordinary Science of Addictive Junk Food - NYTimes.com"
+}

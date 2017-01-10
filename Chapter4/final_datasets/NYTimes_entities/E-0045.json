@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Ellsworth Kelly",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Pratt Institute Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrattInstituteAlumni"
+                },
+                {
+                    "label": "American artists",
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American painters",
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                },
+                {
+                    "label": "American sculptors",
+                    "uri": "http://dbpedia.org/resource/American_sculptors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                },
+                {
+                    "label": "American Sculptors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSculptors"
+                },
+                {
+                    "label": "American Painters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPainters"
+                },
+                {
+                    "label": "Minimalist Artists",
+                    "uri": "http://dbpedia.org/class/yago/MinimalistArtists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Printmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPrintmakers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ellsworth_Kelly"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0045",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ellsworth Kelly",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Pratt Institute Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrattInstituteAlumni"
+                },
+                {
+                    "label": "American artists",
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American painters",
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                },
+                {
+                    "label": "American sculptors",
+                    "uri": "http://dbpedia.org/resource/American_sculptors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                },
+                {
+                    "label": "American Sculptors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSculptors"
+                },
+                {
+                    "label": "American Painters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPainters"
+                },
+                {
+                    "label": "Minimalist Artists",
+                    "uri": "http://dbpedia.org/class/yago/MinimalistArtists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Printmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPrintmakers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ellsworth_Kelly"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

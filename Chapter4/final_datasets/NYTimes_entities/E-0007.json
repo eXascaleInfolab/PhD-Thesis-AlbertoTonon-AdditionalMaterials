@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Frankfurt",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Location",
+                    "uri": "http://dbpedia.org/class/yago/Location100027167"
+                },
+                {
+                    "label": "Historic Jewish Communities",
+                    "uri": "http://dbpedia.org/class/yago/HistoricJewishCommunities"
+                },
+                {
+                    "label": "Historic Jewish communities",
+                    "uri": "http://dbpedia.org/resource/Historic_Jewish_communities"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Frankfurt"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0007",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Frankfurt",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Location",
+                    "uri": "http://dbpedia.org/class/yago/Location100027167"
+                },
+                {
+                    "label": "Historic Jewish Communities",
+                    "uri": "http://dbpedia.org/class/yago/HistoricJewishCommunities"
+                },
+                {
+                    "label": "Historic Jewish communities",
+                    "uri": "http://dbpedia.org/resource/Historic_Jewish_communities"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Frankfurt"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

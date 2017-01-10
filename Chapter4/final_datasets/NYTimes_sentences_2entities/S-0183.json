@@ -1,0 +1,597 @@
+{
+  "mainText":"The Senate\u2019s top two Republican leaders, Mitch McConnell of Kentucky and John Cornyn of Texas, are increasingly reflecting that same position, and both fear a primary challenge from their right flank as they move toward their re-election campaigns next year.",
+  "shownText":"The Senate\u2019s top two Republican leaders, Mitch McConnell of Kentucky and John Cornyn of Texas, are increasingly reflecting that same position, and both fear a primary challenge from their right flank as they move toward their re-election campaigns next year.",
+  "title":"Speaker Says a Broad Budget Deal Is Possible, but Not With More Revenue - NYTimes.com",
+  "articleUrl":"http://thecaucus.blogs.nytimes.com/2013/03/03/speaker-says-a-broad-budget-deal-is-possible-but-not-with-more-revenue/",
+  "category":"politics",
+  "docID":"S-0183",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":88,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_Cornyn",
+      "label":"John Cornyn",
+      "offsets":[
+        {
+          "offset":73,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Prosecutors",
+          "uri":"http://dbpedia.org/class/yago/Prosecutors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Conservatives",
+          "uri":"http://dbpedia.org/class/yago/Conservatives"
+        },
+        {
+          "label":"Texas Republicans",
+          "uri":"http://dbpedia.org/class/yago/TexasRepublicans"
+        },
+        {
+          "label":"Texas Lawyers",
+          "uri":"http://dbpedia.org/class/yago/TexasLawyers"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/ontology/Senator"
+        },
+        {
+          "label":"People From Houston",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHouston"
+        },
+        {
+          "label":"Military Brats",
+          "uri":"http://dbpedia.org/class/yago/MilitaryBrats"
+        },
+        {
+          "label":"United States Senators From Texas",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromTexas"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kentucky",
+      "label":"Kentucky",
+      "offsets":[
+        {
+          "offset":60,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mitch_McConnell",
+      "label":"Mitch McConnell",
+      "offsets":[
+        {
+          "offset":41,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Kentucky Politicians",
+          "uri":"http://dbpedia.org/class/yago/KentuckyPoliticians"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"Delegates To The Republican National Convention",
+          "uri":"http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Kentucky Republicans",
+          "uri":"http://dbpedia.org/resource/Kentucky_Republicans"
+        },
+        {
+          "label":"Delegates to the Republican National Convention",
+          "uri":"http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+        },
+        {
+          "label":"Kentucky lawyers",
+          "uri":"http://dbpedia.org/resource/Kentucky_lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Alabama",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAlabama"
+        },
+        {
+          "label":"Louisville Politicians",
+          "uri":"http://dbpedia.org/class/yago/LouisvillePoliticians"
+        },
+        {
+          "label":"People From The Florence-Muscle Shoals Metropolitan Area",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheFlorence-MuscleShoalsMetropolitanArea"
+        },
+        {
+          "label":"Kentucky Republicans",
+          "uri":"http://dbpedia.org/class/yago/KentuckyRepublicans"
+        },
+        {
+          "label":"Kentucky Lawyers",
+          "uri":"http://dbpedia.org/class/yago/KentuckyLawyers"
+        },
+        {
+          "label":"United States Senators From Kentucky",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKentucky"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":88,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_Cornyn",
+      "label":"John Cornyn",
+      "offsets":[
+        {
+          "offset":73,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Prosecutors",
+          "uri":"http://dbpedia.org/class/yago/Prosecutors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Conservatives",
+          "uri":"http://dbpedia.org/class/yago/Conservatives"
+        },
+        {
+          "label":"Texas Republicans",
+          "uri":"http://dbpedia.org/class/yago/TexasRepublicans"
+        },
+        {
+          "label":"Texas Lawyers",
+          "uri":"http://dbpedia.org/class/yago/TexasLawyers"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/ontology/Senator"
+        },
+        {
+          "label":"People From Houston",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHouston"
+        },
+        {
+          "label":"Military Brats",
+          "uri":"http://dbpedia.org/class/yago/MilitaryBrats"
+        },
+        {
+          "label":"United States Senators From Texas",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromTexas"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kentucky",
+      "label":"Kentucky",
+      "offsets":[
+        {
+          "offset":60,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mitch_McConnell",
+      "label":"Mitch McConnell",
+      "offsets":[
+        {
+          "offset":41,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Kentucky Politicians",
+          "uri":"http://dbpedia.org/class/yago/KentuckyPoliticians"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"Delegates To The Republican National Convention",
+          "uri":"http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Kentucky Republicans",
+          "uri":"http://dbpedia.org/resource/Kentucky_Republicans"
+        },
+        {
+          "label":"Delegates to the Republican National Convention",
+          "uri":"http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+        },
+        {
+          "label":"Kentucky lawyers",
+          "uri":"http://dbpedia.org/resource/Kentucky_lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Alabama",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAlabama"
+        },
+        {
+          "label":"Louisville Politicians",
+          "uri":"http://dbpedia.org/class/yago/LouisvillePoliticians"
+        },
+        {
+          "label":"People From The Florence-Muscle Shoals Metropolitan Area",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheFlorence-MuscleShoalsMetropolitanArea"
+        },
+        {
+          "label":"Kentucky Republicans",
+          "uri":"http://dbpedia.org/class/yago/KentuckyRepublicans"
+        },
+        {
+          "label":"Kentucky Lawyers",
+          "uri":"http://dbpedia.org/class/yago/KentuckyLawyers"
+        },
+        {
+          "label":"United States Senators From Kentucky",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKentucky"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/class/yago/Senator110578471"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        }
+      ]
+    }
+  ]
+}

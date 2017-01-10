@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "George Mason University",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Public Universities",
+                    "uri": "http://dbpedia.org/class/yago/PublicUniversities"
+                },
+                {
+                    "label": "Educational Institutions Established In1957",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1957"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": "Engineering Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/EngineeringUniversitiesAndColleges"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Engineering universities and colleges",
+                    "uri": "http://dbpedia.org/resource/Engineering_universities_and_colleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/George_Mason_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0211",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "George Mason University",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Public Universities",
+                    "uri": "http://dbpedia.org/class/yago/PublicUniversities"
+                },
+                {
+                    "label": "Educational Institutions Established In1957",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1957"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": "Engineering Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/EngineeringUniversitiesAndColleges"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Engineering universities and colleges",
+                    "uri": "http://dbpedia.org/resource/Engineering_universities_and_colleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/George_Mason_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

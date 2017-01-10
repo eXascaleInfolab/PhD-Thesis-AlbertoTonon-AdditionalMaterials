@@ -1,0 +1,149 @@
+{
+  "mainText":"In January 2011, they revealed that the enforcer Derek Boogaard had sustained a concussion in a fight about a month earlier, and in September 2011 they disclosed that defenseman Marc Staal had played more than two months at the end of the previous season with concussion symptoms.",
+  "shownText":"In January 2011, they revealed that the enforcer Derek Boogaard had sustained a concussion in a fight about a month earlier, and in September 2011 they disclosed that defenseman Marc Staal had played more than two months at the end of the previous season with concussion symptoms.",
+  "title":"A Wave of Concussions Hits the N.H.L. - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/sports/hockey/another-wave-of-concussions-hits-nhl.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0274",
+  "elementNumber":33,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Derek_Boogaard",
+      "label":"Derek Boogaard",
+      "offsets":[
+        {
+          "offset":49,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"People From Saskatoon",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSaskatoon"
+        },
+        {
+          "label":"Regina Pats Alumni",
+          "uri":"http://dbpedia.org/class/yago/ReginaPatsAlumni"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Ice hockey personnel from Saskatchewan",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Saskatchewan"
+        },
+        {
+          "label":"Prince George Cougars Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrinceGeorgeCougarsAlumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marc_Staal",
+      "label":"Marc Staal",
+      "offsets":[
+        {
+          "offset":178,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Derek_Boogaard",
+      "label":"Derek Boogaard",
+      "offsets":[
+        {
+          "offset":49,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"People From Saskatoon",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSaskatoon"
+        },
+        {
+          "label":"Regina Pats Alumni",
+          "uri":"http://dbpedia.org/class/yago/ReginaPatsAlumni"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Ice hockey personnel from Saskatchewan",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Saskatchewan"
+        },
+        {
+          "label":"Prince George Cougars Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrinceGeorgeCougarsAlumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marc_Staal",
+      "label":"Marc Staal",
+      "offsets":[
+        {
+          "offset":178,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ]
+}

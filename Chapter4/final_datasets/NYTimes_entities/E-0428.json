@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "American Cancer Society",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Cancer organizations",
+                    "uri": "http://dbpedia.org/resource/Cancer_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Cancer_Society"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0428",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "American Cancer Society",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Cancer organizations",
+                    "uri": "http://dbpedia.org/resource/Cancer_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Cancer_Society"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

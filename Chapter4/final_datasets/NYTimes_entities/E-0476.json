@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Sienna Miller",
+            "types": [
+                {
+                    "label": "Actress",
+                    "uri": "http://dbpedia.org/class/yago/Actress109767700"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LeeStrasbergTheatreInstituteAlumni"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute alumni",
+                    "uri": "http://dbpedia.org/resource/Lee_Strasberg_Theatre_Institute_alumni"
+                },
+                {
+                    "label": "New York Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sienna_Miller"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0476",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sienna Miller",
+            "types": [
+                {
+                    "label": "Actress",
+                    "uri": "http://dbpedia.org/class/yago/Actress109767700"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LeeStrasbergTheatreInstituteAlumni"
+                },
+                {
+                    "label": "Lee Strasberg Theatre Institute alumni",
+                    "uri": "http://dbpedia.org/resource/Lee_Strasberg_Theatre_Institute_alumni"
+                },
+                {
+                    "label": "New York Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sienna_Miller"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

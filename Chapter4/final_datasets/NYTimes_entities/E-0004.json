@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "San Diego State University",
+            "types": [
+                {
+                    "label": "Sports In San Diego",
+                    "uri": "http://dbpedia.org/class/yago/SportsInSanDiego"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/San_Diego_State_University"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0004",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "San Diego State University",
+            "types": [
+                {
+                    "label": "Sports In San Diego",
+                    "uri": "http://dbpedia.org/class/yago/SportsInSanDiego"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/San_Diego_State_University"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

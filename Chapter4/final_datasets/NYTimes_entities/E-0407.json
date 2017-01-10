@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Evercore Partners",
+            "types": [
+                {
+                    "label": "Companies Established In1996",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Evercore_Partners"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0407",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Evercore Partners",
+            "types": [
+                {
+                    "label": "Companies Established In1996",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Evercore_Partners"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

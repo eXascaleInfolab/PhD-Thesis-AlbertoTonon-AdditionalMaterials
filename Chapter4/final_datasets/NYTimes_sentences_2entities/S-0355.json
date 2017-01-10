@@ -1,0 +1,261 @@
+{
+  "mainText":"The storm put a wrench in voting in Tuesday\u2019s local elections, and Kris Kobach, the Kansas secretary of state, extended the deadline for submitting early ballots to Monday evening.",
+  "shownText":"The storm put a wrench in voting in Tuesday\u2019s local elections, and Kris Kobach, the Kansas secretary of state, extended the deadline for submitting early ballots to Monday evening.",
+  "title":"Strong Storm in Plains Brings Added Hazards - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/us/strong-storm-in-plains-brings-added-hazards.html?ref=us",
+  "category":"us",
+  "docID":"S-0355",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/State",
+      "label":"state",
+      "offsets":[
+        {
+          "offset":104,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"non abducible collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"type of geographical entity classified by hierarchy",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv-FNbpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"terrorism-topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rSuNLCPsCEdmAAAACs6hcqg"
+        },
+        {
+          "label":"type of object",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"spatially disjoint object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rpPHhAOB1EdqAAAACs6hRXg"
+        },
+        {
+          "label":"geopolitical entities geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8iXRcmJsQdiaQpTHoJEKKA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kris_Kobach",
+      "label":"Kris Kobach",
+      "offsets":[
+        {
+          "offset":67,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American academics",
+          "uri":"http://dbpedia.org/resource/American_academics"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"People From Kansas City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKansasCity"
+        },
+        {
+          "label":"American educators",
+          "uri":"http://dbpedia.org/resource/American_educators"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":84,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/State",
+      "label":"state",
+      "offsets":[
+        {
+          "offset":104,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"non abducible collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"type of geographical entity classified by hierarchy",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv-FNbpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"terrorism-topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rSuNLCPsCEdmAAAACs6hcqg"
+        },
+        {
+          "label":"type of object",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"spatially disjoint object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rpPHhAOB1EdqAAAACs6hRXg"
+        },
+        {
+          "label":"geopolitical entities geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8iXRcmJsQdiaQpTHoJEKKA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kris_Kobach",
+      "label":"Kris Kobach",
+      "offsets":[
+        {
+          "offset":67,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American academics",
+          "uri":"http://dbpedia.org/resource/American_academics"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"People From Kansas City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKansasCity"
+        },
+        {
+          "label":"American educators",
+          "uri":"http://dbpedia.org/resource/American_educators"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kansas",
+      "label":"Kansas",
+      "offsets":[
+        {
+          "offset":84,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

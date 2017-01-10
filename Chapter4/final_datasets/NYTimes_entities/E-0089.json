@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Quentin Tarantino",
+            "types": [
+                {
+                    "label": "Italian-American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/Italian-AmericanFilmDirectors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "People From Torrance,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTorrance,California"
+                },
+                {
+                    "label": "People From Knoxville,Tennessee",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKnoxville,Tennessee"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "film director",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqs5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Quentin_Tarantino"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0089",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Quentin Tarantino",
+            "types": [
+                {
+                    "label": "Italian-American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/Italian-AmericanFilmDirectors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "People From Torrance,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTorrance,California"
+                },
+                {
+                    "label": "People From Knoxville,Tennessee",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKnoxville,Tennessee"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "film director",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqs5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Quentin_Tarantino"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

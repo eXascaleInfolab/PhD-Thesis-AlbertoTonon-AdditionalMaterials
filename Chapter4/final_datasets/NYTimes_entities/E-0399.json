@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Chuck Hagel",
+            "types": [
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "Congressional Opponents Of The Iraq War",
+                    "uri": "http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chuck_Hagel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0399",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chuck Hagel",
+            "types": [
+                {
+                    "label": "American Episcopalians",
+                    "uri": "http://dbpedia.org/resource/American_Episcopalians"
+                },
+                {
+                    "label": "Congressional Opponents Of The Iraq War",
+                    "uri": "http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chuck_Hagel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

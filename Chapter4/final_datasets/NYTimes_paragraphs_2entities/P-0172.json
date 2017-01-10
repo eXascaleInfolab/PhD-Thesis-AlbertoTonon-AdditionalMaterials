@@ -1,0 +1,181 @@
+{
+  "mainText":"Moskowitz, who studied mathematics and holds a Ph.D. in experimental psychology from Harvard, runs a consulting firm in White Plains, where for more than three decades he has \u201coptimized\u201d a variety of products for Campbell Soup, General Foods, Kraft and PepsiCo.\n\u201cI\u2019ve optimized soups,\u201d Moskowitz told me.\nStung by the rejection, Cadbury Schweppes in 2004 turned to a food-industry legend named Howard Moskowitz.\nIn this field, I\u2019m a game changer.\u201d\nI\u2019ve optimized salad dressings and pickles.\n\u201cI\u2019ve optimized pizzas.",
+  "shownText":"Moskowitz, who studied mathematics and holds a Ph.D. in experimental psychology from Harvard, runs a consulting firm in White Plains, where for more than three decades he has \u201coptimized\u201d a variety of products for Campbell Soup, General Foods, Kraft and PepsiCo.\n\u201cI\u2019ve optimized soups,\u201d Moskowitz told me.\nStung by the rejection, Cadbury Schweppes in 2004 turned to a food-industry legend named Howard Moskowitz.\nIn this field, I\u2019m a game changer.\u201d\nI\u2019ve optimized salad dressings and pickles.\n\u201cI\u2019ve optimized pizzas.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P-0172",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/General_Foods",
+      "label":"General Foods",
+      "offsets":[
+        {
+          "offset":228,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Altria Group subsidiaries",
+          "uri":"http://dbpedia.org/resource/Altria_Group_subsidiaries"
+        },
+        {
+          "label":"Defunct Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/DefunctCompaniesOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cadbury_Schweppes",
+      "label":"Cadbury Schweppes",
+      "offsets":[
+        {
+          "offset":329,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Cadbury-Schweppes brands",
+          "uri":"http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+        },
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Food companies",
+          "uri":"http://dbpedia.org/resource/Food_companies"
+        },
+        {
+          "label":"Beverage companies",
+          "uri":"http://dbpedia.org/resource/Beverage_companies"
+        },
+        {
+          "label":"British brands",
+          "uri":"http://dbpedia.org/resource/British_brands"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":85,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/General_Foods",
+      "label":"General Foods",
+      "offsets":[
+        {
+          "offset":228,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Altria Group subsidiaries",
+          "uri":"http://dbpedia.org/resource/Altria_Group_subsidiaries"
+        },
+        {
+          "label":"Defunct Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/DefunctCompaniesOfTheUnitedStates"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cadbury_Schweppes",
+      "label":"Cadbury Schweppes",
+      "offsets":[
+        {
+          "offset":329,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Cadbury-Schweppes brands",
+          "uri":"http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+        },
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Food companies",
+          "uri":"http://dbpedia.org/resource/Food_companies"
+        },
+        {
+          "label":"Beverage companies",
+          "uri":"http://dbpedia.org/resource/Beverage_companies"
+        },
+        {
+          "label":"British brands",
+          "uri":"http://dbpedia.org/resource/British_brands"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":85,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "TIM PARKS",
+            "types": [
+                {
+                    "label": "British writers",
+                    "uri": "http://dbpedia.org/resource/British_writers"
+                },
+                {
+                    "label": "Writers From Manchester",
+                    "uri": "http://dbpedia.org/class/yago/WritersFromManchester"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "British Non-fiction Writers",
+                    "uri": "http://dbpedia.org/class/yago/BritishNon-fictionWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tim_Parks"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0678",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "TIM PARKS",
+            "types": [
+                {
+                    "label": "British writers",
+                    "uri": "http://dbpedia.org/resource/British_writers"
+                },
+                {
+                    "label": "Writers From Manchester",
+                    "uri": "http://dbpedia.org/class/yago/WritersFromManchester"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "British Non-fiction Writers",
+                    "uri": "http://dbpedia.org/class/yago/BritishNon-fictionWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tim_Parks"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

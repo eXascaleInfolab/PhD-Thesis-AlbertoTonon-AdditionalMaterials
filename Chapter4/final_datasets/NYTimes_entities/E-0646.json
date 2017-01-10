@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Cisco Systems",
+            "types": [
+                {
+                    "label": "Companies Established In1984",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1984"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Networking Companies",
+                    "uri": "http://dbpedia.org/class/yago/NetworkingCompanies"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies listed on NASDAQ",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Cisco protocols",
+                    "uri": "http://dbpedia.org/resource/Cisco_protocols"
+                },
+                {
+                    "label": "server program",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV6RRJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Networking Hardware Companies",
+                    "uri": "http://dbpedia.org/class/yago/NetworkingHardwareCompanies"
+                },
+                {
+                    "label": "user program",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rveR5tpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Networking Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NetworkingCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "unversioned program",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvi9EhJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Cisco Protocols",
+                    "uri": "http://dbpedia.org/class/yago/CiscoProtocols"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cisco_Systems"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0646",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Cisco Systems",
+            "types": [
+                {
+                    "label": "Companies Established In1984",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1984"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Networking Companies",
+                    "uri": "http://dbpedia.org/class/yago/NetworkingCompanies"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies listed on NASDAQ",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Cisco protocols",
+                    "uri": "http://dbpedia.org/resource/Cisco_protocols"
+                },
+                {
+                    "label": "server program",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV6RRJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Networking Hardware Companies",
+                    "uri": "http://dbpedia.org/class/yago/NetworkingHardwareCompanies"
+                },
+                {
+                    "label": "user program",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rveR5tpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Networking Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NetworkingCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "unversioned program",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvi9EhJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Cisco Protocols",
+                    "uri": "http://dbpedia.org/class/yago/CiscoProtocols"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cisco_Systems"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

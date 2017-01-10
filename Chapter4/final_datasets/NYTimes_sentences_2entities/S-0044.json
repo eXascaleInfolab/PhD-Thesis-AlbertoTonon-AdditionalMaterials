@@ -1,0 +1,237 @@
+{
+  "mainText":"That did not dissuade NBC from showing the video on its \u201cNightly News,\u201d with an introduction from the anchor Brian Williams, who said he and his colleagues felt \u201cduty-bound to pass this on.\u201d",
+  "shownText":"That did not dissuade NBC from showing the video on its \u201cNightly News,\u201d with an introduction from the anchor Brian Williams, who said he and his colleagues felt \u201cduty-bound to pass this on.\u201d",
+  "title":"Pig Rescues Goat, and the Video Is Really Cute, but Totally Faked - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/pig-rescues-goat-and-the-video-is-really-cute-but-totally-faked.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0044",
+  "elementNumber":30,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Brian_Williams",
+      "label":"Brian Williams",
+      "offsets":[
+        {
+          "offset":109,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American television news anchors",
+          "uri":"http://dbpedia.org/resource/American_television_news_anchors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American television reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Reporters And Correspondents",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"American bloggers",
+          "uri":"http://dbpedia.org/resource/American_bloggers"
+        },
+        {
+          "label":"George Washington University alumni",
+          "uri":"http://dbpedia.org/resource/George_Washington_University_alumni"
+        },
+        {
+          "label":"American Bloggers",
+          "uri":"http://dbpedia.org/class/yago/AmericanBloggers"
+        },
+        {
+          "label":"People From Elmira,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromElmira,NewYork"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":22,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Brian_Williams",
+      "label":"Brian Williams",
+      "offsets":[
+        {
+          "offset":109,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American television news anchors",
+          "uri":"http://dbpedia.org/resource/American_television_news_anchors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American television reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Reporters And Correspondents",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"American bloggers",
+          "uri":"http://dbpedia.org/resource/American_bloggers"
+        },
+        {
+          "label":"George Washington University alumni",
+          "uri":"http://dbpedia.org/resource/George_Washington_University_alumni"
+        },
+        {
+          "label":"American Bloggers",
+          "uri":"http://dbpedia.org/class/yago/AmericanBloggers"
+        },
+        {
+          "label":"People From Elmira,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromElmira,NewYork"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NBC",
+      "label":"NBC",
+      "offsets":[
+        {
+          "offset":22,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"Companies Established In1926",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1926"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "mainText":"Mississippi officials are apparently seeking to bring a separate action against BP in state court, a forum that can be favorable to plaintiffs.\nJan Schaefer, a spokesman for Mississippi Attorney General Jim Hood, said he declined comment.",
+  "shownText":"These days, three Gulf Coast states \u2014 Florida, Mississipi and Texas \u2014 are not even parties in the lawsuit set to start Monday.\nThat, however, would not preclude them from being involved in a settlement.\n\nMississippi officials are apparently seeking to bring a separate action against BP in state court, a forum that can be favorable to plaintiffs.\nJan Schaefer, a spokesman for Mississippi Attorney General Jim Hood, said he declined comment.\n\nMr. Uhlmann of the University of Michigan, said the BP case could be resolved, but at this moment it might be more up to the states than the company.\n",
+  "title":"BP and Gulf Coast States Jockey Over Settlement on Deepwater Horizon Oil Spill - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/business/energy-environment/bp-and-gulf-coast-states-jockey-over-settlement-on-deepwater-horizon-oil-spill.html?ref=business",
+  "category":"business",
+  "docID":"P3-0070",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":204,
+          "length":11
+        },
+        {
+          "offset":378,
+          "length":11
+        },
+        {
+          "offset":204,
+          "length":11
+        },
+        {
+          "offset":378,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jim_Hood",
+      "label":"Jim Hood",
+      "offsets":[
+        {
+          "offset":407,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Mississippi Lawyers",
+          "uri":"http://dbpedia.org/class/yago/MississippiLawyers"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"American jurists",
+          "uri":"http://dbpedia.org/resource/American_jurists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Florida",
+      "label":"Florida",
+      "offsets":[
+        {
+          "offset":38,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Texas",
+      "label":"Texas",
+      "offsets":[
+        {
+          "offset":62,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The Confederate States Of America",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"States And Territories Established In1845",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+        },
+        {
+          "label":"Class",
+          "uri":"http://www.w3.org/2002/07/owl#Class"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"nationality",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Michigan",
+      "label":"University of Michigan",
+      "offsets":[
+        {
+          "offset":463,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Universities And Colleges In Michigan",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInMichigan"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Schools Of Public Health",
+          "uri":"http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+        },
+        {
+          "label":"Educational Institutions Established In1817",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1817"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":204,
+          "length":11
+        },
+        {
+          "offset":378,
+          "length":11
+        },
+        {
+          "offset":204,
+          "length":11
+        },
+        {
+          "offset":378,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jim_Hood",
+      "label":"Jim Hood",
+      "offsets":[
+        {
+          "offset":407,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Mississippi Lawyers",
+          "uri":"http://dbpedia.org/class/yago/MississippiLawyers"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"American jurists",
+          "uri":"http://dbpedia.org/resource/American_jurists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

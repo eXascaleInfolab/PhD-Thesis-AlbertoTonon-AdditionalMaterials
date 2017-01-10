@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Mar&iacute;a Gabriela",
+            "types": [
+                {
+                    "label": "Feminist organizations",
+                    "uri": "http://dbpedia.org/resource/Feminist_organizations"
+                },
+                {
+                    "label": "Filipino society",
+                    "uri": "http://dbpedia.org/resource/Filipino_society"
+                },
+                {
+                    "label": "Filipino activists",
+                    "uri": "http://dbpedia.org/resource/Filipino_activists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/GABRIELA"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0621",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mar&iacute;a Gabriela",
+            "types": [
+                {
+                    "label": "Feminist organizations",
+                    "uri": "http://dbpedia.org/resource/Feminist_organizations"
+                },
+                {
+                    "label": "Filipino society",
+                    "uri": "http://dbpedia.org/resource/Filipino_society"
+                },
+                {
+                    "label": "Filipino activists",
+                    "uri": "http://dbpedia.org/resource/Filipino_activists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/GABRIELA"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

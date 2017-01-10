@@ -1,0 +1,217 @@
+{
+    "allEntities": [
+        {
+            "label": "Serena Williams",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "American tennis players",
+                    "uri": "http://dbpedia.org/resource/American_tennis_players"
+                },
+                {
+                    "label": "American Tennis Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTennisPlayers"
+                },
+                {
+                    "label": "Olympic Gold Medalists For The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForTheUnitedStates"
+                },
+                {
+                    "label": "USOpen Champions",
+                    "uri": "http://dbpedia.org/class/yago/USOpenChampions"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "French Open Champions",
+                    "uri": "http://dbpedia.org/class/yago/FrenchOpenChampions"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Tennis Player",
+                    "uri": "http://dbpedia.org/ontology/TennisPlayer"
+                },
+                {
+                    "label": "Olympic Tennis Players Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicTennisPlayersOfTheUnitedStates"
+                },
+                {
+                    "label": "Wimbledon Champions",
+                    "uri": "http://dbpedia.org/class/yago/WimbledonChampions"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "French Open champions",
+                    "uri": "http://dbpedia.org/resource/French_Open_champions"
+                },
+                {
+                    "label": "People From Compton,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCompton,California"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Australian Open champions",
+                    "uri": "http://dbpedia.org/resource/Australian_Open_champions"
+                },
+                {
+                    "label": "Jehovah%27s Witnesses people",
+                    "uri": "http://dbpedia.org/resource/Jehovah%27s_Witnesses_people"
+                },
+                {
+                    "label": "Tennis Players At The2000Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/TennisPlayersAtThe2000SummerOlympics"
+                },
+                {
+                    "label": "Jehovah's Witnesses People",
+                    "uri": "http://dbpedia.org/class/yago/Jehovah'sWitnessesPeople"
+                },
+                {
+                    "label": "Tennis Player",
+                    "uri": "http://dbpedia.org/class/yago/TennisPlayer110701180"
+                },
+                {
+                    "label": "Australian Open Champions",
+                    "uri": "http://dbpedia.org/class/yago/AustralianOpenChampions"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Serena_Williams"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0513",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Serena Williams",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "American tennis players",
+                    "uri": "http://dbpedia.org/resource/American_tennis_players"
+                },
+                {
+                    "label": "American Tennis Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTennisPlayers"
+                },
+                {
+                    "label": "Olympic Gold Medalists For The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForTheUnitedStates"
+                },
+                {
+                    "label": "USOpen Champions",
+                    "uri": "http://dbpedia.org/class/yago/USOpenChampions"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "French Open Champions",
+                    "uri": "http://dbpedia.org/class/yago/FrenchOpenChampions"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Tennis Player",
+                    "uri": "http://dbpedia.org/ontology/TennisPlayer"
+                },
+                {
+                    "label": "Olympic Tennis Players Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicTennisPlayersOfTheUnitedStates"
+                },
+                {
+                    "label": "Wimbledon Champions",
+                    "uri": "http://dbpedia.org/class/yago/WimbledonChampions"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "French Open champions",
+                    "uri": "http://dbpedia.org/resource/French_Open_champions"
+                },
+                {
+                    "label": "People From Compton,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCompton,California"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Australian Open champions",
+                    "uri": "http://dbpedia.org/resource/Australian_Open_champions"
+                },
+                {
+                    "label": "Jehovah%27s Witnesses people",
+                    "uri": "http://dbpedia.org/resource/Jehovah%27s_Witnesses_people"
+                },
+                {
+                    "label": "Tennis Players At The2000Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/TennisPlayersAtThe2000SummerOlympics"
+                },
+                {
+                    "label": "Jehovah's Witnesses People",
+                    "uri": "http://dbpedia.org/class/yago/Jehovah'sWitnessesPeople"
+                },
+                {
+                    "label": "Tennis Player",
+                    "uri": "http://dbpedia.org/class/yago/TennisPlayer110701180"
+                },
+                {
+                    "label": "Australian Open Champions",
+                    "uri": "http://dbpedia.org/class/yago/AustralianOpenChampions"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Serena_Williams"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

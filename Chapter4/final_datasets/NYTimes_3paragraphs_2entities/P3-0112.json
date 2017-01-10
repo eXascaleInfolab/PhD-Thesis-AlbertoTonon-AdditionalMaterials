@@ -1,0 +1,269 @@
+{
+  "mainText":"Mr. Pride, who was wanted in connection with a shooting in North Carolina at the time of the officer\u2019s death and had been arrested and freed on a drug charge in Brooklyn, was convicted on Feb. 11 of second-degree murder and burglary but acquitted of first-degree murder, which in these circumstances would have carried a mandatory life sentence.\nHis lawyer had argued that Mr. Pride pulled the trigger by accident as he ran up the basement stairs to flee.",
+  "shownText":"The courtroom was filled with about a dozen officers in uniform, and dozens more lined the hallway outside.\nAs Officer Figoski\u2019s daughters, his mother and his former wife filed out of the courtroom looking grim-faced, the officers gave them sustained applause.\n\nMr. Pride, who was wanted in connection with a shooting in North Carolina at the time of the officer\u2019s death and had been arrested and freed on a drug charge in Brooklyn, was convicted on Feb. 11 of second-degree murder and burglary but acquitted of first-degree murder, which in these circumstances would have carried a mandatory life sentence.\nHis lawyer had argued that Mr. Pride pulled the trigger by accident as he ran up the basement stairs to flee.\n\nMr. Pride has a prior robbery felony conviction in North Carolina and two misdemeanor convictions.\n",
+  "title":"Officer Figoskiâs Killer, Lamont Pride, Gets Maximum Sentence - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/nyregion/officer-figoskis-killer-lamont-pride-gets-maximum-sentence.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0112",
+  "elementNumber":8,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":423,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/North_Carolina",
+      "label":"North Carolina",
+      "offsets":[
+        {
+          "offset":321,
+          "length":14
+        },
+        {
+          "offset":770,
+          "length":14
+        },
+        {
+          "offset":321,
+          "length":14
+        },
+        {
+          "offset":770,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Brooklyn",
+      "label":"Brooklyn",
+      "offsets":[
+        {
+          "offset":423,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Settlements Established In1634",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1634"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/North_Carolina",
+      "label":"North Carolina",
+      "offsets":[
+        {
+          "offset":321,
+          "length":14
+        },
+        {
+          "offset":770,
+          "length":14
+        },
+        {
+          "offset":321,
+          "length":14
+        },
+        {
+          "offset":770,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "mainText":"She said that Mr. Filin and his ballet company had taken pains to smooth the way for her to move from Voronezh to Moscow, where she finished her training, providing her with lodging, a stipend and a spot at the ballet academy, as well as finding a job for her mother.",
+  "shownText":"She said that Mr. Filin and his ballet company had taken pains to smooth the way for her to move from Voronezh to Moscow, where she finished her training, providing her with lodging, a stipend and a spot at the ballet academy, as well as finding a job for her mother.",
+  "title":"Ballerina May Be at Center of Bolshoi Acid Attack - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/arts/dance/ballerina-may-be-at-center-of-bolshoi-acid-attack.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0022",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":114,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Voronezh",
+      "label":"Voronezh",
+      "offsets":[
+        {
+          "offset":102,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1586",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1586"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Archaeological Sites In Russia",
+          "uri":"http://dbpedia.org/class/yago/ArchaeologicalSitesInRussia"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":114,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Voronezh",
+      "label":"Voronezh",
+      "offsets":[
+        {
+          "offset":102,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1586",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1586"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"thing",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Archaeological Sites In Russia",
+          "uri":"http://dbpedia.org/class/yago/ArchaeologicalSitesInRussia"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

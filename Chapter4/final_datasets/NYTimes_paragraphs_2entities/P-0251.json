@@ -1,0 +1,181 @@
+{
+  "mainText":"Wearing a black leather Adidas jacket, black vintage T-shirt, black ripped jeans and Nikes, Mr. Doyle pondered his future the other day over a beer at Cafe Select in SoHo, one of his main hangouts.\nBy sheer persistence, he has become a regular presence on Web sites that exhaustively chronicle the city\u2019s party scene, a part of a glittering social circle and even an occasional tabloid figure, thanks to the antics of Lindsay Lohan, a close associate.\nHe sees himself as a kind of intermediary between various celebrity worlds.",
+  "shownText":"Wearing a black leather Adidas jacket, black vintage T-shirt, black ripped jeans and Nikes, Mr. Doyle pondered his future the other day over a beer at Cafe Select in SoHo, one of his main hangouts.\nBy sheer persistence, he has become a regular presence on Web sites that exhaustively chronicle the city\u2019s party scene, a part of a glittering social circle and even an occasional tabloid figure, thanks to the antics of Lindsay Lohan, a close associate.\nHe sees himself as a kind of intermediary between various celebrity worlds.",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"P-0251",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Adidas",
+      "label":"Adidas",
+      "offsets":[
+        {
+          "offset":24,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"German clothing retailers",
+          "uri":"http://dbpedia.org/resource/German_clothing_retailers"
+        },
+        {
+          "label":"German brands",
+          "uri":"http://dbpedia.org/resource/German_brands"
+        },
+        {
+          "label":"Companies listed on the Frankfurt Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Frankfurt_Stock_Exchange"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Adidas brands",
+          "uri":"http://dbpedia.org/resource/Adidas_brands"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soho",
+      "label":"SoHo",
+      "offsets":[
+        {
+          "offset":166,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Red-light Districts",
+          "uri":"http://dbpedia.org/class/yago/Red-lightDistricts"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Neighbourhoods Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/NeighbourhoodsOfWestminster"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Districts Of London",
+          "uri":"http://dbpedia.org/class/yago/DistrictsOfLondon"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Adidas",
+      "label":"Adidas",
+      "offsets":[
+        {
+          "offset":24,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"German clothing retailers",
+          "uri":"http://dbpedia.org/resource/German_clothing_retailers"
+        },
+        {
+          "label":"German brands",
+          "uri":"http://dbpedia.org/resource/German_brands"
+        },
+        {
+          "label":"Companies listed on the Frankfurt Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Frankfurt_Stock_Exchange"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Adidas brands",
+          "uri":"http://dbpedia.org/resource/Adidas_brands"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soho",
+      "label":"SoHo",
+      "offsets":[
+        {
+          "offset":166,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Red-light Districts",
+          "uri":"http://dbpedia.org/class/yago/Red-lightDistricts"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Neighbourhoods Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/NeighbourhoodsOfWestminster"
+        },
+        {
+          "label":"Site",
+          "uri":"http://dbpedia.org/class/yago/Site108651247"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Districts Of London",
+          "uri":"http://dbpedia.org/class/yago/DistrictsOfLondon"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

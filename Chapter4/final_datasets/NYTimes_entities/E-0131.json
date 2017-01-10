@@ -1,0 +1,249 @@
+{
+    "allEntities": [
+        {
+            "label": "Sam Brownback",
+            "types": [
+                {
+                    "label": "United States Senators From Kansas",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKansas"
+                },
+                {
+                    "label": "Converts To Roman Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+                },
+                {
+                    "label": "American Adoptive Parents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+                },
+                {
+                    "label": "American adoptive parents",
+                    "uri": "http://dbpedia.org/resource/American_adoptive_parents"
+                },
+                {
+                    "label": "Promise Keepers",
+                    "uri": "http://dbpedia.org/class/yago/PromiseKeepers"
+                },
+                {
+                    "label": "Intelligent design advocates",
+                    "uri": "http://dbpedia.org/resource/Intelligent_design_advocates"
+                },
+                {
+                    "label": "Kansas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/KansasLawyers"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "Protestant Converts To Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ProtestantConvertsToCatholicism"
+                },
+                {
+                    "label": "American Farmers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFarmers"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Kansas Politicians",
+                    "uri": "http://dbpedia.org/class/yago/KansasPoliticians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Intelligent Design Advocates",
+                    "uri": "http://dbpedia.org/class/yago/IntelligentDesignAdvocates"
+                },
+                {
+                    "label": "Kansas politicians",
+                    "uri": "http://dbpedia.org/resource/Kansas_politicians"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "State Cabinet Secretaries Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StateCabinetSecretariesOfTheUnitedStates"
+                },
+                {
+                    "label": "American farmers",
+                    "uri": "http://dbpedia.org/resource/American_farmers"
+                },
+                {
+                    "label": "Former Protestants",
+                    "uri": "http://dbpedia.org/resource/Former_Protestants"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Convert",
+                    "uri": "http://dbpedia.org/class/yago/Convert109962414"
+                },
+                {
+                    "label": "Kansas lawyers",
+                    "uri": "http://dbpedia.org/resource/Kansas_lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Farmer",
+                    "uri": "http://dbpedia.org/class/yago/Farmer110078806"
+                },
+                {
+                    "label": "Converts to Roman Catholicism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sam_Brownback"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0131",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sam Brownback",
+            "types": [
+                {
+                    "label": "United States Senators From Kansas",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromKansas"
+                },
+                {
+                    "label": "Converts To Roman Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+                },
+                {
+                    "label": "American Adoptive Parents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+                },
+                {
+                    "label": "American adoptive parents",
+                    "uri": "http://dbpedia.org/resource/American_adoptive_parents"
+                },
+                {
+                    "label": "Promise Keepers",
+                    "uri": "http://dbpedia.org/class/yago/PromiseKeepers"
+                },
+                {
+                    "label": "Intelligent design advocates",
+                    "uri": "http://dbpedia.org/resource/Intelligent_design_advocates"
+                },
+                {
+                    "label": "Kansas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/KansasLawyers"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "Protestant Converts To Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ProtestantConvertsToCatholicism"
+                },
+                {
+                    "label": "American Farmers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFarmers"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Kansas Politicians",
+                    "uri": "http://dbpedia.org/class/yago/KansasPoliticians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Intelligent Design Advocates",
+                    "uri": "http://dbpedia.org/class/yago/IntelligentDesignAdvocates"
+                },
+                {
+                    "label": "Kansas politicians",
+                    "uri": "http://dbpedia.org/resource/Kansas_politicians"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "State Cabinet Secretaries Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StateCabinetSecretariesOfTheUnitedStates"
+                },
+                {
+                    "label": "American farmers",
+                    "uri": "http://dbpedia.org/resource/American_farmers"
+                },
+                {
+                    "label": "Former Protestants",
+                    "uri": "http://dbpedia.org/resource/Former_Protestants"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Convert",
+                    "uri": "http://dbpedia.org/class/yago/Convert109962414"
+                },
+                {
+                    "label": "Kansas lawyers",
+                    "uri": "http://dbpedia.org/resource/Kansas_lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Farmer",
+                    "uri": "http://dbpedia.org/class/yago/Farmer110078806"
+                },
+                {
+                    "label": "Converts to Roman Catholicism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sam_Brownback"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

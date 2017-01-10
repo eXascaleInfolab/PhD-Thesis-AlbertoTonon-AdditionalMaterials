@@ -1,0 +1,365 @@
+{
+  "mainText":"Robert H. Serry, the United Nations special coordinator for the Middle East peace process, who has asked Secretary General Ban Ki-moon for an international investigation into Mr. Jaradat\u2019s death, on Tuesday issued a statement saying he was \u201cdeeply troubled by resumed indiscriminate rocket fire from Gaza, which is totally unacceptable.\u201d",
+  "shownText":"Robert H. Serry, the United Nations special coordinator for the Middle East peace process, who has asked Secretary General Ban Ki-moon for an international investigation into Mr. Jaradat\u2019s death, on Tuesday issued a statement saying he was \u201cdeeply troubled by resumed indiscriminate rocket fire from Gaza, which is totally unacceptable.\u201d",
+  "title":"Rocket From Gaza Hits Israel, Breaking Cease-Fire - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html?ref=world",
+  "category":"world",
+  "docID":"S-0437",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":21,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":300,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ban_Ki-moon",
+      "label":"Ban Ki-moon",
+      "offsets":[
+        {
+          "offset":123,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"South Korean Diplomats",
+          "uri":"http://dbpedia.org/class/yago/SouthKoreanDiplomats"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"United Nations Officials",
+          "uri":"http://dbpedia.org/class/yago/UnitedNationsOfficials"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Seoul National University People",
+          "uri":"http://dbpedia.org/class/yago/SeoulNationalUniversityPeople"
+        },
+        {
+          "label":"South Korean Politicians",
+          "uri":"http://dbpedia.org/class/yago/SouthKoreanPoliticians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"People From Chungcheongbuk-do",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChungcheongbuk-do"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Polyglots",
+          "uri":"http://dbpedia.org/class/yago/Polyglots"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Middle_East",
+      "label":"Middle East",
+      "offsets":[
+        {
+          "offset":64,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":"KE clarifying collection type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":21,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":300,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Ban_Ki-moon",
+      "label":"Ban Ki-moon",
+      "offsets":[
+        {
+          "offset":123,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"South Korean Diplomats",
+          "uri":"http://dbpedia.org/class/yago/SouthKoreanDiplomats"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"United Nations Officials",
+          "uri":"http://dbpedia.org/class/yago/UnitedNationsOfficials"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Seoul National University People",
+          "uri":"http://dbpedia.org/class/yago/SeoulNationalUniversityPeople"
+        },
+        {
+          "label":"South Korean Politicians",
+          "uri":"http://dbpedia.org/class/yago/SouthKoreanPoliticians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"People From Chungcheongbuk-do",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChungcheongbuk-do"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Polyglots",
+          "uri":"http://dbpedia.org/class/yago/Polyglots"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Middle_East",
+      "label":"Middle East",
+      "offsets":[
+        {
+          "offset":64,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Economies By Region",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByRegion"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":"KE clarifying collection type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Basel",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Cities In Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Town",
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                },
+                {
+                    "label": "Cities On The Rhine",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheRhine"
+                },
+                {
+                    "label": "Cantonal Capitals Of Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/CantonalCapitalsOfSwitzerland"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Basel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0355",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Basel",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Cities In Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Town",
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                },
+                {
+                    "label": "Cities On The Rhine",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheRhine"
+                },
+                {
+                    "label": "Cantonal Capitals Of Switzerland",
+                    "uri": "http://dbpedia.org/class/yago/CantonalCapitalsOfSwitzerland"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Basel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

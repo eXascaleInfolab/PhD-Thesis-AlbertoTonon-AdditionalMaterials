@@ -1,0 +1,173 @@
+{
+  "mainText":"He and other rebellious officers were court-martialed, and Mr. Chávez was sent to prison.\nBut in two years he was freed by President Rafael Caldera in fulfillment of an election pledge.\nAfter leaving prison, Mr. Chávez divorced his wife, Nancy Colmenares.\nHe is survived by their three children, Rosa Virginia, María Gabriela and Hugo Rafael; and another daughter, Rosinés, from his second marriage, to Marisabel Rodríguez, who left him in 2002.",
+  "shownText":"He and other rebellious officers were court-martialed, and Mr. Chávez was sent to prison.\nBut in two years he was freed by President Rafael Caldera in fulfillment of an election pledge.\nAfter leaving prison, Mr. Chávez divorced his wife, Nancy Colmenares.\nHe is survived by their three children, Rosa Virginia, María Gabriela and Hugo Rafael; and another daughter, Rosinés, from his second marriage, to Marisabel Rodríguez, who left him in 2002.",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"P-0324",
+  "elementNumber":48,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/GABRIELA",
+      "label":"Mar&iacute;a Gabriela",
+      "offsets":[
+        {
+          "offset":311,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Feminist organizations",
+          "uri":"http://dbpedia.org/resource/Feminist_organizations"
+        },
+        {
+          "label":"Filipino society",
+          "uri":"http://dbpedia.org/resource/Filipino_society"
+        },
+        {
+          "label":"Filipino activists",
+          "uri":"http://dbpedia.org/resource/Filipino_activists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rafael_Caldera",
+      "label":"Rafael Caldera",
+      "offsets":[
+        {
+          "offset":133,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Presidents Of Venezuela",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfVenezuela"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Roman Catholic Activists",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicActivists"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Venezuelan Lawyers",
+          "uri":"http://dbpedia.org/class/yago/VenezuelanLawyers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/GABRIELA",
+      "label":"Mar&iacute;a Gabriela",
+      "offsets":[
+        {
+          "offset":311,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Feminist organizations",
+          "uri":"http://dbpedia.org/resource/Feminist_organizations"
+        },
+        {
+          "label":"Filipino society",
+          "uri":"http://dbpedia.org/resource/Filipino_society"
+        },
+        {
+          "label":"Filipino activists",
+          "uri":"http://dbpedia.org/resource/Filipino_activists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rafael_Caldera",
+      "label":"Rafael Caldera",
+      "offsets":[
+        {
+          "offset":133,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Presidents Of Venezuela",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfVenezuela"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Roman Catholic Activists",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicActivists"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Venezuelan Lawyers",
+          "uri":"http://dbpedia.org/class/yago/VenezuelanLawyers"
+        }
+      ]
+    }
+  ]
+}

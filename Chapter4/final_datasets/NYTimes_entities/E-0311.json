@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Kisumu",
+            "types": [
+                {
+                    "label": "Cities on the Great Rift Valley",
+                    "uri": "http://dbpedia.org/resource/Cities_on_the_Great_Rift_Valley"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Cities On The Great Rift Valley",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheGreatRiftValley"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kisumu"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0311",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kisumu",
+            "types": [
+                {
+                    "label": "Cities on the Great Rift Valley",
+                    "uri": "http://dbpedia.org/resource/Cities_on_the_Great_Rift_Valley"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Cities On The Great Rift Valley",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheGreatRiftValley"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kisumu"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

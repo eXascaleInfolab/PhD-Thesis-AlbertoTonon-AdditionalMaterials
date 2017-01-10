@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Hollywood Bowl",
+            "types": [
+                {
+                    "label": "Hollywood history and culture",
+                    "uri": "http://dbpedia.org/resource/Hollywood_history_and_culture"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                },
+                {
+                    "label": "Landmarks In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hollywood_Bowl"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0763",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hollywood Bowl",
+            "types": [
+                {
+                    "label": "Hollywood history and culture",
+                    "uri": "http://dbpedia.org/resource/Hollywood_history_and_culture"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                },
+                {
+                    "label": "Landmarks In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hollywood_Bowl"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

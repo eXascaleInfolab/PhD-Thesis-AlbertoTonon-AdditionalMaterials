@@ -1,0 +1,289 @@
+{
+    "allEntities": [
+        {
+            "label": "Jean-Paul Sartre",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From Paris",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromParis"
+                },
+                {
+                    "label": "French dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/French_dramatists_and_playwrights"
+                },
+                {
+                    "label": "Alumni Of The%C3%89cole Normale Sup%C3%A9rieure",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfThe%C3%89coleNormaleSup%C3%A9rieure"
+                },
+                {
+                    "label": "French person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQw1P5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/ontology/Philosopher"
+                },
+                {
+                    "label": "French novelists",
+                    "uri": "http://dbpedia.org/resource/French_novelists"
+                },
+                {
+                    "label": "Psychedelic Advocates And Proponents",
+                    "uri": "http://dbpedia.org/class/yago/PsychedelicAdvocatesAndProponents"
+                },
+                {
+                    "label": "French Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/FrenchDramatistsAndPlaywrights"
+                },
+                {
+                    "label": "French Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/FrenchPhilosophers"
+                },
+                {
+                    "label": "French Novelists",
+                    "uri": "http://dbpedia.org/class/yago/FrenchNovelists"
+                },
+                {
+                    "label": "Atheist philosophers",
+                    "uri": "http://dbpedia.org/resource/Atheist_philosophers"
+                },
+                {
+                    "label": "Scholars Of Antisemitism",
+                    "uri": "http://dbpedia.org/class/yago/ScholarsOfAntisemitism"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "philosopher",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjuapwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "French Atheists",
+                    "uri": "http://dbpedia.org/class/yago/FrenchAtheists"
+                },
+                {
+                    "label": "French philosophers",
+                    "uri": "http://dbpedia.org/resource/French_philosophers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Atheist Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/AtheistPhilosophers"
+                },
+                {
+                    "label": "Lyc%C3%A9e Louis-le-Grand Alumni",
+                    "uri": "http://dbpedia.org/class/yago/Lyc%C3%A9eLouis-le-GrandAlumni"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/class/yago/Philosopher110423589"
+                },
+                {
+                    "label": "Continental philosophers",
+                    "uri": "http://dbpedia.org/resource/Continental_philosophers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "French Philosophers Of The20th Century",
+                    "uri": "http://dbpedia.org/class/yago/FrenchPhilosophersOfThe20thCentury"
+                },
+                {
+                    "label": "dead organism",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "World War IIPrisoners Of War Held By Germany",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWarHeldByGermany"
+                },
+                {
+                    "label": "French Marxists",
+                    "uri": "http://dbpedia.org/resource/French_Marxists"
+                },
+                {
+                    "label": "Existentialists",
+                    "uri": "http://dbpedia.org/class/yago/Existentialists"
+                },
+                {
+                    "label": "Nobel Laureates In Literature",
+                    "uri": "http://dbpedia.org/class/yago/NobelLaureatesInLiterature"
+                },
+                {
+                    "label": "Continental Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/ContinentalPhilosophers"
+                },
+                {
+                    "label": "French atheists",
+                    "uri": "http://dbpedia.org/resource/French_atheists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jean-Paul_Sartre"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0024",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jean-Paul Sartre",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From Paris",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromParis"
+                },
+                {
+                    "label": "French dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/French_dramatists_and_playwrights"
+                },
+                {
+                    "label": "Alumni Of The%C3%89cole Normale Sup%C3%A9rieure",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfThe%C3%89coleNormaleSup%C3%A9rieure"
+                },
+                {
+                    "label": "French person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQw1P5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/ontology/Philosopher"
+                },
+                {
+                    "label": "French novelists",
+                    "uri": "http://dbpedia.org/resource/French_novelists"
+                },
+                {
+                    "label": "Psychedelic Advocates And Proponents",
+                    "uri": "http://dbpedia.org/class/yago/PsychedelicAdvocatesAndProponents"
+                },
+                {
+                    "label": "French Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/FrenchDramatistsAndPlaywrights"
+                },
+                {
+                    "label": "French Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/FrenchPhilosophers"
+                },
+                {
+                    "label": "French Novelists",
+                    "uri": "http://dbpedia.org/class/yago/FrenchNovelists"
+                },
+                {
+                    "label": "Atheist philosophers",
+                    "uri": "http://dbpedia.org/resource/Atheist_philosophers"
+                },
+                {
+                    "label": "Scholars Of Antisemitism",
+                    "uri": "http://dbpedia.org/class/yago/ScholarsOfAntisemitism"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "philosopher",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjuapwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "French Atheists",
+                    "uri": "http://dbpedia.org/class/yago/FrenchAtheists"
+                },
+                {
+                    "label": "French philosophers",
+                    "uri": "http://dbpedia.org/resource/French_philosophers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Atheist Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/AtheistPhilosophers"
+                },
+                {
+                    "label": "Lyc%C3%A9e Louis-le-Grand Alumni",
+                    "uri": "http://dbpedia.org/class/yago/Lyc%C3%A9eLouis-le-GrandAlumni"
+                },
+                {
+                    "label": "Philosopher",
+                    "uri": "http://dbpedia.org/class/yago/Philosopher110423589"
+                },
+                {
+                    "label": "Continental philosophers",
+                    "uri": "http://dbpedia.org/resource/Continental_philosophers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "French Philosophers Of The20th Century",
+                    "uri": "http://dbpedia.org/class/yago/FrenchPhilosophersOfThe20thCentury"
+                },
+                {
+                    "label": "dead organism",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "World War IIPrisoners Of War Held By Germany",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWarHeldByGermany"
+                },
+                {
+                    "label": "French Marxists",
+                    "uri": "http://dbpedia.org/resource/French_Marxists"
+                },
+                {
+                    "label": "Existentialists",
+                    "uri": "http://dbpedia.org/class/yago/Existentialists"
+                },
+                {
+                    "label": "Nobel Laureates In Literature",
+                    "uri": "http://dbpedia.org/class/yago/NobelLaureatesInLiterature"
+                },
+                {
+                    "label": "Continental Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/ContinentalPhilosophers"
+                },
+                {
+                    "label": "French atheists",
+                    "uri": "http://dbpedia.org/resource/French_atheists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jean-Paul_Sartre"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

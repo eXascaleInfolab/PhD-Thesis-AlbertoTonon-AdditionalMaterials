@@ -1,0 +1,313 @@
+{
+  "mainText":"I first met Moskowitz on a crisp day in the spring of 2010 at the Harvard Club in Midtown Manhattan.\nAs a researcher, I was ahead of my time.\u201d\nI was struggling to survive and didn\u2019t have the luxury of being a moral creature.\n\u201cI did the best science I could.\n\u201cThere\u2019s no moral issue for me,\u201d he said.\nAs we talked, he made clear that while he has worked on numerous projects aimed at creating more healthful foods and insists the industry could be doing far more to curb obesity, he had no qualms about his own pioneering work on discovering what industry insiders now regularly refer to as \u201cthe bliss point\u201d or any of the other systems that helped food companies create the greatest amount of crave.",
+  "shownText":"In making these sauces, Campbell supplied the ingredients, including the salt, sugar and, for some versions, fat, while Moskowitz supplied the optimization.\nMany of the Prego sauces \u2014 whether cheesy, chunky or light \u2014 have one feature in common: The largest ingredient, after tomatoes, is sugar.\n\u201cAs the sensory intensity (say, of sweetness) increases, consumers first say that they like the product more, but eventually, with a middle level of sweetness, consumers like the product the most (this is their optimum, or \u2018bliss,\u2019 point).\u201d\nA mere half-cup of Prego Traditional, for instance, has the equivalent of more than two teaspoons of sugar, as much as two-plus Oreo cookies.\n\u201cMore is not necessarily better,\u201d Moskowitz wrote in his own account of the Prego project.\nIt also delivers one-third of the sodium recommended for a majority of American adults for an entire day.\nWell, yes and no.\nOne thing Gladwell didn\u2019t mention is that the food industry already knew some things about making people happy \u2014 and it started with sugar.\n\nI first met Moskowitz on a crisp day in the spring of 2010 at the Harvard Club in Midtown Manhattan.\nAs a researcher, I was ahead of my time.\u201d\nI was struggling to survive and didn\u2019t have the luxury of being a moral creature.\n\u201cI did the best science I could.\n\u201cThere\u2019s no moral issue for me,\u201d he said.\nAs we talked, he made clear that while he has worked on numerous projects aimed at creating more healthful foods and insists the industry could be doing far more to curb obesity, he had no qualms about his own pioneering work on discovering what industry insiders now regularly refer to as \u201cthe bliss point\u201d or any of the other systems that helped food companies create the greatest amount of crave.\n\nThe military has long been in a peculiar bind when it comes to food: how to get soldiers to eat more rations when they are in the field.\n\u201cSo I started asking soldiers how frequently they would like to eat this or that, trying to figure out which products they would find boring,\u201d Moskowitz said.\nOn the other hand, mundane foods like white bread would never get them too excited, but they could eat lots and lots of it without feeling they\u2019d had enough.\u201d\nThe answers he got were inconsistent.\nThey know that over time, soldiers would gradually find their meals-ready-to-eat so boring that they would toss them away, half-eaten, and not get all the calories they needed.\n\u201cThey liked flavorful foods like turkey tetrazzini, but only at first; they quickly grew tired of them.\nBut what was causing this M.R.E.-fatigue was a mystery.\nMoskowitz\u2019s path to mastering the bliss point began in earnest not at Harvard but a few months after graduation, 16 miles from Cambridge, in the town of Natick, where the U.S. Army hired him to work in its research labs.\n",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P3-0173",
+  "elementNumber":33,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_Glee_Club",
+      "label":"Harvard Club",
+      "offsets":[
+        {
+          "offset":1101,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston culture",
+          "uri":"http://dbpedia.org/resource/Boston_culture"
+        },
+        {
+          "label":"Massachusetts Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+        },
+        {
+          "label":"Glee Clubs",
+          "uri":"http://dbpedia.org/class/yago/GleeClubs"
+        },
+        {
+          "label":"Harvard Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/HarvardMusicalGroups"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":1101,
+          "length":7
+        },
+        {
+          "offset":2636,
+          "length":7
+        },
+        {
+          "offset":1101,
+          "length":7
+        },
+        {
+          "offset":2636,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Army",
+      "label":"Army",
+      "offsets":[
+        {
+          "offset":2742,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Iranian Army echelon",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rbVMJWnStEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"U.S. Army echelon",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4radO_4HStEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Field armies",
+          "uri":"http://dbpedia.org/resource/Field_armies"
+        },
+        {
+          "label":"Military Unit",
+          "uri":"http://dbpedia.org/ontology/MilitaryUnit"
+        },
+        {
+          "label":"military organization concept",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roClzfvSSEdmAAAACs0uFOQ"
+        },
+        {
+          "label":"generic military organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6_yViGJsQdifUcwDA-kIWw"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_Glee_Club",
+      "label":"Harvard Club",
+      "offsets":[
+        {
+          "offset":1101,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston culture",
+          "uri":"http://dbpedia.org/resource/Boston_culture"
+        },
+        {
+          "label":"Massachusetts Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+        },
+        {
+          "label":"Glee Clubs",
+          "uri":"http://dbpedia.org/class/yago/GleeClubs"
+        },
+        {
+          "label":"Harvard Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/HarvardMusicalGroups"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":2737,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":1101,
+          "length":7
+        },
+        {
+          "offset":2636,
+          "length":7
+        },
+        {
+          "offset":1101,
+          "length":7
+        },
+        {
+          "offset":2636,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cambridge",
+      "label":"Cambridge",
+      "offsets":[
+        {
+          "offset":2693,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"city in England",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvViWaZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Non-metropolitan Districts Of Cambridgeshire",
+          "uri":"http://dbpedia.org/class/yago/Non-metropolitanDistrictsOfCambridgeshire"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Local Government Districts Of The East Of England",
+          "uri":"http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfTheEastOfEngland"
+        },
+        {
+          "label":"Cities In England",
+          "uri":"http://dbpedia.org/class/yago/CitiesInEngland"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"University Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/UniversityTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"University Towns",
+          "uri":"http://dbpedia.org/class/yago/UniversityTowns"
+        },
+        {
+          "label":"County Towns In England",
+          "uri":"http://dbpedia.org/class/yago/CountyTownsInEngland"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In The East Of England",
+          "uri":"http://dbpedia.org/class/yago/CitiesInTheEastOfEngland"
+        },
+        {
+          "label":"Shire Districts",
+          "uri":"http://dbpedia.org/class/yago/ShireDistricts"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Geoclass Populated Place",
+          "uri":"http://dbpedia.org/class/yago/GeoclassPopulatedPlace"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

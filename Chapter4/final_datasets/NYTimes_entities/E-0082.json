@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Boston Red Sox",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Sports Clubs Established In1901",
+                    "uri": "http://dbpedia.org/class/yago/SportsClubsEstablishedIn1901"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Professional Baseball Teams In Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/ProfessionalBaseballTeamsInMassachusetts"
+                },
+                {
+                    "label": "Major League Baseball Teams",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeagueBaseballTeams"
+                },
+                {
+                    "label": "Laureus World Sports Awards winners",
+                    "uri": "http://dbpedia.org/resource/Laureus_World_Sports_Awards_winners"
+                },
+                {
+                    "label": "Boston Baseball Teams",
+                    "uri": "http://dbpedia.org/class/yago/BostonBaseballTeams"
+                },
+                {
+                    "label": "Sports In Boston,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/SportsInBoston,Massachusetts"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Boston_Red_Sox"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0082",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Boston Red Sox",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Sports Clubs Established In1901",
+                    "uri": "http://dbpedia.org/class/yago/SportsClubsEstablishedIn1901"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Professional Baseball Teams In Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/ProfessionalBaseballTeamsInMassachusetts"
+                },
+                {
+                    "label": "Major League Baseball Teams",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeagueBaseballTeams"
+                },
+                {
+                    "label": "Laureus World Sports Awards winners",
+                    "uri": "http://dbpedia.org/resource/Laureus_World_Sports_Awards_winners"
+                },
+                {
+                    "label": "Boston Baseball Teams",
+                    "uri": "http://dbpedia.org/class/yago/BostonBaseballTeams"
+                },
+                {
+                    "label": "Sports In Boston,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/SportsInBoston,Massachusetts"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Boston_Red_Sox"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "North America",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Regions Of The Americas",
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+                },
+                {
+                    "label": "Continent",
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                },
+                {
+                    "label": "Class",
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "type of person classified by geographical residence",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "Economies By Region",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                },
+                {
+                    "label": "type of person classified by continent",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+                },
+                {
+                    "label": "Continents",
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "QA clarifying collection type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rzw1ZKqTuQdiLqrjLEubYWg"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/North_America"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0155",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "North America",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Regions Of The Americas",
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+                },
+                {
+                    "label": "Continent",
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                },
+                {
+                    "label": "Class",
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "type of person classified by geographical residence",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "Economies By Region",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                },
+                {
+                    "label": "type of person classified by continent",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+                },
+                {
+                    "label": "Continents",
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "QA clarifying collection type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rzw1ZKqTuQdiLqrjLEubYWg"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/North_America"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

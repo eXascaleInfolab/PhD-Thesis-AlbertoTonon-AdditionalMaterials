@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mahmoud Abbas",
+            "types": [
+                {
+                    "label": "Palestinian Leaders",
+                    "uri": "http://dbpedia.org/class/yago/PalestinianLeaders"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mahmoud_Abbas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0564",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mahmoud Abbas",
+            "types": [
+                {
+                    "label": "Palestinian Leaders",
+                    "uri": "http://dbpedia.org/class/yago/PalestinianLeaders"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mahmoud_Abbas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

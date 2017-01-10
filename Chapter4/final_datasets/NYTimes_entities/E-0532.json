@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "MSNBC",
+            "types": [
+                {
+                    "label": "Network",
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "cable television network",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvjMrW5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "24-hour Television News Channels",
+                    "uri": "http://dbpedia.org/class/yago/24-hourTelevisionNewsChannels"
+                },
+                {
+                    "label": "24-hour television news channels",
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/MSNBC"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0532",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "MSNBC",
+            "types": [
+                {
+                    "label": "Network",
+                    "uri": "http://dbpedia.org/class/yago/Network108434259"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "cable television network",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvjMrW5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "24-hour Television News Channels",
+                    "uri": "http://dbpedia.org/class/yago/24-hourTelevisionNewsChannels"
+                },
+                {
+                    "label": "24-hour television news channels",
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                },
+                {
+                    "label": "Broadcast",
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/MSNBC"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

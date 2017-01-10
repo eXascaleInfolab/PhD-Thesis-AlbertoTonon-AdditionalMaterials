@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Martin Margiela",
+            "types": [
+                {
+                    "label": "People From Antwerp,Belgium",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAntwerp,Belgium"
+                },
+                {
+                    "label": "Belgian fashion designers",
+                    "uri": "http://dbpedia.org/resource/Belgian_fashion_designers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Martin_Margiela"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0457",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Martin Margiela",
+            "types": [
+                {
+                    "label": "People From Antwerp,Belgium",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAntwerp,Belgium"
+                },
+                {
+                    "label": "Belgian fashion designers",
+                    "uri": "http://dbpedia.org/resource/Belgian_fashion_designers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Martin_Margiela"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

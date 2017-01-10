@@ -1,0 +1,165 @@
+{
+  "mainText":"Richards escaped serious injury when the Sabres\u2019 Patrick Kaleta, a player with a history of involvement in dangerous hits, drove him face-first into the boards 3 minutes 28 seconds into the third period.\nKaleta was given a five-minute major and a game misconduct, and faces a probable suspension from the N.H.L.",
+  "shownText":"Richards escaped serious injury when the Sabres\u2019 Patrick Kaleta, a player with a history of involvement in dangerous hits, drove him face-first into the boards 3 minutes 28 seconds into the third period.\nKaleta was given a five-minute major and a game misconduct, and faces a probable suspension from the N.H.L.",
+  "title":"Rangers Hold Off Sabres in Shootout - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/sports/hockey/rangers-beat-sabres-in-shootout.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0221",
+  "elementNumber":2,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":57,
+          "length":6
+        },
+        {
+          "offset":204,
+          "length":6
+        },
+        {
+          "offset":57,
+          "length":6
+        },
+        {
+          "offset":204,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Patrick_Kaleta",
+      "label":"Patrick Kaleta",
+      "offsets":[
+        {
+          "offset":49,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Buffalo Sabres players",
+          "uri":"http://dbpedia.org/resource/Buffalo_Sabres_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":57,
+          "length":6
+        },
+        {
+          "offset":204,
+          "length":6
+        },
+        {
+          "offset":57,
+          "length":6
+        },
+        {
+          "offset":204,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Patrick_Kaleta",
+      "label":"Patrick Kaleta",
+      "offsets":[
+        {
+          "offset":49,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Buffalo Sabres players",
+          "uri":"http://dbpedia.org/resource/Buffalo_Sabres_players"
+        },
+        {
+          "label":"American ice hockey players",
+          "uri":"http://dbpedia.org/resource/American_ice_hockey_players"
+        }
+      ]
+    }
+  ]
+}

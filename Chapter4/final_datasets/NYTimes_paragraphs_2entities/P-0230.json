@@ -1,0 +1,349 @@
+{
+  "mainText":"U.S. Figure Skating selected the junior teams from the Synchroettes and the Skyliners to compete internationally.\nIn February the Skyliners placed fourth at the French Cup, in Rouen, France, while the Synchroettes were third in January at the Leon Lurje Trophy competition in Gothenburg, Sweden.\nThe results were significant because Scandinavian countries have dominated international events.",
+  "shownText":"U.S. Figure Skating selected the junior teams from the Synchroettes and the Skyliners to compete internationally.\nIn February the Skyliners placed fourth at the French Cup, in Rouen, France, while the Synchroettes were third in January at the Leon Lurje Trophy competition in Gothenburg, Sweden.\nThe results were significant because Scandinavian countries have dominated international events.",
+  "title":"Synchro Skating Tries to Move to the Front of the Line - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/01/sports/figure-skating-multiplied-by-16-and-all-in-sync.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0230",
+  "elementNumber":24,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Gothenburg",
+      "label":"Gothenburg",
+      "offsets":[
+        {
+          "offset":276,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Port Cities And Towns Of The North Sea",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsOfTheNorthSea"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sweden",
+      "label":"Sweden",
+      "offsets":[
+        {
+          "offset":288,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"constitutional monarchy",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Constitutional Monarchies",
+          "uri":"http://dbpedia.org/class/yago/ConstitutionalMonarchies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"European Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S._Figure_Skating",
+      "label":"U.S. Figure Skating",
+      "offsets":[
+        {
+          "offset":0,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"Sport",
+          "uri":"http://dbpedia.org/class/yago/Sport100523513"
+        },
+        {
+          "label":"Sports Governing Bodies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/SportsGoverningBodiesOfTheUnitedStates"
+        },
+        {
+          "label":"Figure skating organisations",
+          "uri":"http://dbpedia.org/resource/Figure_skating_organisations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":0,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rouen",
+      "label":"Rouen",
+      "offsets":[
+        {
+          "offset":176,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"French city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVj6EJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Gothenburg",
+      "label":"Gothenburg",
+      "offsets":[
+        {
+          "offset":276,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Port Cities And Towns Of The North Sea",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsOfTheNorthSea"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sweden",
+      "label":"Sweden",
+      "offsets":[
+        {
+          "offset":288,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"constitutional monarchy",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Constitutional Monarchies",
+          "uri":"http://dbpedia.org/class/yago/ConstitutionalMonarchies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"European Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S._Figure_Skating",
+      "label":"U.S. Figure Skating",
+      "offsets":[
+        {
+          "offset":0,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"Sport",
+          "uri":"http://dbpedia.org/class/yago/Sport100523513"
+        },
+        {
+          "label":"Sports Governing Bodies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/SportsGoverningBodiesOfTheUnitedStates"
+        },
+        {
+          "label":"Figure skating organisations",
+          "uri":"http://dbpedia.org/resource/Figure_skating_organisations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/U.S.",
+      "label":"U.S.",
+      "offsets":[
+        {
+          "offset":0,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rouen",
+      "label":"Rouen",
+      "offsets":[
+        {
+          "offset":176,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"French city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVj6EJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

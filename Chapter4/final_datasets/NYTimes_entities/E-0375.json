@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Roger Mahony",
+            "types": [
+                {
+                    "label": "Roman Catholic Archbishops",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicArchbishops"
+                },
+                {
+                    "label": "American Cardinals",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCardinals"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "American Roman Catholic Bishops",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRomanCatholicBishops"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American cardinals",
+                    "uri": "http://dbpedia.org/resource/American_cardinals"
+                },
+                {
+                    "label": "Cardinal",
+                    "uri": "http://dbpedia.org/ontology/Cardinal"
+                },
+                {
+                    "label": "People From Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+                },
+                {
+                    "label": "Irish-American religious figures",
+                    "uri": "http://dbpedia.org/resource/Irish-American_religious_figures"
+                },
+                {
+                    "label": "American Roman Catholic bishops",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholic_bishops"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Roger_Mahony"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0375",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Roger Mahony",
+            "types": [
+                {
+                    "label": "Roman Catholic Archbishops",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicArchbishops"
+                },
+                {
+                    "label": "American Cardinals",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCardinals"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "American Roman Catholic Bishops",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRomanCatholicBishops"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American cardinals",
+                    "uri": "http://dbpedia.org/resource/American_cardinals"
+                },
+                {
+                    "label": "Cardinal",
+                    "uri": "http://dbpedia.org/ontology/Cardinal"
+                },
+                {
+                    "label": "People From Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+                },
+                {
+                    "label": "Irish-American religious figures",
+                    "uri": "http://dbpedia.org/resource/Irish-American_religious_figures"
+                },
+                {
+                    "label": "American Roman Catholic bishops",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholic_bishops"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Roger_Mahony"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

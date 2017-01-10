@@ -1,0 +1,573 @@
+{
+  "mainText":"Adding the combustible Martin on the heels of a four-game losing streak and a prolonged chunk of mediocre play is the latest move indicating that the Knicks\u2019 depth hinges on an ever-shifting group of aging players.\nWith Martin, the Knicks have six players older than 35.\nThey also have five of Martin\u2019s former teammates: Jason Kidd, Carmelo Anthony, J. R. Smith, Marcus Camby and Raymond Felton.",
+  "shownText":"\u201cI\u2019ve got to still play the guys that know what we\u2019re doing right now because we\u2019re trying to get out of this skid,\u201d Woodson said.\n\u201cIf it presents itself and I can throw him in, I\u2019ll probably let him get his feet wet and see where we\u2019re at.\u201d\n\nAdding the combustible Martin on the heels of a four-game losing streak and a prolonged chunk of mediocre play is the latest move indicating that the Knicks\u2019 depth hinges on an ever-shifting group of aging players.\nWith Martin, the Knicks have six players older than 35.\nThey also have five of Martin\u2019s former teammates: Jason Kidd, Carmelo Anthony, J. R. Smith, Marcus Camby and Raymond Felton.\n\n\u201cThat\u2019s huge,\u201d Martin said.\n\u201cI\u2019ve played with a lot of these guys.\u201d\n",
+  "title":"Knicksâ Kenyon Martin Welcomes Opportunity to Show He Can Still Play - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/sports/basketball/knicks-kenyon-martin-welcomes-opportunity-to-show-he-can-still-play.html?ref=sports",
+  "category":"sports",
+  "docID":"P3-0197",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/J._R._Smith",
+      "label":"J. R. Smith",
+      "offsets":[
+        {
+          "offset":593,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"NBAHigh School Players",
+          "uri":"http://dbpedia.org/class/yago/NBAHighSchoolPlayers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From New Jersey",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewJersey"
+        },
+        {
+          "label":"Denver Nuggets Players",
+          "uri":"http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"New Orleans Hornets Players",
+          "uri":"http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+        },
+        {
+          "label":"Denver Nuggets players",
+          "uri":"http://dbpedia.org/resource/Denver_Nuggets_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"American Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+        },
+        {
+          "label":"Basketball Player",
+          "uri":"http://dbpedia.org/ontology/BasketballPlayer"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Shooting Guards",
+          "uri":"http://dbpedia.org/class/yago/ShootingGuards"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jason_Kidd",
+      "label":"Jason Kidd",
+      "offsets":[
+        {
+          "offset":564,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Dallas Mavericks players",
+          "uri":"http://dbpedia.org/resource/Dallas_Mavericks_players"
+        },
+        {
+          "label":"California Golden Bears men%27s basketball players",
+          "uri":"http://dbpedia.org/resource/California_Golden_Bears_men%27s_basketball_players"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"Phoenix Suns Players",
+          "uri":"http://dbpedia.org/class/yago/PhoenixSunsPlayers"
+        },
+        {
+          "label":"New Jersey Nets Players",
+          "uri":"http://dbpedia.org/class/yago/NewJerseyNetsPlayers"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Point Guards",
+          "uri":"http://dbpedia.org/class/yago/PointGuards"
+        },
+        {
+          "label":"People From San Francisco",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+        },
+        {
+          "label":"Irish-American sportspeople",
+          "uri":"http://dbpedia.org/resource/Irish-American_sportspeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Carmelo_Anthony",
+      "label":"Carmelo Anthony",
+      "offsets":[
+        {
+          "offset":576,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Puerto Rican Athletes",
+          "uri":"http://dbpedia.org/class/yago/PuertoRicanAthletes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Denver Nuggets Players",
+          "uri":"http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Basketball Players At The2004Summer Olympics",
+          "uri":"http://dbpedia.org/class/yago/BasketballPlayersAtThe2004SummerOlympics"
+        },
+        {
+          "label":"Small Forwards",
+          "uri":"http://dbpedia.org/class/yago/SmallForwards"
+        },
+        {
+          "label":"Denver Nuggets players",
+          "uri":"http://dbpedia.org/resource/Denver_Nuggets_players"
+        },
+        {
+          "label":"People From Brooklyn",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+        },
+        {
+          "label":"Basketball Player",
+          "uri":"http://dbpedia.org/ontology/BasketballPlayer"
+        },
+        {
+          "label":"Olympic Basketball Players Of The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicBasketballPlayersOfTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Syracuse Orange Men's Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/SyracuseOrangeMen'sBasketballPlayers"
+        },
+        {
+          "label":"Olympic Bronze Medalists For The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicBronzeMedalistsForTheUnitedStates"
+        },
+        {
+          "label":"People From Baltimore,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+        },
+        {
+          "label":"Puerto Rican Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/PuertoRicanBasketballPlayers"
+        },
+        {
+          "label":"Afro-Puerto Ricans",
+          "uri":"http://dbpedia.org/resource/Afro-Puerto_Ricans"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Raymond_Felton",
+      "label":"Raymond Felton",
+      "offsets":[
+        {
+          "offset":623,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Charlotte Bobcats players",
+          "uri":"http://dbpedia.org/resource/Charlotte_Bobcats_players"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"People From South Carolina",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSouthCarolina"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marcus_Camby",
+      "label":"Marcus Camby",
+      "offsets":[
+        {
+          "offset":606,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Denver Nuggets players",
+          "uri":"http://dbpedia.org/resource/Denver_Nuggets_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Centers (basketball)",
+          "uri":"http://dbpedia.org/resource/Centers_%28basketball%29"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/J._R._Smith",
+      "label":"J. R. Smith",
+      "offsets":[
+        {
+          "offset":593,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"NBAHigh School Players",
+          "uri":"http://dbpedia.org/class/yago/NBAHighSchoolPlayers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From New Jersey",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewJersey"
+        },
+        {
+          "label":"Denver Nuggets Players",
+          "uri":"http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"New Orleans Hornets Players",
+          "uri":"http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+        },
+        {
+          "label":"Denver Nuggets players",
+          "uri":"http://dbpedia.org/resource/Denver_Nuggets_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"American Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+        },
+        {
+          "label":"Basketball Player",
+          "uri":"http://dbpedia.org/ontology/BasketballPlayer"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Shooting Guards",
+          "uri":"http://dbpedia.org/class/yago/ShootingGuards"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jason_Kidd",
+      "label":"Jason Kidd",
+      "offsets":[
+        {
+          "offset":564,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Dallas Mavericks players",
+          "uri":"http://dbpedia.org/resource/Dallas_Mavericks_players"
+        },
+        {
+          "label":"California Golden Bears men%27s basketball players",
+          "uri":"http://dbpedia.org/resource/California_Golden_Bears_men%27s_basketball_players"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"Phoenix Suns Players",
+          "uri":"http://dbpedia.org/class/yago/PhoenixSunsPlayers"
+        },
+        {
+          "label":"New Jersey Nets Players",
+          "uri":"http://dbpedia.org/class/yago/NewJerseyNetsPlayers"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Point Guards",
+          "uri":"http://dbpedia.org/class/yago/PointGuards"
+        },
+        {
+          "label":"People From San Francisco",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+        },
+        {
+          "label":"Irish-American sportspeople",
+          "uri":"http://dbpedia.org/resource/Irish-American_sportspeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Carmelo_Anthony",
+      "label":"Carmelo Anthony",
+      "offsets":[
+        {
+          "offset":576,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Puerto Rican Athletes",
+          "uri":"http://dbpedia.org/class/yago/PuertoRicanAthletes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Denver Nuggets Players",
+          "uri":"http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Basketball Players At The2004Summer Olympics",
+          "uri":"http://dbpedia.org/class/yago/BasketballPlayersAtThe2004SummerOlympics"
+        },
+        {
+          "label":"Small Forwards",
+          "uri":"http://dbpedia.org/class/yago/SmallForwards"
+        },
+        {
+          "label":"Denver Nuggets players",
+          "uri":"http://dbpedia.org/resource/Denver_Nuggets_players"
+        },
+        {
+          "label":"People From Brooklyn",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+        },
+        {
+          "label":"Basketball Player",
+          "uri":"http://dbpedia.org/ontology/BasketballPlayer"
+        },
+        {
+          "label":"Olympic Basketball Players Of The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicBasketballPlayersOfTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Syracuse Orange Men's Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/SyracuseOrangeMen'sBasketballPlayers"
+        },
+        {
+          "label":"Olympic Bronze Medalists For The United States",
+          "uri":"http://dbpedia.org/class/yago/OlympicBronzeMedalistsForTheUnitedStates"
+        },
+        {
+          "label":"People From Baltimore,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+        },
+        {
+          "label":"Puerto Rican Basketball Players",
+          "uri":"http://dbpedia.org/class/yago/PuertoRicanBasketballPlayers"
+        },
+        {
+          "label":"Afro-Puerto Ricans",
+          "uri":"http://dbpedia.org/resource/Afro-Puerto_Ricans"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Raymond_Felton",
+      "label":"Raymond Felton",
+      "offsets":[
+        {
+          "offset":623,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Charlotte Bobcats players",
+          "uri":"http://dbpedia.org/resource/Charlotte_Bobcats_players"
+        },
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"People From South Carolina",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSouthCarolina"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Marcus_Camby",
+      "label":"Marcus Camby",
+      "offsets":[
+        {
+          "offset":606,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"African American sportspeople",
+          "uri":"http://dbpedia.org/resource/African_American_sportspeople"
+        },
+        {
+          "label":"Denver Nuggets players",
+          "uri":"http://dbpedia.org/resource/Denver_Nuggets_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Centers (basketball)",
+          "uri":"http://dbpedia.org/resource/Centers_%28basketball%29"
+        }
+      ]
+    }
+  ]
+}

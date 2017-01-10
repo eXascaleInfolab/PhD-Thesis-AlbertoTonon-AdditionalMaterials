@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Pixar",
+            "types": [
+                {
+                    "label": "Companies Established In1985",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1985"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Film Production Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FilmProductionCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Disney production studios",
+                    "uri": "http://dbpedia.org/resource/Disney_production_studios"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pixar"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0044",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Pixar",
+            "types": [
+                {
+                    "label": "Companies Established In1985",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1985"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Film Production Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FilmProductionCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Disney production studios",
+                    "uri": "http://dbpedia.org/resource/Disney_production_studios"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pixar"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

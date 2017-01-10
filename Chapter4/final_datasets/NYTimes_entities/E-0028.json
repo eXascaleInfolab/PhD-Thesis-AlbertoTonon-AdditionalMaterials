@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Chris Pronger",
+            "types": [
+                {
+                    "label": "Hart Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Hart_Trophy_winners"
+                },
+                {
+                    "label": "Edmonton Oilers Players",
+                    "uri": "http://dbpedia.org/class/yago/EdmontonOilersPlayers"
+                },
+                {
+                    "label": "Hartford Whalers Players",
+                    "uri": "http://dbpedia.org/class/yago/HartfordWhalersPlayers"
+                },
+                {
+                    "label": "Edmonton Oilers players",
+                    "uri": "http://dbpedia.org/resource/Edmonton_Oilers_players"
+                },
+                {
+                    "label": "Anaheim Ducks players",
+                    "uri": "http://dbpedia.org/resource/Anaheim_Ducks_players"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Hartford Whalers players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Whalers_players"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chris_Pronger"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0028",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chris Pronger",
+            "types": [
+                {
+                    "label": "Hart Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Hart_Trophy_winners"
+                },
+                {
+                    "label": "Edmonton Oilers Players",
+                    "uri": "http://dbpedia.org/class/yago/EdmontonOilersPlayers"
+                },
+                {
+                    "label": "Hartford Whalers Players",
+                    "uri": "http://dbpedia.org/class/yago/HartfordWhalersPlayers"
+                },
+                {
+                    "label": "Edmonton Oilers players",
+                    "uri": "http://dbpedia.org/resource/Edmonton_Oilers_players"
+                },
+                {
+                    "label": "Anaheim Ducks players",
+                    "uri": "http://dbpedia.org/resource/Anaheim_Ducks_players"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfCanada"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Hartford Whalers players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Whalers_players"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chris_Pronger"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

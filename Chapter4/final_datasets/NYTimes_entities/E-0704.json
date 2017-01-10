@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Givenchy",
+            "types": [
+                {
+                    "label": "Haute couture labels",
+                    "uri": "http://dbpedia.org/resource/Haute_couture_labels"
+                },
+                {
+                    "label": "LVMH brands",
+                    "uri": "http://dbpedia.org/resource/LVMH_brands"
+                },
+                {
+                    "label": "Clothing and textile companies",
+                    "uri": "http://dbpedia.org/resource/Clothing_and_textile_companies"
+                },
+                {
+                    "label": "Companies Established In1952",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1952"
+                },
+                {
+                    "label": "French brands",
+                    "uri": "http://dbpedia.org/resource/French_brands"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Givenchy"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0704",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Givenchy",
+            "types": [
+                {
+                    "label": "Haute couture labels",
+                    "uri": "http://dbpedia.org/resource/Haute_couture_labels"
+                },
+                {
+                    "label": "LVMH brands",
+                    "uri": "http://dbpedia.org/resource/LVMH_brands"
+                },
+                {
+                    "label": "Clothing and textile companies",
+                    "uri": "http://dbpedia.org/resource/Clothing_and_textile_companies"
+                },
+                {
+                    "label": "Companies Established In1952",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1952"
+                },
+                {
+                    "label": "French brands",
+                    "uri": "http://dbpedia.org/resource/French_brands"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Givenchy"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

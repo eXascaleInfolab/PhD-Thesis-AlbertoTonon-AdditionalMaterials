@@ -1,0 +1,173 @@
+{
+    "allEntities": [
+        {
+            "label": "Lindy Ruff", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 69
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Buffalo Sabres coaches", 
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_coaches"
+                }, 
+                {
+                    "label": "Canadian ice hockey forwards", 
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+                }, 
+                {
+                    "label": "Canadian ice hockey coaches", 
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_coaches"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Ice hockey personnel from Alberta", 
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                }, 
+                {
+                    "label": "Jack Adams Award winners", 
+                    "uri": "http://dbpedia.org/resource/Jack_Adams_Award_winners"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }, 
+                {
+                    "label": "Buffalo Sabres players", 
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_players"
+                }, 
+                {
+                    "label": "New York Rangers Players", 
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Lindy_Ruff"
+        }, 
+        {
+            "label": "Ruff", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 75
+                }, 
+                {
+                    "length": 4, 
+                    "offset": 139
+                }
+            ], 
+            "types": [
+                {
+                    "label": "British Isles coastal fauna", 
+                    "uri": "http://dbpedia.org/resource/British_Isles_coastal_fauna"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }, 
+                {
+                    "label": "Bird", 
+                    "uri": "http://dbpedia.org/ontology/Bird"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Ruff"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/04/sports/hockey/rangers-beat-sabres-in-shootout.html?ref=sports", 
+    "category": "sports", 
+    "docID": "P3-0225", 
+    "elementNumber": 22, 
+    "mainEntities": [
+        {
+            "label": "Lindy Ruff", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 69
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Buffalo Sabres coaches", 
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_coaches"
+                }, 
+                {
+                    "label": "Canadian ice hockey forwards", 
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+                }, 
+                {
+                    "label": "Canadian ice hockey coaches", 
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_coaches"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Ice hockey personnel from Alberta", 
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                }, 
+                {
+                    "label": "Jack Adams Award winners", 
+                    "uri": "http://dbpedia.org/resource/Jack_Adams_Award_winners"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }, 
+                {
+                    "label": "Buffalo Sabres players", 
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_players"
+                }, 
+                {
+                    "label": "New York Rangers Players", 
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Lindy_Ruff"
+        }, 
+        {
+            "label": "Ruff", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 75
+                }, 
+                {
+                    "length": 4, 
+                    "offset": 139
+                }
+            ], 
+            "types": [
+                {
+                    "label": "British Isles coastal fauna", 
+                    "uri": "http://dbpedia.org/resource/British_Isles_coastal_fauna"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }, 
+                {
+                    "label": "Bird", 
+                    "uri": "http://dbpedia.org/ontology/Bird"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Ruff"
+        }
+    ], 
+    "mainText": "The Sabres were playing at Madison Square Garden without Lindy Ruff behind their bench for the first time since April 1, 1997.\nRuff was fired on Feb. 20 after 16 years as Buffalo&rsquo;s coach.\n... It was the first of three meetings between the Rangers and Sabres.\nThey will play again March 12 in Buffalo.", 
+    "shownText": "SLAP SHOTS\n\nThe Sabres were playing at Madison Square Garden without Lindy Ruff behind their bench for the first time since April 1, 1997.\nRuff was fired on Feb. 20 after 16 years as Buffalo&rsquo;s coach.\n... It was the first of three meetings between the Rangers and Sabres.\nThey will play again March 12 in Buffalo.\n\nA version of this article appeared in print on March 4, 2013, on page D2 of the New York edition with the headline: Illegal Blow to Richards Spurs Rangers&acirc; Goals.\n", 
+    "title": "Rangers Hold Off Sabres in Shootout - NYTimes.com"
+}

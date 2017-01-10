@@ -1,0 +1,565 @@
+{
+  "mainText":"On \u201c The Stars (Are Out Tonight) ,\u201d the new single from David Bowie\u2019s comeback album, \u201cThe Next Day,\u201d one line jumps out: \u201cWe will never be rid of these stars.\u201d\nIt portrays celebrities as members of an overlord class who \u201cburn you with their radiant smiles\u201d but also as faintly pitiable creatures, jealous of the quiet, grounded lives of ordinary folk.\nIn the video Mr. Bowie and the actress Tilda Swinton play an elderly couple persecuted by a pair of vampiric stars, who stalk them, invade their house and manipulate them like marionettes.\nBut the song itself is less literal.\n\u201cBut I hope they live forever,\u201d Mr. Bowie sings, a nod to the notion of fame as immortality, a compensation for all the damage and delusion that comes with the territory.",
+  "shownText":"Published: March 6, 2013\n\nOn \u201c The Stars (Are Out Tonight) ,\u201d the new single from David Bowie\u2019s comeback album, \u201cThe Next Day,\u201d one line jumps out: \u201cWe will never be rid of these stars.\u201d\nIt portrays celebrities as members of an overlord class who \u201cburn you with their radiant smiles\u201d but also as faintly pitiable creatures, jealous of the quiet, grounded lives of ordinary folk.\nIn the video Mr. Bowie and the actress Tilda Swinton play an elderly couple persecuted by a pair of vampiric stars, who stalk them, invade their house and manipulate them like marionettes.\nBut the song itself is less literal.\n\u201cBut I hope they live forever,\u201d Mr. Bowie sings, a nod to the notion of fame as immortality, a compensation for all the damage and delusion that comes with the territory.\n\nMultimedia\n",
+  "title":"The Singer Who Fell to Earth - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0030",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/David_Bowie",
+      "label":"David Bowie",
+      "offsets":[
+        {
+          "offset":82,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"English Rock Musicians",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockMusicians"
+        },
+        {
+          "label":"glam rock performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"People Of Irish Descent In Great Britain",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+        },
+        {
+          "label":"Bisexual Musicians",
+          "uri":"http://dbpedia.org/class/yago/BisexualMusicians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"English songwriters",
+          "uri":"http://dbpedia.org/resource/English_songwriters"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"English record producers",
+          "uri":"http://dbpedia.org/resource/English_record_producers"
+        },
+        {
+          "label":"LGBTComposers",
+          "uri":"http://dbpedia.org/class/yago/LGBTComposers"
+        },
+        {
+          "label":"English rock musicians",
+          "uri":"http://dbpedia.org/resource/English_rock_musicians"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Daytime Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+        },
+        {
+          "label":"English Record Producers",
+          "uri":"http://dbpedia.org/class/yago/EnglishRecordProducers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English Buddhists",
+          "uri":"http://dbpedia.org/resource/English_Buddhists"
+        },
+        {
+          "label":"English baritones",
+          "uri":"http://dbpedia.org/resource/English_baritones"
+        },
+        {
+          "label":"English Baritones",
+          "uri":"http://dbpedia.org/class/yago/EnglishBaritones"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Male Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishMaleSingers"
+        },
+        {
+          "label":"People From Brixton",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrixton"
+        },
+        {
+          "label":"English Songwriters",
+          "uri":"http://dbpedia.org/class/yago/EnglishSongwriters"
+        },
+        {
+          "label":"Bisexual musicians",
+          "uri":"http://dbpedia.org/resource/Bisexual_musicians"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tilda_Swinton",
+      "label":"Tilda Swinton",
+      "offsets":[
+        {
+          "offset":418,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Actress",
+          "uri":"http://dbpedia.org/class/yago/Actress109767700"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"English Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishStageActors"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"People From London",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLondon"
+        },
+        {
+          "label":"English Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishVoiceActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Alumni Of New Hall,Cambridge",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfNewHall,Cambridge"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"English voice actors",
+          "uri":"http://dbpedia.org/resource/English_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Fettes Alumni",
+          "uri":"http://dbpedia.org/class/yago/FettesAlumni"
+        },
+        {
+          "label":"English stage actors",
+          "uri":"http://dbpedia.org/resource/English_stage_actors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Fettes alumni",
+          "uri":"http://dbpedia.org/resource/Fettes_alumni"
+        },
+        {
+          "label":"English television actors",
+          "uri":"http://dbpedia.org/resource/English_television_actors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bowie",
+      "label":"Bowie",
+      "offsets":[
+        {
+          "offset":88,
+          "length":5
+        },
+        {
+          "offset":396,
+          "length":5
+        },
+        {
+          "offset":641,
+          "length":5
+        },
+        {
+          "offset":88,
+          "length":5
+        },
+        {
+          "offset":396,
+          "length":5
+        },
+        {
+          "offset":641,
+          "length":5
+        },
+        {
+          "offset":88,
+          "length":5
+        },
+        {
+          "offset":396,
+          "length":5
+        },
+        {
+          "offset":641,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/David_Bowie",
+      "label":"David Bowie",
+      "offsets":[
+        {
+          "offset":82,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"English Rock Musicians",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockMusicians"
+        },
+        {
+          "label":"glam rock performer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"People Of Irish Descent In Great Britain",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+        },
+        {
+          "label":"Bisexual Musicians",
+          "uri":"http://dbpedia.org/class/yago/BisexualMusicians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"English songwriters",
+          "uri":"http://dbpedia.org/resource/English_songwriters"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"English record producers",
+          "uri":"http://dbpedia.org/resource/English_record_producers"
+        },
+        {
+          "label":"LGBTComposers",
+          "uri":"http://dbpedia.org/class/yago/LGBTComposers"
+        },
+        {
+          "label":"English rock musicians",
+          "uri":"http://dbpedia.org/resource/English_rock_musicians"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Daytime Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+        },
+        {
+          "label":"English Record Producers",
+          "uri":"http://dbpedia.org/class/yago/EnglishRecordProducers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English Buddhists",
+          "uri":"http://dbpedia.org/resource/English_Buddhists"
+        },
+        {
+          "label":"English baritones",
+          "uri":"http://dbpedia.org/resource/English_baritones"
+        },
+        {
+          "label":"English Baritones",
+          "uri":"http://dbpedia.org/class/yago/EnglishBaritones"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Male Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishMaleSingers"
+        },
+        {
+          "label":"People From Brixton",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrixton"
+        },
+        {
+          "label":"English Songwriters",
+          "uri":"http://dbpedia.org/class/yago/EnglishSongwriters"
+        },
+        {
+          "label":"Bisexual musicians",
+          "uri":"http://dbpedia.org/resource/Bisexual_musicians"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tilda_Swinton",
+      "label":"Tilda Swinton",
+      "offsets":[
+        {
+          "offset":418,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Actress",
+          "uri":"http://dbpedia.org/class/yago/Actress109767700"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"English Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishStageActors"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"People From London",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLondon"
+        },
+        {
+          "label":"English Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishVoiceActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Alumni Of New Hall,Cambridge",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfNewHall,Cambridge"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"English voice actors",
+          "uri":"http://dbpedia.org/resource/English_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Fettes Alumni",
+          "uri":"http://dbpedia.org/class/yago/FettesAlumni"
+        },
+        {
+          "label":"English stage actors",
+          "uri":"http://dbpedia.org/resource/English_stage_actors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Fettes alumni",
+          "uri":"http://dbpedia.org/resource/Fettes_alumni"
+        },
+        {
+          "label":"English television actors",
+          "uri":"http://dbpedia.org/resource/English_television_actors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bowie",
+      "label":"Bowie",
+      "offsets":[
+        {
+          "offset":88,
+          "length":5
+        },
+        {
+          "offset":396,
+          "length":5
+        },
+        {
+          "offset":641,
+          "length":5
+        },
+        {
+          "offset":88,
+          "length":5
+        },
+        {
+          "offset":396,
+          "length":5
+        },
+        {
+          "offset":641,
+          "length":5
+        },
+        {
+          "offset":88,
+          "length":5
+        },
+        {
+          "offset":396,
+          "length":5
+        },
+        {
+          "offset":641,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

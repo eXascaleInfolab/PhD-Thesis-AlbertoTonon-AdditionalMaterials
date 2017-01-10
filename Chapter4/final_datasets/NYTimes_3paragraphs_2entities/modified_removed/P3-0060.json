@@ -1,0 +1,325 @@
+{
+    "allEntities": [
+        {
+            "label": "Martin Schulz", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 709
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Office Holder", 
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                }, 
+                {
+                    "label": "German politicians", 
+                    "uri": "http://dbpedia.org/resource/German_politicians"
+                }, 
+                {
+                    "label": "German SPD MEPs serving before 2004", 
+                    "uri": "http://dbpedia.org/resource/German_SPD_MEPs_serving_before_2004"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Martin_Schulz"
+        }, 
+        {
+            "label": "European Parliament", 
+            "offsets": [
+                {
+                    "length": 19, 
+                    "offset": 745
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Parliament", 
+                    "uri": "http://dbpedia.org/class/yago/Parliament108319198"
+                }, 
+                {
+                    "label": "Parliament", 
+                    "uri": "http://umbel.org/umbel/sc/Parliament"
+                }, 
+                {
+                    "label": "Legislature", 
+                    "uri": "http://dbpedia.org/ontology/Legislature"
+                }, 
+                {
+                    "label": "Social Group", 
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                }, 
+                {
+                    "label": "Landmark", 
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/European_Parliament"
+        }, 
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 597
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 745
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }, 
+        {
+            "label": "Basel", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 286
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 372
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Cities In Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Town", 
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                }, 
+                {
+                    "label": "Cities On The Rhine", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheRhine"
+                }, 
+                {
+                    "label": "Cantonal Capitals Of Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/CantonalCapitalsOfSwitzerland"
+                }, 
+                {
+                    "label": "city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Basel"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/01/business/global/european-union-agrees-on-plan-to-cap-banker-bonuses.html?ref=business", 
+    "category": "business", 
+    "docID": "P3-0060", 
+    "elementNumber": 26, 
+    "mainEntities": [
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 597
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 745
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }, 
+        {
+            "label": "Basel", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 286
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 372
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Cities In Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSwitzerland"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Town", 
+                    "uri": "http://dbpedia.org/class/yago/Town108665504"
+                }, 
+                {
+                    "label": "Cities On The Rhine", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheRhine"
+                }, 
+                {
+                    "label": "Cantonal Capitals Of Switzerland", 
+                    "uri": "http://dbpedia.org/class/yago/CantonalCapitalsOfSwitzerland"
+                }, 
+                {
+                    "label": "city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Basel"
+        }
+    ], 
+    "mainText": "The bonus limit is part of a set of measures requiring higher capital requirements for banks, called the Basel III rules, which the E.U. officials also approved Thursday.\nMr. Noonan said the Basel III package would &lsquo;&lsquo;make sure that banks in the future have enough capital, both in terms of quality and quantity, to withstand shocks&rsquo;&rsquo; and that would &lsquo;&lsquo;ensure that taxpayers across Europe are protected into the future.&rsquo;&rsquo;", 
+    "shownText": "The rules were &lsquo;&lsquo;also likely to lead to an increase in salaries, which is undesirable as banks are trying to minimize their fixed costs,&rsquo;&rsquo; Ms. Beidas said.\n\nThe bonus limit is part of a set of measures requiring higher capital requirements for banks, called the Basel III rules, which the E.U. officials also approved Thursday.\nMr. Noonan said the Basel III package would &lsquo;&lsquo;make sure that banks in the future have enough capital, both in terms of quality and quantity, to withstand shocks&rsquo;&rsquo; and that would &lsquo;&lsquo;ensure that taxpayers across Europe are protected into the future.&rsquo;&rsquo;\n\nPolitical leaders who hailed the preliminary deal included Martin Schulz, the president of the European Parliament and a German member of the Alliance of Socialists and Democrats.\n&lsquo;&lsquo;The cap on bonuses is a groundbreaking measure that in my view will make the economic system fairer and safer,&rsquo;&rsquo; Mr. Schulz said in a statement.\n&lsquo;&lsquo;Exuberant bonuses often provided a wrong incentive for financial markets, encouraging risky behavior and short-term, purely speculative investment.&rsquo;&rsquo;\n", 
+    "title": "European Union Moves Toward Bonus Cap for Bankers - NYTimes.com"
+}

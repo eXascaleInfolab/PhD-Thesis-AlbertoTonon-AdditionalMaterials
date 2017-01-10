@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Shirley Bassey",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Cardiff",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCardiff"
+                },
+                {
+                    "label": "Welsh Female Singers",
+                    "uri": "http://dbpedia.org/class/yago/WelshFemaleSingers"
+                },
+                {
+                    "label": "British People Of Nigerian Descent",
+                    "uri": "http://dbpedia.org/class/yago/BritishPeopleOfNigerianDescent"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Singer",
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shirley_Bassey"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0300",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Shirley Bassey",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Cardiff",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCardiff"
+                },
+                {
+                    "label": "Welsh Female Singers",
+                    "uri": "http://dbpedia.org/class/yago/WelshFemaleSingers"
+                },
+                {
+                    "label": "British People Of Nigerian Descent",
+                    "uri": "http://dbpedia.org/class/yago/BritishPeopleOfNigerianDescent"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Singer",
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shirley_Bassey"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

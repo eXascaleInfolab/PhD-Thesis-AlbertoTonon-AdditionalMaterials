@@ -1,0 +1,301 @@
+{
+    "allEntities": [
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 22
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }, 
+        {
+            "label": "BRUSSELS", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "European Capitals Of Culture", 
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Regions Of Belgium", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfBelgium"
+                }, 
+                {
+                    "label": "Regions Of Europe With Multiple Official Languages", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfEuropeWithMultipleOfficialLanguages"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "first order administrative division", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                }, 
+                {
+                    "label": "NUTS1Statistical Regions Of The European Union", 
+                    "uri": "http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Brussels"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/01/business/global/european-union-agrees-on-plan-to-cap-banker-bonuses.html?ref=business", 
+    "category": "business", 
+    "docID": "S-0060", 
+    "elementNumber": 6, 
+    "mainEntities": [
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 22
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }, 
+        {
+            "label": "BRUSSELS", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "European Capitals Of Culture", 
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Regions Of Belgium", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfBelgium"
+                }, 
+                {
+                    "label": "Regions Of Europe With Multiple Official Languages", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfEuropeWithMultipleOfficialLanguages"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "first order administrative division", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                }, 
+                {
+                    "label": "NUTS1Statistical Regions Of The European Union", 
+                    "uri": "http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Brussels"
+        }
+    ], 
+    "mainText": "BRUSSELS &mdash;  The European Union moved a step closer Thursday to imposing strict curbs on bonus pay for bankers, which has been blamed by many politicians for inciting the risk-taking behavior that set off the financial crisis.", 
+    "shownText": "BRUSSELS &mdash;  The European Union moved a step closer Thursday to imposing strict curbs on bonus pay for bankers, which has been blamed by many politicians for inciting the risk-taking behavior that set off the financial crisis.", 
+    "title": "European Union Moves Toward Bonus Cap for Bankers - NYTimes.com"
+}

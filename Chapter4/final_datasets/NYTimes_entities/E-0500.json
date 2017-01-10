@@ -1,0 +1,257 @@
+{
+    "allEntities": [
+        {
+            "label": "David Bowie",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English Rock Musicians",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicians"
+                },
+                {
+                    "label": "glam rock performer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "Bisexual Musicians",
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "English songwriters",
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                },
+                {
+                    "label": "English Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                },
+                {
+                    "label": "English record producers",
+                    "uri": "http://dbpedia.org/resource/English_record_producers"
+                },
+                {
+                    "label": "LGBTComposers",
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                },
+                {
+                    "label": "English rock musicians",
+                    "uri": "http://dbpedia.org/resource/English_rock_musicians"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Daytime Emmy Award winners",
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                },
+                {
+                    "label": "English Record Producers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRecordProducers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "English Buddhists",
+                    "uri": "http://dbpedia.org/resource/English_Buddhists"
+                },
+                {
+                    "label": "English baritones",
+                    "uri": "http://dbpedia.org/resource/English_baritones"
+                },
+                {
+                    "label": "English Baritones",
+                    "uri": "http://dbpedia.org/class/yago/EnglishBaritones"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "People From Brixton",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrixton"
+                },
+                {
+                    "label": "English Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                },
+                {
+                    "label": "Bisexual musicians",
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_Bowie"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0500",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "David Bowie",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English Rock Musicians",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicians"
+                },
+                {
+                    "label": "glam rock performer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "Bisexual Musicians",
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "English songwriters",
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                },
+                {
+                    "label": "English Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                },
+                {
+                    "label": "English record producers",
+                    "uri": "http://dbpedia.org/resource/English_record_producers"
+                },
+                {
+                    "label": "LGBTComposers",
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                },
+                {
+                    "label": "English rock musicians",
+                    "uri": "http://dbpedia.org/resource/English_rock_musicians"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Daytime Emmy Award winners",
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                },
+                {
+                    "label": "English Record Producers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRecordProducers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "English Buddhists",
+                    "uri": "http://dbpedia.org/resource/English_Buddhists"
+                },
+                {
+                    "label": "English baritones",
+                    "uri": "http://dbpedia.org/resource/English_baritones"
+                },
+                {
+                    "label": "English Baritones",
+                    "uri": "http://dbpedia.org/class/yago/EnglishBaritones"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "People From Brixton",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrixton"
+                },
+                {
+                    "label": "English Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                },
+                {
+                    "label": "Bisexual musicians",
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_Bowie"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Silvio Berlusconi",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Newspaper Publishers Of The21st Century(people)",
+                    "uri": "http://dbpedia.org/class/yago/NewspaperPublishersOfThe21stCentury(people)"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/class/yago/Chancellor109906986"
+                },
+                {
+                    "label": "Prime Minister",
+                    "uri": "http://dbpedia.org/ontology/PrimeMinister"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Italian Mass Media Owners",
+                    "uri": "http://dbpedia.org/class/yago/ItalianMassMediaOwners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From Milan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMilan"
+                },
+                {
+                    "label": "Prime Ministers Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/PrimeMinistersOfItaly"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Billionaires",
+                    "uri": "http://dbpedia.org/class/yago/Billionaires"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Silvio_Berlusconi"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0718",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Silvio Berlusconi",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Newspaper Publishers Of The21st Century(people)",
+                    "uri": "http://dbpedia.org/class/yago/NewspaperPublishersOfThe21stCentury(people)"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/class/yago/Chancellor109906986"
+                },
+                {
+                    "label": "Prime Minister",
+                    "uri": "http://dbpedia.org/ontology/PrimeMinister"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Italian Mass Media Owners",
+                    "uri": "http://dbpedia.org/class/yago/ItalianMassMediaOwners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From Milan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMilan"
+                },
+                {
+                    "label": "Prime Ministers Of Italy",
+                    "uri": "http://dbpedia.org/class/yago/PrimeMinistersOfItaly"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Billionaires",
+                    "uri": "http://dbpedia.org/class/yago/Billionaires"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Silvio_Berlusconi"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

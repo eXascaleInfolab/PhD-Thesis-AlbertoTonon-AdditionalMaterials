@@ -1,0 +1,325 @@
+{
+  "mainText":"Tim Parks is a novelist and translator and the author of the forthcoming book âItalian Ways: On and Off the Rails From Milan to Palermo.\nâ",
+  "shownText":"What is never countenanced is the notion that one has made very serious mistakes, or that one might really have to adjust to a reality where economic initiative has shifted decisively to the East, and investment capital with it.\nAlmost every political program in Italy expresses a desire to return to the past, rather than understand the country\u2019s place in a changed world.\n\nTim Parks is a novelist and translator and the author of the forthcoming book âItalian Ways: On and Off the Rails From Milan to Palermo.\nâ\n\nA version of this op-ed appeared in print on February 24, 2013, on page SR5 of the National edition with the headline: In Italy, Illusion Is the Only Reality.\n",
+  "title":"In Italy, Illusion Is the Only Reality - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/opinion/sunday/in-italy-illusion-is-the-only-reality.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P3-0142",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Milan",
+      "label":"Milan",
+      "offsets":[
+        {
+          "offset":494,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"cuisine",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Settlements Established In The1st Millennium BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tim_Parks",
+      "label":"TIM PARKS",
+      "offsets":[
+        {
+          "offset":375,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"British writers",
+          "uri":"http://dbpedia.org/resource/British_writers"
+        },
+        {
+          "label":"Writers From Manchester",
+          "uri":"http://dbpedia.org/class/yago/WritersFromManchester"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"British Non-fiction Writers",
+          "uri":"http://dbpedia.org/class/yago/BritishNon-fictionWriters"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Palermo",
+      "label":"Palermo",
+      "offsets":[
+        {
+          "offset":503,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://umbel.org/umbel/sc/Village"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities And Towns In Italy",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesAndTownsInItaly"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Coastal towns",
+          "uri":"http://dbpedia.org/resource/Coastal_towns"
+        },
+        {
+          "label":"Port Cities In Italy",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInItaly"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Milan",
+      "label":"Milan",
+      "offsets":[
+        {
+          "offset":494,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"cuisine",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwE6hWJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Settlements Established In The1st Millennium BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe1stMillenniumBC"
+        },
+        {
+          "label":"city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tim_Parks",
+      "label":"TIM PARKS",
+      "offsets":[
+        {
+          "offset":375,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"British writers",
+          "uri":"http://dbpedia.org/resource/British_writers"
+        },
+        {
+          "label":"Writers From Manchester",
+          "uri":"http://dbpedia.org/class/yago/WritersFromManchester"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"British Non-fiction Writers",
+          "uri":"http://dbpedia.org/class/yago/BritishNon-fictionWriters"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Palermo",
+      "label":"Palermo",
+      "offsets":[
+        {
+          "offset":503,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://umbel.org/umbel/sc/Village"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities And Towns In Italy",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesAndTownsInItaly"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://umbel.org/umbel/sc/City"
+        },
+        {
+          "label":"Coastal towns",
+          "uri":"http://dbpedia.org/resource/Coastal_towns"
+        },
+        {
+          "label":"Port Cities In Italy",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInItaly"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

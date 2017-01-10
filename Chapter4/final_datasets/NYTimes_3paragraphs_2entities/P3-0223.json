@@ -1,0 +1,269 @@
+{
+  "mainText":"Rick Nash scored 47 seconds later to give the Rangers a 2-1 lead.\nThe Rangers said they were happy to make the Sabres pay for Kaleta\u2019s hit with two power-play goals.\nBut it was not enough, at least not in regulation.",
+  "shownText":"\u201cIt was good \u2014 I got in the tunnel and heard a goal right away,\u201d Richards said.\n\nRick Nash scored 47 seconds later to give the Rangers a 2-1 lead.\nThe Rangers said they were happy to make the Sabres pay for Kaleta\u2019s hit with two power-play goals.\nBut it was not enough, at least not in regulation.\n\nThe Sabres\u2019 Nathan Gerbe scored a short-handed goal with 16 seconds left in Kaleta\u2019s penalty to send the game to overtime, tied at 2-2.\n",
+  "title":"Rangers Hold Off Sabres in Shootout - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/sports/hockey/rangers-beat-sabres-in-shootout.html?ref=sports",
+  "category":"sports",
+  "docID":"P3-0223",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Rick_Nash",
+      "label":"Rick Nash",
+      "offsets":[
+        {
+          "offset":81,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"People From Brampton,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrampton,Ontario"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ice Hockey Player",
+          "uri":"http://dbpedia.org/ontology/IceHockeyPlayer"
+        },
+        {
+          "label":"Columbus Blue Jackets Players",
+          "uri":"http://dbpedia.org/class/yago/ColumbusBlueJacketsPlayers"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"London Knights Alumni",
+          "uri":"http://dbpedia.org/class/yago/LondonKnightsAlumni"
+        },
+        {
+          "label":"Canadian Ice Hockey Left Wingers",
+          "uri":"http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":207,
+          "length":6
+        },
+        {
+          "offset":375,
+          "length":6
+        },
+        {
+          "offset":207,
+          "length":6
+        },
+        {
+          "offset":375,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Rick_Nash",
+      "label":"Rick Nash",
+      "offsets":[
+        {
+          "offset":81,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"People From Brampton,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrampton,Ontario"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Columbus Blue Jackets players",
+          "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+        },
+        {
+          "label":"Ice Hockey Players At The2006Winter Olympics",
+          "uri":"http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ice Hockey Player",
+          "uri":"http://dbpedia.org/ontology/IceHockeyPlayer"
+        },
+        {
+          "label":"Columbus Blue Jackets Players",
+          "uri":"http://dbpedia.org/class/yago/ColumbusBlueJacketsPlayers"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"London Knights Alumni",
+          "uri":"http://dbpedia.org/class/yago/LondonKnightsAlumni"
+        },
+        {
+          "label":"Canadian Ice Hockey Left Wingers",
+          "uri":"http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alex_Kaleta",
+      "label":"Kaleta",
+      "offsets":[
+        {
+          "offset":207,
+          "length":6
+        },
+        {
+          "offset":375,
+          "length":6
+        },
+        {
+          "offset":207,
+          "length":6
+        },
+        {
+          "offset":375,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Canadian ice hockey forwards",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ice hockey personnel from Alberta",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+        },
+        {
+          "label":"Canadian ice hockey left wingers",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+        },
+        {
+          "label":"Chicago Blackhawks players",
+          "uri":"http://dbpedia.org/resource/Chicago_Blackhawks_players"
+        },
+        {
+          "label":"New York Rangers Players",
+          "uri":"http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+        }
+      ]
+    }
+  ]
+}

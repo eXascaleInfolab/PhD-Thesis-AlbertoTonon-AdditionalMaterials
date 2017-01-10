@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Hugo Ch&aacute;vez",
+            "types": [
+                {
+                    "label": "Fictional Catholics",
+                    "uri": "http://dbpedia.org/resource/Fictional_Catholics"
+                },
+                {
+                    "label": "Fictional characters from California",
+                    "uri": "http://dbpedia.org/resource/Fictional_characters_from_California"
+                },
+                {
+                    "label": "Fictional Character",
+                    "uri": "http://dbpedia.org/class/yago/FictionalCharacter109587565"
+                },
+                {
+                    "label": "Fictional lottery winners",
+                    "uri": "http://dbpedia.org/resource/Fictional_lottery_winners"
+                },
+                {
+                    "label": "Fictional golfers",
+                    "uri": "http://dbpedia.org/resource/Fictional_golfers"
+                },
+                {
+                    "label": "Fictional Characters With Mental Illness",
+                    "uri": "http://dbpedia.org/class/yago/FictionalCharactersWithMentalIllness"
+                },
+                {
+                    "label": "Fictional characters with mental illness",
+                    "uri": "http://dbpedia.org/resource/Fictional_characters_with_mental_illness"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hugo_%22Hurley%22_Reyes"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0398",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hugo Ch&aacute;vez",
+            "types": [
+                {
+                    "label": "Fictional Catholics",
+                    "uri": "http://dbpedia.org/resource/Fictional_Catholics"
+                },
+                {
+                    "label": "Fictional characters from California",
+                    "uri": "http://dbpedia.org/resource/Fictional_characters_from_California"
+                },
+                {
+                    "label": "Fictional Character",
+                    "uri": "http://dbpedia.org/class/yago/FictionalCharacter109587565"
+                },
+                {
+                    "label": "Fictional lottery winners",
+                    "uri": "http://dbpedia.org/resource/Fictional_lottery_winners"
+                },
+                {
+                    "label": "Fictional golfers",
+                    "uri": "http://dbpedia.org/resource/Fictional_golfers"
+                },
+                {
+                    "label": "Fictional Characters With Mental Illness",
+                    "uri": "http://dbpedia.org/class/yago/FictionalCharactersWithMentalIllness"
+                },
+                {
+                    "label": "Fictional characters with mental illness",
+                    "uri": "http://dbpedia.org/resource/Fictional_characters_with_mental_illness"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hugo_%22Hurley%22_Reyes"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

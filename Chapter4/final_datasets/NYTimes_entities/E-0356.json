@@ -1,0 +1,217 @@
+{
+    "allEntities": [
+        {
+            "label": "Panama",
+            "types": [
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Spanish-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-speakingCountries"
+                },
+                {
+                    "label": "Province",
+                    "uri": "http://dbpedia.org/resource/Province"
+                },
+                {
+                    "label": "North American country",
+                    "uri": "http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+                },
+                {
+                    "label": "country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "province",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVjM45wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "province",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjM45wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "North American country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "States And Territories Established In1903",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1903"
+                },
+                {
+                    "label": "Central American country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rZX6CYphlQdiGMIPZdGARGw"
+                },
+                {
+                    "label": "province",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjM45wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Province",
+                    "uri": "http://umbel.org/umbel/sc/Province"
+                },
+                {
+                    "label": "Central American country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rZX6CYphlQdiGMIPZdGARGw"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "North American Country",
+                    "uri": "http://umbel.org/umbel/sc/NorthAmericanCountry"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Panama"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0356",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Panama",
+            "types": [
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Spanish-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-speakingCountries"
+                },
+                {
+                    "label": "Province",
+                    "uri": "http://dbpedia.org/resource/Province"
+                },
+                {
+                    "label": "North American country",
+                    "uri": "http://sw.cyc.com/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+                },
+                {
+                    "label": "country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvViIeZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "province",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVjM45wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "province",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjM45wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "North American country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "States And Territories Established In1903",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1903"
+                },
+                {
+                    "label": "Central American country",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rZX6CYphlQdiGMIPZdGARGw"
+                },
+                {
+                    "label": "province",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjM45wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Province",
+                    "uri": "http://umbel.org/umbel/sc/Province"
+                },
+                {
+                    "label": "Central American country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rZX6CYphlQdiGMIPZdGARGw"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "North American Country",
+                    "uri": "http://umbel.org/umbel/sc/NorthAmericanCountry"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Panama"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

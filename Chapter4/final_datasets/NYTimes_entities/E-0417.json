@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "La Repubblica",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Newspapers Published In Italy",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInItaly"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "Socialist Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/SocialistNewspapers"
+                },
+                {
+                    "label": "Italian media",
+                    "uri": "http://dbpedia.org/resource/Italian_media"
+                },
+                {
+                    "label": "Publications Established In1976",
+                    "uri": "http://dbpedia.org/class/yago/PublicationsEstablishedIn1976"
+                },
+                {
+                    "label": "Italian-language newspapers",
+                    "uri": "http://dbpedia.org/resource/Italian-language_newspapers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/La_Repubblica"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0417",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "La Repubblica",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Newspapers Published In Italy",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInItaly"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "Socialist Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/SocialistNewspapers"
+                },
+                {
+                    "label": "Italian media",
+                    "uri": "http://dbpedia.org/resource/Italian_media"
+                },
+                {
+                    "label": "Publications Established In1976",
+                    "uri": "http://dbpedia.org/class/yago/PublicationsEstablishedIn1976"
+                },
+                {
+                    "label": "Italian-language newspapers",
+                    "uri": "http://dbpedia.org/resource/Italian-language_newspapers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/La_Repubblica"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

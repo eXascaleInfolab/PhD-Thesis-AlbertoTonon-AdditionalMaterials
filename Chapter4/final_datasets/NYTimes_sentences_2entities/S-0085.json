@@ -1,0 +1,165 @@
+{
+  "mainText":"The company also plans to sell its holdings in Indonesia and Thailand.",
+  "shownText":"The company also plans to sell its holdings in Indonesia and Thailand.",
+  "title":"Hess to Sell Refining Arm and Revamp Its Board  - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/03/04/hess-to-sell-refining-arm-and-revamp-its-board/",
+  "category":"dealbook",
+  "docID":"S-0085",
+  "elementNumber":18,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Thailand",
+      "label":"Thailand",
+      "offsets":[
+        {
+          "offset":61,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"type of person classified by political affiliation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvqjUrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Indonesia",
+      "label":"Indonesia",
+      "offsets":[
+        {
+          "offset":47,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Island countries",
+          "uri":"http://dbpedia.org/resource/Island_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Thailand",
+      "label":"Thailand",
+      "offsets":[
+        {
+          "offset":61,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"type of person classified by political affiliation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvqjUrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Indonesia",
+      "label":"Indonesia",
+      "offsets":[
+        {
+          "offset":47,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Island countries",
+          "uri":"http://dbpedia.org/resource/Island_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    }
+  ]
+}

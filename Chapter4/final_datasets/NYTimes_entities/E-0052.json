@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "New York Post",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "New York City Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+                },
+                {
+                    "label": "Publications Established In1801",
+                    "uri": "http://dbpedia.org/class/yago/PublicationsEstablishedIn1801"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "newspaper",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_Post"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0052",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "New York Post",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "New York City Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+                },
+                {
+                    "label": "Publications Established In1801",
+                    "uri": "http://dbpedia.org/class/yago/PublicationsEstablishedIn1801"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "newspaper",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_Post"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

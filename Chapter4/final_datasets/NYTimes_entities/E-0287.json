@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Phoebe Philo",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "Anglo-French people",
+                    "uri": "http://dbpedia.org/resource/Anglo-French_people"
+                },
+                {
+                    "label": "Anglo-French People",
+                    "uri": "http://dbpedia.org/class/yago/Anglo-FrenchPeople"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Phoebe_Philo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0287",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Phoebe Philo",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "Anglo-French people",
+                    "uri": "http://dbpedia.org/resource/Anglo-French_people"
+                },
+                {
+                    "label": "Anglo-French People",
+                    "uri": "http://dbpedia.org/class/yago/Anglo-FrenchPeople"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Phoebe_Philo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

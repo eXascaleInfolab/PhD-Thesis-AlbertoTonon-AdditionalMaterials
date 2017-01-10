@@ -1,0 +1,301 @@
+{
+  "mainText":"A torn billboard for Italyâs former prime minister, Silvio Berlusconi, in downtown Rome on Friday, the last day of campaigning for national elections.",
+  "shownText":"A torn billboard for Italyâs former prime minister, Silvio Berlusconi, in downtown Rome on Friday, the last day of campaigning for national elections.",
+  "title":"In Italy, Illusion Is the Only Reality - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/opinion/sunday/in-italy-illusion-is-the-only-reality.html?ref=opinion",
+  "category":"opinion",
+  "docID":"S-0170",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Silvio_Berlusconi",
+      "label":"Silvio Berlusconi",
+      "offsets":[
+        {
+          "offset":52,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Newspaper Publishers Of The21st Century(people)",
+          "uri":"http://dbpedia.org/class/yago/NewspaperPublishersOfThe21stCentury(people)"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/class/yago/Chancellor109906986"
+        },
+        {
+          "label":"Prime Minister",
+          "uri":"http://dbpedia.org/ontology/PrimeMinister"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Italian Mass Media Owners",
+          "uri":"http://dbpedia.org/class/yago/ItalianMassMediaOwners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Milan",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMilan"
+        },
+        {
+          "label":"Prime Ministers Of Italy",
+          "uri":"http://dbpedia.org/class/yago/PrimeMinistersOfItaly"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Billionaires",
+          "uri":"http://dbpedia.org/class/yago/Billionaires"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":83,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Silvio_Berlusconi",
+      "label":"Silvio Berlusconi",
+      "offsets":[
+        {
+          "offset":52,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Newspaper Publishers Of The21st Century(people)",
+          "uri":"http://dbpedia.org/class/yago/NewspaperPublishersOfThe21stCentury(people)"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/class/yago/Chancellor109906986"
+        },
+        {
+          "label":"Prime Minister",
+          "uri":"http://dbpedia.org/ontology/PrimeMinister"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Italian Mass Media Owners",
+          "uri":"http://dbpedia.org/class/yago/ItalianMassMediaOwners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Milan",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMilan"
+        },
+        {
+          "label":"Prime Ministers Of Italy",
+          "uri":"http://dbpedia.org/class/yago/PrimeMinistersOfItaly"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Billionaires",
+          "uri":"http://dbpedia.org/class/yago/Billionaires"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":83,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

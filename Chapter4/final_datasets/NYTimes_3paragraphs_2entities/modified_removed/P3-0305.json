@@ -1,0 +1,285 @@
+{
+    "allEntities": [
+        {
+            "label": "Gloria Steinem", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 114
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Smith College Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/SmithCollegeAlumni"
+                }, 
+                {
+                    "label": "American Feminist Writers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFeministWriters"
+                }, 
+                {
+                    "label": "American tax resisters", 
+                    "uri": "http://dbpedia.org/resource/American_tax_resisters"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "American feminists", 
+                    "uri": "http://dbpedia.org/resource/American_feminists"
+                }, 
+                {
+                    "label": "Jewish American writers", 
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                }, 
+                {
+                    "label": "Liberals", 
+                    "uri": "http://dbpedia.org/class/yago/Liberals"
+                }, 
+                {
+                    "label": "American feminist writers", 
+                    "uri": "http://dbpedia.org/resource/American_feminist_writers"
+                }, 
+                {
+                    "label": "American Women's Rights Activists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomen'sRightsActivists"
+                }, 
+                {
+                    "label": "individual", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "American Feminists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFeminists"
+                }, 
+                {
+                    "label": "American Journalists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanJournalists"
+                }, 
+                {
+                    "label": "People From Toledo,Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromToledo,Ohio"
+                }, 
+                {
+                    "label": "People From Ohio", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromOhio"
+                }, 
+                {
+                    "label": "American Pro-choice Activists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPro-choiceActivists"
+                }, 
+                {
+                    "label": "Jewish American Writers", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                }, 
+                {
+                    "label": "American Tax Resisters", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanTaxResisters"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Gloria_Steinem"
+        }, 
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 219
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 328
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 448
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Sheryl Sandberg", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 441
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Harvard University alumni", 
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Harvard Business School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+                }, 
+                {
+                    "label": "Google employees", 
+                    "uri": "http://dbpedia.org/resource/Google_employees"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Google Employees", 
+                    "uri": "http://dbpedia.org/class/yago/GoogleEmployees"
+                }, 
+                {
+                    "label": "Harvard University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                }, 
+                {
+                    "label": "Facebook Employees", 
+                    "uri": "http://dbpedia.org/class/yago/FacebookEmployees"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Harvard Business School alumni", 
+                    "uri": "http://dbpedia.org/resource/Harvard_Business_School_alumni"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sheryl_Sandberg"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us", 
+    "category": "us", 
+    "docID": "P3-0305", 
+    "elementNumber": 17, 
+    "mainEntities": [
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 219
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 328
+                }, 
+                {
+                    "length": 8, 
+                    "offset": 448
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Sheryl Sandberg", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 441
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Harvard University alumni", 
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Harvard Business School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+                }, 
+                {
+                    "label": "Google employees", 
+                    "uri": "http://dbpedia.org/resource/Google_employees"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Google Employees", 
+                    "uri": "http://dbpedia.org/class/yago/GoogleEmployees"
+                }, 
+                {
+                    "label": "Harvard University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                }, 
+                {
+                    "label": "Facebook Employees", 
+                    "uri": "http://dbpedia.org/class/yago/FacebookEmployees"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Harvard Business School alumni", 
+                    "uri": "http://dbpedia.org/resource/Harvard_Business_School_alumni"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sheryl_Sandberg"
+        }
+    ], 
+    "mainText": "According to several people who have spoken to both women, Ms. Sandberg felt blindsided by Ms. Slaughter&rsquo;s criticisms, and though they briefly exchanged e-mails, Ms. Sandberg stopped replying and refused joint speaking appearances.\nMs. Slaughter continued her commentary: &ldquo;Sheryl Sandberg is both superhuman and rich,&rdquo; she told Fortune magazine , implying that her advice makes little sense for anyone who is not.", 
+    "shownText": "Since then, both women quietly developed perhaps the most notable feminist row since Ms. Friedan refused to shake Gloria Steinem&rsquo;s hand decades ago.\n\nAccording to several people who have spoken to both women, Ms. Sandberg felt blindsided by Ms. Slaughter&rsquo;s criticisms, and though they briefly exchanged e-mails, Ms. Sandberg stopped replying and refused joint speaking appearances.\nMs. Slaughter continued her commentary: &ldquo;Sheryl Sandberg is both superhuman and rich,&rdquo; she told Fortune magazine , implying that her advice makes little sense for anyone who is not.\n\n&ldquo;She&rsquo;s made a real contribution with the book, but it&rsquo;s only half the story,&rdquo; Ms. Slaughter said in an interview.\n", 
+    "title": "Sheryl Sandberg, &acirc;Lean In&acirc; Author, Hopes to Spur Movement - NYTimes.com"
+}

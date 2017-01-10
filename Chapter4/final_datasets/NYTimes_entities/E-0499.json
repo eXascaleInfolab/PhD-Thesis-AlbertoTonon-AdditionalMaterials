@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Voronezh",
+            "types": [
+                {
+                    "label": "Settlements Established In1586",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1586"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "thing",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Archaeological Sites In Russia",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInRussia"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Voronezh"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0499",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Voronezh",
+            "types": [
+                {
+                    "label": "Settlements Established In1586",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1586"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "thing",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViA9JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Archaeological Sites In Russia",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInRussia"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "state",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Voronezh"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,165 @@
+{
+  "mainText":"Rivals any other day, the C.E.O.\u2019s and company presidents had come together for a rare, private meeting.\nWhile the atmosphere was cordial, the men assembled were hardly friends.\nTheir stature was defined by their skill in fighting one another for what they called \u201cstomach share\u201d \u2014 the amount of digestive space that any one company\u2019s brand can grab from the competition.\nNestlé was in attendance, as were Kraft and Nabisco, General Mills and Procter & Gamble, Coca-Cola and Mars.\nOn the agenda was one item: the emerging obesity epidemic and how to deal with it.\nOn the evening of April 8, 1999, a long line of Town Cars and taxis pulled up to the Minneapolis headquarters of Pillsbury and discharged 11 men who controlled America\u2019s largest food companies.",
+  "shownText":"Rivals any other day, the C.E.O.\u2019s and company presidents had come together for a rare, private meeting.\nWhile the atmosphere was cordial, the men assembled were hardly friends.\nTheir stature was defined by their skill in fighting one another for what they called \u201cstomach share\u201d \u2014 the amount of digestive space that any one company\u2019s brand can grab from the competition.\nNestlé was in attendance, as were Kraft and Nabisco, General Mills and Procter & Gamble, Coca-Cola and Mars.\nOn the agenda was one item: the emerging obesity epidemic and how to deal with it.\nOn the evening of April 8, 1999, a long line of Town Cars and taxis pulled up to the Minneapolis headquarters of Pillsbury and discharged 11 men who controlled America\u2019s largest food companies.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P-0170",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Minneapolis",
+      "label":"Minneapolis",
+      "offsets":[
+        {
+          "offset":649,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Procter_&_Gamble",
+      "label":"Procter &amp; Gamble",
+      "offsets":[
+        {
+          "offset":443,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1837",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1837"
+        },
+        {
+          "label":"Companies Based In Cincinnati",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInCincinnati"
+        },
+        {
+          "label":"Pharmaceutical Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Manufacturing Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/ManufacturingCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Dental Companies",
+          "uri":"http://dbpedia.org/class/yago/DentalCompanies"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Minneapolis",
+      "label":"Minneapolis",
+      "offsets":[
+        {
+          "offset":649,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Procter_&_Gamble",
+      "label":"Procter &amp; Gamble",
+      "offsets":[
+        {
+          "offset":443,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1837",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1837"
+        },
+        {
+          "label":"Companies Based In Cincinnati",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInCincinnati"
+        },
+        {
+          "label":"Pharmaceutical Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Manufacturing Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/ManufacturingCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Dental Companies",
+          "uri":"http://dbpedia.org/class/yago/DentalCompanies"
+        }
+      ]
+    }
+  ]
+}

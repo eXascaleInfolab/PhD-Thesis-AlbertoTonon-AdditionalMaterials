@@ -1,0 +1,1157 @@
+{
+    "allEntities": [
+        {
+            "label": "Chicago", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 377
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Village", 
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Cities In Illinois", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInIllinois"
+                }, 
+                {
+                    "label": "United States Places With Orthodox Jewish Communities", 
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+                }, 
+                {
+                    "label": "Communities on U.S. Route 66", 
+                    "uri": "http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Lakeshore cities", 
+                    "uri": "http://dbpedia.org/resource/Lakeshore_cities"
+                }, 
+                {
+                    "label": "Cities On The Great Lakes", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+                }, 
+                {
+                    "label": "American city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "port city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Economies By City", 
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByCity"
+                }, 
+                {
+                    "label": "Lakeshore Cities", 
+                    "uri": "http://dbpedia.org/class/yago/LakeshoreCities"
+                }, 
+                {
+                    "label": "Settlements Established In1833", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+                }, 
+                {
+                    "label": "Port Cities In The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+                }, 
+                {
+                    "label": "County Seats In Illinois", 
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInIllinois"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Chicago"
+        }, 
+        {
+            "label": "Barbra Streisand", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 138
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English-language singers", 
+                    "uri": "http://dbpedia.org/resource/English-language_singers"
+                }, 
+                {
+                    "label": "Film Maker", 
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Best Song Academy Award winning songwriters", 
+                    "uri": "http://dbpedia.org/resource/Best_Song_Academy_Award_winning_songwriters"
+                }, 
+                {
+                    "label": "Actor-singers", 
+                    "uri": "http://dbpedia.org/resource/Actor-singers"
+                }, 
+                {
+                    "label": "American Stage Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanStageActors"
+                }, 
+                {
+                    "label": "American Female Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFemaleSingers"
+                }, 
+                {
+                    "label": "Best Actress Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Actress_Academy_Award_winners"
+                }, 
+                {
+                    "label": "actor", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }, 
+                {
+                    "label": "American Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanSingers"
+                }, 
+                {
+                    "label": "Daytime Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                }, 
+                {
+                    "label": "American stage actors", 
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                }, 
+                {
+                    "label": "person with a nationality", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/PersonWithNationality"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/UnitedStatesPerson"
+                }, 
+                {
+                    "label": "American dance musicians", 
+                    "uri": "http://dbpedia.org/resource/American_dance_musicians"
+                }, 
+                {
+                    "label": "Singer", 
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                }, 
+                {
+                    "label": "Jewish American film directors", 
+                    "uri": "http://dbpedia.org/resource/Jewish_American_film_directors"
+                }, 
+                {
+                    "label": "American musical theatre actors", 
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_actors"
+                }, 
+                {
+                    "label": "New York Democrats", 
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Actress", 
+                    "uri": "http://dbpedia.org/class/yago/Actress109767700"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "American Pop Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPopSingers"
+                }, 
+                {
+                    "label": "Female Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/FemaleFilmDirectors"
+                }, 
+                {
+                    "label": "American Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                }, 
+                {
+                    "label": "American pop singers", 
+                    "uri": "http://dbpedia.org/resource/American_pop_singers"
+                }, 
+                {
+                    "label": "North American", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/NorthAmericanCitizenOrSubject"
+                }, 
+                {
+                    "label": "People From Brooklyn", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Democrat", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwIi9L5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "American Dance Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanDanceMusicians"
+                }, 
+                {
+                    "label": "Liberals", 
+                    "uri": "http://dbpedia.org/class/yago/Liberals"
+                }, 
+                {
+                    "label": "Film Director", 
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Jewish American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+                }, 
+                {
+                    "label": "Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Emmy_Award_winners"
+                }, 
+                {
+                    "label": "Jewish Singers", 
+                    "uri": "http://dbpedia.org/class/yago/JewishSingers"
+                }, 
+                {
+                    "label": "Erasmus Hall High School alumni", 
+                    "uri": "http://dbpedia.org/resource/Erasmus_Hall_High_School_alumni"
+                }, 
+                {
+                    "label": "Jew", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQB4UJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Jewish American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                }, 
+                {
+                    "label": "Erasmus Hall High School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/ErasmusHallHighSchoolAlumni"
+                }, 
+                {
+                    "label": "Jewish Actors", 
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "American female singers", 
+                    "uri": "http://dbpedia.org/resource/American_female_singers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "singer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjiz5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Grammy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Jewish actors", 
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                }, 
+                {
+                    "label": "Best Director Golden Globe", 
+                    "uri": "http://dbpedia.org/resource/Best_Director_Golden_Globe"
+                }, 
+                {
+                    "label": "English-language Singers", 
+                    "uri": "http://dbpedia.org/class/yago/English-languageSingers"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://www.w3.org/2006/03/wn/wn20/instances/synset-American-noun-1"
+                }, 
+                {
+                    "label": "woman", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "American Musical Theatre Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreActors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Barbra_Streisand"
+        }, 
+        {
+            "label": "Catherine Zeta-Jones", 
+            "offsets": [
+                {
+                    "length": 20, 
+                    "offset": 344
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Best Supporting Actress Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Academy_Award_winners"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "BAFTA winners (people)", 
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "Welsh Voice Actors", 
+                    "uri": "http://dbpedia.org/class/yago/WelshVoiceActors"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People Of Irish Descent In Great Britain", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                }, 
+                {
+                    "label": "Englishman", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7HpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Welsh Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/WelshFilmActors"
+                }, 
+                {
+                    "label": "Actor-singers", 
+                    "uri": "http://dbpedia.org/resource/Actor-singers"
+                }, 
+                {
+                    "label": "movie actor", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Welsh Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/WelshTelevisionActors"
+                }, 
+                {
+                    "label": "woman", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "People From Swansea", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSwansea"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Catherine_Zeta-Jones"
+        }, 
+        {
+            "label": "Jennifer Hudson", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 393
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Best Supporting Actress Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Academy_Award_winners"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "American female singers", 
+                    "uri": "http://dbpedia.org/resource/American_female_singers"
+                }, 
+                {
+                    "label": "Best Supporting Actress Golden Globe (film)", 
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Golden_Globe_%28film%29"
+                }, 
+                {
+                    "label": "American Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                }, 
+                {
+                    "label": "American Idol participants", 
+                    "uri": "http://dbpedia.org/resource/American_Idol_participants"
+                }, 
+                {
+                    "label": "African American musicians", 
+                    "uri": "http://dbpedia.org/resource/African_American_musicians"
+                }, 
+                {
+                    "label": "American rhythm and blues singers", 
+                    "uri": "http://dbpedia.org/resource/American_rhythm_and_blues_singers"
+                }, 
+                {
+                    "label": "American dance musicians", 
+                    "uri": "http://dbpedia.org/resource/American_dance_musicians"
+                }, 
+                {
+                    "label": "BAFTA winners (people)", 
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                }, 
+                {
+                    "label": "Chicago musicians", 
+                    "uri": "http://dbpedia.org/resource/Chicago_musicians"
+                }, 
+                {
+                    "label": "Actors from Chicago", 
+                    "uri": "http://dbpedia.org/resource/Actors_from_Chicago"
+                }, 
+                {
+                    "label": "African-American Singers", 
+                    "uri": "http://dbpedia.org/class/yago/African-AmericanSingers"
+                }, 
+                {
+                    "label": "Actors From Chicago", 
+                    "uri": "http://dbpedia.org/class/yago/ActorsFromChicago"
+                }, 
+                {
+                    "label": "American actors", 
+                    "uri": "http://dbpedia.org/resource/American_actors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jennifer_Hudson"
+        }, 
+        {
+            "label": "Shirley Bassey", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 119
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "People From Cardiff", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCardiff"
+                }, 
+                {
+                    "label": "Welsh Female Singers", 
+                    "uri": "http://dbpedia.org/class/yago/WelshFemaleSingers"
+                }, 
+                {
+                    "label": "British People Of Nigerian Descent", 
+                    "uri": "http://dbpedia.org/class/yago/BritishPeopleOfNigerianDescent"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Singer", 
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Shirley_Bassey"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P-0024", 
+    "elementNumber": 17, 
+    "mainEntities": [
+        {
+            "label": "Chicago", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 377
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Village", 
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Cities In Illinois", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInIllinois"
+                }, 
+                {
+                    "label": "United States Places With Orthodox Jewish Communities", 
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+                }, 
+                {
+                    "label": "Communities on U.S. Route 66", 
+                    "uri": "http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Lakeshore cities", 
+                    "uri": "http://dbpedia.org/resource/Lakeshore_cities"
+                }, 
+                {
+                    "label": "Cities On The Great Lakes", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+                }, 
+                {
+                    "label": "American city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "port city", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Economies By City", 
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByCity"
+                }, 
+                {
+                    "label": "Lakeshore Cities", 
+                    "uri": "http://dbpedia.org/class/yago/LakeshoreCities"
+                }, 
+                {
+                    "label": "Settlements Established In1833", 
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+                }, 
+                {
+                    "label": "Port Cities In The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+                }, 
+                {
+                    "label": "County Seats In Illinois", 
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInIllinois"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Chicago"
+        }, 
+        {
+            "label": "Barbra Streisand", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 138
+                }
+            ], 
+            "types": [
+                {
+                    "label": "English-language singers", 
+                    "uri": "http://dbpedia.org/resource/English-language_singers"
+                }, 
+                {
+                    "label": "Film Maker", 
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Best Song Academy Award winning songwriters", 
+                    "uri": "http://dbpedia.org/resource/Best_Song_Academy_Award_winning_songwriters"
+                }, 
+                {
+                    "label": "Actor-singers", 
+                    "uri": "http://dbpedia.org/resource/Actor-singers"
+                }, 
+                {
+                    "label": "American Stage Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanStageActors"
+                }, 
+                {
+                    "label": "American Female Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFemaleSingers"
+                }, 
+                {
+                    "label": "Best Actress Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Actress_Academy_Award_winners"
+                }, 
+                {
+                    "label": "actor", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }, 
+                {
+                    "label": "American Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanSingers"
+                }, 
+                {
+                    "label": "Daytime Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                }, 
+                {
+                    "label": "American stage actors", 
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                }, 
+                {
+                    "label": "person with a nationality", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/PersonWithNationality"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/UnitedStatesPerson"
+                }, 
+                {
+                    "label": "American dance musicians", 
+                    "uri": "http://dbpedia.org/resource/American_dance_musicians"
+                }, 
+                {
+                    "label": "Singer", 
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                }, 
+                {
+                    "label": "Jewish American film directors", 
+                    "uri": "http://dbpedia.org/resource/Jewish_American_film_directors"
+                }, 
+                {
+                    "label": "American musical theatre actors", 
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_actors"
+                }, 
+                {
+                    "label": "New York Democrats", 
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Actress", 
+                    "uri": "http://dbpedia.org/class/yago/Actress109767700"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "American Pop Singers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPopSingers"
+                }, 
+                {
+                    "label": "Female Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/FemaleFilmDirectors"
+                }, 
+                {
+                    "label": "American Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                }, 
+                {
+                    "label": "American pop singers", 
+                    "uri": "http://dbpedia.org/resource/American_pop_singers"
+                }, 
+                {
+                    "label": "North American", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/NorthAmericanCitizenOrSubject"
+                }, 
+                {
+                    "label": "People From Brooklyn", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Democrat", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwIi9L5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "American Dance Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanDanceMusicians"
+                }, 
+                {
+                    "label": "Liberals", 
+                    "uri": "http://dbpedia.org/class/yago/Liberals"
+                }, 
+                {
+                    "label": "Film Director", 
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVj1zpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Jewish American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+                }, 
+                {
+                    "label": "Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Emmy_Award_winners"
+                }, 
+                {
+                    "label": "Jewish Singers", 
+                    "uri": "http://dbpedia.org/class/yago/JewishSingers"
+                }, 
+                {
+                    "label": "Erasmus Hall High School alumni", 
+                    "uri": "http://dbpedia.org/resource/Erasmus_Hall_High_School_alumni"
+                }, 
+                {
+                    "label": "Jew", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQB4UJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Jewish American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                }, 
+                {
+                    "label": "Erasmus Hall High School Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/ErasmusHallHighSchoolAlumni"
+                }, 
+                {
+                    "label": "Jewish Actors", 
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "American female singers", 
+                    "uri": "http://dbpedia.org/resource/American_female_singers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "singer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjiz5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Grammy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Jewish actors", 
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                }, 
+                {
+                    "label": "Best Director Golden Globe", 
+                    "uri": "http://dbpedia.org/resource/Best_Director_Golden_Globe"
+                }, 
+                {
+                    "label": "English-language Singers", 
+                    "uri": "http://dbpedia.org/class/yago/English-languageSingers"
+                }, 
+                {
+                    "label": "American", 
+                    "uri": "http://www.w3.org/2006/03/wn/wn20/instances/synset-American-noun-1"
+                }, 
+                {
+                    "label": "woman", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "American Musical Theatre Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreActors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Barbra_Streisand"
+        }, 
+        {
+            "label": "Catherine Zeta-Jones", 
+            "offsets": [
+                {
+                    "length": 20, 
+                    "offset": 344
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Best Supporting Actress Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Academy_Award_winners"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "BAFTA winners (people)", 
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "Welsh Voice Actors", 
+                    "uri": "http://dbpedia.org/class/yago/WelshVoiceActors"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "People Of Irish Descent In Great Britain", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                }, 
+                {
+                    "label": "Englishman", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7HpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Welsh Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/WelshFilmActors"
+                }, 
+                {
+                    "label": "Actor-singers", 
+                    "uri": "http://dbpedia.org/resource/Actor-singers"
+                }, 
+                {
+                    "label": "movie actor", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Welsh Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/WelshTelevisionActors"
+                }, 
+                {
+                    "label": "woman", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "People From Swansea", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSwansea"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Catherine_Zeta-Jones"
+        }, 
+        {
+            "label": "Jennifer Hudson", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 393
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Best Supporting Actress Academy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Academy_Award_winners"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Actor", 
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                }, 
+                {
+                    "label": "American female singers", 
+                    "uri": "http://dbpedia.org/resource/American_female_singers"
+                }, 
+                {
+                    "label": "Best Supporting Actress Golden Globe (film)", 
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Golden_Globe_%28film%29"
+                }, 
+                {
+                    "label": "American Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                }, 
+                {
+                    "label": "American Idol participants", 
+                    "uri": "http://dbpedia.org/resource/American_Idol_participants"
+                }, 
+                {
+                    "label": "African American musicians", 
+                    "uri": "http://dbpedia.org/resource/African_American_musicians"
+                }, 
+                {
+                    "label": "American rhythm and blues singers", 
+                    "uri": "http://dbpedia.org/resource/American_rhythm_and_blues_singers"
+                }, 
+                {
+                    "label": "American dance musicians", 
+                    "uri": "http://dbpedia.org/resource/American_dance_musicians"
+                }, 
+                {
+                    "label": "BAFTA winners (people)", 
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                }, 
+                {
+                    "label": "Chicago musicians", 
+                    "uri": "http://dbpedia.org/resource/Chicago_musicians"
+                }, 
+                {
+                    "label": "Actors from Chicago", 
+                    "uri": "http://dbpedia.org/resource/Actors_from_Chicago"
+                }, 
+                {
+                    "label": "African-American Singers", 
+                    "uri": "http://dbpedia.org/class/yago/African-AmericanSingers"
+                }, 
+                {
+                    "label": "Actors From Chicago", 
+                    "uri": "http://dbpedia.org/class/yago/ActorsFromChicago"
+                }, 
+                {
+                    "label": "American actors", 
+                    "uri": "http://dbpedia.org/resource/American_actors"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jennifer_Hudson"
+        }, 
+        {
+            "label": "Shirley Bassey", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 119
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "People From Cardiff", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCardiff"
+                }, 
+                {
+                    "label": "Welsh Female Singers", 
+                    "uri": "http://dbpedia.org/class/yago/WelshFemaleSingers"
+                }, 
+                {
+                    "label": "British People Of Nigerian Descent", 
+                    "uri": "http://dbpedia.org/class/yago/BritishPeopleOfNigerianDescent"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Singer", 
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Shirley_Bassey"
+        }
+    ], 
+    "mainText": "The Oscars also seemed to emulate the Grammy Awards , with more emphasis on centerpiece performances &mdash; by Adele, Shirley Bassey and Barbra Streisand, among others &mdash; than on the presentation of awards.\nThe much-advertised musical tribute, which ran for 11 minutes, had it both ways, mixing clips from films with live performances by Catherine Zeta-Jones from &ldquo;Chicago,&rdquo; Jennifer Hudson in &ldquo;Dreamgirls&rdquo; and the cast of &ldquo;Les Mis&eacute;rables.&rdquo;", 
+    "shownText": "The Oscars also seemed to emulate the Grammy Awards , with more emphasis on centerpiece performances &mdash; by Adele, Shirley Bassey and Barbra Streisand, among others &mdash; than on the presentation of awards.\nThe much-advertised musical tribute, which ran for 11 minutes, had it both ways, mixing clips from films with live performances by Catherine Zeta-Jones from &ldquo;Chicago,&rdquo; Jennifer Hudson in &ldquo;Dreamgirls&rdquo; and the cast of &ldquo;Les Mis&eacute;rables.&rdquo;", 
+    "title": "Best Picture for &acirc;Argo&acirc; in Varied Oscar Field - NYTimes.com"
+}

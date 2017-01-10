@@ -1,0 +1,277 @@
+{
+  "mainText":"Hermès stands in sharp contrast to the Saint Laurent show and its lazy values.\nFrom the first few outfits, shown in a school library near the Sorbonne, you were aware that real design was at work here and that Hermès was not resting on its fancy haunches.\nFor my money, this was one of the top two or three collections in Paris, and maybe of the entire ready-to-wear season; and for the simple fact that somebody at Hermès refused to let fashion take over the clothes.\nYou could see elements of Martin Margiela\u2019s eye-changing designs for the house, in one or two pants outfits and an austere gray V-neck wool dress with a white collarless shirt, but even his fashion was not allowed to intrude.",
+  "shownText":"And the controversy is good for Saint Laurent.\nBut mainly it was clear to me how strong the name is.\nWithout the label attached to them, Mr. Slimane\u2019s grunge dresses wouldn\u2019t attract interest \u2014 because they\u2019re not special.\nIn terms of design, the clothes held considerably less value than a box of Saint Laurent labels.\nBut a box of labels is worth a million.\n\nHermès stands in sharp contrast to the Saint Laurent show and its lazy values.\nFrom the first few outfits, shown in a school library near the Sorbonne, you were aware that real design was at work here and that Hermès was not resting on its fancy haunches.\nFor my money, this was one of the top two or three collections in Paris, and maybe of the entire ready-to-wear season; and for the simple fact that somebody at Hermès refused to let fashion take over the clothes.\nYou could see elements of Martin Margiela\u2019s eye-changing designs for the house, in one or two pants outfits and an austere gray V-neck wool dress with a white collarless shirt, but even his fashion was not allowed to intrude.\n\nSomebody made incredibly good judgments: about the fit, the proportions, the selective use of silk prints, the natural looking prettiness of the models.\nChristophe Lemaire is the women\u2019s designer at Hermès, but past collections have tended to be overloaded with volume and color \u2014 nowhere near as sharp as this one.\n",
+  "title":"Miu Miu, HermÃ¨s, Louis Vuitton -  Fashion Review - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/fashion/miu-miu-hermes-louis-vuitton-fashion-review.html?ref=style",
+  "category":"style",
+  "docID":"P3-0231",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Martin_Margiela",
+      "label":"Martin Margiela",
+      "offsets":[
+        {
+          "offset":856,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Antwerp,Belgium",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAntwerp,Belgium"
+        },
+        {
+          "label":"Belgian fashion designers",
+          "uri":"http://dbpedia.org/resource/Belgian_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Paris",
+      "label":"Paris",
+      "offsets":[
+        {
+          "offset":683,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Companions Of The Liberation",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+        },
+        {
+          "label":"French department",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"3rd century BC establishments",
+          "uri":"http://dbpedia.org/resource/3rd_century_BC_establishments"
+        },
+        {
+          "label":"European Capitals Of Culture",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+        },
+        {
+          "label":"French commune",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":"World Heritage Sites In France",
+          "uri":"http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sorbonne",
+      "label":"Sorbonne",
+      "offsets":[
+        {
+          "offset":503,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Martin_Margiela",
+      "label":"Martin Margiela",
+      "offsets":[
+        {
+          "offset":856,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Antwerp,Belgium",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAntwerp,Belgium"
+        },
+        {
+          "label":"Belgian fashion designers",
+          "uri":"http://dbpedia.org/resource/Belgian_fashion_designers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Paris",
+      "label":"Paris",
+      "offsets":[
+        {
+          "offset":683,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Companions Of The Liberation",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+        },
+        {
+          "label":"French department",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"3rd century BC establishments",
+          "uri":"http://dbpedia.org/resource/3rd_century_BC_establishments"
+        },
+        {
+          "label":"European Capitals Of Culture",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+        },
+        {
+          "label":"French commune",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":"World Heritage Sites In France",
+          "uri":"http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sorbonne",
+      "label":"Sorbonne",
+      "offsets":[
+        {
+          "offset":503,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"university",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

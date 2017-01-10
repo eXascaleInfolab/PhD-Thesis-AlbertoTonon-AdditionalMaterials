@@ -1,0 +1,225 @@
+{
+    "allEntities": [
+        {
+            "label": "Delhi",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Indian Union Territory capitals",
+                    "uri": "http://dbpedia.org/resource/Indian_Union_Territory_capitals"
+                },
+                {
+                    "label": "Capital Districts And Territories",
+                    "uri": "http://dbpedia.org/class/yago/CapitalDistrictsAndTerritories"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Host Cities Of The Commonwealth Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Places Of Indian Rebellion Of1857",
+                    "uri": "http://dbpedia.org/class/yago/PlacesOfIndianRebellionOf1857"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Attribute Characteristic Of An Entity",
+                    "uri": "http://umbel.org/umbel/sc/AttributeCharacteristicOfAnEntity"
+                },
+                {
+                    "label": "Capital City Of Region",
+                    "uri": "http://umbel.org/umbel/sc/CapitalCityOfRegion"
+                },
+                {
+                    "label": "Municipality",
+                    "uri": "http://dbpedia.org/ontology/Municipality"
+                },
+                {
+                    "label": "Indian capital cities",
+                    "uri": "http://dbpedia.org/resource/Indian_capital_cities"
+                },
+                {
+                    "label": "federal district",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwGkyX5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Indian Union Territory Capitals",
+                    "uri": "http://dbpedia.org/class/yago/IndianUnionTerritoryCapitals"
+                },
+                {
+                    "label": "Union Territories Of India",
+                    "uri": "http://dbpedia.org/class/yago/UnionTerritoriesOfIndia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Delhi"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0412",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Delhi",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Indian Union Territory capitals",
+                    "uri": "http://dbpedia.org/resource/Indian_Union_Territory_capitals"
+                },
+                {
+                    "label": "Capital Districts And Territories",
+                    "uri": "http://dbpedia.org/class/yago/CapitalDistrictsAndTerritories"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Host Cities Of The Commonwealth Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Places Of Indian Rebellion Of1857",
+                    "uri": "http://dbpedia.org/class/yago/PlacesOfIndianRebellionOf1857"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "first order administrative division",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "country subsidiary",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Attribute Characteristic Of An Entity",
+                    "uri": "http://umbel.org/umbel/sc/AttributeCharacteristicOfAnEntity"
+                },
+                {
+                    "label": "Capital City Of Region",
+                    "uri": "http://umbel.org/umbel/sc/CapitalCityOfRegion"
+                },
+                {
+                    "label": "Municipality",
+                    "uri": "http://dbpedia.org/ontology/Municipality"
+                },
+                {
+                    "label": "Indian capital cities",
+                    "uri": "http://dbpedia.org/resource/Indian_capital_cities"
+                },
+                {
+                    "label": "federal district",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwGkyX5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Indian Union Territory Capitals",
+                    "uri": "http://dbpedia.org/class/yago/IndianUnionTerritoryCapitals"
+                },
+                {
+                    "label": "Union Territories Of India",
+                    "uri": "http://dbpedia.org/class/yago/UnionTerritoriesOfIndia"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Delhi"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

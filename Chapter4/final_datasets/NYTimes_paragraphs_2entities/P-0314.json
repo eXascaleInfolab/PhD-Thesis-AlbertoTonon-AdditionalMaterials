@@ -1,0 +1,245 @@
+{
+  "mainText":"CARACAS, Venezuela \u2014 Hugo Chávez, who rose from poverty in a dirt-floor adobe house to unrivaled influence in Venezuela as its president, consolidating power and wielding the country\u2019s oil reserves as a tool for his Socialist-inspired change, died Tuesday, Vice President Nicolás Maduro said.\nHe was 58.",
+  "shownText":"CARACAS, Venezuela \u2014 Hugo Chávez, who rose from poverty in a dirt-floor adobe house to unrivaled influence in Venezuela as its president, consolidating power and wielding the country\u2019s oil reserves as a tool for his Socialist-inspired change, died Tuesday, Vice President Nicolás Maduro said.\nHe was 58.",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"P-0314",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":9,
+          "length":9
+        },
+        {
+          "offset":110,
+          "length":9
+        },
+        {
+          "offset":9,
+          "length":9
+        },
+        {
+          "offset":110,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hugo_%22Hurley%22_Reyes",
+      "label":"Hugo Ch&aacute;vez",
+      "offsets":[
+        {
+          "offset":21,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Fictional Catholics",
+          "uri":"http://dbpedia.org/resource/Fictional_Catholics"
+        },
+        {
+          "label":"Fictional characters from California",
+          "uri":"http://dbpedia.org/resource/Fictional_characters_from_California"
+        },
+        {
+          "label":"Fictional Character",
+          "uri":"http://dbpedia.org/class/yago/FictionalCharacter109587565"
+        },
+        {
+          "label":"Fictional lottery winners",
+          "uri":"http://dbpedia.org/resource/Fictional_lottery_winners"
+        },
+        {
+          "label":"Fictional golfers",
+          "uri":"http://dbpedia.org/resource/Fictional_golfers"
+        },
+        {
+          "label":"Fictional Characters With Mental Illness",
+          "uri":"http://dbpedia.org/class/yago/FictionalCharactersWithMentalIllness"
+        },
+        {
+          "label":"Fictional characters with mental illness",
+          "uri":"http://dbpedia.org/resource/Fictional_characters_with_mental_illness"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":9,
+          "length":9
+        },
+        {
+          "offset":110,
+          "length":9
+        },
+        {
+          "offset":9,
+          "length":9
+        },
+        {
+          "offset":110,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hugo_%22Hurley%22_Reyes",
+      "label":"Hugo Ch&aacute;vez",
+      "offsets":[
+        {
+          "offset":21,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Fictional Catholics",
+          "uri":"http://dbpedia.org/resource/Fictional_Catholics"
+        },
+        {
+          "label":"Fictional characters from California",
+          "uri":"http://dbpedia.org/resource/Fictional_characters_from_California"
+        },
+        {
+          "label":"Fictional Character",
+          "uri":"http://dbpedia.org/class/yago/FictionalCharacter109587565"
+        },
+        {
+          "label":"Fictional lottery winners",
+          "uri":"http://dbpedia.org/resource/Fictional_lottery_winners"
+        },
+        {
+          "label":"Fictional golfers",
+          "uri":"http://dbpedia.org/resource/Fictional_golfers"
+        },
+        {
+          "label":"Fictional Characters With Mental Illness",
+          "uri":"http://dbpedia.org/class/yago/FictionalCharactersWithMentalIllness"
+        },
+        {
+          "label":"Fictional characters with mental illness",
+          "uri":"http://dbpedia.org/resource/Fictional_characters_with_mental_illness"
+        }
+      ]
+    }
+  ]
+}

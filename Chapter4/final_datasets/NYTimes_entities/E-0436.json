@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "American International Group",
+            "types": [
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog"
+                },
+                {
+                    "label": "Companies listed on the Tokyo Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Tokyo_Stock_Exchange"
+                },
+                {
+                    "label": "Insurance Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/InsuranceCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Established In1919",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1919"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "S&amp;P 500 corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_International_Group"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0436",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "American International Group",
+            "types": [
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog"
+                },
+                {
+                    "label": "Companies listed on the Tokyo Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Tokyo_Stock_Exchange"
+                },
+                {
+                    "label": "Insurance Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/InsuranceCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Established In1919",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1919"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "publicly held corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "S&amp;P 500 corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_International_Group"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

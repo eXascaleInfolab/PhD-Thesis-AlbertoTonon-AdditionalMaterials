@@ -1,0 +1,177 @@
+{
+    "allEntities": [
+        {
+            "label": "Catherine Zeta-Jones",
+            "types": [
+                {
+                    "label": "Best Supporting Actress Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Academy_Award_winners"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Welsh Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/WelshVoiceActors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "Englishman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7HpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Welsh Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/WelshFilmActors"
+                },
+                {
+                    "label": "Actor-singers",
+                    "uri": "http://dbpedia.org/resource/Actor-singers"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Welsh Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/WelshTelevisionActors"
+                },
+                {
+                    "label": "woman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From Swansea",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSwansea"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Catherine_Zeta-Jones"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0104",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Catherine Zeta-Jones",
+            "types": [
+                {
+                    "label": "Best Supporting Actress Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actress_Academy_Award_winners"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Welsh Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/WelshVoiceActors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "Englishman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7HpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Welsh Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/WelshFilmActors"
+                },
+                {
+                    "label": "Actor-singers",
+                    "uri": "http://dbpedia.org/resource/Actor-singers"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Welsh Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/WelshTelevisionActors"
+                },
+                {
+                    "label": "woman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People From Swansea",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSwansea"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Catherine_Zeta-Jones"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

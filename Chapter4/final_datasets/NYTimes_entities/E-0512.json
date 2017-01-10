@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Bill Bradley",
+            "types": [
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Olimpia Milano Players",
+                    "uri": "http://dbpedia.org/class/yago/OlimpiaMilanoPlayers"
+                },
+                {
+                    "label": "Basketball Players At The1964Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BasketballPlayersAtThe1964SummerOlympics"
+                },
+                {
+                    "label": "American Rhodes Scholars",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRhodesScholars"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Distinguished Eagle Scouts",
+                    "uri": "http://dbpedia.org/class/yago/DistinguishedEagleScouts"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/resource/American_Presbyterians"
+                },
+                {
+                    "label": "James E. Sullivan Award recipients",
+                    "uri": "http://dbpedia.org/resource/James_E._Sullivan_Award_recipients"
+                },
+                {
+                    "label": "Athlete-politicians",
+                    "uri": "http://dbpedia.org/resource/Athlete-politicians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "People From Jefferson County,Missouri",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromJeffersonCounty,Missouri"
+                },
+                {
+                    "label": "United States Senators From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNewJersey"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "New York Knicks Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkKnicksPlayers"
+                },
+                {
+                    "label": "American Political Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Princeton Tigers Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/PrincetonTigersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "Olympic Basketball Players Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBasketballPlayersOfTheUnitedStates"
+                },
+                {
+                    "label": "American political writers",
+                    "uri": "http://dbpedia.org/resource/American_political_writers"
+                },
+                {
+                    "label": "Democratic Party (United States) politicians",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_politicians"
+                },
+                {
+                    "label": "American sportspeople",
+                    "uri": "http://dbpedia.org/resource/American_sportspeople"
+                },
+                {
+                    "label": "Democratic Party(United States)Politicians",
+                    "uri": "http://dbpedia.org/class/yago/DemocraticParty(UnitedStates)Politicians"
+                },
+                {
+                    "label": "American Rhodes scholars",
+                    "uri": "http://dbpedia.org/resource/American_Rhodes_scholars"
+                },
+                {
+                    "label": "Alumni Of Worcester College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfWorcesterCollege,Oxford"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bill_Bradley"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0512",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bill Bradley",
+            "types": [
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Olimpia Milano Players",
+                    "uri": "http://dbpedia.org/class/yago/OlimpiaMilanoPlayers"
+                },
+                {
+                    "label": "Basketball Players At The1964Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BasketballPlayersAtThe1964SummerOlympics"
+                },
+                {
+                    "label": "American Rhodes Scholars",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRhodesScholars"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Distinguished Eagle Scouts",
+                    "uri": "http://dbpedia.org/class/yago/DistinguishedEagleScouts"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/resource/American_Presbyterians"
+                },
+                {
+                    "label": "James E. Sullivan Award recipients",
+                    "uri": "http://dbpedia.org/resource/James_E._Sullivan_Award_recipients"
+                },
+                {
+                    "label": "Athlete-politicians",
+                    "uri": "http://dbpedia.org/resource/Athlete-politicians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "People From Jefferson County,Missouri",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromJeffersonCounty,Missouri"
+                },
+                {
+                    "label": "United States Senators From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNewJersey"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "New York Knicks Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkKnicksPlayers"
+                },
+                {
+                    "label": "American Political Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Princeton Tigers Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/PrincetonTigersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "Olympic Basketball Players Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBasketballPlayersOfTheUnitedStates"
+                },
+                {
+                    "label": "American political writers",
+                    "uri": "http://dbpedia.org/resource/American_political_writers"
+                },
+                {
+                    "label": "Democratic Party (United States) politicians",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_politicians"
+                },
+                {
+                    "label": "American sportspeople",
+                    "uri": "http://dbpedia.org/resource/American_sportspeople"
+                },
+                {
+                    "label": "Democratic Party(United States)Politicians",
+                    "uri": "http://dbpedia.org/class/yago/DemocraticParty(UnitedStates)Politicians"
+                },
+                {
+                    "label": "American Rhodes scholars",
+                    "uri": "http://dbpedia.org/resource/American_Rhodes_scholars"
+                },
+                {
+                    "label": "Alumni Of Worcester College,Oxford",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfWorcesterCollege,Oxford"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bill_Bradley"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

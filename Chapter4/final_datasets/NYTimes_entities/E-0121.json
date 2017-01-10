@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Best Buy",
+            "types": [
+                {
+                    "label": "Retail Companies Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/RetailCompaniesOfCanada"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Retail Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Multinational Companies",
+                    "uri": "http://dbpedia.org/class/yago/MultinationalCompanies"
+                },
+                {
+                    "label": "Companies Based In Minnesota",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInMinnesota"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Consumer electronics retailers",
+                    "uri": "http://dbpedia.org/resource/Consumer_electronics_retailers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Companies Listed On The New York Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies Established In1966",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1966"
+                },
+                {
+                    "label": "retail store parent company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSCpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Best_Buy"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0121",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Best Buy",
+            "types": [
+                {
+                    "label": "Retail Companies Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/RetailCompaniesOfCanada"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Retail Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Multinational Companies",
+                    "uri": "http://dbpedia.org/class/yago/MultinationalCompanies"
+                },
+                {
+                    "label": "Companies Based In Minnesota",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInMinnesota"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Consumer electronics retailers",
+                    "uri": "http://dbpedia.org/resource/Consumer_electronics_retailers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Companies Listed On The New York Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies Established In1966",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1966"
+                },
+                {
+                    "label": "retail store parent company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSCpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Best_Buy"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

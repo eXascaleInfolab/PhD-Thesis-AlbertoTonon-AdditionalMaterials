@@ -1,0 +1,309 @@
+{
+  "mainText":"In 1957 he was inducted into the Army, but released after two days because he was found to be prone to nosebleeds.\nBy this point, despite his success, his career was stagnating and he was carrying a $7,000 debt.\nHis managers at Columbia Artists wanted him to undertake a tour of Europe for which he would have had to pay his own travel expenses.\nBut Ms. Lhevinne encouraged him instead to enter the first Tchaikovsky competition.",
+  "shownText":"That same year he graduated from Juilliard and was to have begun graduate-level studies.\nBut performing commitments as a result of the Leventritt, including 20 appearances with orchestras during 1955 alone, kept him on tour.\n\nIn 1957 he was inducted into the Army, but released after two days because he was found to be prone to nosebleeds.\nBy this point, despite his success, his career was stagnating and he was carrying a $7,000 debt.\nHis managers at Columbia Artists wanted him to undertake a tour of Europe for which he would have had to pay his own travel expenses.\nBut Ms. Lhevinne encouraged him instead to enter the first Tchaikovsky competition.\n\nAn award of $1,000 from the Martha Baird Rockefeller Aid to Music Program made the journey possible.\nOnce in Moscow, the contestants\u2019 expenses were assumed by the Soviet government.\n",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0015",
+  "elementNumber":24,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Army",
+      "label":"Army",
+      "offsets":[
+        {
+          "offset":259,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Iranian Army echelon",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rbVMJWnStEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"U.S. Army echelon",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4radO_4HStEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Field armies",
+          "uri":"http://dbpedia.org/resource/Field_armies"
+        },
+        {
+          "label":"Military Unit",
+          "uri":"http://dbpedia.org/ontology/MilitaryUnit"
+        },
+        {
+          "label":"military organization concept",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roClzfvSSEdmAAAACs0uFOQ"
+        },
+        {
+          "label":"generic military organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6_yViGJsQdifUcwDA-kIWw"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":505,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Army",
+      "label":"Army",
+      "offsets":[
+        {
+          "offset":259,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Iranian Army echelon",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rbVMJWnStEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"U.S. Army echelon",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4radO_4HStEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Field armies",
+          "uri":"http://dbpedia.org/resource/Field_armies"
+        },
+        {
+          "label":"Military Unit",
+          "uri":"http://dbpedia.org/ontology/MilitaryUnit"
+        },
+        {
+          "label":"military organization concept",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roClzfvSSEdmAAAACs0uFOQ"
+        },
+        {
+          "label":"generic military organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6_yViGJsQdifUcwDA-kIWw"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":766,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Europe",
+      "label":"Europe",
+      "offsets":[
+        {
+          "offset":505,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"traditional continent",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Continents",
+          "uri":"http://dbpedia.org/class/yago/Continents"
+        },
+        {
+          "label":"some important regions geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    }
+  ]
+}

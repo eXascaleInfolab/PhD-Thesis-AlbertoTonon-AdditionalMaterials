@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Portlandia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Portlandia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0742",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Portlandia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Portlandia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

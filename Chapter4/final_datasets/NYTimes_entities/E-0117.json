@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Manny Malhotra",
+            "types": [
+                {
+                    "label": "Calder Cup champions",
+                    "uri": "http://dbpedia.org/resource/Calder_Cup_champions"
+                },
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Canadian ice hockey centres",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+                },
+                {
+                    "label": "Dallas Stars players",
+                    "uri": "http://dbpedia.org/resource/Dallas_Stars_players"
+                },
+                {
+                    "label": "HV71 players",
+                    "uri": "http://dbpedia.org/resource/HV71_players"
+                },
+                {
+                    "label": "Guelph Storm alumni",
+                    "uri": "http://dbpedia.org/resource/Guelph_Storm_alumni"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Columbus Blue Jackets players",
+                    "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+                },
+                {
+                    "label": "Asian Canadian sportspeople",
+                    "uri": "http://dbpedia.org/resource/Asian_Canadian_sportspeople"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Manny_Malhotra"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0117",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Manny Malhotra",
+            "types": [
+                {
+                    "label": "Calder Cup champions",
+                    "uri": "http://dbpedia.org/resource/Calder_Cup_champions"
+                },
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Canadian ice hockey centres",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+                },
+                {
+                    "label": "Dallas Stars players",
+                    "uri": "http://dbpedia.org/resource/Dallas_Stars_players"
+                },
+                {
+                    "label": "HV71 players",
+                    "uri": "http://dbpedia.org/resource/HV71_players"
+                },
+                {
+                    "label": "Guelph Storm alumni",
+                    "uri": "http://dbpedia.org/resource/Guelph_Storm_alumni"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Columbus Blue Jackets players",
+                    "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+                },
+                {
+                    "label": "Asian Canadian sportspeople",
+                    "uri": "http://dbpedia.org/resource/Asian_Canadian_sportspeople"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Manny_Malhotra"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Daniel Dae Kim",
+            "types": [
+                {
+                    "label": "People From Busan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBusan"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Pennsylvania Actors",
+                    "uri": "http://dbpedia.org/class/yago/PennsylvaniaActors"
+                },
+                {
+                    "label": "Haverford College alumni",
+                    "uri": "http://dbpedia.org/resource/Haverford_College_alumni"
+                },
+                {
+                    "label": "Haverford College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HaverfordCollegeAlumni"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Daniel_Dae_Kim"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0639",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Daniel Dae Kim",
+            "types": [
+                {
+                    "label": "People From Busan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBusan"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Pennsylvania Actors",
+                    "uri": "http://dbpedia.org/class/yago/PennsylvaniaActors"
+                },
+                {
+                    "label": "Haverford College alumni",
+                    "uri": "http://dbpedia.org/resource/Haverford_College_alumni"
+                },
+                {
+                    "label": "Haverford College Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HaverfordCollegeAlumni"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Daniel_Dae_Kim"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "Frank Abagnale",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Impostors",
+                    "uri": "http://dbpedia.org/class/yago/Impostors"
+                },
+                {
+                    "label": "American Criminals",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCriminals"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "Criminal",
+                    "uri": "http://dbpedia.org/class/yago/Criminal109977660"
+                },
+                {
+                    "label": "Criminal",
+                    "uri": "http://dbpedia.org/ontology/Criminal"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Escapees",
+                    "uri": "http://dbpedia.org/class/yago/Escapees"
+                },
+                {
+                    "label": "People From Westchester County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestchesterCounty,NewYork"
+                },
+                {
+                    "label": "Confidence Tricksters",
+                    "uri": "http://dbpedia.org/class/yago/ConfidenceTricksters"
+                },
+                {
+                    "label": "Forgers",
+                    "uri": "http://dbpedia.org/resource/Forgers"
+                },
+                {
+                    "label": "American fraudsters",
+                    "uri": "http://dbpedia.org/resource/American_fraudsters"
+                },
+                {
+                    "label": "Confidence tricksters",
+                    "uri": "http://dbpedia.org/resource/Confidence_tricksters"
+                },
+                {
+                    "label": "American criminals",
+                    "uri": "http://dbpedia.org/resource/American_criminals"
+                },
+                {
+                    "label": "Forgers",
+                    "uri": "http://dbpedia.org/class/yago/Forgers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Frank_Abagnale"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0288",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Frank Abagnale",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Impostors",
+                    "uri": "http://dbpedia.org/class/yago/Impostors"
+                },
+                {
+                    "label": "American Criminals",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCriminals"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "Criminal",
+                    "uri": "http://dbpedia.org/class/yago/Criminal109977660"
+                },
+                {
+                    "label": "Criminal",
+                    "uri": "http://dbpedia.org/ontology/Criminal"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Escapees",
+                    "uri": "http://dbpedia.org/class/yago/Escapees"
+                },
+                {
+                    "label": "People From Westchester County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestchesterCounty,NewYork"
+                },
+                {
+                    "label": "Confidence Tricksters",
+                    "uri": "http://dbpedia.org/class/yago/ConfidenceTricksters"
+                },
+                {
+                    "label": "Forgers",
+                    "uri": "http://dbpedia.org/resource/Forgers"
+                },
+                {
+                    "label": "American fraudsters",
+                    "uri": "http://dbpedia.org/resource/American_fraudsters"
+                },
+                {
+                    "label": "Confidence tricksters",
+                    "uri": "http://dbpedia.org/resource/Confidence_tricksters"
+                },
+                {
+                    "label": "American criminals",
+                    "uri": "http://dbpedia.org/resource/American_criminals"
+                },
+                {
+                    "label": "Forgers",
+                    "uri": "http://dbpedia.org/class/yago/Forgers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Frank_Abagnale"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

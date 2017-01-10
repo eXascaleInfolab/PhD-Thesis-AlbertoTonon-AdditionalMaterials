@@ -1,0 +1,253 @@
+{
+  "mainText":"\u201cIt was easy, and people got comfortable,\u201d said Stephen S. Fuller of George Mason University, an expert on the regional economy.\n\u201cThey haven\u2019t come to terms with the fact it isn\u2019t going to be as easy.\u201d",
+  "shownText":"While the rest of the country experienced a corrosive recession, unemployment in Arlington County, home of the Pentagon, never rose above 5 percent.\nNearby Fairfax County, with a cyberintelligence industry that took off after the Sept. 11 terrorist attacks, gorged on government contracts to private companies.\n\n\u201cIt was easy, and people got comfortable,\u201d said Stephen S. Fuller of George Mason University, an expert on the regional economy.\n\u201cThey haven\u2019t come to terms with the fact it isn\u2019t going to be as easy.\u201d\n\nThe Washington metropolitan area, especially Northern Virginia, is in line to experience the largest economic hit of any region from the $85 billion in spending cuts that President Obama made official late Friday.\n",
+  "title":"Virginiaâs Feast on U.S. Funds Nears an End - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/us/politics/virginias-feast-on-us-funds-nears-an-end.html?ref=us",
+  "category":"us",
+  "docID":"P3-0282",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/George_Mason_University",
+      "label":"George Mason University",
+      "offsets":[
+        {
+          "offset":381,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"Educational Institutions Established In1957",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1957"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":"Engineering Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/EngineeringUniversitiesAndColleges"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Engineering universities and colleges",
+          "uri":"http://dbpedia.org/resource/Engineering_universities_and_colleges"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stephen_Fuller",
+      "label":"Stephen S. Fuller",
+      "offsets":[
+        {
+          "offset":360,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Fianna F%C3%A1il Politicians",
+          "uri":"http://dbpedia.org/class/yago/FiannaF%C3%A1ilPoliticians"
+        },
+        {
+          "label":"Fianna F%E1il politicians",
+          "uri":"http://dbpedia.org/resource/Fianna_F%E1il_politicians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/George_Mason_University",
+      "label":"George Mason University",
+      "offsets":[
+        {
+          "offset":381,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"Educational Institutions Established In1957",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1957"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":"Engineering Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/EngineeringUniversitiesAndColleges"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Engineering universities and colleges",
+          "uri":"http://dbpedia.org/resource/Engineering_universities_and_colleges"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":519,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Virginia",
+      "label":"Virginia",
+      "offsets":[
+        {
+          "offset":569,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"17th century establishments",
+          "uri":"http://dbpedia.org/resource/17th_century_establishments"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stephen_Fuller",
+      "label":"Stephen S. Fuller",
+      "offsets":[
+        {
+          "offset":360,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Fianna F%C3%A1il Politicians",
+          "uri":"http://dbpedia.org/class/yago/FiannaF%C3%A1ilPoliticians"
+        },
+        {
+          "label":"Fianna F%E1il politicians",
+          "uri":"http://dbpedia.org/resource/Fianna_F%E1il_politicians"
+        }
+      ]
+    }
+  ]
+}

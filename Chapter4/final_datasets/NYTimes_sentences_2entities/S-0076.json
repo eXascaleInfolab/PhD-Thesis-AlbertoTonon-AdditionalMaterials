@@ -1,0 +1,309 @@
+{
+  "mainText":"Microsoft is producing programming for the Xbox video game console with the help of a former CBS president .",
+  "shownText":"Microsoft is producing programming for the Xbox video game console with the help of a former CBS president .",
+  "title":"Online-Only TV Shows Join Fight for Attention - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/business/media/online-only-tv-shows-join-fight-for-attention.html?ref=business",
+  "category":"business",
+  "docID":"S-0076",
+  "elementNumber":9,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/CBS",
+      "label":"CBS",
+      "offsets":[
+        {
+          "offset":93,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":0,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/CBS",
+      "label":"CBS",
+      "offsets":[
+        {
+          "offset":93,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Network",
+          "uri":"http://dbpedia.org/class/yago/Network108434259"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"television network",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCRtJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American Television Networks",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionNetworks"
+        },
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"CBS television network",
+          "uri":"http://dbpedia.org/resource/CBS_television_network"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":0,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

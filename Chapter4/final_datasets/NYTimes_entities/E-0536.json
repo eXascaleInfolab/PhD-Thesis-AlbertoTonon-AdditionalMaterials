@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Chase Carey",
+            "types": [
+                {
+                    "label": "American television executives",
+                    "uri": "http://dbpedia.org/resource/American_television_executives"
+                },
+                {
+                    "label": "Media Executives",
+                    "uri": "http://dbpedia.org/class/yago/MediaExecutives"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chase_Carey"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0536",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chase Carey",
+            "types": [
+                {
+                    "label": "American television executives",
+                    "uri": "http://dbpedia.org/resource/American_television_executives"
+                },
+                {
+                    "label": "Media Executives",
+                    "uri": "http://dbpedia.org/class/yago/MediaExecutives"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chase_Carey"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

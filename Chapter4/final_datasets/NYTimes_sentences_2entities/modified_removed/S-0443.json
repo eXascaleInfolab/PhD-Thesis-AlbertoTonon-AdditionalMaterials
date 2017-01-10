@@ -1,0 +1,293 @@
+{
+    "allEntities": [
+        {
+            "label": "Edinburgh", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 90
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "Port Cities And Towns In The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Districts Of Scotland", 
+                    "uri": "http://dbpedia.org/class/yago/DistrictsOfScotland"
+                }, 
+                {
+                    "label": "British Capitals", 
+                    "uri": "http://dbpedia.org/class/yago/BritishCapitals"
+                }, 
+                {
+                    "label": "Site", 
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "British capitals", 
+                    "uri": "http://dbpedia.org/resource/British_capitals"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Lieutenancy Areas Of Scotland", 
+                    "uri": "http://dbpedia.org/class/yago/LieutenancyAreasOfScotland"
+                }, 
+                {
+                    "label": "Host Cities Of The Commonwealth Games", 
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Edinburgh"
+        }, 
+        {
+            "label": "Mass", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 52
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Fundamental physics concepts", 
+                    "uri": "http://dbpedia.org/resource/Fundamental_physics_concepts"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mass"
+        }, 
+        {
+            "label": "St. Mary&rsquo;s Cathedral", 
+            "offsets": [
+                {
+                    "length": 26, 
+                    "offset": 60
+                }
+            ], 
+            "types": [
+                {
+                    "label": "kind of artifact not distinguished by brand or model", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rejmDbrF_QdeIENT1qpbYzQ"
+                }, 
+                {
+                    "label": "artifactual feature type", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                }, 
+                {
+                    "label": "cartographic feature type", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6-wc8BKxEdeIXwCgydofLQ"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "type of object", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "artifactual feature type", 
+                    "uri": "http://sw.cyc.com/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                }, 
+                {
+                    "label": "Class", 
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                }, 
+                {
+                    "label": "first-order collection", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Cathedral"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/26/world/europe/top-british-cardinal-resigns-after-accusations-of-inappropriate-acts.html?ref=world", 
+    "category": "world", 
+    "docID": "S-0443", 
+    "elementNumber": 21, 
+    "mainEntities": [
+        {
+            "label": "Edinburgh", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 90
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "Port Cities And Towns In The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Districts Of Scotland", 
+                    "uri": "http://dbpedia.org/class/yago/DistrictsOfScotland"
+                }, 
+                {
+                    "label": "British Capitals", 
+                    "uri": "http://dbpedia.org/class/yago/BritishCapitals"
+                }, 
+                {
+                    "label": "Site", 
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "British capitals", 
+                    "uri": "http://dbpedia.org/resource/British_capitals"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Lieutenancy Areas Of Scotland", 
+                    "uri": "http://dbpedia.org/class/yago/LieutenancyAreasOfScotland"
+                }, 
+                {
+                    "label": "Host Cities Of The Commonwealth Games", 
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Edinburgh"
+        }, 
+        {
+            "label": "Mass", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 52
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Fundamental physics concepts", 
+                    "uri": "http://dbpedia.org/resource/Fundamental_physics_concepts"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mass"
+        }, 
+        {
+            "label": "St. Mary&rsquo;s Cathedral", 
+            "offsets": [
+                {
+                    "length": 26, 
+                    "offset": 60
+                }
+            ], 
+            "types": [
+                {
+                    "label": "kind of artifact not distinguished by brand or model", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rejmDbrF_QdeIENT1qpbYzQ"
+                }, 
+                {
+                    "label": "artifactual feature type", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                }, 
+                {
+                    "label": "cartographic feature type", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6-wc8BKxEdeIXwCgydofLQ"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "type of object", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "artifactual feature type", 
+                    "uri": "http://sw.cyc.com/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                }, 
+                {
+                    "label": "Class", 
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                }, 
+                {
+                    "label": "first-order collection", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Cathedral"
+        }
+    ], 
+    "mainText": "Cardinal O&rsquo;Brien had been scheduled to lead a Mass at St. Mary&rsquo;s Cathedral in Edinburgh on Sunday morning, an occasion dedicated to a celebration of Benedict&rsquo;s papacy.", 
+    "shownText": "Cardinal O&rsquo;Brien had been scheduled to lead a Mass at St. Mary&rsquo;s Cathedral in Edinburgh on Sunday morning, an occasion dedicated to a celebration of Benedict&rsquo;s papacy.", 
+    "title": "Top British Cardinal Resigns After Accusations of &acirc;Inappropriate Acts&acirc; - NYTimes.com"
+}

@@ -1,0 +1,565 @@
+{
+    "allEntities": [
+        {
+            "label": "Leonard Bernstein", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 98
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American composers", 
+                    "uri": "http://dbpedia.org/resource/American_composers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "American classical pianists", 
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                }, 
+                {
+                    "label": "Jewish classical musicians", 
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                }, 
+                {
+                    "label": "LGBT musicians from the United States", 
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_States"
+                }, 
+                {
+                    "label": "American conductors", 
+                    "uri": "http://dbpedia.org/resource/American_conductors"
+                }, 
+                {
+                    "label": "LGBT composers", 
+                    "uri": "http://dbpedia.org/resource/LGBT_composers"
+                }, 
+                {
+                    "label": "American film score composers", 
+                    "uri": "http://dbpedia.org/resource/American_film_score_composers"
+                }, 
+                {
+                    "label": "Kennedy Center Honors Composers", 
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsComposers"
+                }, 
+                {
+                    "label": "Kennedy Center Honors recipients", 
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                }, 
+                {
+                    "label": "Bisexual Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                }, 
+                {
+                    "label": "Kennedy Center Honors musicians", 
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_musicians"
+                }, 
+                {
+                    "label": "American Conductors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanConductors"
+                }, 
+                {
+                    "label": "Jewish composers and songwriters", 
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                }, 
+                {
+                    "label": "Jewish American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                }, 
+                {
+                    "label": "American Film Score Composers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmScoreComposers"
+                }, 
+                {
+                    "label": "LGBTMusicians From The United States", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedStates"
+                }, 
+                {
+                    "label": "George Peabody Medal winners", 
+                    "uri": "http://dbpedia.org/resource/George_Peabody_Medal_winners"
+                }, 
+                {
+                    "label": "LGBT Jews", 
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                }, 
+                {
+                    "label": "LGBTComposers", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                }, 
+                {
+                    "label": "American Composers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanComposers"
+                }, 
+                {
+                    "label": "People From Lawrence,Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLawrence,Massachusetts"
+                }, 
+                {
+                    "label": "Kennedy Center Honors Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsMusicians"
+                }, 
+                {
+                    "label": "20th Century Classical Composers", 
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyClassicalComposers"
+                }, 
+                {
+                    "label": "Jewish Composers And Songwriters", 
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Jewish Classical Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/JewishClassicalMusicians"
+                }, 
+                {
+                    "label": "Grammy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }, 
+                {
+                    "label": "American Musical Theatre Composers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreComposers"
+                }, 
+                {
+                    "label": "20th century classical composers", 
+                    "uri": "http://dbpedia.org/resource/20th_century_classical_composers"
+                }, 
+                {
+                    "label": "Royal Philharmonic Society Gold Medallists", 
+                    "uri": "http://dbpedia.org/class/yago/RoyalPhilharmonicSocietyGoldMedallists"
+                }, 
+                {
+                    "label": "Bisexual musicians", 
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                }, 
+                {
+                    "label": "Picasso Medalists", 
+                    "uri": "http://dbpedia.org/class/yago/PicassoMedalists"
+                }, 
+                {
+                    "label": "American musical theatre composers", 
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_composers"
+                }, 
+                {
+                    "label": "Kennedy Center Honors composers", 
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_composers"
+                }, 
+                {
+                    "label": "Jewish American musicians", 
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                }, 
+                {
+                    "label": "Opera Composers", 
+                    "uri": "http://dbpedia.org/class/yago/OperaComposers"
+                }, 
+                {
+                    "label": "American Classical Pianists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanClassicalPianists"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Leonard_Bernstein"
+        }, 
+        {
+            "label": "Carnegie Hall", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 71
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Registered Historic Places In Manhattan", 
+                    "uri": "http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+                }, 
+                {
+                    "label": "National Historic Landmarks Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Historic Place", 
+                    "uri": "http://dbpedia.org/ontology/HistoricPlace"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "19th century architecture", 
+                    "uri": "http://dbpedia.org/resource/19th_century_architecture"
+                }, 
+                {
+                    "label": "place", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjTtJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "fixed free-standing structure", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjGR5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "theater", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "theater", 
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Music Venues In New York City", 
+                    "uri": "http://dbpedia.org/class/yago/MusicVenuesInNewYorkCity"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "large construction", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjPSpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "public place", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rg7oNHCl-EduAAAACs0uFOQ"
+                }, 
+                {
+                    "label": "theater", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "19th century works", 
+                    "uri": "http://dbpedia.org/resource/19th_century_works"
+                }, 
+                {
+                    "label": "Theater Physical Structure", 
+                    "uri": "http://umbel.org/umbel/sc/Theater_PhysicalStructure"
+                }, 
+                {
+                    "label": "Landmarks In New York City", 
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInNewYorkCity"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Carnegie_Hall"
+        }, 
+        {
+            "label": "Mozart", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 140
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/MozarT"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts", 
+    "category": "arts", 
+    "docID": "S-0013", 
+    "elementNumber": 96, 
+    "mainEntities": [
+        {
+            "label": "Leonard Bernstein", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 98
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American composers", 
+                    "uri": "http://dbpedia.org/resource/American_composers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "American classical pianists", 
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                }, 
+                {
+                    "label": "Jewish classical musicians", 
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                }, 
+                {
+                    "label": "LGBT musicians from the United States", 
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_States"
+                }, 
+                {
+                    "label": "American conductors", 
+                    "uri": "http://dbpedia.org/resource/American_conductors"
+                }, 
+                {
+                    "label": "LGBT composers", 
+                    "uri": "http://dbpedia.org/resource/LGBT_composers"
+                }, 
+                {
+                    "label": "American film score composers", 
+                    "uri": "http://dbpedia.org/resource/American_film_score_composers"
+                }, 
+                {
+                    "label": "Kennedy Center Honors Composers", 
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsComposers"
+                }, 
+                {
+                    "label": "Kennedy Center Honors recipients", 
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                }, 
+                {
+                    "label": "Bisexual Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                }, 
+                {
+                    "label": "Kennedy Center Honors musicians", 
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_musicians"
+                }, 
+                {
+                    "label": "American Conductors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanConductors"
+                }, 
+                {
+                    "label": "Jewish composers and songwriters", 
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                }, 
+                {
+                    "label": "Jewish American Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                }, 
+                {
+                    "label": "American Film Score Composers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmScoreComposers"
+                }, 
+                {
+                    "label": "LGBTMusicians From The United States", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedStates"
+                }, 
+                {
+                    "label": "George Peabody Medal winners", 
+                    "uri": "http://dbpedia.org/resource/George_Peabody_Medal_winners"
+                }, 
+                {
+                    "label": "LGBT Jews", 
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                }, 
+                {
+                    "label": "LGBTComposers", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                }, 
+                {
+                    "label": "American Composers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanComposers"
+                }, 
+                {
+                    "label": "People From Lawrence,Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLawrence,Massachusetts"
+                }, 
+                {
+                    "label": "Kennedy Center Honors Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsMusicians"
+                }, 
+                {
+                    "label": "20th Century Classical Composers", 
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyClassicalComposers"
+                }, 
+                {
+                    "label": "Jewish Composers And Songwriters", 
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Jewish Classical Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/JewishClassicalMusicians"
+                }, 
+                {
+                    "label": "Grammy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }, 
+                {
+                    "label": "American Musical Theatre Composers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreComposers"
+                }, 
+                {
+                    "label": "20th century classical composers", 
+                    "uri": "http://dbpedia.org/resource/20th_century_classical_composers"
+                }, 
+                {
+                    "label": "Royal Philharmonic Society Gold Medallists", 
+                    "uri": "http://dbpedia.org/class/yago/RoyalPhilharmonicSocietyGoldMedallists"
+                }, 
+                {
+                    "label": "Bisexual musicians", 
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                }, 
+                {
+                    "label": "Picasso Medalists", 
+                    "uri": "http://dbpedia.org/class/yago/PicassoMedalists"
+                }, 
+                {
+                    "label": "American musical theatre composers", 
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_composers"
+                }, 
+                {
+                    "label": "Kennedy Center Honors composers", 
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_composers"
+                }, 
+                {
+                    "label": "Jewish American musicians", 
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                }, 
+                {
+                    "label": "Opera Composers", 
+                    "uri": "http://dbpedia.org/class/yago/OperaComposers"
+                }, 
+                {
+                    "label": "American Classical Pianists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanClassicalPianists"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Leonard_Bernstein"
+        }, 
+        {
+            "label": "Carnegie Hall", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 71
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Registered Historic Places In Manhattan", 
+                    "uri": "http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+                }, 
+                {
+                    "label": "National Historic Landmarks Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Historic Place", 
+                    "uri": "http://dbpedia.org/ontology/HistoricPlace"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "19th century architecture", 
+                    "uri": "http://dbpedia.org/resource/19th_century_architecture"
+                }, 
+                {
+                    "label": "place", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjTtJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "fixed free-standing structure", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjGR5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "theater", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "theater", 
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Music Venues In New York City", 
+                    "uri": "http://dbpedia.org/class/yago/MusicVenuesInNewYorkCity"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "large construction", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjPSpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "public place", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rg7oNHCl-EduAAAACs0uFOQ"
+                }, 
+                {
+                    "label": "theater", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "19th century works", 
+                    "uri": "http://dbpedia.org/resource/19th_century_works"
+                }, 
+                {
+                    "label": "Theater Physical Structure", 
+                    "uri": "http://umbel.org/umbel/sc/Theater_PhysicalStructure"
+                }, 
+                {
+                    "label": "Landmarks In New York City", 
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInNewYorkCity"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Carnegie_Hall"
+        }, 
+        {
+            "label": "Mozart", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 140
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/MozarT"
+        }
+    ], 
+    "mainText": "That year, for a New York Philharmonic pension fund benefit concert at Carnegie Hall conducted by Leonard Bernstein, Mr. Cliburn played the Mozart Piano Concerto No. 25, the Schumann Concerto and the Prokofiev Third Concerto.", 
+    "shownText": "That year, for a New York Philharmonic pension fund benefit concert at Carnegie Hall conducted by Leonard Bernstein, Mr. Cliburn played the Mozart Piano Concerto No. 25, the Schumann Concerto and the Prokofiev Third Concerto.", 
+    "title": "Van Cliburn, Pianist, Dies at 78 - NYTimes.com"
+}

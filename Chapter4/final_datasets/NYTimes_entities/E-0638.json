@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Afghanistan",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Least Developed Countries",
+                    "uri": "http://dbpedia.org/class/yago/LeastDevelopedCountries"
+                },
+                {
+                    "label": "Middle Eastern country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "countries in the surrounding region hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Middle Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/MiddleEasternCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Islamic republics",
+                    "uri": "http://dbpedia.org/resource/Islamic_republics"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": "Persian-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Afghanistan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0638",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Afghanistan",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Least Developed Countries",
+                    "uri": "http://dbpedia.org/class/yago/LeastDevelopedCountries"
+                },
+                {
+                    "label": "Middle Eastern country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwHaS2ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "countries in the surrounding region hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Middle Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/MiddleEasternCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Islamic republics",
+                    "uri": "http://dbpedia.org/resource/Islamic_republics"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": "Persian-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Afghanistan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

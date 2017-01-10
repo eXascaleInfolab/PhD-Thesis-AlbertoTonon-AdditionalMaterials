@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Southeastern Conference",
+            "types": [
+                {
+                    "label": "sports league",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjbp5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "College football venues",
+                    "uri": "http://dbpedia.org/resource/College_football_venues"
+                },
+                {
+                    "label": "American basketball coaches",
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                },
+                {
+                    "label": "College baseball coaches",
+                    "uri": "http://dbpedia.org/resource/College_baseball_coaches"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Southeastern_Conference"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0478",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Southeastern Conference",
+            "types": [
+                {
+                    "label": "sports league",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjbp5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "College football venues",
+                    "uri": "http://dbpedia.org/resource/College_football_venues"
+                },
+                {
+                    "label": "American basketball coaches",
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                },
+                {
+                    "label": "College baseball coaches",
+                    "uri": "http://dbpedia.org/resource/College_baseball_coaches"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Southeastern_Conference"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

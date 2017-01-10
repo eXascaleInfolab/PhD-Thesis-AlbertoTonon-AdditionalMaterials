@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "National Rifle Association",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Rifle_Association"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0290",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "National Rifle Association",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Rifle_Association"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

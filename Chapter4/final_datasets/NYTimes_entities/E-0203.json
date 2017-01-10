@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Indiana",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "States And Territories Established In1816",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1816"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Indiana"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0203",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Indiana",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "States And Territories Established In1816",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1816"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Indiana"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

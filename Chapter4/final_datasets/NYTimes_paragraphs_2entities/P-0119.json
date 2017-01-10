@@ -1,0 +1,277 @@
+{
+  "mainText":"Mr. Khan, 51, comes from a prominent family in Pakistan \u2014 relatives said he was a favorite nephew of Bashir Ahmad Bilour, a well-known politician who spoke out against the Taliban.\nMr. Bilour was killed in a suicide attack in late December.",
+  "shownText":"Mr. Khan, 51, comes from a prominent family in Pakistan \u2014 relatives said he was a favorite nephew of Bashir Ahmad Bilour, a well-known politician who spoke out against the Taliban.\nMr. Bilour was killed in a suicide attack in late December.",
+  "title":"For Saquib Khan, Efforts to Save Staten Island Businesses Led to Charges of Fraud - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/nyregion/for-saquib-khan-efforts-to-save-staten-island-businesses-led-to-charges-of-fraud.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P-0119",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pakistan",
+      "label":"Pakistan",
+      "offsets":[
+        {
+          "offset":47,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"States And Territories Established In1947",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1947"
+        },
+        {
+          "label":"International economic organizations",
+          "uri":"http://dbpedia.org/resource/International_economic_organizations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Taliban",
+      "label":"Taliban",
+      "offsets":[
+        {
+          "offset":172,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Cabal",
+          "uri":"http://dbpedia.org/class/yago/Cabal108241798"
+        },
+        {
+          "label":"Afghan society",
+          "uri":"http://dbpedia.org/resource/Afghan_society"
+        },
+        {
+          "label":"Jihadist Organizations",
+          "uri":"http://dbpedia.org/class/yago/JihadistOrganizations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pakistan",
+      "label":"Pakistan",
+      "offsets":[
+        {
+          "offset":47,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Divided Regions",
+          "uri":"http://dbpedia.org/class/yago/DividedRegions"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"South Asian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+        },
+        {
+          "label":"countries in the surrounding region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6YUVUGJsQdiUT9Rb05ojWA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"States And Territories Established In1947",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1947"
+        },
+        {
+          "label":"International economic organizations",
+          "uri":"http://dbpedia.org/resource/International_economic_organizations"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Taliban",
+      "label":"Taliban",
+      "offsets":[
+        {
+          "offset":172,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Cabal",
+          "uri":"http://dbpedia.org/class/yago/Cabal108241798"
+        },
+        {
+          "label":"Afghan society",
+          "uri":"http://dbpedia.org/resource/Afghan_society"
+        },
+        {
+          "label":"Jihadist Organizations",
+          "uri":"http://dbpedia.org/class/yago/JihadistOrganizations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Deborah Persaud",
+            "types": [
+                {
+                    "label": "Psychiatrist",
+                    "uri": "http://dbpedia.org/class/yago/Psychiatrist110488016"
+                },
+                {
+                    "label": "People From Reading,Berkshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+                },
+                {
+                    "label": "Celebrity",
+                    "uri": "http://dbpedia.org/class/yago/Celebrity109903153"
+                },
+                {
+                    "label": "British psychiatrists",
+                    "uri": "http://dbpedia.org/resource/British_psychiatrists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Raj_Persaud"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0688",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Deborah Persaud",
+            "types": [
+                {
+                    "label": "Psychiatrist",
+                    "uri": "http://dbpedia.org/class/yago/Psychiatrist110488016"
+                },
+                {
+                    "label": "People From Reading,Berkshire",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+                },
+                {
+                    "label": "Celebrity",
+                    "uri": "http://dbpedia.org/class/yago/Celebrity109903153"
+                },
+                {
+                    "label": "British psychiatrists",
+                    "uri": "http://dbpedia.org/resource/British_psychiatrists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Raj_Persaud"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

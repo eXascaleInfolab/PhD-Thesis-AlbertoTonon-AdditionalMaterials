@@ -1,0 +1,109 @@
+{
+  "mainText":"Gal Berger, a reporter for Israel Radio who focuses on the Palestinian territories, said the rockets were \u201cdesigned to signal that Gaza is not cut off from what goes on\u201d in the West Bank, describing the attack as \u201clip service, to show that they are not sitting on the sidelines.\u201d",
+  "shownText":"Gal Berger, a reporter for Israel Radio who focuses on the Palestinian territories, said the rockets were \u201cdesigned to signal that Gaza is not cut off from what goes on\u201d in the West Bank, describing the attack as \u201clip service, to show that they are not sitting on the sidelines.\u201d",
+  "title":"Rocket From Gaza Hits Israel, Breaking Cease-Fire - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html?ref=world",
+  "category":"world",
+  "docID":"S-0435",
+  "elementNumber":20,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Berger",
+      "label":"Berger",
+      "offsets":[
+        {
+          "offset":4,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Dutch surnames",
+          "uri":"http://dbpedia.org/resource/Dutch_surnames"
+        },
+        {
+          "label":"French surnames",
+          "uri":"http://dbpedia.org/resource/French_surnames"
+        },
+        {
+          "label":"German surnames",
+          "uri":"http://dbpedia.org/resource/German_surnames"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":131,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Berger",
+      "label":"Berger",
+      "offsets":[
+        {
+          "offset":4,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Dutch surnames",
+          "uri":"http://dbpedia.org/resource/Dutch_surnames"
+        },
+        {
+          "label":"French surnames",
+          "uri":"http://dbpedia.org/resource/French_surnames"
+        },
+        {
+          "label":"German surnames",
+          "uri":"http://dbpedia.org/resource/German_surnames"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":131,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ]
+}

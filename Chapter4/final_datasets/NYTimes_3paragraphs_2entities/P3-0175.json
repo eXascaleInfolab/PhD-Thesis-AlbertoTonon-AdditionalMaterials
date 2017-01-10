@@ -1,0 +1,561 @@
+{
+  "mainText":"How would they describe the quality of this product?\nThe Dr Pepper tasters began working through their samples, resting five minutes between each sip to restore their taste buds.\nThe formulas were then subjected to 3,904 tastings organized in Los Angeles, Dallas, Chicago and Philadelphia.\nFinding the bliss point required the preparation of 61 subtly distinct formulas \u2014 31 for the regular version and 30 for diet.\nHow strong is the taste?\nHow likely would they be to purchase this product?\nAfter each sample, they gave numerically ranked answers to a set of questions: How much did they like it overall?\nHow do they feel about the taste?",
+  "shownText":"Thus, there were three main components to play with.\nCadbury wanted its new flavor to have cherry and vanilla on top of the basic Dr Pepper taste.\nI spent an afternoon in his White Plains offices as he and his vice president for research, Michele Reisner, walked me through the Dr Pepper campaign.\nThirty-two years after he began experimenting with the bliss point, Moskowitz got the call from Cadbury Schweppes asking him to create a good line extension for Dr Pepper.\nA sweet cherry flavoring, a sweet vanilla flavoring and a sweet syrup known as \u201cDr Pepper flavoring.\u201d\n\nHow would they describe the quality of this product?\nThe Dr Pepper tasters began working through their samples, resting five minutes between each sip to restore their taste buds.\nThe formulas were then subjected to 3,904 tastings organized in Los Angeles, Dallas, Chicago and Philadelphia.\nFinding the bliss point required the preparation of 61 subtly distinct formulas \u2014 31 for the regular version and 30 for diet.\nHow strong is the taste?\nHow likely would they be to purchase this product?\nAfter each sample, they gave numerically ranked answers to a set of questions: How much did they like it overall?\nHow do they feel about the taste?\n\nMoskowitz\u2019s data \u2014 compiled in a 135-page report for the soda maker \u2014 is tremendously fine-grained, showing how different people and groups of people feel about a strong vanilla taste versus weak, various aspects of aroma and the powerful sensory force that food scientists call \u201cmouth feel.\u201d\nThis is the way a product interacts with the mouth, as defined more specifically by a host of related sensations, from dryness to gumminess to moisture release.\nThese are terms more familiar to sommeliers, but the mouth feel of soda and many other food items, especially those high in fat, is second only to the bliss point in its ability to predict how much craving a product will induce.\n",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P3-0175",
+  "elementNumber":37,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Chicago",
+      "label":"Chicago",
+      "offsets":[
+        {
+          "offset":837,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Cities In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CitiesInIllinois"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Communities on U.S. Route 66",
+          "uri":"http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economies By City",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByCity"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Settlements Established In1833",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+        },
+        {
+          "label":"Port Cities In The United States",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+        },
+        {
+          "label":"County Seats In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInIllinois"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":816,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":849,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Dallas",
+      "label":"Dallas",
+      "offsets":[
+        {
+          "offset":829,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Chicago",
+      "label":"Chicago",
+      "offsets":[
+        {
+          "offset":837,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Cities In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CitiesInIllinois"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Communities on U.S. Route 66",
+          "uri":"http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Lakeshore cities",
+          "uri":"http://dbpedia.org/resource/Lakeshore_cities"
+        },
+        {
+          "label":"Cities On The Great Lakes",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Economies By City",
+          "uri":"http://dbpedia.org/class/yago/EconomiesByCity"
+        },
+        {
+          "label":"Lakeshore Cities",
+          "uri":"http://dbpedia.org/class/yago/LakeshoreCities"
+        },
+        {
+          "label":"Settlements Established In1833",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+        },
+        {
+          "label":"Port Cities In The United States",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+        },
+        {
+          "label":"County Seats In Illinois",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInIllinois"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":816,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Cadbury_Schweppes",
+      "label":"Cadbury Schweppes",
+      "offsets":[
+        {
+          "offset":394,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Cadbury-Schweppes brands",
+          "uri":"http://dbpedia.org/resource/Cadbury-Schweppes_brands"
+        },
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Food companies",
+          "uri":"http://dbpedia.org/resource/Food_companies"
+        },
+        {
+          "label":"Beverage companies",
+          "uri":"http://dbpedia.org/resource/Beverage_companies"
+        },
+        {
+          "label":"British brands",
+          "uri":"http://dbpedia.org/resource/British_brands"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":849,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Dallas",
+      "label":"Dallas",
+      "offsets":[
+        {
+          "offset":829,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

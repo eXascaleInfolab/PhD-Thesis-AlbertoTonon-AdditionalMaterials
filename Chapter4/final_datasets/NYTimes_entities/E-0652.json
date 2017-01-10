@@ -1,0 +1,329 @@
+{
+    "allEntities": [
+        {
+            "label": "Leonard Bernstein",
+            "types": [
+                {
+                    "label": "American composers",
+                    "uri": "http://dbpedia.org/resource/American_composers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                },
+                {
+                    "label": "Jewish classical musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                },
+                {
+                    "label": "LGBT musicians from the United States",
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_States"
+                },
+                {
+                    "label": "American conductors",
+                    "uri": "http://dbpedia.org/resource/American_conductors"
+                },
+                {
+                    "label": "LGBT composers",
+                    "uri": "http://dbpedia.org/resource/LGBT_composers"
+                },
+                {
+                    "label": "American film score composers",
+                    "uri": "http://dbpedia.org/resource/American_film_score_composers"
+                },
+                {
+                    "label": "Kennedy Center Honors Composers",
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsComposers"
+                },
+                {
+                    "label": "Kennedy Center Honors recipients",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                },
+                {
+                    "label": "Bisexual Musicians",
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                },
+                {
+                    "label": "Kennedy Center Honors musicians",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_musicians"
+                },
+                {
+                    "label": "American Conductors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanConductors"
+                },
+                {
+                    "label": "Jewish composers and songwriters",
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                },
+                {
+                    "label": "Jewish American Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                },
+                {
+                    "label": "American Film Score Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmScoreComposers"
+                },
+                {
+                    "label": "LGBTMusicians From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedStates"
+                },
+                {
+                    "label": "George Peabody Medal winners",
+                    "uri": "http://dbpedia.org/resource/George_Peabody_Medal_winners"
+                },
+                {
+                    "label": "LGBT Jews",
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                },
+                {
+                    "label": "LGBTComposers",
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                },
+                {
+                    "label": "American Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComposers"
+                },
+                {
+                    "label": "People From Lawrence,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLawrence,Massachusetts"
+                },
+                {
+                    "label": "Kennedy Center Honors Musicians",
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsMusicians"
+                },
+                {
+                    "label": "20th Century Classical Composers",
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyClassicalComposers"
+                },
+                {
+                    "label": "Jewish Composers And Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish Classical Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishClassicalMusicians"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "American Musical Theatre Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreComposers"
+                },
+                {
+                    "label": "20th century classical composers",
+                    "uri": "http://dbpedia.org/resource/20th_century_classical_composers"
+                },
+                {
+                    "label": "Royal Philharmonic Society Gold Medallists",
+                    "uri": "http://dbpedia.org/class/yago/RoyalPhilharmonicSocietyGoldMedallists"
+                },
+                {
+                    "label": "Bisexual musicians",
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                },
+                {
+                    "label": "Picasso Medalists",
+                    "uri": "http://dbpedia.org/class/yago/PicassoMedalists"
+                },
+                {
+                    "label": "American musical theatre composers",
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_composers"
+                },
+                {
+                    "label": "Kennedy Center Honors composers",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_composers"
+                },
+                {
+                    "label": "Jewish American musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                },
+                {
+                    "label": "Opera Composers",
+                    "uri": "http://dbpedia.org/class/yago/OperaComposers"
+                },
+                {
+                    "label": "American Classical Pianists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanClassicalPianists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Leonard_Bernstein"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0652",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Leonard Bernstein",
+            "types": [
+                {
+                    "label": "American composers",
+                    "uri": "http://dbpedia.org/resource/American_composers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                },
+                {
+                    "label": "Jewish classical musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                },
+                {
+                    "label": "LGBT musicians from the United States",
+                    "uri": "http://dbpedia.org/resource/LGBT_musicians_from_the_United_States"
+                },
+                {
+                    "label": "American conductors",
+                    "uri": "http://dbpedia.org/resource/American_conductors"
+                },
+                {
+                    "label": "LGBT composers",
+                    "uri": "http://dbpedia.org/resource/LGBT_composers"
+                },
+                {
+                    "label": "American film score composers",
+                    "uri": "http://dbpedia.org/resource/American_film_score_composers"
+                },
+                {
+                    "label": "Kennedy Center Honors Composers",
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsComposers"
+                },
+                {
+                    "label": "Kennedy Center Honors recipients",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                },
+                {
+                    "label": "Bisexual Musicians",
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                },
+                {
+                    "label": "Kennedy Center Honors musicians",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_musicians"
+                },
+                {
+                    "label": "American Conductors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanConductors"
+                },
+                {
+                    "label": "Jewish composers and songwriters",
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                },
+                {
+                    "label": "Jewish American Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanMusicians"
+                },
+                {
+                    "label": "American Film Score Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmScoreComposers"
+                },
+                {
+                    "label": "LGBTMusicians From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTMusiciansFromTheUnitedStates"
+                },
+                {
+                    "label": "George Peabody Medal winners",
+                    "uri": "http://dbpedia.org/resource/George_Peabody_Medal_winners"
+                },
+                {
+                    "label": "LGBT Jews",
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                },
+                {
+                    "label": "LGBTComposers",
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                },
+                {
+                    "label": "American Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComposers"
+                },
+                {
+                    "label": "People From Lawrence,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLawrence,Massachusetts"
+                },
+                {
+                    "label": "Kennedy Center Honors Musicians",
+                    "uri": "http://dbpedia.org/class/yago/KennedyCenterHonorsMusicians"
+                },
+                {
+                    "label": "20th Century Classical Composers",
+                    "uri": "http://dbpedia.org/class/yago/20thCenturyClassicalComposers"
+                },
+                {
+                    "label": "Jewish Composers And Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish Classical Musicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishClassicalMusicians"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "American Musical Theatre Composers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMusicalTheatreComposers"
+                },
+                {
+                    "label": "20th century classical composers",
+                    "uri": "http://dbpedia.org/resource/20th_century_classical_composers"
+                },
+                {
+                    "label": "Royal Philharmonic Society Gold Medallists",
+                    "uri": "http://dbpedia.org/class/yago/RoyalPhilharmonicSocietyGoldMedallists"
+                },
+                {
+                    "label": "Bisexual musicians",
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                },
+                {
+                    "label": "Picasso Medalists",
+                    "uri": "http://dbpedia.org/class/yago/PicassoMedalists"
+                },
+                {
+                    "label": "American musical theatre composers",
+                    "uri": "http://dbpedia.org/resource/American_musical_theatre_composers"
+                },
+                {
+                    "label": "Kennedy Center Honors composers",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_composers"
+                },
+                {
+                    "label": "Jewish American musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                },
+                {
+                    "label": "Opera Composers",
+                    "uri": "http://dbpedia.org/class/yago/OperaComposers"
+                },
+                {
+                    "label": "American Classical Pianists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanClassicalPianists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Leonard_Bernstein"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,117 @@
+{
+  "mainText":"Edward O. Wilson is Honorary Curator in Entomology and University Research Professor Emeritus, Harvard University.\nHe has received more than 100 awards for his research and writing, including the U. S. National Medal of Science, the Crafoord Prize and two Pulitzer Prizes in non-fiction.\nHis most recent book is \u201cThe Social Conquest of Earth.\u201d",
+  "shownText":"Edward O. Wilson is Honorary Curator in Entomology and University Research Professor Emeritus, Harvard University.\nHe has received more than 100 awards for his research and writing, including the U. S. National Medal of Science, the Crafoord Prize and two Pulitzer Prizes in non-fiction.\nHis most recent book is \u201cThe Social Conquest of Earth.\u201d",
+  "title":"The Riddle of the Human Species - NYTimes.com",
+  "articleUrl":"http://opinionator.blogs.nytimes.com/2013/02/24/the-riddle-of-the-human-species/?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0136",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/National_Medal_of_Science",
+      "label":"U. S. National Medal of Science",
+      "offsets":[
+        {
+          "offset":196,
+          "length":31
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Award",
+          "uri":"http://dbpedia.org/ontology/Award"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Civil Awards And Decorations Of The United States",
+          "uri":"http://dbpedia.org/class/yago/CivilAwardsAndDecorationsOfTheUnitedStates"
+        },
+        {
+          "label":"Award",
+          "uri":"http://dbpedia.org/class/yago/Award106696483"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Emeritus_Professor",
+      "label":"University Research Professor Emeritus",
+      "offsets":[
+        {
+          "offset":55,
+          "length":38
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/National_Medal_of_Science",
+      "label":"U. S. National Medal of Science",
+      "offsets":[
+        {
+          "offset":196,
+          "length":31
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Award",
+          "uri":"http://dbpedia.org/ontology/Award"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Civil Awards And Decorations Of The United States",
+          "uri":"http://dbpedia.org/class/yago/CivilAwardsAndDecorationsOfTheUnitedStates"
+        },
+        {
+          "label":"Award",
+          "uri":"http://dbpedia.org/class/yago/Award106696483"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Emeritus_Professor",
+      "label":"University Research Professor Emeritus",
+      "offsets":[
+        {
+          "offset":55,
+          "length":38
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ]
+}

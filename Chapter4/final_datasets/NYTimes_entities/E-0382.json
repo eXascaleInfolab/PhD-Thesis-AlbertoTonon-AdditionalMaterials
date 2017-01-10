@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "CommonWealth",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Constitutional state types",
+                    "uri": "http://dbpedia.org/resource/Constitutional_state_types"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Commonwealth"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0382",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "CommonWealth",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Constitutional state types",
+                    "uri": "http://dbpedia.org/resource/Constitutional_state_types"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Commonwealth"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

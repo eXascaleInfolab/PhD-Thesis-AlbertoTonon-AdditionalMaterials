@@ -1,0 +1,181 @@
+{
+  "mainText":"Ms. Sandberg\u2019s chief critic has been Anne-Marie Slaughter, a Princeton professor and former top State Department official, who published an Atlantic Magazine article titled \u201c Why Women Can\u2019t Have It All ,\u201d last year arguing that feminism \u2014 and Ms. Sandberg \u2014 were holding women to unattainable standards for personal and professional success.",
+  "shownText":"Ms. Sandberg\u2019s chief critic has been Anne-Marie Slaughter, a Princeton professor and former top State Department official, who published an Atlantic Magazine article titled \u201c Why Women Can\u2019t Have It All ,\u201d last year arguing that feminism \u2014 and Ms. Sandberg \u2014 were holding women to unattainable standards for personal and professional success.",
+  "title":"Sheryl Sandberg, âLean Inâ Author, Hopes to Spur Movement - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us",
+  "category":"us",
+  "docID":"S-0383",
+  "elementNumber":33,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":4,
+          "length":8
+        },
+        {
+          "offset":248,
+          "length":8
+        },
+        {
+          "offset":4,
+          "length":8
+        },
+        {
+          "offset":248,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Anne-Marie_Slaughter",
+      "label":"Anne-Marie Slaughter",
+      "offsets":[
+        {
+          "offset":37,
+          "length":20
+        }
+      ],
+      "types":[
+        {
+          "label":"Princeton University Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+        },
+        {
+          "label":"American academics",
+          "uri":"http://dbpedia.org/resource/American_academics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"American Academics",
+          "uri":"http://dbpedia.org/class/yago/AmericanAcademics"
+        },
+        {
+          "label":"Alumni Of Worcester College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfWorcesterCollege,Oxford"
+        },
+        {
+          "label":"Scientist",
+          "uri":"http://dbpedia.org/ontology/Scientist"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":4,
+          "length":8
+        },
+        {
+          "offset":248,
+          "length":8
+        },
+        {
+          "offset":4,
+          "length":8
+        },
+        {
+          "offset":248,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Anne-Marie_Slaughter",
+      "label":"Anne-Marie Slaughter",
+      "offsets":[
+        {
+          "offset":37,
+          "length":20
+        }
+      ],
+      "types":[
+        {
+          "label":"Princeton University Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+        },
+        {
+          "label":"American academics",
+          "uri":"http://dbpedia.org/resource/American_academics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"American Academics",
+          "uri":"http://dbpedia.org/class/yago/AmericanAcademics"
+        },
+        {
+          "label":"Alumni Of Worcester College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfWorcesterCollege,Oxford"
+        },
+        {
+          "label":"Scientist",
+          "uri":"http://dbpedia.org/ontology/Scientist"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

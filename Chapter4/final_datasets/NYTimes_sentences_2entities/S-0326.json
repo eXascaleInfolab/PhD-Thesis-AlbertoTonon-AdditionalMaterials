@@ -1,0 +1,253 @@
+{
+  "mainText":"That immediately drew criticism, including from Mark Cuban, a technology investor and owner of the Mavericks basketball team, who wrote in an angry post on his blog ( http:blogmaverick.com ) last fall that Facebook had made it too expensive for a brand like the Mavericks to reach its fans.",
+  "shownText":"That immediately drew criticism, including from Mark Cuban, a technology investor and owner of the Mavericks basketball team, who wrote in an angry post on his blog ( http:blogmaverick.com ) last fall that Facebook had made it too expensive for a brand like the Mavericks to reach its fans.",
+  "title":"Facebookâs Redesign Hopes to Keep Users Engaged - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/technology/facebooks-redesign-hopes-to-keep-users-engaged.html?ref=technology",
+  "category":"technology",
+  "docID":"S-0326",
+  "elementNumber":20,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mark_Cuban",
+      "label":"Mark Cuban",
+      "offsets":[
+        {
+          "offset":48,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Owner",
+          "uri":"http://dbpedia.org/class/yago/Owner110388924"
+        },
+        {
+          "label":"Jewish businesspeople",
+          "uri":"http://dbpedia.org/resource/Jewish_businesspeople"
+        },
+        {
+          "label":"American bloggers",
+          "uri":"http://dbpedia.org/resource/American_bloggers"
+        },
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        },
+        {
+          "label":"American Bloggers",
+          "uri":"http://dbpedia.org/class/yago/AmericanBloggers"
+        },
+        {
+          "label":"Businesspeople from Pittsburgh",
+          "uri":"http://dbpedia.org/resource/Businesspeople_from_Pittsburgh"
+        },
+        {
+          "label":"Copyright activists",
+          "uri":"http://dbpedia.org/resource/Copyright_activists"
+        },
+        {
+          "label":"American billionaires",
+          "uri":"http://dbpedia.org/resource/American_billionaires"
+        },
+        {
+          "label":"American sports businesspeople",
+          "uri":"http://dbpedia.org/resource/American_sports_businesspeople"
+        },
+        {
+          "label":"Copyright Activists",
+          "uri":"http://dbpedia.org/class/yago/CopyrightActivists"
+        },
+        {
+          "label":"Indiana University alumni",
+          "uri":"http://dbpedia.org/resource/Indiana_University_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":206,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mark_Cuban",
+      "label":"Mark Cuban",
+      "offsets":[
+        {
+          "offset":48,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Owner",
+          "uri":"http://dbpedia.org/class/yago/Owner110388924"
+        },
+        {
+          "label":"Jewish businesspeople",
+          "uri":"http://dbpedia.org/resource/Jewish_businesspeople"
+        },
+        {
+          "label":"American bloggers",
+          "uri":"http://dbpedia.org/resource/American_bloggers"
+        },
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        },
+        {
+          "label":"American Bloggers",
+          "uri":"http://dbpedia.org/class/yago/AmericanBloggers"
+        },
+        {
+          "label":"Businesspeople from Pittsburgh",
+          "uri":"http://dbpedia.org/resource/Businesspeople_from_Pittsburgh"
+        },
+        {
+          "label":"Copyright activists",
+          "uri":"http://dbpedia.org/resource/Copyright_activists"
+        },
+        {
+          "label":"American billionaires",
+          "uri":"http://dbpedia.org/resource/American_billionaires"
+        },
+        {
+          "label":"American sports businesspeople",
+          "uri":"http://dbpedia.org/resource/American_sports_businesspeople"
+        },
+        {
+          "label":"Copyright Activists",
+          "uri":"http://dbpedia.org/class/yago/CopyrightActivists"
+        },
+        {
+          "label":"Indiana University alumni",
+          "uri":"http://dbpedia.org/resource/Indiana_University_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":206,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ]
+}

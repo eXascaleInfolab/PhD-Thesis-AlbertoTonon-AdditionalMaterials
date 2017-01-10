@@ -1,0 +1,221 @@
+{
+  "mainText":"I did not take a calculus course until my second year of college.\n\u201cThere was nothing exceptional about the math and science training at Washington-Lee,\u201d he wrote in his autobiography for the Nobel Prize.\n\u201cThe idea of \u2018advanced placement\u2019 had not yet been invented.\nRobert attended Washington-Lee High School in Arlington.\nThe biology and physics courses were very old-fashioned.\u201d",
+  "shownText":"I did not take a calculus course until my second year of college.\n\u201cThere was nothing exceptional about the math and science training at Washington-Lee,\u201d he wrote in his autobiography for the Nobel Prize.\n\u201cThe idea of \u2018advanced placement\u2019 had not yet been invented.\nRobert attended Washington-Lee High School in Arlington.\nThe biology and physics courses were very old-fashioned.\u201d",
+  "title":"Robert C. Richardson, Nobel-Winning Physicist, Dies at 75 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/science/robert-c-richardson-nobel-winning-physicist-dies-at-75.html?ref=science",
+  "category":"science",
+  "docID":"P-0187",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":136,
+          "length":10
+        },
+        {
+          "offset":281,
+          "length":10
+        },
+        {
+          "offset":136,
+          "length":10
+        },
+        {
+          "offset":281,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert",
+      "label":"Robert",
+      "offsets":[
+        {
+          "offset":265,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"German given names",
+          "uri":"http://dbpedia.org/resource/German_given_names"
+        },
+        {
+          "label":"French surnames",
+          "uri":"http://dbpedia.org/resource/French_surnames"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington-Lee_High_School",
+      "label":"Washington-Lee High School",
+      "offsets":[
+        {
+          "offset":281,
+          "length":26
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"International Baccalaureate schools",
+          "uri":"http://dbpedia.org/resource/International_Baccalaureate_schools"
+        },
+        {
+          "label":"Educational Institutions Established In1924",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1924"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":136,
+          "length":10
+        },
+        {
+          "offset":281,
+          "length":10
+        },
+        {
+          "offset":136,
+          "length":10
+        },
+        {
+          "offset":281,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert",
+      "label":"Robert",
+      "offsets":[
+        {
+          "offset":265,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"German given names",
+          "uri":"http://dbpedia.org/resource/German_given_names"
+        },
+        {
+          "label":"French surnames",
+          "uri":"http://dbpedia.org/resource/French_surnames"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington-Lee_High_School",
+      "label":"Washington-Lee High School",
+      "offsets":[
+        {
+          "offset":281,
+          "length":26
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"International Baccalaureate schools",
+          "uri":"http://dbpedia.org/resource/International_Baccalaureate_schools"
+        },
+        {
+          "label":"Educational Institutions Established In1924",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1924"
+        }
+      ]
+    }
+  ]
+}

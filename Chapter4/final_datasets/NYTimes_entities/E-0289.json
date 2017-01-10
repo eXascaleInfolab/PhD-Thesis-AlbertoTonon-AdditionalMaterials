@@ -1,0 +1,297 @@
+{
+    "allEntities": [
+        {
+            "label": "Daniel Day-Lewis",
+            "types": [
+                {
+                    "label": "film.actor",
+                    "uri": "http://rdf.freebase.com/ns/film.actor"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishStageActors"
+                },
+                {
+                    "label": "award.award nominee",
+                    "uri": "http://rdf.freebase.com/ns/award.award_nominee"
+                },
+                {
+                    "label": "tv.tv actor",
+                    "uri": "http://rdf.freebase.com/ns/tv.tv_actor"
+                },
+                {
+                    "label": "common.topic",
+                    "uri": "http://rdf.freebase.com/ns/common.topic"
+                },
+                {
+                    "label": "Irish film actors",
+                    "uri": "http://dbpedia.org/resource/Irish_film_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Alumni Of Bristol Old Vic Theatre School",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfBristolOldVicTheatreSchool"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "award.award winner",
+                    "uri": "http://rdf.freebase.com/ns/award.award_winner"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "English stage actors",
+                    "uri": "http://dbpedia.org/resource/English_stage_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "British expatriates",
+                    "uri": "http://dbpedia.org/resource/British_expatriates"
+                },
+                {
+                    "label": "base.popstra.celebrity",
+                    "uri": "http://rdf.freebase.com/ns/base.popstra.celebrity"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "people.person",
+                    "uri": "http://rdf.freebase.com/ns/people.person"
+                },
+                {
+                    "label": "base.academyawards.topic",
+                    "uri": "http://rdf.freebase.com/ns/base.academyawards.topic"
+                },
+                {
+                    "label": "Irish Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/IrishFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Best Actor Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+                },
+                {
+                    "label": "British Expatriates",
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "user.narphorium.people.topic",
+                    "uri": "http://rdf.freebase.com/ns/user.narphorium.people.topic"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "English Jews",
+                    "uri": "http://dbpedia.org/resource/English_Jews"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "user.narphorium.people.nndb person",
+                    "uri": "http://rdf.freebase.com/ns/user.narphorium.people.nndb_person"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Daniel_Day-Lewis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0289",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Daniel Day-Lewis",
+            "types": [
+                {
+                    "label": "film.actor",
+                    "uri": "http://rdf.freebase.com/ns/film.actor"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishStageActors"
+                },
+                {
+                    "label": "award.award nominee",
+                    "uri": "http://rdf.freebase.com/ns/award.award_nominee"
+                },
+                {
+                    "label": "tv.tv actor",
+                    "uri": "http://rdf.freebase.com/ns/tv.tv_actor"
+                },
+                {
+                    "label": "common.topic",
+                    "uri": "http://rdf.freebase.com/ns/common.topic"
+                },
+                {
+                    "label": "Irish film actors",
+                    "uri": "http://dbpedia.org/resource/Irish_film_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Alumni Of Bristol Old Vic Theatre School",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfBristolOldVicTheatreSchool"
+                },
+                {
+                    "label": "Jewish Actors",
+                    "uri": "http://dbpedia.org/class/yago/JewishActors"
+                },
+                {
+                    "label": "award.award winner",
+                    "uri": "http://rdf.freebase.com/ns/award.award_winner"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "English stage actors",
+                    "uri": "http://dbpedia.org/resource/English_stage_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "British expatriates",
+                    "uri": "http://dbpedia.org/resource/British_expatriates"
+                },
+                {
+                    "label": "base.popstra.celebrity",
+                    "uri": "http://rdf.freebase.com/ns/base.popstra.celebrity"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "people.person",
+                    "uri": "http://rdf.freebase.com/ns/people.person"
+                },
+                {
+                    "label": "base.academyawards.topic",
+                    "uri": "http://rdf.freebase.com/ns/base.academyawards.topic"
+                },
+                {
+                    "label": "Irish Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/IrishFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Best Actor Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+                },
+                {
+                    "label": "British Expatriates",
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "user.narphorium.people.topic",
+                    "uri": "http://rdf.freebase.com/ns/user.narphorium.people.topic"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "English Jews",
+                    "uri": "http://dbpedia.org/resource/English_Jews"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "user.narphorium.people.nndb person",
+                    "uri": "http://rdf.freebase.com/ns/user.narphorium.people.nndb_person"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Daniel_Day-Lewis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

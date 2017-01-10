@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "House of Cards",
+            "types": [
+                {
+                    "label": "Television Programs Based On Novels",
+                    "uri": "http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "BBC television dramas",
+                    "uri": "http://dbpedia.org/resource/BBC_television_dramas"
+                },
+                {
+                    "label": "BBCTelevision Dramas",
+                    "uri": "http://dbpedia.org/class/yago/BBCTelevisionDramas"
+                },
+                {
+                    "label": "British television miniseries",
+                    "uri": "http://dbpedia.org/resource/British_television_miniseries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/House_of_Cards"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0689",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "House of Cards",
+            "types": [
+                {
+                    "label": "Television Programs Based On Novels",
+                    "uri": "http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "BBC television dramas",
+                    "uri": "http://dbpedia.org/resource/BBC_television_dramas"
+                },
+                {
+                    "label": "BBCTelevision Dramas",
+                    "uri": "http://dbpedia.org/class/yago/BBCTelevisionDramas"
+                },
+                {
+                    "label": "British television miniseries",
+                    "uri": "http://dbpedia.org/resource/British_television_miniseries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/House_of_Cards"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

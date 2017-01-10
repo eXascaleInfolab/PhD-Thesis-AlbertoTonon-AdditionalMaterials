@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Raju Sundaran",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pattanathil_Sundaran"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0147",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Raju Sundaran",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pattanathil_Sundaran"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

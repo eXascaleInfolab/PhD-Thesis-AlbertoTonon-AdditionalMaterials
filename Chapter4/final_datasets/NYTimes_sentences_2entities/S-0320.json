@@ -1,0 +1,109 @@
+{
+  "mainText":"Samsung Electronics had no new phone to show at Mobile World Congress this week.",
+  "shownText":"Samsung Electronics had no new phone to show at Mobile World Congress this week.",
+  "title":"MOBILE WORLD CONGRESS 2013 - Bits Blog - NYTimes.com",
+  "articleUrl":"http://bits.blogs.nytimes.com/category/mobile-world-congress/mobile-world-congress-2013/",
+  "category":"technology",
+  "docID":"S-0320",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mobile_World_Congress",
+      "label":"Mobile World Congress",
+      "offsets":[
+        {
+          "offset":48,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Business Organizations",
+          "uri":"http://dbpedia.org/class/yago/BusinessOrganizations"
+        },
+        {
+          "label":"Convention",
+          "uri":"http://dbpedia.org/ontology/Convention"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Samsung_Electronics",
+      "label":"Samsung Electronics",
+      "offsets":[
+        {
+          "offset":0,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on the Korea Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Korea_Stock_Exchange"
+        },
+        {
+          "label":"Home appliance manufacturers",
+          "uri":"http://dbpedia.org/resource/Home_appliance_manufacturers"
+        },
+        {
+          "label":"Photography Companies",
+          "uri":"http://dbpedia.org/class/yago/PhotographyCompanies"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mobile_World_Congress",
+      "label":"Mobile World Congress",
+      "offsets":[
+        {
+          "offset":48,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Business Organizations",
+          "uri":"http://dbpedia.org/class/yago/BusinessOrganizations"
+        },
+        {
+          "label":"Convention",
+          "uri":"http://dbpedia.org/ontology/Convention"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Samsung_Electronics",
+      "label":"Samsung Electronics",
+      "offsets":[
+        {
+          "offset":0,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on the Korea Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Korea_Stock_Exchange"
+        },
+        {
+          "label":"Home appliance manufacturers",
+          "uri":"http://dbpedia.org/resource/Home_appliance_manufacturers"
+        },
+        {
+          "label":"Photography Companies",
+          "uri":"http://dbpedia.org/class/yago/PhotographyCompanies"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

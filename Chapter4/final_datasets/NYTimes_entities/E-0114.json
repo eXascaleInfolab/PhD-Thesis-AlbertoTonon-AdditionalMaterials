@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Jeffrey Dunn",
+            "types": [
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Black metal musicians",
+                    "uri": "http://dbpedia.org/resource/Black_metal_musicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeffrey_Dunn"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0114",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jeffrey Dunn",
+            "types": [
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Black metal musicians",
+                    "uri": "http://dbpedia.org/resource/Black_metal_musicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeffrey_Dunn"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

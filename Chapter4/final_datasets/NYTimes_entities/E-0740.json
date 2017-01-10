@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Keith BedfordReutersMartin Lipton",
+            "types": [
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies listed on the Euronext exchanges",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Euronext_exchanges"
+                },
+                {
+                    "label": "Companies listed on the London Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lipton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0740",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Keith BedfordReutersMartin Lipton",
+            "types": [
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies listed on the Euronext exchanges",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Euronext_exchanges"
+                },
+                {
+                    "label": "Companies listed on the London Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lipton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

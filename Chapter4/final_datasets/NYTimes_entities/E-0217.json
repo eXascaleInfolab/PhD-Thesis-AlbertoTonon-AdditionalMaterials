@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Wright",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Surname",
+                    "uri": "http://dbpedia.org/class/yago/Surname106336904"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Wright"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0217",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Wright",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Surname",
+                    "uri": "http://dbpedia.org/class/yago/Surname106336904"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Wright"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

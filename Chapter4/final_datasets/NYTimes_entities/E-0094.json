@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Hussein Chalayan",
+            "types": [
+                {
+                    "label": "English Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishDesigners"
+                },
+                {
+                    "label": "Anglo-Cypriots",
+                    "uri": "http://dbpedia.org/resource/Anglo-Cypriots"
+                },
+                {
+                    "label": "English designers",
+                    "uri": "http://dbpedia.org/resource/English_designers"
+                },
+                {
+                    "label": "Immigrants to the United Kingdom",
+                    "uri": "http://dbpedia.org/resource/Immigrants_to_the_United_Kingdom"
+                },
+                {
+                    "label": "British fashion designers",
+                    "uri": "http://dbpedia.org/resource/British_fashion_designers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hussein_Chalayan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0094",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hussein Chalayan",
+            "types": [
+                {
+                    "label": "English Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishDesigners"
+                },
+                {
+                    "label": "Anglo-Cypriots",
+                    "uri": "http://dbpedia.org/resource/Anglo-Cypriots"
+                },
+                {
+                    "label": "English designers",
+                    "uri": "http://dbpedia.org/resource/English_designers"
+                },
+                {
+                    "label": "Immigrants to the United Kingdom",
+                    "uri": "http://dbpedia.org/resource/Immigrants_to_the_United_Kingdom"
+                },
+                {
+                    "label": "British fashion designers",
+                    "uri": "http://dbpedia.org/resource/British_fashion_designers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hussein_Chalayan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

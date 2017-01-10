@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Larry Kramer",
+            "types": [
+                {
+                    "label": "American novelists",
+                    "uri": "http://dbpedia.org/resource/American_novelists"
+                },
+                {
+                    "label": "Jewish American activists",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_activists"
+                },
+                {
+                    "label": "HIV-positive People",
+                    "uri": "http://dbpedia.org/class/yago/HIV-positivePeople"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "Gay writers",
+                    "uri": "http://dbpedia.org/resource/Gay_writers"
+                },
+                {
+                    "label": "LGBT screenwriters",
+                    "uri": "http://dbpedia.org/resource/LGBT_screenwriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "LGBTPeople From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+                },
+                {
+                    "label": "LGBT rights activists from the United States",
+                    "uri": "http://dbpedia.org/resource/LGBT_rights_activists_from_the_United_States"
+                },
+                {
+                    "label": "Gay Writers",
+                    "uri": "http://dbpedia.org/class/yago/GayWriters"
+                },
+                {
+                    "label": "American dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/American_dramatists_and_playwrights"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "AIDSActivists",
+                    "uri": "http://dbpedia.org/class/yago/AIDSActivists"
+                },
+                {
+                    "label": "AIDS activists",
+                    "uri": "http://dbpedia.org/resource/AIDS_activists"
+                },
+                {
+                    "label": "LGBT Jews",
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "LGBTRights Activists From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "American Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+                },
+                {
+                    "label": "LGBTScreenwriters",
+                    "uri": "http://dbpedia.org/class/yago/LGBTScreenwriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish American Activists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanActivists"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "HIV-positive people",
+                    "uri": "http://dbpedia.org/resource/HIV-positive_people"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "American Novelists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanNovelists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Larry_Kramer"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0150",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Larry Kramer",
+            "types": [
+                {
+                    "label": "American novelists",
+                    "uri": "http://dbpedia.org/resource/American_novelists"
+                },
+                {
+                    "label": "Jewish American activists",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_activists"
+                },
+                {
+                    "label": "HIV-positive People",
+                    "uri": "http://dbpedia.org/class/yago/HIV-positivePeople"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "Gay writers",
+                    "uri": "http://dbpedia.org/resource/Gay_writers"
+                },
+                {
+                    "label": "LGBT screenwriters",
+                    "uri": "http://dbpedia.org/resource/LGBT_screenwriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "LGBTPeople From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+                },
+                {
+                    "label": "LGBT rights activists from the United States",
+                    "uri": "http://dbpedia.org/resource/LGBT_rights_activists_from_the_United_States"
+                },
+                {
+                    "label": "Gay Writers",
+                    "uri": "http://dbpedia.org/class/yago/GayWriters"
+                },
+                {
+                    "label": "American dramatists and playwrights",
+                    "uri": "http://dbpedia.org/resource/American_dramatists_and_playwrights"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "AIDSActivists",
+                    "uri": "http://dbpedia.org/class/yago/AIDSActivists"
+                },
+                {
+                    "label": "AIDS activists",
+                    "uri": "http://dbpedia.org/resource/AIDS_activists"
+                },
+                {
+                    "label": "LGBT Jews",
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "LGBTRights Activists From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "American Dramatists And Playwrights",
+                    "uri": "http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+                },
+                {
+                    "label": "LGBTScreenwriters",
+                    "uri": "http://dbpedia.org/class/yago/LGBTScreenwriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish American Activists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanActivists"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "HIV-positive people",
+                    "uri": "http://dbpedia.org/resource/HIV-positive_people"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "American Novelists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanNovelists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Larry_Kramer"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

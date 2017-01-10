@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Patrick Kennedy",
+            "types": [
+                {
+                    "label": "Irish-born United States political figures",
+                    "uri": "http://dbpedia.org/resource/Irish-born_United_States_political_figures"
+                },
+                {
+                    "label": "Irish-American politicians",
+                    "uri": "http://dbpedia.org/resource/Irish-American_politicians"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "Irish Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/Irish_Roman_Catholics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Patrick_Kennedy"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0520",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Patrick Kennedy",
+            "types": [
+                {
+                    "label": "Irish-born United States political figures",
+                    "uri": "http://dbpedia.org/resource/Irish-born_United_States_political_figures"
+                },
+                {
+                    "label": "Irish-American politicians",
+                    "uri": "http://dbpedia.org/resource/Irish-American_politicians"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "Irish Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/Irish_Roman_Catholics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Patrick_Kennedy"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

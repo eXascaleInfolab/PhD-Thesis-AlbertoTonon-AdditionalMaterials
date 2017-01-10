@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Oliver Stone",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Best Director Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+                },
+                {
+                    "label": "Yale University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/YaleUniversityAlumni"
+                },
+                {
+                    "label": "American Buddhists",
+                    "uri": "http://dbpedia.org/resource/American_Buddhists"
+                },
+                {
+                    "label": "Screenwriter",
+                    "uri": "http://dbpedia.org/class/yago/Screenwriter110564400"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Film Director",
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Best Director Golden Globe",
+                    "uri": "http://dbpedia.org/resource/Best_Director_Golden_Globe"
+                },
+                {
+                    "label": "Best Adapted Screenplay Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Adapted_Screenplay_Academy_Award_winners"
+                },
+                {
+                    "label": "United States Army Soldiers",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmySoldiers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oliver_Stone"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0156",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Oliver Stone",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Best Director Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+                },
+                {
+                    "label": "Yale University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/YaleUniversityAlumni"
+                },
+                {
+                    "label": "American Buddhists",
+                    "uri": "http://dbpedia.org/resource/American_Buddhists"
+                },
+                {
+                    "label": "Screenwriter",
+                    "uri": "http://dbpedia.org/class/yago/Screenwriter110564400"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Film Director",
+                    "uri": "http://dbpedia.org/class/yago/FilmDirector110088200"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Best Director Golden Globe",
+                    "uri": "http://dbpedia.org/resource/Best_Director_Golden_Globe"
+                },
+                {
+                    "label": "Best Adapted Screenplay Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Adapted_Screenplay_Academy_Award_winners"
+                },
+                {
+                    "label": "United States Army Soldiers",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmySoldiers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oliver_Stone"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

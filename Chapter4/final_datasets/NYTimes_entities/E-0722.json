@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Jill Abramson",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American newspaper editors",
+                    "uri": "http://dbpedia.org/resource/American_newspaper_editors"
+                },
+                {
+                    "label": "Ethical Culture Fieldston School alumni",
+                    "uri": "http://dbpedia.org/resource/Ethical_Culture_Fieldston_School_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jill_Abramson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0722",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jill Abramson",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American newspaper editors",
+                    "uri": "http://dbpedia.org/resource/American_newspaper_editors"
+                },
+                {
+                    "label": "Ethical Culture Fieldston School alumni",
+                    "uri": "http://dbpedia.org/resource/Ethical_Culture_Fieldston_School_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jill_Abramson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

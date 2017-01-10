@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "New Jersey Transit",
+            "types": [
+                {
+                    "label": "E. H. Harriman Award recipients",
+                    "uri": "http://dbpedia.org/resource/E._H._Harriman_Award_recipients"
+                },
+                {
+                    "label": "Intermodal transportation authorities",
+                    "uri": "http://dbpedia.org/resource/Intermodal_transportation_authorities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_Jersey_Transit"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0179",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "New Jersey Transit",
+            "types": [
+                {
+                    "label": "E. H. Harriman Award recipients",
+                    "uri": "http://dbpedia.org/resource/E._H._Harriman_Award_recipients"
+                },
+                {
+                    "label": "Intermodal transportation authorities",
+                    "uri": "http://dbpedia.org/resource/Intermodal_transportation_authorities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_Jersey_Transit"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

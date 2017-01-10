@@ -1,0 +1,277 @@
+{
+  "mainText":"Then she tried Duke and the University of Arkansas and Johns Hopkins.",
+  "shownText":"Then she tried Duke and the University of Arkansas and Johns Hopkins.",
+  "title":"âBloodlessâ Lung Transplants for Jehovahâs Witnesses - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/us/bloodless-lung-transplants-for-jehovahs-witnesses.html?ref=us",
+  "category":"us",
+  "docID":"S-0363",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Johns_Hopkins",
+      "label":"Johns Hopkins",
+      "offsets":[
+        {
+          "offset":55,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Abolitionists",
+          "uri":"http://dbpedia.org/class/yago/AmericanAbolitionists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American abolitionists",
+          "uri":"http://dbpedia.org/resource/American_abolitionists"
+        },
+        {
+          "label":"People From Anne Arundel County,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAnneArundelCounty,Maryland"
+        },
+        {
+          "label":"American philanthropists",
+          "uri":"http://dbpedia.org/resource/American_philanthropists"
+        },
+        {
+          "label":"American Philanthropists",
+          "uri":"http://dbpedia.org/class/yago/AmericanPhilanthropists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Quakers",
+          "uri":"http://dbpedia.org/resource/American_Quakers"
+        },
+        {
+          "label":"People From Baltimore,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+        },
+        {
+          "label":"American Quakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanQuakers"
+        },
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Arkansas",
+      "label":"University of Arkansas",
+      "offsets":[
+        {
+          "offset":28,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Educational Institutions Established In1871",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1871"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Universities And Colleges In Arkansas",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInArkansas"
+        },
+        {
+          "label":"Land-grant Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Land-grant universities and colleges",
+          "uri":"http://dbpedia.org/resource/Land-grant_universities_and_colleges"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"College",
+          "uri":"http://dbpedia.org/ontology/College"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Johns_Hopkins",
+      "label":"Johns Hopkins",
+      "offsets":[
+        {
+          "offset":55,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Abolitionists",
+          "uri":"http://dbpedia.org/class/yago/AmericanAbolitionists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American abolitionists",
+          "uri":"http://dbpedia.org/resource/American_abolitionists"
+        },
+        {
+          "label":"People From Anne Arundel County,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAnneArundelCounty,Maryland"
+        },
+        {
+          "label":"American philanthropists",
+          "uri":"http://dbpedia.org/resource/American_philanthropists"
+        },
+        {
+          "label":"American Philanthropists",
+          "uri":"http://dbpedia.org/class/yago/AmericanPhilanthropists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Quakers",
+          "uri":"http://dbpedia.org/resource/American_Quakers"
+        },
+        {
+          "label":"People From Baltimore,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+        },
+        {
+          "label":"American Quakers",
+          "uri":"http://dbpedia.org/class/yago/AmericanQuakers"
+        },
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Arkansas",
+      "label":"University of Arkansas",
+      "offsets":[
+        {
+          "offset":28,
+          "length":22
+        }
+      ],
+      "types":[
+        {
+          "label":"Educational Institutions Established In1871",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1871"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Universities And Colleges In Arkansas",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInArkansas"
+        },
+        {
+          "label":"Land-grant Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Land-grant universities and colleges",
+          "uri":"http://dbpedia.org/resource/Land-grant_universities_and_colleges"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"College",
+          "uri":"http://dbpedia.org/ontology/College"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

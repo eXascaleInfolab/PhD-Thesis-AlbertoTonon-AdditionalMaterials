@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Americanos",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "1989Singles",
+                    "uri": "http://dbpedia.org/class/yago/1989Singles"
+                },
+                {
+                    "label": "Medium",
+                    "uri": "http://dbpedia.org/class/yago/Medium106254669"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Americanos"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0317",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Americanos",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "1989Singles",
+                    "uri": "http://dbpedia.org/class/yago/1989Singles"
+                },
+                {
+                    "label": "Medium",
+                    "uri": "http://dbpedia.org/class/yago/Medium106254669"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Americanos"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

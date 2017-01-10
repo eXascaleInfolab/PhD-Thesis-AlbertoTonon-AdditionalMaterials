@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Seville",
+            "types": [
+                {
+                    "label": "Port Cities And Towns In Spain",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInSpain"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Roman Sites In Spain",
+                    "uri": "http://dbpedia.org/class/yago/RomanSitesInSpain"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ancient mints",
+                    "uri": "http://dbpedia.org/resource/Ancient_mints"
+                },
+                {
+                    "label": "Archaeological Sites In Spain",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInSpain"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Seville"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0592",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Seville",
+            "types": [
+                {
+                    "label": "Port Cities And Towns In Spain",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInSpain"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Roman Sites In Spain",
+                    "uri": "http://dbpedia.org/class/yago/RomanSitesInSpain"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ancient mints",
+                    "uri": "http://dbpedia.org/resource/Ancient_mints"
+                },
+                {
+                    "label": "Archaeological Sites In Spain",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInSpain"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Seville"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

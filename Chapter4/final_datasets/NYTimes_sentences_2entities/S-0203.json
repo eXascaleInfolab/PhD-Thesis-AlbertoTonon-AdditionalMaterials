@@ -1,0 +1,197 @@
+{
+  "mainText":"Ms. Burwell would be only the second woman to hold the title of budget director, after Alice Rivlin, an economist now at the Brookings Institution, who held the job in the Clinton administration.",
+  "shownText":"Ms. Burwell would be only the second woman to hold the title of budget director, after Alice Rivlin, an economist now at the Brookings Institution, who held the job in the Clinton administration.",
+  "title":"Sylvia Mathews Burwell Picked for Budget Chief - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/us/politics/obama-picks-foundation-president-for-budget-chief.html",
+  "category":"politics",
+  "docID":"S-0203",
+  "elementNumber":10,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Clinton",
+      "label":"Clinton",
+      "offsets":[
+        {
+          "offset":172,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alice_Rivlin",
+      "label":"Alice Rivlin",
+      "offsets":[
+        {
+          "offset":87,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Philadelphia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Bryn Mawr College alumni",
+          "uri":"http://dbpedia.org/resource/Bryn_Mawr_College_alumni"
+        },
+        {
+          "label":"Clinton Administration personnel",
+          "uri":"http://dbpedia.org/resource/Clinton_Administration_personnel"
+        },
+        {
+          "label":"Bryn Mawr College Alumni",
+          "uri":"http://dbpedia.org/class/yago/BrynMawrCollegeAlumni"
+        },
+        {
+          "label":"Directors Of The Office Of Management And Budget",
+          "uri":"http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+        },
+        {
+          "label":"Judge",
+          "uri":"http://dbpedia.org/ontology/Judge"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American economists",
+          "uri":"http://dbpedia.org/resource/American_economists"
+        },
+        {
+          "label":"Radcliffe College Alumni",
+          "uri":"http://dbpedia.org/class/yago/RadcliffeCollegeAlumni"
+        },
+        {
+          "label":"Mac Arthur Fellows",
+          "uri":"http://dbpedia.org/class/yago/MacArthurFellows"
+        },
+        {
+          "label":"American Economists",
+          "uri":"http://dbpedia.org/class/yago/AmericanEconomists"
+        },
+        {
+          "label":"Harvard Centennial Medal recipients",
+          "uri":"http://dbpedia.org/resource/Harvard_Centennial_Medal_recipients"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Clinton",
+      "label":"Clinton",
+      "offsets":[
+        {
+          "offset":172,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"minor league team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        },
+        {
+          "label":"minor league sports team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alice_Rivlin",
+      "label":"Alice Rivlin",
+      "offsets":[
+        {
+          "offset":87,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Philadelphia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Bryn Mawr College alumni",
+          "uri":"http://dbpedia.org/resource/Bryn_Mawr_College_alumni"
+        },
+        {
+          "label":"Clinton Administration personnel",
+          "uri":"http://dbpedia.org/resource/Clinton_Administration_personnel"
+        },
+        {
+          "label":"Bryn Mawr College Alumni",
+          "uri":"http://dbpedia.org/class/yago/BrynMawrCollegeAlumni"
+        },
+        {
+          "label":"Directors Of The Office Of Management And Budget",
+          "uri":"http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+        },
+        {
+          "label":"Judge",
+          "uri":"http://dbpedia.org/ontology/Judge"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American economists",
+          "uri":"http://dbpedia.org/resource/American_economists"
+        },
+        {
+          "label":"Radcliffe College Alumni",
+          "uri":"http://dbpedia.org/class/yago/RadcliffeCollegeAlumni"
+        },
+        {
+          "label":"Mac Arthur Fellows",
+          "uri":"http://dbpedia.org/class/yago/MacArthurFellows"
+        },
+        {
+          "label":"American Economists",
+          "uri":"http://dbpedia.org/class/yago/AmericanEconomists"
+        },
+        {
+          "label":"Harvard Centennial Medal recipients",
+          "uri":"http://dbpedia.org/resource/Harvard_Centennial_Medal_recipients"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

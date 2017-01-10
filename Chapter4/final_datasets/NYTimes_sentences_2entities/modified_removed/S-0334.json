@@ -1,0 +1,533 @@
+{
+    "allEntities": [
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 21
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }, 
+        {
+            "label": "BRUSSELS", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "European Capitals Of Culture", 
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Regions Of Belgium", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfBelgium"
+                }, 
+                {
+                    "label": "Regions Of Europe With Multiple Official Languages", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfEuropeWithMultipleOfficialLanguages"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "first order administrative division", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                }, 
+                {
+                    "label": "NUTS1Statistical Regions Of The European Union", 
+                    "uri": "http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Brussels"
+        }, 
+        {
+            "label": "Microsoft", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 60
+                }
+            ], 
+            "types": [
+                {
+                    "label": "company in the Standard &amp; Poor's systems software subindustry", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+                }, 
+                {
+                    "label": "major company", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "software company", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Institution", 
+                    "uri": "http://umbel.org/umbel/sc/Institution"
+                }, 
+                {
+                    "label": "Companies Based In Redmond,Washington", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+                }, 
+                {
+                    "label": "Companies Established In1975", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "high tech manufacturer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Companies listed on NASDAQ", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "item", 
+                    "uri": "http://purl.org/rss/1.0/item"
+                }, 
+                {
+                    "label": "Business", 
+                    "uri": "http://umbel.org/umbel/sc/Business"
+                }, 
+                {
+                    "label": "S&amp;P 500 corporation", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+                }, 
+                {
+                    "label": "Social Group", 
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                }, 
+                {
+                    "label": "Organization", 
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                }, 
+                {
+                    "label": "incorporated business", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Microsoft"
+        }, 
+        {
+            "label": "European Commission", 
+            "offsets": [
+                {
+                    "length": 19, 
+                    "offset": 21
+                }
+            ], 
+            "types": [
+                {
+                    "label": "type of profession", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVii2ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Landmark", 
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/European_Commission"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/07/technology/eu-fines-microsoft-over-browser.html?ref=technology", 
+    "category": "technology", 
+    "docID": "S-0334", 
+    "elementNumber": 6, 
+    "mainEntities": [
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 21
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }, 
+        {
+            "label": "BRUSSELS", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "European Capitals Of Culture", 
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Regions Of Belgium", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfBelgium"
+                }, 
+                {
+                    "label": "Regions Of Europe With Multiple Official Languages", 
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfEuropeWithMultipleOfficialLanguages"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "first order administrative division", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+                }, 
+                {
+                    "label": "NUTS1Statistical Regions Of The European Union", 
+                    "uri": "http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Brussels"
+        }, 
+        {
+            "label": "Microsoft", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 60
+                }
+            ], 
+            "types": [
+                {
+                    "label": "company in the Standard &amp; Poor's systems software subindustry", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+                }, 
+                {
+                    "label": "major company", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "software company", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Institution", 
+                    "uri": "http://umbel.org/umbel/sc/Institution"
+                }, 
+                {
+                    "label": "Companies Based In Redmond,Washington", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+                }, 
+                {
+                    "label": "Companies Established In1975", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "high tech manufacturer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Companies listed on NASDAQ", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "item", 
+                    "uri": "http://purl.org/rss/1.0/item"
+                }, 
+                {
+                    "label": "Business", 
+                    "uri": "http://umbel.org/umbel/sc/Business"
+                }, 
+                {
+                    "label": "S&amp;P 500 corporation", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+                }, 
+                {
+                    "label": "Social Group", 
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                }, 
+                {
+                    "label": "Organization", 
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                }, 
+                {
+                    "label": "incorporated business", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Microsoft"
+        }, 
+        {
+            "label": "European Commission", 
+            "offsets": [
+                {
+                    "length": 19, 
+                    "offset": 21
+                }
+            ], 
+            "types": [
+                {
+                    "label": "type of profession", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVii2ZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Landmark", 
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/European_Commission"
+        }
+    ], 
+    "mainText": "BRUSSELS &mdash; The European Commission on Wednesday fined Microsoft &euro;561 million for failing to live up to a settlement agreement offering consumers a choice of Internet browsers.", 
+    "shownText": "BRUSSELS &mdash; The European Commission on Wednesday fined Microsoft &euro;561 million for failing to live up to a settlement agreement offering consumers a choice of Internet browsers.", 
+    "title": "E.U. Fines Microsoft $732 Million Over Browser - NYTimes.com"
+}

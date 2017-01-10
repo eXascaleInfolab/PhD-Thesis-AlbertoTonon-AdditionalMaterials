@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "David M. Kennedy",
+            "types": [
+                {
+                    "label": "Deaths from cardiovascular disease",
+                    "uri": "http://dbpedia.org/resource/Deaths_from_cardiovascular_disease"
+                },
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/resource/American_Latter_Day_Saints"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "United States Secretaries Of The Treasury",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSecretariesOfTheTreasury"
+                },
+                {
+                    "label": "George Washington University alumni",
+                    "uri": "http://dbpedia.org/resource/George_Washington_University_alumni"
+                },
+                {
+                    "label": "Official",
+                    "uri": "http://dbpedia.org/class/yago/Official110372373"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_M._Kennedy"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0295",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "David M. Kennedy",
+            "types": [
+                {
+                    "label": "Deaths from cardiovascular disease",
+                    "uri": "http://dbpedia.org/resource/Deaths_from_cardiovascular_disease"
+                },
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/resource/American_Latter_Day_Saints"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "United States Secretaries Of The Treasury",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSecretariesOfTheTreasury"
+                },
+                {
+                    "label": "George Washington University alumni",
+                    "uri": "http://dbpedia.org/resource/George_Washington_University_alumni"
+                },
+                {
+                    "label": "Official",
+                    "uri": "http://dbpedia.org/class/yago/Official110372373"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/David_M._Kennedy"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

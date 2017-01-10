@@ -1,0 +1,141 @@
+{
+  "mainText":"\u201cThe starch is readily absorbed,\u201d Eric Rimm, an associate professor of epidemiology and nutrition at the Harvard School of Public Health and one of the study\u2019s authors, told me.",
+  "shownText":"\u201cThe starch is readily absorbed,\u201d Eric Rimm, an associate professor of epidemiology and nutrition at the Harvard School of Public Health and one of the study\u2019s authors, told me.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"S-0223",
+  "elementNumber":394,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_School_of_Public_Health",
+      "label":"Harvard School of Public Health",
+      "offsets":[
+        {
+          "offset":105,
+          "length":31
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Schools Of Public Health",
+          "uri":"http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":105,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_School_of_Public_Health",
+      "label":"Harvard School of Public Health",
+      "offsets":[
+        {
+          "offset":105,
+          "length":31
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Schools Of Public Health",
+          "uri":"http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":105,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ]
+}

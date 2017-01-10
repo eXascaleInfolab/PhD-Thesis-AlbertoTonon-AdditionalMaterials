@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Ben Sherman",
+            "types": [
+                {
+                    "label": "Label",
+                    "uri": "http://dbpedia.org/class/yago/Label107202579"
+                },
+                {
+                    "label": "Clothing brands",
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                },
+                {
+                    "label": "Clothing Companies Of The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ben_Sherman"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0310",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ben Sherman",
+            "types": [
+                {
+                    "label": "Label",
+                    "uri": "http://dbpedia.org/class/yago/Label107202579"
+                },
+                {
+                    "label": "Clothing brands",
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                },
+                {
+                    "label": "Clothing Companies Of The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/ClothingCompaniesOfTheUnitedKingdom"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ben_Sherman"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

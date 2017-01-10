@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Joe RaedleGetty ImagesMichael S. Dell",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "brand of computer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvx9fVJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "spatially disjoint object type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rpPHhAOB1EdqAAAACs6hRXg"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0585",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Joe RaedleGetty ImagesMichael S. Dell",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "brand of computer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvx9fVJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "spatially disjoint object type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rpPHhAOB1EdqAAAACs6hRXg"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

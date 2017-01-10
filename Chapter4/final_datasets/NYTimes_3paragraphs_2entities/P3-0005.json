@@ -1,0 +1,205 @@
+{
+  "mainText":"Most important, it does right by its actors, many of whom are better on \u201cSouthland\u201d than they\u2019ve been elsewhere.\nMs. King and Mr. Cudlitz have been exemplary since Season 1, and Dorian Missick, as Adams\u2019s remarkably levelheaded partner, has been their equal since he joined in Season 4.",
+  "shownText":"But \u201cSouthland\u201d still gets it right most of the time, and stands above the more popular police and forensic dramas that satisfy our appetite for predictability while insulting our intelligences to greater or lesser degrees.\nIt acknowledges the arbitrary, contingent, inexplicable nature of human behavior in the way its stories circle and lurch and stop midstream, and in the way it crowds the frame with unnamed cops and masses of angry or bored or hyped-up bystanders.\nIt pays attention to everyday conversation, and disdains the haiku of superhuman detection and analysis that substitutes for dialogue and action on other shows.\n\nMost important, it does right by its actors, many of whom are better on \u201cSouthland\u201d than they\u2019ve been elsewhere.\nMs. King and Mr. Cudlitz have been exemplary since Season 1, and Dorian Missick, as Adams\u2019s remarkably levelheaded partner, has been their equal since he joined in Season 4.\n\nLike most cop shows, \u201cSouthland\u201d posits a daily face-off between idealism and cynicism that\u2019s probably pretty far removed from anything a typical police officer confronts.\nBut it keeps the line between them fuzzy.\nWhen Cooper\u2019s new partner has a meltdown in the line of duty and says, \u201cYou have to be crazy to want this job,\u201d there\u2019s no speech or lecture in reply.\nCooper just murmurs, \u201cYou don\u2019t have to convince me,\u201d and walks away.\n",
+  "title":"âSouthland,â on TNT, Pursues Bad Guys and Realism - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/southland-on-tnt-pursues-bad-guys-and-realism.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0005",
+  "elementNumber":13,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Michael_Cudlitz",
+      "label":"Michael Cudlitz",
+      "offsets":[
+        {
+          "offset":763,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"American Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanVoiceActors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Dorian_Missick",
+      "label":"Dorian Missick",
+      "offsets":[
+        {
+          "offset":811,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"New Jersey Actors",
+          "uri":"http://dbpedia.org/class/yago/NewJerseyActors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"People From East Orange,New Jersey",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromEastOrange,NewJersey"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Michael_Cudlitz",
+      "label":"Michael Cudlitz",
+      "offsets":[
+        {
+          "offset":763,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"American Voice Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanVoiceActors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Long Island",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLongIsland"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Dorian_Missick",
+      "label":"Dorian Missick",
+      "offsets":[
+        {
+          "offset":811,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"New Jersey Actors",
+          "uri":"http://dbpedia.org/class/yago/NewJerseyActors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"People From East Orange,New Jersey",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromEastOrange,NewJersey"
+        },
+        {
+          "label":"American voice actors",
+          "uri":"http://dbpedia.org/resource/American_voice_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    }
+  ]
+}

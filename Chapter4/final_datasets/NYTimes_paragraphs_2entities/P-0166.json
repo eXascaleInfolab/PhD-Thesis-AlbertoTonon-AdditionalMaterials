@@ -1,0 +1,149 @@
+{
+  "mainText":"Dr. Gay contacted Dr. Katherine Luzuriaga, an immunologist at the University of Massachusetts, who was working with Dr. Persaud and others on a project to document possible pediatric cures.\nThe researchers, sponsored by amfAR, the Foundation for AIDS Research, put the baby through a battery of sophisticated tests.\nThey found tiny amounts of some viral genetic material but no virus able to replicate, even lying dormant in so-called reservoirs in the body.",
+  "shownText":"Dr. Gay contacted Dr. Katherine Luzuriaga, an immunologist at the University of Massachusetts, who was working with Dr. Persaud and others on a project to document possible pediatric cures.\nThe researchers, sponsored by amfAR, the Foundation for AIDS Research, put the baby through a battery of sophisticated tests.\nThey found tiny amounts of some viral genetic material but no virus able to replicate, even lying dormant in so-called reservoirs in the body.",
+  "title":"Baby With H.I.V. Is Reported Cured - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/health/for-first-time-baby-cured-of-hiv-doctors-say.html?ref=science",
+  "category":"science",
+  "docID":"P-0166",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Massachusetts",
+      "label":"University of Massachusetts",
+      "offsets":[
+        {
+          "offset":66,
+          "length":27
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Incomplete lists",
+          "uri":"http://dbpedia.org/resource/Incomplete_lists"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Raj_Persaud",
+      "label":"Deborah Persaud",
+      "offsets":[
+        {
+          "offset":120,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Psychiatrist",
+          "uri":"http://dbpedia.org/class/yago/Psychiatrist110488016"
+        },
+        {
+          "label":"People From Reading,Berkshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+        },
+        {
+          "label":"Celebrity",
+          "uri":"http://dbpedia.org/class/yago/Celebrity109903153"
+        },
+        {
+          "label":"British psychiatrists",
+          "uri":"http://dbpedia.org/resource/British_psychiatrists"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Massachusetts",
+      "label":"University of Massachusetts",
+      "offsets":[
+        {
+          "offset":66,
+          "length":27
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Incomplete lists",
+          "uri":"http://dbpedia.org/resource/Incomplete_lists"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Raj_Persaud",
+      "label":"Deborah Persaud",
+      "offsets":[
+        {
+          "offset":120,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Psychiatrist",
+          "uri":"http://dbpedia.org/class/yago/Psychiatrist110488016"
+        },
+        {
+          "label":"People From Reading,Berkshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromReading,Berkshire"
+        },
+        {
+          "label":"Celebrity",
+          "uri":"http://dbpedia.org/class/yago/Celebrity109903153"
+        },
+        {
+          "label":"British psychiatrists",
+          "uri":"http://dbpedia.org/resource/British_psychiatrists"
+        }
+      ]
+    }
+  ]
+}

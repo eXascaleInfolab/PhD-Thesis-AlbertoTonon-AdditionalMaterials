@@ -1,0 +1,265 @@
+{
+    "allEntities": [
+        {
+            "label": "Oprah Winfrey",
+            "types": [
+                {
+                    "label": "American television talk show hosts",
+                    "uri": "http://dbpedia.org/resource/American_television_talk_show_hosts"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From Kosciusko,Mississippi",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKosciusko,Mississippi"
+                },
+                {
+                    "label": "People From Chicago",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "American philanthropists",
+                    "uri": "http://dbpedia.org/resource/American_philanthropists"
+                },
+                {
+                    "label": "Celebrity",
+                    "uri": "http://dbpedia.org/class/yago/Celebrity109903153"
+                },
+                {
+                    "label": "African American Writers",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanWriters"
+                },
+                {
+                    "label": "American Self-help Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSelf-helpWriters"
+                },
+                {
+                    "label": "American magazine publishers (people)",
+                    "uri": "http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Congregationalists",
+                    "uri": "http://dbpedia.org/resource/American_Congregationalists"
+                },
+                {
+                    "label": "American mass media owners",
+                    "uri": "http://dbpedia.org/resource/American_mass_media_owners"
+                },
+                {
+                    "label": "Chicago television anchors",
+                    "uri": "http://dbpedia.org/resource/Chicago_television_anchors"
+                },
+                {
+                    "label": "American billionaires",
+                    "uri": "http://dbpedia.org/resource/American_billionaires"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionProducers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Daytime Emmy Award winners",
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                },
+                {
+                    "label": "Baltimore television anchors",
+                    "uri": "http://dbpedia.org/resource/Baltimore_television_anchors"
+                },
+                {
+                    "label": "American Mass Media Owners",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMassMediaOwners"
+                },
+                {
+                    "label": "American Television Talk Show Hosts",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionTalkShowHosts"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Philanthropists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhilanthropists"
+                },
+                {
+                    "label": "American Billionaires",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBillionaires"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "African American writers",
+                    "uri": "http://dbpedia.org/resource/African_American_writers"
+                },
+                {
+                    "label": "woman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American television producers",
+                    "uri": "http://dbpedia.org/resource/American_television_producers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oprah_Winfrey"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0162",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Oprah Winfrey",
+            "types": [
+                {
+                    "label": "American television talk show hosts",
+                    "uri": "http://dbpedia.org/resource/American_television_talk_show_hosts"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From Kosciusko,Mississippi",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKosciusko,Mississippi"
+                },
+                {
+                    "label": "People From Chicago",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "American philanthropists",
+                    "uri": "http://dbpedia.org/resource/American_philanthropists"
+                },
+                {
+                    "label": "Celebrity",
+                    "uri": "http://dbpedia.org/class/yago/Celebrity109903153"
+                },
+                {
+                    "label": "African American Writers",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanWriters"
+                },
+                {
+                    "label": "American Self-help Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSelf-helpWriters"
+                },
+                {
+                    "label": "American magazine publishers (people)",
+                    "uri": "http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Congregationalists",
+                    "uri": "http://dbpedia.org/resource/American_Congregationalists"
+                },
+                {
+                    "label": "American mass media owners",
+                    "uri": "http://dbpedia.org/resource/American_mass_media_owners"
+                },
+                {
+                    "label": "Chicago television anchors",
+                    "uri": "http://dbpedia.org/resource/Chicago_television_anchors"
+                },
+                {
+                    "label": "American billionaires",
+                    "uri": "http://dbpedia.org/resource/American_billionaires"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionProducers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Daytime Emmy Award winners",
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                },
+                {
+                    "label": "Baltimore television anchors",
+                    "uri": "http://dbpedia.org/resource/Baltimore_television_anchors"
+                },
+                {
+                    "label": "American Mass Media Owners",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMassMediaOwners"
+                },
+                {
+                    "label": "American Television Talk Show Hosts",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionTalkShowHosts"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Philanthropists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhilanthropists"
+                },
+                {
+                    "label": "American Billionaires",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBillionaires"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "African American writers",
+                    "uri": "http://dbpedia.org/resource/African_American_writers"
+                },
+                {
+                    "label": "woman",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American television producers",
+                    "uri": "http://dbpedia.org/resource/American_television_producers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oprah_Winfrey"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

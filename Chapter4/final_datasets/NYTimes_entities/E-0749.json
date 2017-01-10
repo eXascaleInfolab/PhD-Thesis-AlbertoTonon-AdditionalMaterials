@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "Tina Fey",
+            "types": [
+                {
+                    "label": "American Comedy Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComedyWriters"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From Philadelphia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Pennsylvania Actors",
+                    "uri": "http://dbpedia.org/class/yago/PennsylvaniaActors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Philadelphia Writers",
+                    "uri": "http://dbpedia.org/class/yago/PhiladelphiaWriters"
+                },
+                {
+                    "label": "American comedy writers",
+                    "uri": "http://dbpedia.org/resource/American_comedy_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Second City Alumni",
+                    "uri": "http://dbpedia.org/class/yago/SecondCityAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tina_Fey"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0749",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Tina Fey",
+            "types": [
+                {
+                    "label": "American Comedy Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComedyWriters"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From Philadelphia",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPhiladelphia"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Pennsylvania Actors",
+                    "uri": "http://dbpedia.org/class/yago/PennsylvaniaActors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Philadelphia Writers",
+                    "uri": "http://dbpedia.org/class/yago/PhiladelphiaWriters"
+                },
+                {
+                    "label": "American comedy writers",
+                    "uri": "http://dbpedia.org/resource/American_comedy_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Second City Alumni",
+                    "uri": "http://dbpedia.org/class/yago/SecondCityAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tina_Fey"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Ian Laperriere",
+            "types": [
+                {
+                    "label": "Canadian ice hockey centres",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+                },
+                {
+                    "label": "Colorado Avalanche players",
+                    "uri": "http://dbpedia.org/resource/Colorado_Avalanche_players"
+                },
+                {
+                    "label": "Ice hockey personnel from Quebec",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Quebec"
+                },
+                {
+                    "label": "Drummondville Voltigeurs alumni",
+                    "uri": "http://dbpedia.org/resource/Drummondville_Voltigeurs_alumni"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ian_Laperriere"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0501",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ian Laperriere",
+            "types": [
+                {
+                    "label": "Canadian ice hockey centres",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_centres"
+                },
+                {
+                    "label": "Colorado Avalanche players",
+                    "uri": "http://dbpedia.org/resource/Colorado_Avalanche_players"
+                },
+                {
+                    "label": "Ice hockey personnel from Quebec",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Quebec"
+                },
+                {
+                    "label": "Drummondville Voltigeurs alumni",
+                    "uri": "http://dbpedia.org/resource/Drummondville_Voltigeurs_alumni"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ian_Laperriere"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

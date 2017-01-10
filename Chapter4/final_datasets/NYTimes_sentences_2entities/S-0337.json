@@ -1,0 +1,293 @@
+{
+  "mainText":"Microsoft is among the companies that have complained about Google\u2019s business practices to Mr. Almunia.",
+  "shownText":"Microsoft is among the companies that have complained about Google\u2019s business practices to Mr. Almunia.",
+  "title":"E.U. Fines Microsoft $732 Million Over Browser - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/technology/eu-fines-microsoft-over-browser.html?ref=technology",
+  "category":"technology",
+  "docID":"S-0337",
+  "elementNumber":19,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Google",
+      "label":"Google",
+      "offsets":[
+        {
+          "offset":60,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1998",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":0,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Google",
+      "label":"Google",
+      "offsets":[
+        {
+          "offset":60,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1998",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":0,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

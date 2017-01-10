@@ -1,0 +1,197 @@
+{
+  "mainText":"It meant that anyone grounded in a normal life had to struggle against the assumption that they were not as seriously gifted as Vivienne Westwood or Alexander McQueen.",
+  "shownText":"It meant that anyone grounded in a normal life had to struggle against the assumption that they were not as seriously gifted as Vivienne Westwood or Alexander McQueen.",
+  "title":"Londonâs New Designers Unleash Their Creative Force - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/21/fashion/londons-new-designers-unleash-their-creative-force.html?ref=style",
+  "category":"style",
+  "docID":"S-0304",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Vivienne_Westwood",
+      "label":"Vivienne Westwood",
+      "offsets":[
+        {
+          "offset":128,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"Alumni Of The University Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfTheUniversityOfWestminster"
+        },
+        {
+          "label":"Shoe Designers",
+          "uri":"http://dbpedia.org/class/yago/ShoeDesigners"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"People From Derbyshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDerbyshire"
+        },
+        {
+          "label":"Alumni Of Middlesex University",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfMiddlesexUniversity"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alexander_McQueen",
+      "label":"Alexander McQueen",
+      "offsets":[
+        {
+          "offset":149,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"People From London",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLondon"
+        },
+        {
+          "label":"Gucci brands",
+          "uri":"http://dbpedia.org/resource/Gucci_brands"
+        },
+        {
+          "label":"LGBTPeople From England",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+        },
+        {
+          "label":"Commanders Of The Order Of The British Empire",
+          "uri":"http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Vivienne_Westwood",
+      "label":"Vivienne Westwood",
+      "offsets":[
+        {
+          "offset":128,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"Alumni Of The University Of Westminster",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfTheUniversityOfWestminster"
+        },
+        {
+          "label":"Shoe Designers",
+          "uri":"http://dbpedia.org/class/yago/ShoeDesigners"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"People From Derbyshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDerbyshire"
+        },
+        {
+          "label":"Alumni Of Middlesex University",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfMiddlesexUniversity"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alexander_McQueen",
+      "label":"Alexander McQueen",
+      "offsets":[
+        {
+          "offset":149,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"English fashion designers",
+          "uri":"http://dbpedia.org/resource/English_fashion_designers"
+        },
+        {
+          "label":"People From London",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLondon"
+        },
+        {
+          "label":"Gucci brands",
+          "uri":"http://dbpedia.org/resource/Gucci_brands"
+        },
+        {
+          "label":"LGBTPeople From England",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+        },
+        {
+          "label":"Commanders Of The Order Of The British Empire",
+          "uri":"http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"English Fashion Designers",
+          "uri":"http://dbpedia.org/class/yago/EnglishFashionDesigners"
+        },
+        {
+          "label":"Couturier",
+          "uri":"http://dbpedia.org/class/yago/Couturier109972157"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

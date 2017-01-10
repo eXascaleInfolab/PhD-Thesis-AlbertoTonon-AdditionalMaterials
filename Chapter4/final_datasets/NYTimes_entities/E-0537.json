@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Nicolas Ghesqui&egrave;re",
+            "types": [
+                {
+                    "label": "French masculine given names",
+                    "uri": "http://dbpedia.org/resource/French_masculine_given_names"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nicolas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0537",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Nicolas Ghesqui&egrave;re",
+            "types": [
+                {
+                    "label": "French masculine given names",
+                    "uri": "http://dbpedia.org/resource/French_masculine_given_names"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nicolas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

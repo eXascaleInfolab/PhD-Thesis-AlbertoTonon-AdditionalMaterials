@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Johnson &amp; Johnson",
+            "types": [
+                {
+                    "label": "Companies Listed On The New York Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+                },
+                {
+                    "label": "Pharmaceutical Companies",
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompanies"
+                },
+                {
+                    "label": "Pharmaceutical Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1886",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1886"
+                },
+                {
+                    "label": "Multinational Companies",
+                    "uri": "http://dbpedia.org/class/yago/MultinationalCompanies"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Dental Companies",
+                    "uri": "http://dbpedia.org/class/yago/DentalCompanies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Johnson_&_Johnson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0448",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Johnson &amp; Johnson",
+            "types": [
+                {
+                    "label": "Companies Listed On The New York Stock Exchange",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheNewYorkStockExchange"
+                },
+                {
+                    "label": "Pharmaceutical Companies",
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompanies"
+                },
+                {
+                    "label": "Pharmaceutical Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1886",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1886"
+                },
+                {
+                    "label": "Multinational Companies",
+                    "uri": "http://dbpedia.org/class/yago/MultinationalCompanies"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Dental Companies",
+                    "uri": "http://dbpedia.org/class/yago/DentalCompanies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Johnson_&_Johnson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

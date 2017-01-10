@@ -1,0 +1,165 @@
+{
+  "mainText":"The presence of children in Meghalaya\u2019s mines is no secret.\nSuresh\u2019s boss, Kumar Subba, said children work in mines throughout the region.",
+  "shownText":"The presence of children in Meghalaya\u2019s mines is no secret.\nSuresh\u2019s boss, Kumar Subba, said children work in mines throughout the region.",
+  "title":"In India, Missing School to Work in the Mine - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/world/asia/in-india-missing-school-to-work-in-the-mine.html?ref=world",
+  "category":"world",
+  "docID":"P-0349",
+  "elementNumber":19,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Meghalaya",
+      "label":"Meghalaya",
+      "offsets":[
+        {
+          "offset":28,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moni_Kumar_Subba",
+      "label":"Kumar Subba",
+      "offsets":[
+        {
+          "offset":75,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Politicians Of Assam",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansOfAssam"
+        },
+        {
+          "label":"Indian politicians",
+          "uri":"http://dbpedia.org/resource/Indian_politicians"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/class/yago/Politician110451263"
+        },
+        {
+          "label":"Indian National Congress Politicians",
+          "uri":"http://dbpedia.org/class/yago/IndianNationalCongressPoliticians"
+        },
+        {
+          "label":"Indian National Congress politicians",
+          "uri":"http://dbpedia.org/resource/Indian_National_Congress_politicians"
+        },
+        {
+          "label":"14th Lok Sabha Members",
+          "uri":"http://dbpedia.org/resource/14th_Lok_Sabha_Members"
+        },
+        {
+          "label":"Indian Politicians",
+          "uri":"http://dbpedia.org/class/yago/IndianPoliticians"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Meghalaya",
+      "label":"Meghalaya",
+      "offsets":[
+        {
+          "offset":28,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moni_Kumar_Subba",
+      "label":"Kumar Subba",
+      "offsets":[
+        {
+          "offset":75,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Politicians Of Assam",
+          "uri":"http://dbpedia.org/class/yago/PoliticiansOfAssam"
+        },
+        {
+          "label":"Indian politicians",
+          "uri":"http://dbpedia.org/resource/Indian_politicians"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/class/yago/Politician110451263"
+        },
+        {
+          "label":"Indian National Congress Politicians",
+          "uri":"http://dbpedia.org/class/yago/IndianNationalCongressPoliticians"
+        },
+        {
+          "label":"Indian National Congress politicians",
+          "uri":"http://dbpedia.org/resource/Indian_National_Congress_politicians"
+        },
+        {
+          "label":"14th Lok Sabha Members",
+          "uri":"http://dbpedia.org/resource/14th_Lok_Sabha_Members"
+        },
+        {
+          "label":"Indian Politicians",
+          "uri":"http://dbpedia.org/class/yago/IndianPoliticians"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

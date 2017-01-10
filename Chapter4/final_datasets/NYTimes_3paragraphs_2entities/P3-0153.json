@@ -1,0 +1,149 @@
+{
+  "mainText":"\u201cTaxpayers dodged a bullet last year when Congress wisely rejected cramming a trillion-dollar farm bill onto the fiscal cliff package, instead extending most programs through the end of this September,\u201d said Steve Ellis, vice president of Taxpayers for Common Sense, a Washington group.\n\u201cLawmakers from agriculture-heavy states had been selling their farm bill proposals as deficit reduction bills.\nBut just as we predicted, the \u2018savings\u2019 aren\u2019t appearing.\u201d",
+  "shownText":"But critics of the proposed farm bills said the new estimates showed that the bills would have added to the deficit and did not overhaul agriculture programs as proponents claimed.\n\n\u201cTaxpayers dodged a bullet last year when Congress wisely rejected cramming a trillion-dollar farm bill onto the fiscal cliff package, instead extending most programs through the end of this September,\u201d said Steve Ellis, vice president of Taxpayers for Common Sense, a Washington group.\n\u201cLawmakers from agriculture-heavy states had been selling their farm bill proposals as deficit reduction bills.\nBut just as we predicted, the \u2018savings\u2019 aren\u2019t appearing.\u201d\n\nThe farm bill could end up costing less than the new estimates because of the automatic-spending cuts that went into effect on Friday.\nAgriculture programs in the farm bill are expected to be cut by $6 billion.\n",
+  "title":"New Estimates Question Savings from Farm Bills - NYTimes.com",
+  "articleUrl":"http://thecaucus.blogs.nytimes.com/2013/03/04/new-estimates-question-savings-from-farm-bills/",
+  "category":"politics",
+  "docID":"P3-0153",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":451,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Steve_Ellis",
+      "label":"Steve Ellis",
+      "offsets":[
+        {
+          "offset":390,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"English Male Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishMaleSingers"
+        },
+        {
+          "label":"English Songwriters",
+          "uri":"http://dbpedia.org/class/yago/EnglishSongwriters"
+        },
+        {
+          "label":"English songwriters",
+          "uri":"http://dbpedia.org/resource/English_songwriters"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":451,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Steve_Ellis",
+      "label":"Steve Ellis",
+      "offsets":[
+        {
+          "offset":390,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"English Male Singers",
+          "uri":"http://dbpedia.org/class/yago/EnglishMaleSingers"
+        },
+        {
+          "label":"English Songwriters",
+          "uri":"http://dbpedia.org/class/yago/EnglishSongwriters"
+        },
+        {
+          "label":"English songwriters",
+          "uri":"http://dbpedia.org/resource/English_songwriters"
+        }
+      ]
+    }
+  ]
+}

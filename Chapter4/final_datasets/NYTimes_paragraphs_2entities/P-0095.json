@@ -1,0 +1,301 @@
+{
+  "mainText":"In 2011, the Centers for Disease Control and Prevention said that nearly 40 percent of Mississippi residents were obese.\nBut in 2007, with the blessing of Gov. Haley Barbour, the state began to attack the problem with legislation intended to reduce fat in school lunches and to increase exercise programs.",
+  "shownText":"In 2011, the Centers for Disease Control and Prevention said that nearly 40 percent of Mississippi residents were obese.\nBut in 2007, with the blessing of Gov. Haley Barbour, the state began to attack the problem with legislation intended to reduce fat in school lunches and to increase exercise programs.",
+  "title":"New Attention to First Lady - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/us/politics/new-attention-to-first-lady.html?ref=health",
+  "category":"health",
+  "docID":"P-0095",
+  "elementNumber":7,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":87,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Haley_Barbour",
+      "label":"Haley Barbour",
+      "offsets":[
+        {
+          "offset":160,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Yazoo City,Mississippi",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromYazooCity,Mississippi"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American lobbyists",
+          "uri":"http://dbpedia.org/resource/American_lobbyists"
+        },
+        {
+          "label":"American Lobbyists",
+          "uri":"http://dbpedia.org/class/yago/AmericanLobbyists"
+        },
+        {
+          "label":"Governors Of Mississippi",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfMississippi"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"Delegates To The Republican National Convention",
+          "uri":"http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/resource/American_Presbyterians"
+        },
+        {
+          "label":"Delegates to the Republican National Convention",
+          "uri":"http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+        },
+        {
+          "label":"American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanLawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Bush Pioneers",
+          "uri":"http://dbpedia.org/class/yago/BushPioneers"
+        },
+        {
+          "label":"Mississippi Lawyers",
+          "uri":"http://dbpedia.org/class/yago/MississippiLawyers"
+        },
+        {
+          "label":"Mississippi Politicians",
+          "uri":"http://dbpedia.org/class/yago/MississippiPoliticians"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Mississippi Republicans",
+          "uri":"http://dbpedia.org/class/yago/MississippiRepublicans"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American lawyers",
+          "uri":"http://dbpedia.org/resource/American_lawyers"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":87,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Haley_Barbour",
+      "label":"Haley Barbour",
+      "offsets":[
+        {
+          "offset":160,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Yazoo City,Mississippi",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromYazooCity,Mississippi"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American lobbyists",
+          "uri":"http://dbpedia.org/resource/American_lobbyists"
+        },
+        {
+          "label":"American Lobbyists",
+          "uri":"http://dbpedia.org/class/yago/AmericanLobbyists"
+        },
+        {
+          "label":"Governors Of Mississippi",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfMississippi"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"Delegates To The Republican National Convention",
+          "uri":"http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/resource/American_Presbyterians"
+        },
+        {
+          "label":"Delegates to the Republican National Convention",
+          "uri":"http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+        },
+        {
+          "label":"American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanLawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Bush Pioneers",
+          "uri":"http://dbpedia.org/class/yago/BushPioneers"
+        },
+        {
+          "label":"Mississippi Lawyers",
+          "uri":"http://dbpedia.org/class/yago/MississippiLawyers"
+        },
+        {
+          "label":"Mississippi Politicians",
+          "uri":"http://dbpedia.org/class/yago/MississippiPoliticians"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Mississippi Republicans",
+          "uri":"http://dbpedia.org/class/yago/MississippiRepublicans"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American lawyers",
+          "uri":"http://dbpedia.org/resource/American_lawyers"
+        }
+      ]
+    }
+  ]
+}

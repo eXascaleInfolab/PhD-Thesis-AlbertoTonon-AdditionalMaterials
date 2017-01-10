@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Ron GalellaWireImage",
+            "types": [
+                {
+                    "label": "California musicians",
+                    "uri": "http://dbpedia.org/resource/California_musicians"
+                },
+                {
+                    "label": "American Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMaleSingers"
+                },
+                {
+                    "label": "Grateful Dead members",
+                    "uri": "http://dbpedia.org/resource/Grateful_Dead_members"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American rock singers",
+                    "uri": "http://dbpedia.org/resource/American_rock_singers"
+                },
+                {
+                    "label": "American Rock Singers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockSingers"
+                },
+                {
+                    "label": "American rock guitarists",
+                    "uri": "http://dbpedia.org/resource/American_rock_guitarists"
+                },
+                {
+                    "label": "American harmonica players",
+                    "uri": "http://dbpedia.org/resource/American_harmonica_players"
+                },
+                {
+                    "label": "American male singers",
+                    "uri": "http://dbpedia.org/resource/American_male_singers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ron_%22Pigpen%22_McKernan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0294",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ron GalellaWireImage",
+            "types": [
+                {
+                    "label": "California musicians",
+                    "uri": "http://dbpedia.org/resource/California_musicians"
+                },
+                {
+                    "label": "American Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMaleSingers"
+                },
+                {
+                    "label": "Grateful Dead members",
+                    "uri": "http://dbpedia.org/resource/Grateful_Dead_members"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American rock singers",
+                    "uri": "http://dbpedia.org/resource/American_rock_singers"
+                },
+                {
+                    "label": "American Rock Singers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockSingers"
+                },
+                {
+                    "label": "American rock guitarists",
+                    "uri": "http://dbpedia.org/resource/American_rock_guitarists"
+                },
+                {
+                    "label": "American harmonica players",
+                    "uri": "http://dbpedia.org/resource/American_harmonica_players"
+                },
+                {
+                    "label": "American male singers",
+                    "uri": "http://dbpedia.org/resource/American_male_singers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ron_%22Pigpen%22_McKernan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

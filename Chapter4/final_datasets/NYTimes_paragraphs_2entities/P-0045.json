@@ -1,0 +1,213 @@
+{
+  "mainText":"When the video was played on \u201cGood Morning America,\u201d Elizabeth Vargas tried to ask her fellow presenters how the pig had freed the goat, but she was met with laughter.\n\u201cEvery day with Elizabeth, it\u2019s like, \u2018How did this happen?\u2019 \u201d\nreplied the weather anchor Sam Champion.",
+  "shownText":"When the video was played on \u201cGood Morning America,\u201d Elizabeth Vargas tried to ask her fellow presenters how the pig had freed the goat, but she was met with laughter.\n\u201cEvery day with Elizabeth, it\u2019s like, \u2018How did this happen?\u2019 \u201d\nreplied the weather anchor Sam Champion.",
+  "title":"Pig Rescues Goat, and the Video Is Really Cute, but Totally Faked - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/arts/television/pig-rescues-goat-and-the-video-is-really-cute-but-totally-faked.html?ref=arts",
+  "category":"arts",
+  "docID":"P-0045",
+  "elementNumber":18,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sam_Champion",
+      "label":"Sam Champion",
+      "offsets":[
+        {
+          "offset":258,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Eastern Kentucky University alumni",
+          "uri":"http://dbpedia.org/resource/Eastern_Kentucky_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Christian LGBTPeople",
+          "uri":"http://dbpedia.org/class/yago/ChristianLGBTPeople"
+        },
+        {
+          "label":"Eastern Kentucky University Alumni",
+          "uri":"http://dbpedia.org/class/yago/EasternKentuckyUniversityAlumni"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"Christian LGBT people",
+          "uri":"http://dbpedia.org/resource/Christian_LGBT_people"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth",
+      "label":"Elizabeth",
+      "offsets":[
+        {
+          "offset":53,
+          "length":9
+        },
+        {
+          "offset":184,
+          "length":9
+        },
+        {
+          "offset":53,
+          "length":9
+        },
+        {
+          "offset":184,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Feminine given names",
+          "uri":"http://dbpedia.org/resource/Feminine_given_names"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth_Vargas",
+      "label":"Elizabeth Vargas",
+      "offsets":[
+        {
+          "offset":53,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"American television news anchors",
+          "uri":"http://dbpedia.org/resource/American_television_news_anchors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Chicago television anchors",
+          "uri":"http://dbpedia.org/resource/Chicago_television_anchors"
+        },
+        {
+          "label":"American reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_reporters_and_correspondents"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sam_Champion",
+      "label":"Sam Champion",
+      "offsets":[
+        {
+          "offset":258,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Eastern Kentucky University alumni",
+          "uri":"http://dbpedia.org/resource/Eastern_Kentucky_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Christian LGBTPeople",
+          "uri":"http://dbpedia.org/class/yago/ChristianLGBTPeople"
+        },
+        {
+          "label":"Eastern Kentucky University Alumni",
+          "uri":"http://dbpedia.org/class/yago/EasternKentuckyUniversityAlumni"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"Christian LGBT people",
+          "uri":"http://dbpedia.org/resource/Christian_LGBT_people"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth",
+      "label":"Elizabeth",
+      "offsets":[
+        {
+          "offset":53,
+          "length":9
+        },
+        {
+          "offset":184,
+          "length":9
+        },
+        {
+          "offset":53,
+          "length":9
+        },
+        {
+          "offset":184,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Feminine given names",
+          "uri":"http://dbpedia.org/resource/Feminine_given_names"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Elizabeth_Vargas",
+      "label":"Elizabeth Vargas",
+      "offsets":[
+        {
+          "offset":53,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"American television news anchors",
+          "uri":"http://dbpedia.org/resource/American_television_news_anchors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Chicago television anchors",
+          "uri":"http://dbpedia.org/resource/Chicago_television_anchors"
+        },
+        {
+          "label":"American reporters and correspondents",
+          "uri":"http://dbpedia.org/resource/American_reporters_and_correspondents"
+        },
+        {
+          "label":"American television journalists",
+          "uri":"http://dbpedia.org/resource/American_television_journalists"
+        }
+      ]
+    }
+  ]
+}

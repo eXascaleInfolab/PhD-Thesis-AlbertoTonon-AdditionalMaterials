@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Hafez al-Assad",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arab Nationalists",
+                    "uri": "http://dbpedia.org/class/yago/ArabNationalists"
+                },
+                {
+                    "label": "national president",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "head of state",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjnc5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "president of an organization",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rwJmRJZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Syrian Politicians",
+                    "uri": "http://dbpedia.org/class/yago/SyrianPoliticians"
+                },
+                {
+                    "label": "President Head Of Government Or Head Of State",
+                    "uri": "http://umbel.org/umbel/sc/President_HeadOfGovernmentOrHeadOfState"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "national president",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hafez_al-Assad"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0746",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hafez al-Assad",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arab Nationalists",
+                    "uri": "http://dbpedia.org/class/yago/ArabNationalists"
+                },
+                {
+                    "label": "national president",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "head of state",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjnc5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "president of an organization",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rwJmRJZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Syrian Politicians",
+                    "uri": "http://dbpedia.org/class/yago/SyrianPoliticians"
+                },
+                {
+                    "label": "President Head Of Government Or Head Of State",
+                    "uri": "http://umbel.org/umbel/sc/President_HeadOfGovernmentOrHeadOfState"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "national president",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hafez_al-Assad"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

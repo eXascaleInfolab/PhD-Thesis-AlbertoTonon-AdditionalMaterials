@@ -1,0 +1,917 @@
+{
+  "mainText":"The staff at the Tribeca Grand hotel let Mr. Doyle use the lounge as his office.\nDuring dinner in his personal booth, he reminisced about good times with Ms. Lohan: attending the White House Correspondents\u2019 Dinner (he said Mitt Romney asked to have his photo taken with her); hanging out with Kristen Wiig at a \u201cSaturday Night Live\u201d after-party; and spending New Year\u2019s Eve with Woody Allen and Soon-Yi Previn in 2011.",
+  "shownText":"The staff at the Tribeca Grand hotel let Mr. Doyle use the lounge as his office.\nDuring dinner in his personal booth, he reminisced about good times with Ms. Lohan: attending the White House Correspondents\u2019 Dinner (he said Mitt Romney asked to have his photo taken with her); hanging out with Kristen Wiig at a \u201cSaturday Night Live\u201d after-party; and spending New Year\u2019s Eve with Woody Allen and Soon-Yi Previn in 2011.",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"P-0257",
+  "elementNumber":40,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Woody_Allen",
+      "label":"Woody Allen",
+      "offsets":[
+        {
+          "offset":379,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"comedic actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwDq49pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American short story writers",
+          "uri":"http://dbpedia.org/resource/American_short_story_writers"
+        },
+        {
+          "label":"People From Brooklyn",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"American vegetarians",
+          "uri":"http://dbpedia.org/resource/American_vegetarians"
+        },
+        {
+          "label":"American Short Story Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanShortStoryWriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Jewish American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+        },
+        {
+          "label":"Best Original Screenplay Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Original_Screenplay_Academy_Award_winners"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"American Jazz Clarinetists",
+          "uri":"http://dbpedia.org/class/yago/AmericanJazzClarinetists"
+        },
+        {
+          "label":"American Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanStand-upComedians"
+        },
+        {
+          "label":"English-language Film Directors",
+          "uri":"http://dbpedia.org/class/yago/English-languageFilmDirectors"
+        },
+        {
+          "label":"American Dixieland Revivalists",
+          "uri":"http://dbpedia.org/class/yago/AmericanDixielandRevivalists"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"C%E9sar Award winners",
+          "uri":"http://dbpedia.org/resource/C%E9sar_Award_winners"
+        },
+        {
+          "label":"Jewish comedy and humor",
+          "uri":"http://dbpedia.org/resource/Jewish_comedy_and_humor"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Best Director Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+        },
+        {
+          "label":"Dixieland Revivalist Clarinetists",
+          "uri":"http://dbpedia.org/class/yago/DixielandRevivalistClarinetists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"American Dixieland revivalists",
+          "uri":"http://dbpedia.org/resource/American_Dixieland_revivalists"
+        },
+        {
+          "label":"English-language film directors",
+          "uri":"http://dbpedia.org/resource/English-language_film_directors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"Jewish American film directors",
+          "uri":"http://dbpedia.org/resource/Jewish_American_film_directors"
+        },
+        {
+          "label":"American Vegetarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanVegetarians"
+        },
+        {
+          "label":"American jazz clarinetists",
+          "uri":"http://dbpedia.org/resource/American_jazz_clarinetists"
+        },
+        {
+          "label":"Dixieland revivalist clarinetists",
+          "uri":"http://dbpedia.org/resource/Dixieland_revivalist_clarinetists"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"New York Actors",
+          "uri":"http://dbpedia.org/class/yago/NewYorkActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soon-Yi_Previn",
+      "label":"Soon-Yi Previn",
+      "offsets":[
+        {
+          "offset":395,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Drew University alumni",
+          "uri":"http://dbpedia.org/resource/Drew_University_alumni"
+        },
+        {
+          "label":"American adoptees",
+          "uri":"http://dbpedia.org/resource/American_adoptees"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        },
+        {
+          "label":"Columbia University Alumni",
+          "uri":"http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kristen_Wiig",
+      "label":"Kristen Wiig",
+      "offsets":[
+        {
+          "offset":293,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American impressionists (entertainers)",
+          "uri":"http://dbpedia.org/resource/American_impressionists_%28entertainers%29"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"People From Rochester,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromRochester,NewYork"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedians"
+        },
+        {
+          "label":"Groundlings",
+          "uri":"http://dbpedia.org/class/yago/Groundlings"
+        },
+        {
+          "label":"New York Actors",
+          "uri":"http://dbpedia.org/class/yago/NewYorkActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mitt_Romney",
+      "label":"Mitt Romney",
+      "offsets":[
+        {
+          "offset":223,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Brigham Young University Alumni",
+          "uri":"http://dbpedia.org/class/yago/BrighamYoungUniversityAlumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"People From Detroit",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDetroit"
+        },
+        {
+          "label":"Saint",
+          "uri":"http://dbpedia.org/class/yago/Saint110546850"
+        },
+        {
+          "label":"Stanford University Alumni",
+          "uri":"http://dbpedia.org/class/yago/StanfordUniversityAlumni"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"Alumnus",
+          "uri":"http://dbpedia.org/class/yago/Alumnus109786338"
+        },
+        {
+          "label":"Cranbrook Alumni",
+          "uri":"http://dbpedia.org/class/yago/CranbrookAlumni"
+        },
+        {
+          "label":"Republican",
+          "uri":"http://dbpedia.org/class/yago/Republican110522495"
+        },
+        {
+          "label":"Brigham Young University alumni",
+          "uri":"http://dbpedia.org/resource/Brigham_Young_University_alumni"
+        },
+        {
+          "label":"Governors Of Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfMassachusetts"
+        },
+        {
+          "label":"People From Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMassachusetts"
+        },
+        {
+          "label":"Massachusetts Republicans",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsRepublicans"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Person",
+          "uri":"http://www.w3.org/2000/10/swap/pim/contact#Person"
+        },
+        {
+          "label":"Latter Day Saint bishops",
+          "uri":"http://dbpedia.org/resource/Latter_Day_Saint_bishops"
+        },
+        {
+          "label":"Cranbrook alumni",
+          "uri":"http://dbpedia.org/resource/Cranbrook_alumni"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/resource/American_Latter_Day_Saints"
+        },
+        {
+          "label":"Agent",
+          "uri":"http://xmlns.com/foaf/0.1/Agent"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Agent",
+          "uri":"http://purl.org/dc/terms/Agent"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Mormon Missionaries In France",
+          "uri":"http://dbpedia.org/class/yago/MormonMissionariesInFrance"
+        },
+        {
+          "label":"Stake Presidents Of The Church Of Jesus Christ Of Latter-day Saints",
+          "uri":"http://dbpedia.org/class/yago/StakePresidentsOfTheChurchOfJesusChristOfLatter-daySaints"
+        },
+        {
+          "label":"Bishops Of The Church Of Jesus Christ Of Latter-day Saints",
+          "uri":"http://dbpedia.org/class/yago/BishopsOfTheChurchOfJesusChristOfLatter-daySaints"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"People From Bloomfield Hills,Michigan",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBloomfieldHills,Michigan"
+        },
+        {
+          "label":"Bishop",
+          "uri":"http://dbpedia.org/class/yago/Bishop109857200"
+        },
+        {
+          "label":"Social Entity",
+          "uri":"http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+        },
+        {
+          "label":"Missionary",
+          "uri":"http://dbpedia.org/class/yago/Missionary110322957"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/class/yago/AmericanLatterDaySaints"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Woody_Allen",
+      "label":"Woody Allen",
+      "offsets":[
+        {
+          "offset":379,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"comedic actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwDq49pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American short story writers",
+          "uri":"http://dbpedia.org/resource/American_short_story_writers"
+        },
+        {
+          "label":"People From Brooklyn",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"American vegetarians",
+          "uri":"http://dbpedia.org/resource/American_vegetarians"
+        },
+        {
+          "label":"American Short Story Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanShortStoryWriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Jewish American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+        },
+        {
+          "label":"Best Original Screenplay Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Original_Screenplay_Academy_Award_winners"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"American Jazz Clarinetists",
+          "uri":"http://dbpedia.org/class/yago/AmericanJazzClarinetists"
+        },
+        {
+          "label":"American Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanStand-upComedians"
+        },
+        {
+          "label":"English-language Film Directors",
+          "uri":"http://dbpedia.org/class/yago/English-languageFilmDirectors"
+        },
+        {
+          "label":"American Dixieland Revivalists",
+          "uri":"http://dbpedia.org/class/yago/AmericanDixielandRevivalists"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"C%E9sar Award winners",
+          "uri":"http://dbpedia.org/resource/C%E9sar_Award_winners"
+        },
+        {
+          "label":"Jewish comedy and humor",
+          "uri":"http://dbpedia.org/resource/Jewish_comedy_and_humor"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Best Director Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+        },
+        {
+          "label":"Dixieland Revivalist Clarinetists",
+          "uri":"http://dbpedia.org/class/yago/DixielandRevivalistClarinetists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"American Dixieland revivalists",
+          "uri":"http://dbpedia.org/resource/American_Dixieland_revivalists"
+        },
+        {
+          "label":"English-language film directors",
+          "uri":"http://dbpedia.org/resource/English-language_film_directors"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"Jewish American film directors",
+          "uri":"http://dbpedia.org/resource/Jewish_American_film_directors"
+        },
+        {
+          "label":"American Vegetarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanVegetarians"
+        },
+        {
+          "label":"American jazz clarinetists",
+          "uri":"http://dbpedia.org/resource/American_jazz_clarinetists"
+        },
+        {
+          "label":"Dixieland revivalist clarinetists",
+          "uri":"http://dbpedia.org/resource/Dixieland_revivalist_clarinetists"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"New York Actors",
+          "uri":"http://dbpedia.org/class/yago/NewYorkActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Soon-Yi_Previn",
+      "label":"Soon-Yi Previn",
+      "offsets":[
+        {
+          "offset":395,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Drew University alumni",
+          "uri":"http://dbpedia.org/resource/Drew_University_alumni"
+        },
+        {
+          "label":"American adoptees",
+          "uri":"http://dbpedia.org/resource/American_adoptees"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        },
+        {
+          "label":"Columbia University Alumni",
+          "uri":"http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kristen_Wiig",
+      "label":"Kristen Wiig",
+      "offsets":[
+        {
+          "offset":293,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American comedians",
+          "uri":"http://dbpedia.org/resource/American_comedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American impressionists (entertainers)",
+          "uri":"http://dbpedia.org/resource/American_impressionists_%28entertainers%29"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"People From Rochester,New York",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromRochester,NewYork"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Comedians",
+          "uri":"http://dbpedia.org/class/yago/AmericanComedians"
+        },
+        {
+          "label":"Groundlings",
+          "uri":"http://dbpedia.org/class/yago/Groundlings"
+        },
+        {
+          "label":"New York Actors",
+          "uri":"http://dbpedia.org/class/yago/NewYorkActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mitt_Romney",
+      "label":"Mitt Romney",
+      "offsets":[
+        {
+          "offset":223,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Brigham Young University Alumni",
+          "uri":"http://dbpedia.org/class/yago/BrighamYoungUniversityAlumni"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"People From Detroit",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDetroit"
+        },
+        {
+          "label":"Saint",
+          "uri":"http://dbpedia.org/class/yago/Saint110546850"
+        },
+        {
+          "label":"Stanford University Alumni",
+          "uri":"http://dbpedia.org/class/yago/StanfordUniversityAlumni"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"Alumnus",
+          "uri":"http://dbpedia.org/class/yago/Alumnus109786338"
+        },
+        {
+          "label":"Cranbrook Alumni",
+          "uri":"http://dbpedia.org/class/yago/CranbrookAlumni"
+        },
+        {
+          "label":"Republican",
+          "uri":"http://dbpedia.org/class/yago/Republican110522495"
+        },
+        {
+          "label":"Brigham Young University alumni",
+          "uri":"http://dbpedia.org/resource/Brigham_Young_University_alumni"
+        },
+        {
+          "label":"Governors Of Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfMassachusetts"
+        },
+        {
+          "label":"People From Massachusetts",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMassachusetts"
+        },
+        {
+          "label":"Massachusetts Republicans",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsRepublicans"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Person",
+          "uri":"http://www.w3.org/2000/10/swap/pim/contact#Person"
+        },
+        {
+          "label":"Latter Day Saint bishops",
+          "uri":"http://dbpedia.org/resource/Latter_Day_Saint_bishops"
+        },
+        {
+          "label":"Cranbrook alumni",
+          "uri":"http://dbpedia.org/resource/Cranbrook_alumni"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/resource/American_Latter_Day_Saints"
+        },
+        {
+          "label":"Agent",
+          "uri":"http://xmlns.com/foaf/0.1/Agent"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Agent",
+          "uri":"http://purl.org/dc/terms/Agent"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Mormon Missionaries In France",
+          "uri":"http://dbpedia.org/class/yago/MormonMissionariesInFrance"
+        },
+        {
+          "label":"Stake Presidents Of The Church Of Jesus Christ Of Latter-day Saints",
+          "uri":"http://dbpedia.org/class/yago/StakePresidentsOfTheChurchOfJesusChristOfLatter-daySaints"
+        },
+        {
+          "label":"Bishops Of The Church Of Jesus Christ Of Latter-day Saints",
+          "uri":"http://dbpedia.org/class/yago/BishopsOfTheChurchOfJesusChristOfLatter-daySaints"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"People From Bloomfield Hills,Michigan",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBloomfieldHills,Michigan"
+        },
+        {
+          "label":"Bishop",
+          "uri":"http://dbpedia.org/class/yago/Bishop109857200"
+        },
+        {
+          "label":"Social Entity",
+          "uri":"http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+        },
+        {
+          "label":"Missionary",
+          "uri":"http://dbpedia.org/class/yago/Missionary110322957"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/class/yago/AmericanLatterDaySaints"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        }
+      ]
+    }
+  ]
+}

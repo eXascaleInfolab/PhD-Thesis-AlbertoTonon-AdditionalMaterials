@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Dublin",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "10th century establishments",
+                    "uri": "http://dbpedia.org/resource/10th_century_establishments"
+                },
+                {
+                    "label": "Cities In The Republic Of Ireland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInTheRepublicOfIreland"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "Viking Age Populated Places",
+                    "uri": "http://dbpedia.org/class/yago/VikingAgePopulatedPlaces"
+                },
+                {
+                    "label": "European Capitals Of Culture",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Staple Ports",
+                    "uri": "http://dbpedia.org/class/yago/StaplePorts"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "University Towns",
+                    "uri": "http://dbpedia.org/class/yago/UniversityTowns"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Coastal Places In The Republic Of Ireland",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInTheRepublicOfIreland"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Geoclass Capital Of APolitical Entity",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "County Towns In The Republic Of Ireland",
+                    "uri": "http://dbpedia.org/class/yago/CountyTownsInTheRepublicOfIreland"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dublin"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0531",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dublin",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "10th century establishments",
+                    "uri": "http://dbpedia.org/resource/10th_century_establishments"
+                },
+                {
+                    "label": "Cities In The Republic Of Ireland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInTheRepublicOfIreland"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "Viking Age Populated Places",
+                    "uri": "http://dbpedia.org/class/yago/VikingAgePopulatedPlaces"
+                },
+                {
+                    "label": "European Capitals Of Culture",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Staple Ports",
+                    "uri": "http://dbpedia.org/class/yago/StaplePorts"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "University Towns",
+                    "uri": "http://dbpedia.org/class/yago/UniversityTowns"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Coastal Places In The Republic Of Ireland",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInTheRepublicOfIreland"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Geoclass Capital Of APolitical Entity",
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "County Towns In The Republic Of Ireland",
+                    "uri": "http://dbpedia.org/class/yago/CountyTownsInTheRepublicOfIreland"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dublin"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

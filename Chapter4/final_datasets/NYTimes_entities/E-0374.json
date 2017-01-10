@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Martin Lipton",
+            "types": [
+                {
+                    "label": "American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLawyers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/Lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Martin_Lipton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0374",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Martin Lipton",
+            "types": [
+                {
+                    "label": "American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLawyers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/Lawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Martin_Lipton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

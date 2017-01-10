@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Padua",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Universities And Colleges In Italy",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInItaly"
+                },
+                {
+                    "label": "Educational organizations",
+                    "uri": "http://dbpedia.org/resource/Educational_organizations"
+                },
+                {
+                    "label": "13th century establishments",
+                    "uri": "http://dbpedia.org/resource/13th_century_establishments"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Educational Institutions Established In The13th Century",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe13thCentury"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Padua"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0699",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Padua",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Universities And Colleges In Italy",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInItaly"
+                },
+                {
+                    "label": "Educational organizations",
+                    "uri": "http://dbpedia.org/resource/Educational_organizations"
+                },
+                {
+                    "label": "13th century establishments",
+                    "uri": "http://dbpedia.org/resource/13th_century_establishments"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Educational Institutions Established In The13th Century",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedInThe13thCentury"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Padua"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

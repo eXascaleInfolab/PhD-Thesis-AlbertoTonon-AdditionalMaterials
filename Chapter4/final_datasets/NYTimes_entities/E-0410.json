@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Christine Ololo Atieno",
+            "types": [
+                {
+                    "label": "Kenyan historians",
+                    "uri": "http://dbpedia.org/resource/Kenyan_historians"
+                },
+                {
+                    "label": "Kenyan writers",
+                    "uri": "http://dbpedia.org/resource/Kenyan_writers"
+                },
+                {
+                    "label": "Kenyan Writers",
+                    "uri": "http://dbpedia.org/class/yago/KenyanWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Atieno_Odhiambo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0410",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Christine Ololo Atieno",
+            "types": [
+                {
+                    "label": "Kenyan historians",
+                    "uri": "http://dbpedia.org/resource/Kenyan_historians"
+                },
+                {
+                    "label": "Kenyan writers",
+                    "uri": "http://dbpedia.org/resource/Kenyan_writers"
+                },
+                {
+                    "label": "Kenyan Writers",
+                    "uri": "http://dbpedia.org/class/yago/KenyanWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Atieno_Odhiambo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Ban Ki-moon",
+            "types": [
+                {
+                    "label": "South Korean Diplomats",
+                    "uri": "http://dbpedia.org/class/yago/SouthKoreanDiplomats"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "United Nations Officials",
+                    "uri": "http://dbpedia.org/class/yago/UnitedNationsOfficials"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Seoul National University People",
+                    "uri": "http://dbpedia.org/class/yago/SeoulNationalUniversityPeople"
+                },
+                {
+                    "label": "South Korean Politicians",
+                    "uri": "http://dbpedia.org/class/yago/SouthKoreanPoliticians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "People From Chungcheongbuk-do",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChungcheongbuk-do"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Polyglots",
+                    "uri": "http://dbpedia.org/class/yago/Polyglots"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ban_Ki-moon"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0112",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ban Ki-moon",
+            "types": [
+                {
+                    "label": "South Korean Diplomats",
+                    "uri": "http://dbpedia.org/class/yago/SouthKoreanDiplomats"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "United Nations Officials",
+                    "uri": "http://dbpedia.org/class/yago/UnitedNationsOfficials"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Seoul National University People",
+                    "uri": "http://dbpedia.org/class/yago/SeoulNationalUniversityPeople"
+                },
+                {
+                    "label": "South Korean Politicians",
+                    "uri": "http://dbpedia.org/class/yago/SouthKoreanPoliticians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "People From Chungcheongbuk-do",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChungcheongbuk-do"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Polyglots",
+                    "uri": "http://dbpedia.org/class/yago/Polyglots"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ban_Ki-moon"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

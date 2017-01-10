@@ -1,0 +1,293 @@
+{
+  "mainText":"The Columbus Blue Jackets\u2019 announcement that Artem Anisimov is out with an \u201cupper body injury\u201d is allowed under those guidelines, even though he was taken off the ice in Detroit on a stretcher Thursday after his head was driven into the ice by the elbow of a falling Red Wing, Kyle Quincey.",
+  "shownText":"The Columbus Blue Jackets\u2019 announcement that Artem Anisimov is out with an \u201cupper body injury\u201d is allowed under those guidelines, even though he was taken off the ice in Detroit on a stretcher Thursday after his head was driven into the ice by the elbow of a falling Red Wing, Kyle Quincey.",
+  "title":"A Wave of Concussions Hits the N.H.L. - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/sports/hockey/another-wave-of-concussions-hits-nhl.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0272",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Detroit",
+      "label":"Detroit",
+      "offsets":[
+        {
+          "offset":170,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Artem_Anisimov",
+      "label":"Artem Anisimov",
+      "offsets":[
+        {
+          "offset":45,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets",
+      "label":"Columbus Blue Jackets",
+      "offsets":[
+        {
+          "offset":4,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Sports Clubs Established In2000",
+          "uri":"http://dbpedia.org/class/yago/SportsClubsEstablishedIn2000"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"ice hockey team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQr-W5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Sports In Ohio",
+          "uri":"http://dbpedia.org/class/yago/SportsInOhio"
+        },
+        {
+          "label":"20th century establishments",
+          "uri":"http://dbpedia.org/resource/20th_century_establishments"
+        },
+        {
+          "label":"Hockey Team",
+          "uri":"http://dbpedia.org/ontology/HockeyTeam"
+        },
+        {
+          "label":"Athletic Activity",
+          "uri":"http://umbel.org/umbel/sc/AthleticActivity"
+        },
+        {
+          "label":"Sports Team",
+          "uri":"http://dbpedia.org/ontology/SportsTeam"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kyle_Quincey",
+      "label":"Kyle Quincey",
+      "offsets":[
+        {
+          "offset":277,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Grand Rapids Griffins players",
+          "uri":"http://dbpedia.org/resource/Grand_Rapids_Griffins_players"
+        },
+        {
+          "label":"Mississauga Ice Dogs Alumni",
+          "uri":"http://dbpedia.org/class/yago/MississaugaIceDogsAlumni"
+        },
+        {
+          "label":"Detroit Red Wings players",
+          "uri":"http://dbpedia.org/resource/Detroit_Red_Wings_players"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Detroit",
+      "label":"Detroit",
+      "offsets":[
+        {
+          "offset":170,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Artem_Anisimov",
+      "label":"Artem Anisimov",
+      "offsets":[
+        {
+          "offset":45,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Hartford Wolf Pack players",
+          "uri":"http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+        },
+        {
+          "label":"Player",
+          "uri":"http://dbpedia.org/class/yago/Player110439851"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Columbus_Blue_Jackets",
+      "label":"Columbus Blue Jackets",
+      "offsets":[
+        {
+          "offset":4,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Sports Clubs Established In2000",
+          "uri":"http://dbpedia.org/class/yago/SportsClubsEstablishedIn2000"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"ice hockey team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQr-W5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Sports In Ohio",
+          "uri":"http://dbpedia.org/class/yago/SportsInOhio"
+        },
+        {
+          "label":"20th century establishments",
+          "uri":"http://dbpedia.org/resource/20th_century_establishments"
+        },
+        {
+          "label":"Hockey Team",
+          "uri":"http://dbpedia.org/ontology/HockeyTeam"
+        },
+        {
+          "label":"Athletic Activity",
+          "uri":"http://umbel.org/umbel/sc/AthleticActivity"
+        },
+        {
+          "label":"Sports Team",
+          "uri":"http://dbpedia.org/ontology/SportsTeam"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kyle_Quincey",
+      "label":"Kyle Quincey",
+      "offsets":[
+        {
+          "offset":277,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Grand Rapids Griffins players",
+          "uri":"http://dbpedia.org/resource/Grand_Rapids_Griffins_players"
+        },
+        {
+          "label":"Mississauga Ice Dogs Alumni",
+          "uri":"http://dbpedia.org/class/yago/MississaugaIceDogsAlumni"
+        },
+        {
+          "label":"Detroit Red Wings players",
+          "uri":"http://dbpedia.org/resource/Detroit_Red_Wings_players"
+        },
+        {
+          "label":"Ice hockey personnel from Ontario",
+          "uri":"http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+        },
+        {
+          "label":"Canadian ice hockey defencemen",
+          "uri":"http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+        }
+      ]
+    }
+  ]
+}

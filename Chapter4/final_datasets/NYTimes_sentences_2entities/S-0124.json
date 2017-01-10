@@ -1,0 +1,149 @@
+{
+  "mainText":"When Sergeant Lawrence showed up at a teenager\u2019s apartment to drop off information about a free trip to Alaska, the teenager\u2019s father brought up a recent stop-and-frisk police encounter.",
+  "shownText":"When Sergeant Lawrence showed up at a teenager\u2019s apartment to drop off information about a free trip to Alaska, the teenager\u2019s father brought up a recent stop-and-frisk police encounter.",
+  "title":"For Troubled Teenagers in New York City, a New Tack -  Forced Outreach - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/nyregion/to-stem-juvenile-robberies-police-trail-youths-before-the-crime.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"S-0124",
+  "elementNumber":135,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lawrence",
+      "label":"Lawrence",
+      "offsets":[
+        {
+          "offset":14,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alaska",
+      "label":"Alaska",
+      "offsets":[
+        {
+          "offset":104,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Exclaves",
+          "uri":"http://dbpedia.org/class/yago/Exclaves"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Lawrence",
+      "label":"Lawrence",
+      "offsets":[
+        {
+          "offset":14,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Alaska",
+      "label":"Alaska",
+      "offsets":[
+        {
+          "offset":104,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Exclaves",
+          "uri":"http://dbpedia.org/class/yago/Exclaves"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

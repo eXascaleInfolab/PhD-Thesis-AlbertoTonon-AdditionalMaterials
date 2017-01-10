@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Ruff",
+            "types": [
+                {
+                    "label": "British Isles coastal fauna",
+                    "uri": "http://dbpedia.org/resource/British_Isles_coastal_fauna"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                },
+                {
+                    "label": "Bird",
+                    "uri": "http://dbpedia.org/ontology/Bird"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ruff"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0756",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ruff",
+            "types": [
+                {
+                    "label": "British Isles coastal fauna",
+                    "uri": "http://dbpedia.org/resource/British_Isles_coastal_fauna"
+                },
+                {
+                    "label": "Eukaryote",
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                },
+                {
+                    "label": "Bird",
+                    "uri": "http://dbpedia.org/ontology/Bird"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ruff"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

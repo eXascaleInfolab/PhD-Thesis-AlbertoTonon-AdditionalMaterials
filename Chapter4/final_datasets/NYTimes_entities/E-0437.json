@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Gucci",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Gucci brands",
+                    "uri": "http://dbpedia.org/resource/Gucci_brands"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "High fashion brands",
+                    "uri": "http://dbpedia.org/resource/High_fashion_brands"
+                },
+                {
+                    "label": "Clothing brands",
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gucci"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0437",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gucci",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Gucci brands",
+                    "uri": "http://dbpedia.org/resource/Gucci_brands"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "High fashion brands",
+                    "uri": "http://dbpedia.org/resource/High_fashion_brands"
+                },
+                {
+                    "label": "Clothing brands",
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gucci"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

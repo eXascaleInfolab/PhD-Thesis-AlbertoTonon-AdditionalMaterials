@@ -1,0 +1,101 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 122
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "S-0253", 
+    "elementNumber": 16, 
+    "mainEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 122
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 0
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "mainText": "Fox Sports 1 will join a market that is far more crowded than it was when Murdoch first contemplated squaring off against ESPN.", 
+    "shownText": "Fox Sports 1 will join a market that is far more crowded than it was when Murdoch first contemplated squaring off against ESPN.", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

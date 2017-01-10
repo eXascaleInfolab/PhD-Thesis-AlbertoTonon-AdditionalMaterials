@@ -1,0 +1,189 @@
+{
+  "mainText":"Barnes & Noble said in a statement that it had formed a special board committee of three directors \u2013 David G. Golden, David A. Wilson and Patricia L. Higgins \u2013 to consider Mr. Riggio\u2019s proposal.\nThe committee will be advised by Evercore Partners and the law firm Paul, Weiss, Rifkind, Wharton & Garrison.",
+  "shownText":"Mr. Riggio, plans to negotiate the price with the board, according to a regulatory filing.\nThe proposal is expected to be mainly in cash.\nThe retailer\u2019s board had already been weighing whether to spin off its Nook unit.\n\nBarnes & Noble said in a statement that it had formed a special board committee of three directors \u2013 David G. Golden, David A. Wilson and Patricia L. Higgins \u2013 to consider Mr. Riggio\u2019s proposal.\nThe committee will be advised by Evercore Partners and the law firm Paul, Weiss, Rifkind, Wharton & Garrison.\n\nCorrection: February 25, 2013\n",
+  "title":"Barnes &amp; Noble Chairman Leonard Riggio to Bid for Bookstore&#039;s Retail Business - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/barnes-noble-chairma-to-bid-for-bookstores-retail-business/",
+  "category":"dealbook",
+  "docID":"P3-0081",
+  "elementNumber":13,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":4,
+          "length":6
+        },
+        {
+          "offset":397,
+          "length":6
+        },
+        {
+          "offset":4,
+          "length":6
+        },
+        {
+          "offset":397,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Evercore_Partners",
+      "label":"Evercore Partners",
+      "offsets":[
+        {
+          "offset":449,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1996",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":221,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":4,
+          "length":6
+        },
+        {
+          "offset":397,
+          "length":6
+        },
+        {
+          "offset":4,
+          "length":6
+        },
+        {
+          "offset":397,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Evercore_Partners",
+      "label":"Evercore Partners",
+      "offsets":[
+        {
+          "offset":449,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1996",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":221,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ]
+}

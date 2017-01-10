@@ -1,0 +1,221 @@
+{
+  "mainText":"Ms. Burwell would take over for Jacob J. Lew, now the Treasury secretary, who left the budget post in early 2012 to become the White House chief of staff.\nJeffrey Zients has held the title of acting director since then.",
+  "shownText":"The budget office helps the White House develop its spending policies, including its overdue budget proposal for the 2014 fiscal year, which begins in October.\nThat budget might include many of the economic priorities Mr. Obama laid out in his State of the Union address , like a major expansion of early childhood education programs.\n\nMs. Burwell would take over for Jacob J. Lew, now the Treasury secretary, who left the budget post in early 2012 to become the White House chief of staff.\nJeffrey Zients has held the title of acting director since then.\n\nA version of this article appeared in print on March 4, 2013, on page A14 of the New York edition with the headline: Obama Picks Foundation President for Budget Chief.\n",
+  "title":"Sylvia Mathews Burwell Picked for Budget Chief - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/us/politics/obama-picks-foundation-president-for-budget-chief.html",
+  "category":"politics",
+  "docID":"P3-0160",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Jeffrey_Zients",
+      "label":"Jeffrey Zients",
+      "offsets":[
+        {
+          "offset":491,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":28,
+          "length":11
+        },
+        {
+          "offset":463,
+          "length":11
+        },
+        {
+          "offset":28,
+          "length":11
+        },
+        {
+          "offset":463,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Jeffrey_Zients",
+      "label":"Jeffrey Zients",
+      "offsets":[
+        {
+          "offset":491,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":28,
+          "length":11
+        },
+        {
+          "offset":463,
+          "length":11
+        },
+        {
+          "offset":28,
+          "length":11
+        },
+        {
+          "offset":463,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ]
+}

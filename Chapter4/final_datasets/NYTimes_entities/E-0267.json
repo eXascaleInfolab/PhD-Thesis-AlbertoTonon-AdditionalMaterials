@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Middle East",
+            "types": [
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Economies By Region",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                },
+                {
+                    "label": "ethnic groups in the region hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+                },
+                {
+                    "label": "KE clarifying collection type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+                },
+                {
+                    "label": "ethnic group",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Middle_East"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0267",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Middle East",
+            "types": [
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Economies By Region",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                },
+                {
+                    "label": "ethnic groups in the region hormuz area topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+                },
+                {
+                    "label": "KE clarifying collection type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rOEevWKNuQdiN04S0lcdxLw"
+                },
+                {
+                    "label": "ethnic group",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Middle_East"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Katherine Lapp",
+            "types": [
+                {
+                    "label": "State Cabinet Secretaries Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StateCabinetSecretariesOfTheUnitedStates"
+                },
+                {
+                    "label": "American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticians"
+                },
+                {
+                    "label": "New York Politicians",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkPoliticians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Katherine_Lapp"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0051",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Katherine Lapp",
+            "types": [
+                {
+                    "label": "State Cabinet Secretaries Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StateCabinetSecretariesOfTheUnitedStates"
+                },
+                {
+                    "label": "American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticians"
+                },
+                {
+                    "label": "New York Politicians",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkPoliticians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Katherine_Lapp"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

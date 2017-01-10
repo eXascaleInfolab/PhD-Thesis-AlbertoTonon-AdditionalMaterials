@@ -1,0 +1,453 @@
+{
+  "mainText":"He breathed life into Cuba, the hemisphere\u2019s only Communist nation, with economic assistance; its revolutionary leader, Fidel Castro, was not only an ally but also an inspiration.",
+  "shownText":"He breathed life into Cuba, the hemisphere\u2019s only Communist nation, with economic assistance; its revolutionary leader, Fidel Castro, was not only an ally but also an inspiration.",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"S-0394",
+  "elementNumber":28,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":22,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fidel_Castro",
+      "label":"Fidel Castro",
+      "offsets":[
+        {
+          "offset":120,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Cuban Communists",
+          "uri":"http://dbpedia.org/class/yago/CubanCommunists"
+        },
+        {
+          "label":"People Excommunicated By The Roman Catholic Church",
+          "uri":"http://dbpedia.org/class/yago/PeopleExcommunicatedByTheRomanCatholicChurch"
+        },
+        {
+          "label":"Cuban soldiers",
+          "uri":"http://dbpedia.org/resource/Cuban_soldiers"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Cuban revolutionaries",
+          "uri":"http://dbpedia.org/resource/Cuban_revolutionaries"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Fidel Castro family members",
+          "uri":"http://dbpedia.org/resource/Fidel_Castro_family_members"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cuban Revolutionaries",
+          "uri":"http://dbpedia.org/class/yago/CubanRevolutionaries"
+        },
+        {
+          "label":"Communist Rulers",
+          "uri":"http://dbpedia.org/class/yago/CommunistRulers"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Cuban communists",
+          "uri":"http://dbpedia.org/resource/Cuban_communists"
+        },
+        {
+          "label":"Cold War leaders",
+          "uri":"http://dbpedia.org/resource/Cold_War_leaders"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"head of state",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjnc5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Santiago De Cuba Province",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSantiagoDeCubaProvince"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Cold War Leaders",
+          "uri":"http://dbpedia.org/class/yago/ColdWarLeaders"
+        },
+        {
+          "label":"Presidents Of Cuba",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfCuba"
+        },
+        {
+          "label":"Cuban",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmrJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Communist rulers",
+          "uri":"http://dbpedia.org/resource/Communist_rulers"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cuban Atheists",
+          "uri":"http://dbpedia.org/class/yago/CubanAtheists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Cuban Soldiers",
+          "uri":"http://dbpedia.org/class/yago/CubanSoldiers"
+        },
+        {
+          "label":"president of an organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwJmRJZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cuban atheists",
+          "uri":"http://dbpedia.org/resource/Cuban_atheists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"President Head Of Government Or Head Of State",
+          "uri":"http://umbel.org/umbel/sc/President_HeadOfGovernmentOrHeadOfState"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Cuba",
+      "label":"Cuba",
+      "offsets":[
+        {
+          "offset":22,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Spanish-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/Spanish-speakingCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"island",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Communist States",
+          "uri":"http://dbpedia.org/class/yago/CommunistStates"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fidel_Castro",
+      "label":"Fidel Castro",
+      "offsets":[
+        {
+          "offset":120,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Cuban Communists",
+          "uri":"http://dbpedia.org/class/yago/CubanCommunists"
+        },
+        {
+          "label":"People Excommunicated By The Roman Catholic Church",
+          "uri":"http://dbpedia.org/class/yago/PeopleExcommunicatedByTheRomanCatholicChurch"
+        },
+        {
+          "label":"Cuban soldiers",
+          "uri":"http://dbpedia.org/resource/Cuban_soldiers"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Cuban revolutionaries",
+          "uri":"http://dbpedia.org/resource/Cuban_revolutionaries"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Fidel Castro family members",
+          "uri":"http://dbpedia.org/resource/Fidel_Castro_family_members"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cuban Revolutionaries",
+          "uri":"http://dbpedia.org/class/yago/CubanRevolutionaries"
+        },
+        {
+          "label":"Communist Rulers",
+          "uri":"http://dbpedia.org/class/yago/CommunistRulers"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Cuban communists",
+          "uri":"http://dbpedia.org/resource/Cuban_communists"
+        },
+        {
+          "label":"Cold War leaders",
+          "uri":"http://dbpedia.org/resource/Cold_War_leaders"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"head of state",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjnc5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Santiago De Cuba Province",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSantiagoDeCubaProvince"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Cold War Leaders",
+          "uri":"http://dbpedia.org/class/yago/ColdWarLeaders"
+        },
+        {
+          "label":"Presidents Of Cuba",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfCuba"
+        },
+        {
+          "label":"Cuban",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmrJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Communist rulers",
+          "uri":"http://dbpedia.org/resource/Communist_rulers"
+        },
+        {
+          "label":"national president",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVjknpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cuban Atheists",
+          "uri":"http://dbpedia.org/class/yago/CubanAtheists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Cuban Soldiers",
+          "uri":"http://dbpedia.org/class/yago/CubanSoldiers"
+        },
+        {
+          "label":"president of an organization",
+          "uri":"http://sw.opencyc.org/concept/Mx4rwJmRJZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cuban atheists",
+          "uri":"http://dbpedia.org/resource/Cuban_atheists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"President Head Of Government Or Head Of State",
+          "uri":"http://umbel.org/umbel/sc/President_HeadOfGovernmentOrHeadOfState"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    }
+  ]
+}

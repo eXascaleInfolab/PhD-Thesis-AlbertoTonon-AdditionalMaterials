@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Ashkelon",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Cities In Israel",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInIsrael"
+                },
+                {
+                    "label": "Amarna Letters Locations",
+                    "uri": "http://dbpedia.org/class/yago/AmarnaLettersLocations"
+                },
+                {
+                    "label": "Archaeological Sites In Israel",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInIsrael"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities In Israel",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCitiesInIsrael"
+                },
+                {
+                    "label": "Crusade places",
+                    "uri": "http://dbpedia.org/resource/Crusade_places"
+                },
+                {
+                    "label": "Hebrew Bible Cities",
+                    "uri": "http://dbpedia.org/class/yago/HebrewBibleCities"
+                },
+                {
+                    "label": "Hebrew Bible cities",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Crusade Places",
+                    "uri": "http://dbpedia.org/class/yago/CrusadePlaces"
+                },
+                {
+                    "label": "Amarna letters locations",
+                    "uri": "http://dbpedia.org/resource/Amarna_letters_locations"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ashkelon"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0534",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ashkelon",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Cities In Israel",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInIsrael"
+                },
+                {
+                    "label": "Amarna Letters Locations",
+                    "uri": "http://dbpedia.org/class/yago/AmarnaLettersLocations"
+                },
+                {
+                    "label": "Archaeological Sites In Israel",
+                    "uri": "http://dbpedia.org/class/yago/ArchaeologicalSitesInIsrael"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities In Israel",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCitiesInIsrael"
+                },
+                {
+                    "label": "Crusade places",
+                    "uri": "http://dbpedia.org/resource/Crusade_places"
+                },
+                {
+                    "label": "Hebrew Bible Cities",
+                    "uri": "http://dbpedia.org/class/yago/HebrewBibleCities"
+                },
+                {
+                    "label": "Hebrew Bible cities",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Crusade Places",
+                    "uri": "http://dbpedia.org/class/yago/CrusadePlaces"
+                },
+                {
+                    "label": "Amarna letters locations",
+                    "uri": "http://dbpedia.org/resource/Amarna_letters_locations"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ashkelon"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

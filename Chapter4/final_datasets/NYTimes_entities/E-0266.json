@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "George Szell",
+            "types": [
+                {
+                    "label": "Hungarian conductors",
+                    "uri": "http://dbpedia.org/resource/Hungarian_conductors"
+                },
+                {
+                    "label": "Converts To Roman Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Jewish classical musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                },
+                {
+                    "label": "American conductors",
+                    "uri": "http://dbpedia.org/resource/American_conductors"
+                },
+                {
+                    "label": "Converts to Roman Catholicism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/George_Szell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0266",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "George Szell",
+            "types": [
+                {
+                    "label": "Hungarian conductors",
+                    "uri": "http://dbpedia.org/resource/Hungarian_conductors"
+                },
+                {
+                    "label": "Converts To Roman Catholicism",
+                    "uri": "http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+                },
+                {
+                    "label": "Naturalized Citizens Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+                },
+                {
+                    "label": "Jewish classical musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_classical_musicians"
+                },
+                {
+                    "label": "American conductors",
+                    "uri": "http://dbpedia.org/resource/American_conductors"
+                },
+                {
+                    "label": "Converts to Roman Catholicism",
+                    "uri": "http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/George_Szell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,421 @@
+{
+  "mainText":"Then, after spending much of his junior year in New York and becoming involved with Act Up, the famously combative AIDS organization founded by the playwright Larry Kramer, Mr. Cox dropped out of Bennington and moved to Manhattan.",
+  "shownText":"Then, after spending much of his junior year in New York and becoming involved with Act Up, the famously combative AIDS organization founded by the playwright Larry Kramer, Mr. Cox dropped out of Bennington and moved to Manhattan.",
+  "title":"What Really Killed Spencer Cox, AIDS activist? - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/fashion/what-really-killed-spencer-cox-aids-activist.html?ref=style",
+  "category":"style",
+  "docID":"S-0298",
+  "elementNumber":28,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Larry_Kramer",
+      "label":"Larry Kramer",
+      "offsets":[
+        {
+          "offset":159,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American novelists",
+          "uri":"http://dbpedia.org/resource/American_novelists"
+        },
+        {
+          "label":"Jewish American activists",
+          "uri":"http://dbpedia.org/resource/Jewish_American_activists"
+        },
+        {
+          "label":"HIV-positive People",
+          "uri":"http://dbpedia.org/class/yago/HIV-positivePeople"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"Gay writers",
+          "uri":"http://dbpedia.org/resource/Gay_writers"
+        },
+        {
+          "label":"LGBT screenwriters",
+          "uri":"http://dbpedia.org/resource/LGBT_screenwriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"LGBTPeople From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+        },
+        {
+          "label":"LGBT rights activists from the United States",
+          "uri":"http://dbpedia.org/resource/LGBT_rights_activists_from_the_United_States"
+        },
+        {
+          "label":"Gay Writers",
+          "uri":"http://dbpedia.org/class/yago/GayWriters"
+        },
+        {
+          "label":"American dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/American_dramatists_and_playwrights"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"AIDSActivists",
+          "uri":"http://dbpedia.org/class/yago/AIDSActivists"
+        },
+        {
+          "label":"AIDS activists",
+          "uri":"http://dbpedia.org/resource/AIDS_activists"
+        },
+        {
+          "label":"LGBT Jews",
+          "uri":"http://dbpedia.org/resource/LGBT_Jews"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/ontology/Writer"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"LGBTRights Activists From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"American Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+        },
+        {
+          "label":"LGBTScreenwriters",
+          "uri":"http://dbpedia.org/class/yago/LGBTScreenwriters"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish American Activists",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanActivists"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"HIV-positive people",
+          "uri":"http://dbpedia.org/resource/HIV-positive_people"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"American Novelists",
+          "uri":"http://dbpedia.org/class/yago/AmericanNovelists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":220,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Larry_Kramer",
+      "label":"Larry Kramer",
+      "offsets":[
+        {
+          "offset":159,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American novelists",
+          "uri":"http://dbpedia.org/resource/American_novelists"
+        },
+        {
+          "label":"Jewish American activists",
+          "uri":"http://dbpedia.org/resource/Jewish_American_activists"
+        },
+        {
+          "label":"HIV-positive People",
+          "uri":"http://dbpedia.org/class/yago/HIV-positivePeople"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"Gay writers",
+          "uri":"http://dbpedia.org/resource/Gay_writers"
+        },
+        {
+          "label":"LGBT screenwriters",
+          "uri":"http://dbpedia.org/resource/LGBT_screenwriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"LGBTPeople From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedStates"
+        },
+        {
+          "label":"LGBT rights activists from the United States",
+          "uri":"http://dbpedia.org/resource/LGBT_rights_activists_from_the_United_States"
+        },
+        {
+          "label":"Gay Writers",
+          "uri":"http://dbpedia.org/class/yago/GayWriters"
+        },
+        {
+          "label":"American dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/American_dramatists_and_playwrights"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"AIDSActivists",
+          "uri":"http://dbpedia.org/class/yago/AIDSActivists"
+        },
+        {
+          "label":"AIDS activists",
+          "uri":"http://dbpedia.org/resource/AIDS_activists"
+        },
+        {
+          "label":"LGBT Jews",
+          "uri":"http://dbpedia.org/resource/LGBT_Jews"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/ontology/Writer"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"LGBTRights Activists From The United States",
+          "uri":"http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"American Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+        },
+        {
+          "label":"LGBTScreenwriters",
+          "uri":"http://dbpedia.org/class/yago/LGBTScreenwriters"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish American Activists",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanActivists"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"HIV-positive people",
+          "uri":"http://dbpedia.org/resource/HIV-positive_people"
+        },
+        {
+          "label":"Jewish American Writers",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanWriters"
+        },
+        {
+          "label":"American Novelists",
+          "uri":"http://dbpedia.org/class/yago/AmericanNovelists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":220,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "National Science Foundation",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Agency",
+                    "uri": "http://dbpedia.org/class/yago/Agency108337324"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Science_Foundation"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0477",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "National Science Foundation",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Agency",
+                    "uri": "http://dbpedia.org/class/yago/Agency108337324"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Science_Foundation"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

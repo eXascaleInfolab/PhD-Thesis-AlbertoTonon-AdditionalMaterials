@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Ryan Callahan",
+            "types": [
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Guelph Storm alumni",
+                    "uri": "http://dbpedia.org/resource/Guelph_Storm_alumni"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ryan_Callahan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0602",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ryan Callahan",
+            "types": [
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Guelph Storm alumni",
+                    "uri": "http://dbpedia.org/resource/Guelph_Storm_alumni"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ryan_Callahan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

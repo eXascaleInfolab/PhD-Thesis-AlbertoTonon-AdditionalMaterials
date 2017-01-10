@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Alexander",
+            "types": [
+                {
+                    "label": "British Isles surnames",
+                    "uri": "http://dbpedia.org/resource/British_Isles_surnames"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alexander"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0018",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Alexander",
+            "types": [
+                {
+                    "label": "British Isles surnames",
+                    "uri": "http://dbpedia.org/resource/British_Isles_surnames"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alexander"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

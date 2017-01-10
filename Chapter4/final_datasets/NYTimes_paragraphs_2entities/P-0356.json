@@ -1,0 +1,149 @@
+{
+  "mainText":"\u201cThere has not been one rocket fired from Gaza since the operation, and the recalcitrant organizations were there all the time,\u201d he said.\n\u201cNow it is proven that the organizations can\u2019t fire unless Hamas lets them.\u201d",
+  "shownText":"\u201cThere has not been one rocket fired from Gaza since the operation, and the recalcitrant organizations were there all the time,\u201d he said.\n\u201cNow it is proven that the organizations can\u2019t fire unless Hamas lets them.\u201d",
+  "title":"Rocket From Gaza Hits Israel, Breaking Cease-Fire - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html?ref=world",
+  "category":"world",
+  "docID":"P-0356",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hamas",
+      "label":"Hamas",
+      "offsets":[
+        {
+          "offset":197,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Party",
+          "uri":"http://dbpedia.org/class/yago/Party108256968"
+        },
+        {
+          "label":"Protocols Of The Elders Of Zion",
+          "uri":"http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+        },
+        {
+          "label":"Palestinian Militant Groups",
+          "uri":"http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+        },
+        {
+          "label":"Political Party",
+          "uri":"http://umbel.org/umbel/sc/PoliticalParty"
+        },
+        {
+          "label":"Palestinian Political Parties",
+          "uri":"http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":42,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hamas",
+      "label":"Hamas",
+      "offsets":[
+        {
+          "offset":197,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Party",
+          "uri":"http://dbpedia.org/class/yago/Party108256968"
+        },
+        {
+          "label":"Protocols Of The Elders Of Zion",
+          "uri":"http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+        },
+        {
+          "label":"Palestinian Militant Groups",
+          "uri":"http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+        },
+        {
+          "label":"Political Party",
+          "uri":"http://umbel.org/umbel/sc/PoliticalParty"
+        },
+        {
+          "label":"Palestinian Political Parties",
+          "uri":"http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":42,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ]
+}

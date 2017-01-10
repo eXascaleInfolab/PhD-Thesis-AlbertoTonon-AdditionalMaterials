@@ -1,0 +1,381 @@
+{
+  "mainText":"On Sunday, the Cites delegations will gather in Bangkok for what is set to be a particularly contentious conference.\nWhile both China and Thailand are to be named as the biggest illegal ivory markets, only Thailand, which has no legal ivory trade system in place, is under pressure to crack down on ivory sales.",
+  "shownText":"On Sunday, the Cites delegations will gather in Bangkok for what is set to be a particularly contentious conference.\nWhile both China and Thailand are to be named as the biggest illegal ivory markets, only Thailand, which has no legal ivory trade system in place, is under pressure to crack down on ivory sales.",
+  "title":"An Illicit Trail of African Ivory to China - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/02/world/asia/an-illicit-trail-of-african-ivory-to-china.html?ref=science",
+  "category":"science",
+  "docID":"P-0192",
+  "elementNumber":51,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bangkok",
+      "label":"Bangkok",
+      "offsets":[
+        {
+          "offset":48,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Asia",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInAsia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Cities In Thailand",
+          "uri":"http://dbpedia.org/class/yago/CitiesInThailand"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Thailand",
+      "label":"Thailand",
+      "offsets":[
+        {
+          "offset":138,
+          "length":8
+        },
+        {
+          "offset":206,
+          "length":8
+        },
+        {
+          "offset":138,
+          "length":8
+        },
+        {
+          "offset":206,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"type of person classified by political affiliation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvqjUrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/China",
+      "label":"China",
+      "offsets":[
+        {
+          "offset":128,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Civilization",
+          "uri":"http://dbpedia.org/class/yago/Civilization108111783"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"geographical region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Qi",
+          "uri":"http://dbpedia.org/class/yago/Qi114050559"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bangkok",
+      "label":"Bangkok",
+      "offsets":[
+        {
+          "offset":48,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Capitals In Asia",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInAsia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Cities In Thailand",
+          "uri":"http://dbpedia.org/class/yago/CitiesInThailand"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Thailand",
+      "label":"Thailand",
+      "offsets":[
+        {
+          "offset":138,
+          "length":8
+        },
+        {
+          "offset":206,
+          "length":8
+        },
+        {
+          "offset":138,
+          "length":8
+        },
+        {
+          "offset":206,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"type of person classified by political affiliation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvqjUrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/China",
+      "label":"China",
+      "offsets":[
+        {
+          "offset":128,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Civilization",
+          "uri":"http://dbpedia.org/class/yago/Civilization108111783"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"geographical region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViACZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Region",
+          "uri":"http://dbpedia.org/class/yago/Region108630039"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Qi",
+          "uri":"http://dbpedia.org/class/yago/Qi114050559"
+        }
+      ]
+    }
+  ]
+}

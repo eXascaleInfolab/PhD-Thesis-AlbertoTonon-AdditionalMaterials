@@ -1,0 +1,141 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 203
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "News Corporation", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 135
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies listed on the Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies Listed On The Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+                }, 
+                {
+                    "label": "Companies listed on the London Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/News_Corporation"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "S-0259", 
+    "elementNumber": 31, 
+    "mainEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 203
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "News Corporation", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 135
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies listed on the Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies Listed On The Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+                }, 
+                {
+                    "label": "Companies listed on the London Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/News_Corporation"
+        }
+    ], 
+    "mainText": "Michael Nathanson, an analyst at Nomura Securities, wrote in a recent report that Fox Sports 1 would be a &ldquo;good start&rdquo; for News Corporation but was &ldquo;unlikely to make a material dent to ESPN&rsquo;s business for the investable time horizon.&rdquo;", 
+    "shownText": "Michael Nathanson, an analyst at Nomura Securities, wrote in a recent report that Fox Sports 1 would be a &ldquo;good start&rdquo; for News Corporation but was &ldquo;unlikely to make a material dent to ESPN&rsquo;s business for the investable time horizon.&rdquo;", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

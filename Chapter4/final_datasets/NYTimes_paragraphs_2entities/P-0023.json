@@ -1,0 +1,429 @@
+{
+  "mainText":"Mr. MacFarlane\u2019s performance from there oscillated between inside jabs at attendees, joking at one point about George Clooney\u2019s history of dating very young women, and one-liners that showcased his juvenile brand of humor.\n\u201cI would argue that the actor who really got inside Lincoln\u2019s head was John Wilkes Booth,\u201d Mr. MacFarlane cracked to apparent winces from the audience.",
+  "shownText":"Mr. MacFarlane\u2019s performance from there oscillated between inside jabs at attendees, joking at one point about George Clooney\u2019s history of dating very young women, and one-liners that showcased his juvenile brand of humor.\n\u201cI would argue that the actor who really got inside Lincoln\u2019s head was John Wilkes Booth,\u201d Mr. MacFarlane cracked to apparent winces from the audience.",
+  "title":"Best Picture for âArgoâ in Varied Oscar Field - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts",
+  "category":"arts",
+  "docID":"P-0023",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/George_Clooney",
+      "label":"George Clooney",
+      "offsets":[
+        {
+          "offset":111,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Best Musical or Comedy Actor Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Musical_or_Comedy_Actor_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"Kentucky colonels",
+          "uri":"http://dbpedia.org/resource/Kentucky_colonels"
+        },
+        {
+          "label":"Kentucky Actors",
+          "uri":"http://dbpedia.org/class/yago/KentuckyActors"
+        },
+        {
+          "label":"Liberals",
+          "uri":"http://dbpedia.org/class/yago/Liberals"
+        },
+        {
+          "label":"Best Supporting Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"American Expatriates In Italy",
+          "uri":"http://dbpedia.org/class/yago/AmericanExpatriatesInItaly"
+        },
+        {
+          "label":"Kentucky Colonels",
+          "uri":"http://dbpedia.org/class/yago/KentuckyColonels"
+        },
+        {
+          "label":"Best Supporting Actor Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actor_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        },
+        {
+          "label":"United Nations Messengers Of Peace",
+          "uri":"http://dbpedia.org/class/yago/UnitedNationsMessengersOfPeace"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"American Anti-Iraq War Activists",
+          "uri":"http://dbpedia.org/class/yago/AmericanAnti-IraqWarActivists"
+        },
+        {
+          "label":"Kentucky actors",
+          "uri":"http://dbpedia.org/resource/Kentucky_actors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Lexington,Kentucky",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLexington,Kentucky"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"American Agnostics",
+          "uri":"http://dbpedia.org/class/yago/AmericanAgnostics"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_Wilkes_Booth",
+      "label":"John Wilkes Booth",
+      "offsets":[
+        {
+          "offset":294,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Shakespearean Actors",
+          "uri":"http://dbpedia.org/class/yago/ShakespeareanActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Assassins",
+          "uri":"http://dbpedia.org/class/yago/AmericanAssassins"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"People Of Maryland In The American Civil War",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfMarylandInTheAmericanCivilWar"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Maryland Actors",
+          "uri":"http://dbpedia.org/class/yago/MarylandActors"
+        },
+        {
+          "label":"ethnic Caucasian",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCF7pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Lincoln Conspirators",
+          "uri":"http://dbpedia.org/class/yago/LincolnConspirators"
+        },
+        {
+          "label":"People From Harford County,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHarfordCounty,Maryland"
+        },
+        {
+          "label":"stage actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNFwmZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American assassins",
+          "uri":"http://dbpedia.org/resource/American_assassins"
+        },
+        {
+          "label":"American Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanStageActors"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Venango County,Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromVenangoCounty,Pennsylvania"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/George_Clooney",
+      "label":"George Clooney",
+      "offsets":[
+        {
+          "offset":111,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Best Musical or Comedy Actor Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Musical_or_Comedy_Actor_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"Kentucky colonels",
+          "uri":"http://dbpedia.org/resource/Kentucky_colonels"
+        },
+        {
+          "label":"Kentucky Actors",
+          "uri":"http://dbpedia.org/class/yago/KentuckyActors"
+        },
+        {
+          "label":"Liberals",
+          "uri":"http://dbpedia.org/class/yago/Liberals"
+        },
+        {
+          "label":"Best Supporting Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"American Expatriates In Italy",
+          "uri":"http://dbpedia.org/class/yago/AmericanExpatriatesInItaly"
+        },
+        {
+          "label":"Kentucky Colonels",
+          "uri":"http://dbpedia.org/class/yago/KentuckyColonels"
+        },
+        {
+          "label":"Best Supporting Actor Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actor_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        },
+        {
+          "label":"United Nations Messengers Of Peace",
+          "uri":"http://dbpedia.org/class/yago/UnitedNationsMessengersOfPeace"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"American Anti-Iraq War Activists",
+          "uri":"http://dbpedia.org/class/yago/AmericanAnti-IraqWarActivists"
+        },
+        {
+          "label":"Kentucky actors",
+          "uri":"http://dbpedia.org/resource/Kentucky_actors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Lexington,Kentucky",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLexington,Kentucky"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"American Agnostics",
+          "uri":"http://dbpedia.org/class/yago/AmericanAgnostics"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_Wilkes_Booth",
+      "label":"John Wilkes Booth",
+      "offsets":[
+        {
+          "offset":294,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Shakespearean Actors",
+          "uri":"http://dbpedia.org/class/yago/ShakespeareanActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Assassins",
+          "uri":"http://dbpedia.org/class/yago/AmericanAssassins"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"People Of Maryland In The American Civil War",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfMarylandInTheAmericanCivilWar"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Maryland Actors",
+          "uri":"http://dbpedia.org/class/yago/MarylandActors"
+        },
+        {
+          "label":"ethnic Caucasian",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQCF7pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Lincoln Conspirators",
+          "uri":"http://dbpedia.org/class/yago/LincolnConspirators"
+        },
+        {
+          "label":"People From Harford County,Maryland",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHarfordCounty,Maryland"
+        },
+        {
+          "label":"stage actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNFwmZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American assassins",
+          "uri":"http://dbpedia.org/resource/American_assassins"
+        },
+        {
+          "label":"American Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanStageActors"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Venango County,Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromVenangoCounty,Pennsylvania"
+        }
+      ]
+    }
+  ]
+}

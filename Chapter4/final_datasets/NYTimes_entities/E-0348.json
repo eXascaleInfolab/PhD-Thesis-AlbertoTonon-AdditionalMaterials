@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Jacoby Ellsbury",
+            "types": [
+                {
+                    "label": "Major League Players From Oregon",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeaguePlayersFromOregon"
+                },
+                {
+                    "label": "Boston Red Sox Players",
+                    "uri": "http://dbpedia.org/class/yago/BostonRedSoxPlayers"
+                },
+                {
+                    "label": "Boston Red Sox players",
+                    "uri": "http://dbpedia.org/resource/Boston_Red_Sox_players"
+                },
+                {
+                    "label": "All-Star Futures Game players",
+                    "uri": "http://dbpedia.org/resource/All-Star_Futures_Game_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jacoby_Ellsbury"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0348",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jacoby Ellsbury",
+            "types": [
+                {
+                    "label": "Major League Players From Oregon",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeaguePlayersFromOregon"
+                },
+                {
+                    "label": "Boston Red Sox Players",
+                    "uri": "http://dbpedia.org/class/yago/BostonRedSoxPlayers"
+                },
+                {
+                    "label": "Boston Red Sox players",
+                    "uri": "http://dbpedia.org/resource/Boston_Red_Sox_players"
+                },
+                {
+                    "label": "All-Star Futures Game players",
+                    "uri": "http://dbpedia.org/resource/All-Star_Futures_Game_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jacoby_Ellsbury"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

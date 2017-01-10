@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Johns Hopkins",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Abolitionists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAbolitionists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American abolitionists",
+                    "uri": "http://dbpedia.org/resource/American_abolitionists"
+                },
+                {
+                    "label": "People From Anne Arundel County,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAnneArundelCounty,Maryland"
+                },
+                {
+                    "label": "American philanthropists",
+                    "uri": "http://dbpedia.org/resource/American_philanthropists"
+                },
+                {
+                    "label": "American Philanthropists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhilanthropists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Quakers",
+                    "uri": "http://dbpedia.org/resource/American_Quakers"
+                },
+                {
+                    "label": "People From Baltimore,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                },
+                {
+                    "label": "American Quakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanQuakers"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Johns_Hopkins"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0342",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Johns Hopkins",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Abolitionists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAbolitionists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American abolitionists",
+                    "uri": "http://dbpedia.org/resource/American_abolitionists"
+                },
+                {
+                    "label": "People From Anne Arundel County,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAnneArundelCounty,Maryland"
+                },
+                {
+                    "label": "American philanthropists",
+                    "uri": "http://dbpedia.org/resource/American_philanthropists"
+                },
+                {
+                    "label": "American Philanthropists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhilanthropists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Quakers",
+                    "uri": "http://dbpedia.org/resource/American_Quakers"
+                },
+                {
+                    "label": "People From Baltimore,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                },
+                {
+                    "label": "American Quakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanQuakers"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Johns_Hopkins"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

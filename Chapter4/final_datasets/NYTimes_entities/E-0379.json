@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Ahmed Hassan",
+            "types": [
+                {
+                    "label": "Ismaily players",
+                    "uri": "http://dbpedia.org/resource/Ismaily_players"
+                },
+                {
+                    "label": "Egyptian Footballers In Europe",
+                    "uri": "http://dbpedia.org/class/yago/EgyptianFootballersInEurope"
+                },
+                {
+                    "label": "FIFA Century Club",
+                    "uri": "http://dbpedia.org/resource/FIFA_Century_Club"
+                },
+                {
+                    "label": "Egyptian Footballers",
+                    "uri": "http://dbpedia.org/class/yago/EgyptianFootballers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ahmed_Hassan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0379",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ahmed Hassan",
+            "types": [
+                {
+                    "label": "Ismaily players",
+                    "uri": "http://dbpedia.org/resource/Ismaily_players"
+                },
+                {
+                    "label": "Egyptian Footballers In Europe",
+                    "uri": "http://dbpedia.org/class/yago/EgyptianFootballersInEurope"
+                },
+                {
+                    "label": "FIFA Century Club",
+                    "uri": "http://dbpedia.org/resource/FIFA_Century_Club"
+                },
+                {
+                    "label": "Egyptian Footballers",
+                    "uri": "http://dbpedia.org/class/yago/EgyptianFootballers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ahmed_Hassan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

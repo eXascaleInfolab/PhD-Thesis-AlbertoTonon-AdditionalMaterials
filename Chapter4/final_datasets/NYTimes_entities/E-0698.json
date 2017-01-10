@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Chris Christie",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chris_Christie"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0698",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chris Christie",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chris_Christie"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

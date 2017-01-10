@@ -1,0 +1,253 @@
+{
+  "mainText":"The celebrity-packed telecast was as musical as any since 1989, when the producer Allan Carr ( \u201cGrease\u201d ) opened the show with a campy production number that found Snow White joining Rob Lowe in an ill-advised sendup of \u201cProud Mary.\u201d\nThat show got a significant ratings bump, but Hollywood recoiled \u2014 Disney sued for unauthorized use of a copyrighted character \u2014 and Mr. Carr\u2019s show is remembered as one of the worst of all time.",
+  "shownText":"Honoring a wide variety of pictures is a hallmark of the Golden Globes and the producers of Sunday\u2019s telecast, Neil Meron and Craig Zadan, also worked to give their ceremony a more laid-back atmosphere, hoping to emulate the festiveness of the Globes.\nMr. Meron said last Tuesday that the words \u201cAcademy Awards,\u201d for instance, had been dropped from the show\u2019s title (\u201cThe Oscars\u201d) because they sounded \u201cmusty.\u201d\n\nThe celebrity-packed telecast was as musical as any since 1989, when the producer Allan Carr ( \u201cGrease\u201d ) opened the show with a campy production number that found Snow White joining Rob Lowe in an ill-advised sendup of \u201cProud Mary.\u201d\nThat show got a significant ratings bump, but Hollywood recoiled \u2014 Disney sued for unauthorized use of a copyrighted character \u2014 and Mr. Carr\u2019s show is remembered as one of the worst of all time.\n\nHollywood has learned to have low expectations for the Oscar telecast, which for the past three years has posted declines among viewers ages 18 to 49, the demographic group advertisers pay the most to reach.\n(Last year the Oscar show attracted a total audience of 39.3 million viewers, a 3.7 percent increase from the previous year.)\n",
+  "title":"Best Picture for âArgoâ in Varied Oscar Field - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0025",
+  "elementNumber":27,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Rob_Lowe",
+      "label":"Rob Lowe",
+      "offsets":[
+        {
+          "offset":595,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Dayton,Ohio",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDayton,Ohio"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"Ohio Actors",
+          "uri":"http://dbpedia.org/class/yago/OhioActors"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanStageActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"People From Virginia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromVirginia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mary",
+      "label":"Mary",
+      "offsets":[
+        {
+          "offset":639,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Feminine given names",
+          "uri":"http://dbpedia.org/resource/Feminine_given_names"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Craig_Zadan",
+      "label":"Craig Zadan",
+      "offsets":[
+        {
+          "offset":132,
+          "length":5
+        },
+        {
+          "offset":126,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"LGBT directors",
+          "uri":"http://dbpedia.org/resource/LGBT_directors"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rob_Lowe",
+      "label":"Rob Lowe",
+      "offsets":[
+        {
+          "offset":595,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Dayton,Ohio",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromDayton,Ohio"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"Ohio Actors",
+          "uri":"http://dbpedia.org/class/yago/OhioActors"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanStageActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionActors"
+        },
+        {
+          "label":"People From Virginia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromVirginia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Mary",
+      "label":"Mary",
+      "offsets":[
+        {
+          "offset":639,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Feminine given names",
+          "uri":"http://dbpedia.org/resource/Feminine_given_names"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    }
+  ]
+}

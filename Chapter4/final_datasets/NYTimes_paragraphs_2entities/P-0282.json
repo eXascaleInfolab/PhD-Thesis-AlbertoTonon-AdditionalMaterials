@@ -1,0 +1,165 @@
+{
+  "mainText":"\u201cIt was easy, and people got comfortable,\u201d said Stephen S. Fuller of George Mason University, an expert on the regional economy.\n\u201cThey haven\u2019t come to terms with the fact it isn\u2019t going to be as easy.\u201d",
+  "shownText":"\u201cIt was easy, and people got comfortable,\u201d said Stephen S. Fuller of George Mason University, an expert on the regional economy.\n\u201cThey haven\u2019t come to terms with the fact it isn\u2019t going to be as easy.\u201d",
+  "title":"Virginiaâs Feast on U.S. Funds Nears an End - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/us/politics/virginias-feast-on-us-funds-nears-an-end.html?ref=us",
+  "category":"us",
+  "docID":"P-0282",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/George_Mason_University",
+      "label":"George Mason University",
+      "offsets":[
+        {
+          "offset":69,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"Educational Institutions Established In1957",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1957"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":"Engineering Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/EngineeringUniversitiesAndColleges"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Engineering universities and colleges",
+          "uri":"http://dbpedia.org/resource/Engineering_universities_and_colleges"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stephen_Fuller",
+      "label":"Stephen S. Fuller",
+      "offsets":[
+        {
+          "offset":48,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Fianna F%C3%A1il Politicians",
+          "uri":"http://dbpedia.org/class/yago/FiannaF%C3%A1ilPoliticians"
+        },
+        {
+          "label":"Fianna F%E1il politicians",
+          "uri":"http://dbpedia.org/resource/Fianna_F%E1il_politicians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/George_Mason_University",
+      "label":"George Mason University",
+      "offsets":[
+        {
+          "offset":69,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Public Universities",
+          "uri":"http://dbpedia.org/class/yago/PublicUniversities"
+        },
+        {
+          "label":"Educational Institutions Established In1957",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1957"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Oak Ridge Associated Universities",
+          "uri":"http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+        },
+        {
+          "label":"Engineering Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/EngineeringUniversitiesAndColleges"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Engineering universities and colleges",
+          "uri":"http://dbpedia.org/resource/Engineering_universities_and_colleges"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Stephen_Fuller",
+      "label":"Stephen S. Fuller",
+      "offsets":[
+        {
+          "offset":48,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Fianna F%C3%A1il Politicians",
+          "uri":"http://dbpedia.org/class/yago/FiannaF%C3%A1ilPoliticians"
+        },
+        {
+          "label":"Fianna F%E1il politicians",
+          "uri":"http://dbpedia.org/resource/Fianna_F%E1il_politicians"
+        }
+      ]
+    }
+  ]
+}

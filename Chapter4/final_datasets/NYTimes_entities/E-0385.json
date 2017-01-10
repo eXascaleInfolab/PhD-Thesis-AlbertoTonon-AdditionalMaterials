@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Alcoa",
+            "types": [
+                {
+                    "label": "Aluminium companies",
+                    "uri": "http://dbpedia.org/resource/Aluminium_companies"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alcoa"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0385",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Alcoa",
+            "types": [
+                {
+                    "label": "Aluminium companies",
+                    "uri": "http://dbpedia.org/resource/Aluminium_companies"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alcoa"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

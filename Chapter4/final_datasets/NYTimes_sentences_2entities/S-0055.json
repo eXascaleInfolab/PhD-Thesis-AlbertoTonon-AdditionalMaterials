@@ -1,0 +1,389 @@
+{
+  "mainText":"Tina Fineberg for The New York TimesThe Bank of America Tower in Midtown Manhattan.",
+  "shownText":"Tina Fineberg for The New York TimesThe Bank of America Tower in Midtown Manhattan.",
+  "title":"With Legal Reserves Low, Bank of America Faces a Big Lawsuit - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/03/06/with-legal-reserves-low-bank-of-america-faces-a-big-lawsuit/?ref=business",
+  "category":"business",
+  "docID":"S-0055",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bank_of_America_Tower_(New_York)",
+      "label":"The New York TimesThe Bank of America Tower",
+      "offsets":[
+        {
+          "offset":18,
+          "length":43
+        }
+      ],
+      "types":[
+        {
+          "label":"Skyscrapers In New York City",
+          "uri":"http://dbpedia.org/class/yago/SkyscrapersInNewYorkCity"
+        },
+        {
+          "label":"LEEDPlatinum Certified Buildings",
+          "uri":"http://dbpedia.org/class/yago/LEEDPlatinumCertifiedBuildings"
+        },
+        {
+          "label":"Skyscraper",
+          "uri":"http://dbpedia.org/class/yago/Skyscraper104233124"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Joshua_Fineberg",
+      "label":"Tina Fineberg",
+      "offsets":[
+        {
+          "offset":0,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American composers",
+          "uri":"http://dbpedia.org/resource/American_composers"
+        },
+        {
+          "label":"Harvard University faculty",
+          "uri":"http://dbpedia.org/resource/Harvard_University_faculty"
+        },
+        {
+          "label":"20th century classical composers",
+          "uri":"http://dbpedia.org/resource/20th_century_classical_composers"
+        },
+        {
+          "label":"21st century classical composers",
+          "uri":"http://dbpedia.org/resource/21st_century_classical_composers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bank_of_America",
+      "label":"Bank of America",
+      "offsets":[
+        {
+          "offset":40,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Other Diversified Financial Services",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhciPYwhuEduVNADggVaqog"
+        },
+        {
+          "label":"bank",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVirgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Companies Established In1874",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1874"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Charlotte,North Carolina",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInCharlotte,NorthCarolina"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":73,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bank_of_America_Tower_(New_York)",
+      "label":"The New York TimesThe Bank of America Tower",
+      "offsets":[
+        {
+          "offset":18,
+          "length":43
+        }
+      ],
+      "types":[
+        {
+          "label":"Skyscrapers In New York City",
+          "uri":"http://dbpedia.org/class/yago/SkyscrapersInNewYorkCity"
+        },
+        {
+          "label":"LEEDPlatinum Certified Buildings",
+          "uri":"http://dbpedia.org/class/yago/LEEDPlatinumCertifiedBuildings"
+        },
+        {
+          "label":"Skyscraper",
+          "uri":"http://dbpedia.org/class/yago/Skyscraper104233124"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Joshua_Fineberg",
+      "label":"Tina Fineberg",
+      "offsets":[
+        {
+          "offset":0,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American composers",
+          "uri":"http://dbpedia.org/resource/American_composers"
+        },
+        {
+          "label":"Harvard University faculty",
+          "uri":"http://dbpedia.org/resource/Harvard_University_faculty"
+        },
+        {
+          "label":"20th century classical composers",
+          "uri":"http://dbpedia.org/resource/20th_century_classical_composers"
+        },
+        {
+          "label":"21st century classical composers",
+          "uri":"http://dbpedia.org/resource/21st_century_classical_composers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bank_of_America",
+      "label":"Bank of America",
+      "offsets":[
+        {
+          "offset":40,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Other Diversified Financial Services",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhciPYwhuEduVNADggVaqog"
+        },
+        {
+          "label":"bank",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVirgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Companies Established In1874",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1874"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Charlotte,North Carolina",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInCharlotte,NorthCarolina"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":73,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+    "allEntities": [
+        {
+            "label": "Mitt Romney",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Brigham Young University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/BrighamYoungUniversityAlumni"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "People From Detroit",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDetroit"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/class/yago/Saint110546850"
+                },
+                {
+                    "label": "Stanford University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/StanfordUniversityAlumni"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Alumnus",
+                    "uri": "http://dbpedia.org/class/yago/Alumnus109786338"
+                },
+                {
+                    "label": "Cranbrook Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CranbrookAlumni"
+                },
+                {
+                    "label": "Republican",
+                    "uri": "http://dbpedia.org/class/yago/Republican110522495"
+                },
+                {
+                    "label": "Brigham Young University alumni",
+                    "uri": "http://dbpedia.org/resource/Brigham_Young_University_alumni"
+                },
+                {
+                    "label": "Governors Of Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfMassachusetts"
+                },
+                {
+                    "label": "People From Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMassachusetts"
+                },
+                {
+                    "label": "Massachusetts Republicans",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsRepublicans"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#Person"
+                },
+                {
+                    "label": "Latter Day Saint bishops",
+                    "uri": "http://dbpedia.org/resource/Latter_Day_Saint_bishops"
+                },
+                {
+                    "label": "Cranbrook alumni",
+                    "uri": "http://dbpedia.org/resource/Cranbrook_alumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/resource/American_Latter_Day_Saints"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://xmlns.com/foaf/0.1/Agent"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://purl.org/dc/terms/Agent"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Mormon Missionaries In France",
+                    "uri": "http://dbpedia.org/class/yago/MormonMissionariesInFrance"
+                },
+                {
+                    "label": "Stake Presidents Of The Church Of Jesus Christ Of Latter-day Saints",
+                    "uri": "http://dbpedia.org/class/yago/StakePresidentsOfTheChurchOfJesusChristOfLatter-daySaints"
+                },
+                {
+                    "label": "Bishops Of The Church Of Jesus Christ Of Latter-day Saints",
+                    "uri": "http://dbpedia.org/class/yago/BishopsOfTheChurchOfJesusChristOfLatter-daySaints"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard Business School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+                },
+                {
+                    "label": "People From Bloomfield Hills,Michigan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBloomfieldHills,Michigan"
+                },
+                {
+                    "label": "Bishop",
+                    "uri": "http://dbpedia.org/class/yago/Bishop109857200"
+                },
+                {
+                    "label": "Social Entity",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+                },
+                {
+                    "label": "Missionary",
+                    "uri": "http://dbpedia.org/class/yago/Missionary110322957"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLatterDaySaints"
+                },
+                {
+                    "label": "Harvard Business School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Business_School_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mitt_Romney"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0729",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mitt Romney",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Brigham Young University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/BrighamYoungUniversityAlumni"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "People From Detroit",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromDetroit"
+                },
+                {
+                    "label": "Saint",
+                    "uri": "http://dbpedia.org/class/yago/Saint110546850"
+                },
+                {
+                    "label": "Stanford University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/StanfordUniversityAlumni"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Alumnus",
+                    "uri": "http://dbpedia.org/class/yago/Alumnus109786338"
+                },
+                {
+                    "label": "Cranbrook Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CranbrookAlumni"
+                },
+                {
+                    "label": "Republican",
+                    "uri": "http://dbpedia.org/class/yago/Republican110522495"
+                },
+                {
+                    "label": "Brigham Young University alumni",
+                    "uri": "http://dbpedia.org/resource/Brigham_Young_University_alumni"
+                },
+                {
+                    "label": "Governors Of Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfMassachusetts"
+                },
+                {
+                    "label": "People From Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMassachusetts"
+                },
+                {
+                    "label": "Massachusetts Republicans",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsRepublicans"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#Person"
+                },
+                {
+                    "label": "Latter Day Saint bishops",
+                    "uri": "http://dbpedia.org/resource/Latter_Day_Saint_bishops"
+                },
+                {
+                    "label": "Cranbrook alumni",
+                    "uri": "http://dbpedia.org/resource/Cranbrook_alumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/resource/American_Latter_Day_Saints"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://xmlns.com/foaf/0.1/Agent"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Agent",
+                    "uri": "http://purl.org/dc/terms/Agent"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Mormon Missionaries In France",
+                    "uri": "http://dbpedia.org/class/yago/MormonMissionariesInFrance"
+                },
+                {
+                    "label": "Stake Presidents Of The Church Of Jesus Christ Of Latter-day Saints",
+                    "uri": "http://dbpedia.org/class/yago/StakePresidentsOfTheChurchOfJesusChristOfLatter-daySaints"
+                },
+                {
+                    "label": "Bishops Of The Church Of Jesus Christ Of Latter-day Saints",
+                    "uri": "http://dbpedia.org/class/yago/BishopsOfTheChurchOfJesusChristOfLatter-daySaints"
+                },
+                {
+                    "label": "Spatial Thing",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard Business School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+                },
+                {
+                    "label": "People From Bloomfield Hills,Michigan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBloomfieldHills,Michigan"
+                },
+                {
+                    "label": "Bishop",
+                    "uri": "http://dbpedia.org/class/yago/Bishop109857200"
+                },
+                {
+                    "label": "Social Entity",
+                    "uri": "http://www.w3.org/2000/10/swap/pim/contact#SocialEntity"
+                },
+                {
+                    "label": "Missionary",
+                    "uri": "http://dbpedia.org/class/yago/Missionary110322957"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "American Latter Day Saints",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLatterDaySaints"
+                },
+                {
+                    "label": "Harvard Business School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Business_School_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mitt_Romney"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

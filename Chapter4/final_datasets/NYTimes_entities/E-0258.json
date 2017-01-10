@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "J. R. Smith",
+            "types": [
+                {
+                    "label": "NBAHigh School Players",
+                    "uri": "http://dbpedia.org/class/yago/NBAHighSchoolPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewJersey"
+                },
+                {
+                    "label": "Denver Nuggets Players",
+                    "uri": "http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "New Orleans Hornets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Basketball Player",
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Shooting Guards",
+                    "uri": "http://dbpedia.org/class/yago/ShootingGuards"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/J._R._Smith"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0258",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "J. R. Smith",
+            "types": [
+                {
+                    "label": "NBAHigh School Players",
+                    "uri": "http://dbpedia.org/class/yago/NBAHighSchoolPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewJersey"
+                },
+                {
+                    "label": "Denver Nuggets Players",
+                    "uri": "http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "New Orleans Hornets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Basketball Player",
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Shooting Guards",
+                    "uri": "http://dbpedia.org/class/yago/ShootingGuards"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/J._R._Smith"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

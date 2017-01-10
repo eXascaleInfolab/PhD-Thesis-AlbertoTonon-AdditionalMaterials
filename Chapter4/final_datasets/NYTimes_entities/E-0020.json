@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Timothy D. Cook",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Auburn University alumni",
+                    "uri": "http://dbpedia.org/resource/Auburn_University_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Apple Inc. employees",
+                    "uri": "http://dbpedia.org/resource/Apple_Inc._employees"
+                },
+                {
+                    "label": "Auburn University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/AuburnUniversityAlumni"
+                },
+                {
+                    "label": "Apple Inc.Employees",
+                    "uri": "http://dbpedia.org/class/yago/AppleInc.Employees"
+                },
+                {
+                    "label": "Duke University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DukeUniversityAlumni"
+                },
+                {
+                    "label": "Duke University alumni",
+                    "uri": "http://dbpedia.org/resource/Duke_University_alumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Timothy_D._Cook"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0020",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Timothy D. Cook",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Auburn University alumni",
+                    "uri": "http://dbpedia.org/resource/Auburn_University_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Apple Inc. employees",
+                    "uri": "http://dbpedia.org/resource/Apple_Inc._employees"
+                },
+                {
+                    "label": "Auburn University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/AuburnUniversityAlumni"
+                },
+                {
+                    "label": "Apple Inc.Employees",
+                    "uri": "http://dbpedia.org/class/yago/AppleInc.Employees"
+                },
+                {
+                    "label": "Duke University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DukeUniversityAlumni"
+                },
+                {
+                    "label": "Duke University alumni",
+                    "uri": "http://dbpedia.org/resource/Duke_University_alumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Timothy_D._Cook"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

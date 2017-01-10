@@ -1,0 +1,245 @@
+{
+  "mainText":"Mr. Lamond found this apartment in 2010 by searching this newspaper\u2019s Real Estate section for the cheapest Manhattan studio, he said.\nListed at $225,000, it was part of Mrs. Henry Luce III\u2019s estate, which included an enormous Sutton Place apartment around the corner.",
+  "shownText":"\u201cWith the sofa bed open, it can get tight,\u201d said Mr. Lamond, who used Velcro to affix the decoupage tray to the coffee table so he wouldn\u2019t knock it over when skirting it and stepping over Noah to reach the bathroom at night.\n\u201cThere is only six inches without asking the dog to get up,\u201d he said.\n(The building doesn\u2019t have a weight restriction for dogs, as many do.\nNonetheless, for his board package, Mr. Lamond posed Noah in front of a large bureau and took his photo while standing on a table, so the dog would look smaller.)\n\nMr. Lamond found this apartment in 2010 by searching this newspaper\u2019s Real Estate section for the cheapest Manhattan studio, he said.\nListed at $225,000, it was part of Mrs. Henry Luce III\u2019s estate, which included an enormous Sutton Place apartment around the corner.\n\nLater, it had been used as an office.\nBefore Mr. Lamond saw it, Ms. Kapit added, \u201cwe had one guy who was interested but wasn\u2019t sure about the space.\nIt made sense at the time.\u201d\nWe let him stay overnight on the mattress.\nWhen it was listed by Ellen Kapit, a Sotheby\u2019s broker, it had a wall of bookshelves, a \u201ckitchen in a box,\u201d and a queen-size mattress on the floor, Ms. Kapit said.\nIt had once been fitted out with library stacks, to store the overflow of Mrs. Luce\u2019s collection of books (there were 10,000 in the estate, said Rick Patrick, her executor).\n",
+  "title":"One Size (270 Sq. Ft.) Fits All - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/21/greathomesanddestinations/one-size-270-sq-ft-fits-all.html?ref=style",
+  "category":"style",
+  "docID":"P3-0249",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Henry_Luce",
+      "label":"Henry Luce III",
+      "offsets":[
+        {
+          "offset":704,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American magazine founders",
+          "uri":"http://dbpedia.org/resource/American_magazine_founders"
+        },
+        {
+          "label":"American mass media owners",
+          "uri":"http://dbpedia.org/resource/American_mass_media_owners"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/resource/American_Presbyterians"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/class/yago/AmericanPresbyterians"
+        },
+        {
+          "label":"American magazine publishers (people)",
+          "uri":"http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":637,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Henry_Luce",
+      "label":"Henry Luce III",
+      "offsets":[
+        {
+          "offset":704,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American magazine founders",
+          "uri":"http://dbpedia.org/resource/American_magazine_founders"
+        },
+        {
+          "label":"American mass media owners",
+          "uri":"http://dbpedia.org/resource/American_mass_media_owners"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/resource/American_Presbyterians"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/class/yago/AmericanPresbyterians"
+        },
+        {
+          "label":"American magazine publishers (people)",
+          "uri":"http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":637,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

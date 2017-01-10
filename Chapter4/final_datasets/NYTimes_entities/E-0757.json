@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Johannesburg",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://umbel.org/umbel/sc/Village"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Settlements Established In1886",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1886"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Area",
+                    "uri": "http://dbpedia.org/ontology/Area"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "Cities In South Africa",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSouthAfrica"
+                },
+                {
+                    "label": "Town",
+                    "uri": "http://umbel.org/umbel/sc/Town"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Towns In Gauteng",
+                    "uri": "http://dbpedia.org/class/yago/TownsInGauteng"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Johannesburg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0757",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Johannesburg",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://umbel.org/umbel/sc/Village"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Settlements Established In1886",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1886"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Area",
+                    "uri": "http://dbpedia.org/ontology/Area"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "Cities In South Africa",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSouthAfrica"
+                },
+                {
+                    "label": "Town",
+                    "uri": "http://umbel.org/umbel/sc/Town"
+                },
+                {
+                    "label": "city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Towns In Gauteng",
+                    "uri": "http://dbpedia.org/class/yago/TownsInGauteng"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Johannesburg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

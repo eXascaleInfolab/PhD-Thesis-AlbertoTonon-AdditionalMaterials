@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Mario Balotelli",
+            "types": [
+                {
+                    "label": "Football (soccer) strikers",
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+                },
+                {
+                    "label": "People From Palermo(city)",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPalermo(city)"
+                },
+                {
+                    "label": "Football(soccer)Strikers",
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Strikers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mario_Balotelli"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0123",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mario Balotelli",
+            "types": [
+                {
+                    "label": "Football (soccer) strikers",
+                    "uri": "http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+                },
+                {
+                    "label": "People From Palermo(city)",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPalermo(city)"
+                },
+                {
+                    "label": "Football(soccer)Strikers",
+                    "uri": "http://dbpedia.org/class/yago/Football(soccer)Strikers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mario_Balotelli"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

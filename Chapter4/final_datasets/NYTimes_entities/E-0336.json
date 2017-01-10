@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Skype",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/ontology/Software"
+                },
+                {
+                    "label": "Mac OSXInstant Messengers",
+                    "uri": "http://dbpedia.org/class/yago/MacOSXInstantMessengers"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "File sharing programs",
+                    "uri": "http://dbpedia.org/resource/File_sharing_programs"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Skype"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0336",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Skype",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/ontology/Software"
+                },
+                {
+                    "label": "Mac OSXInstant Messengers",
+                    "uri": "http://dbpedia.org/class/yago/MacOSXInstantMessengers"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "File sharing programs",
+                    "uri": "http://dbpedia.org/resource/File_sharing_programs"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Skype"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

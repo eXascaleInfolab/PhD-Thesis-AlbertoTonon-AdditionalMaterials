@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Muriel Goode-Trufant",
+            "types": [
+                {
+                    "label": "French given names",
+                    "uri": "http://dbpedia.org/resource/French_given_names"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                },
+                {
+                    "label": "Irish given names",
+                    "uri": "http://dbpedia.org/resource/Irish_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Muriel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0158",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Muriel Goode-Trufant",
+            "types": [
+                {
+                    "label": "French given names",
+                    "uri": "http://dbpedia.org/resource/French_given_names"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                },
+                {
+                    "label": "Irish given names",
+                    "uri": "http://dbpedia.org/resource/Irish_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Muriel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

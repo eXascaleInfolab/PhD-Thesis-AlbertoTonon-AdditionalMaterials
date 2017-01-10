@@ -1,0 +1,469 @@
+{
+  "mainText":"The work in question is a 19th-century mural titled \u201cThe Genius of America,\u201d a sprawling 35-foot-long fantasy at the State Education Building whose depictions include angels, babies and women in togas; Gen. George Washington and a god of war; and what seems to be a group of colonial zombies rising from the grave.",
+  "shownText":"The work in question is a 19th-century mural titled \u201cThe Genius of America,\u201d a sprawling 35-foot-long fantasy at the State Education Building whose depictions include angels, babies and women in togas; Gen. George Washington and a god of war; and what seems to be a group of colonial zombies rising from the grave.",
+  "title":"New York Uncovers Offending Mural for Brief Public Views - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/nyregion/new-york-uncovers-offending-mural-for-brief-public-views.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"S-0125",
+  "elementNumber":9,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":214,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_Washington",
+      "label":"George Washington",
+      "offsets":[
+        {
+          "offset":207,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Soldier",
+          "uri":"http://dbpedia.org/class/yago/Soldier110622053"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Commissioned Officer",
+          "uri":"http://umbel.org/umbel/sc/CommissionedOfficer"
+        },
+        {
+          "label":"American Surveyors",
+          "uri":"http://dbpedia.org/class/yago/AmericanSurveyors"
+        },
+        {
+          "label":"People From Fairfax County,Virginia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromFairfaxCounty,Virginia"
+        },
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Foreign Policy Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanForeignPolicyWriters"
+        },
+        {
+          "label":"Continental Army Officers From Virginia",
+          "uri":"http://dbpedia.org/class/yago/ContinentalArmyOfficersFromVirginia"
+        },
+        {
+          "label":"Continental Army officers from Virginia",
+          "uri":"http://dbpedia.org/resource/Continental_Army_officers_from_Virginia"
+        },
+        {
+          "label":"Washington College Alumni",
+          "uri":"http://dbpedia.org/class/yago/WashingtonCollegeAlumni"
+        },
+        {
+          "label":"People Of The French And Indian War",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfTheFrenchAndIndianWar"
+        },
+        {
+          "label":"General Officer",
+          "uri":"http://dbpedia.org/class/yago/GeneralOfficer110125786"
+        },
+        {
+          "label":"Artifact",
+          "uri":"http://umbel.org/umbel/ac/Artifact"
+        },
+        {
+          "label":"Virginia Colonial People",
+          "uri":"http://dbpedia.org/class/yago/VirginiaColonialPeople"
+        },
+        {
+          "label":"Continental Army generals",
+          "uri":"http://dbpedia.org/resource/Continental_Army_generals"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"People Of Virginia In The American Revolution",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfVirginiaInTheAmericanRevolution"
+        },
+        {
+          "label":"Signers Of The United States Constitution",
+          "uri":"http://dbpedia.org/class/yago/SignersOfTheUnitedStatesConstitution"
+        },
+        {
+          "label":"Graduate",
+          "uri":"http://umbel.org/umbel/sc/Graduate"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Leader",
+          "uri":"http://umbel.org/umbel/sc/Leader"
+        },
+        {
+          "label":"historical figure",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKQB3pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Instrumental Artifact",
+          "uri":"http://umbel.org/umbel/ac/InstrumentalArtifact"
+        },
+        {
+          "label":"Deaths from pneumonia",
+          "uri":"http://dbpedia.org/resource/Deaths_from_pneumonia"
+        },
+        {
+          "label":"American surveyors",
+          "uri":"http://dbpedia.org/resource/American_surveyors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Continental Army Generals",
+          "uri":"http://dbpedia.org/class/yago/ContinentalArmyGenerals"
+        },
+        {
+          "label":"Spymasters",
+          "uri":"http://dbpedia.org/class/yago/Spymasters"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Administrator",
+          "uri":"http://umbel.org/umbel/sc/Administrator"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Furniture Piece",
+          "uri":"http://umbel.org/umbel/sc/FurniturePiece"
+        },
+        {
+          "label":"Farmer",
+          "uri":"http://dbpedia.org/class/yago/Farmer110078806"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":214,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/George_Washington",
+      "label":"George Washington",
+      "offsets":[
+        {
+          "offset":207,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Soldier",
+          "uri":"http://dbpedia.org/class/yago/Soldier110622053"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Commissioned Officer",
+          "uri":"http://umbel.org/umbel/sc/CommissionedOfficer"
+        },
+        {
+          "label":"American Surveyors",
+          "uri":"http://dbpedia.org/class/yago/AmericanSurveyors"
+        },
+        {
+          "label":"People From Fairfax County,Virginia",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromFairfaxCounty,Virginia"
+        },
+        {
+          "label":"American Episcopalians",
+          "uri":"http://dbpedia.org/resource/American_Episcopalians"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Foreign Policy Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanForeignPolicyWriters"
+        },
+        {
+          "label":"Continental Army Officers From Virginia",
+          "uri":"http://dbpedia.org/class/yago/ContinentalArmyOfficersFromVirginia"
+        },
+        {
+          "label":"Continental Army officers from Virginia",
+          "uri":"http://dbpedia.org/resource/Continental_Army_officers_from_Virginia"
+        },
+        {
+          "label":"Washington College Alumni",
+          "uri":"http://dbpedia.org/class/yago/WashingtonCollegeAlumni"
+        },
+        {
+          "label":"People Of The French And Indian War",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfTheFrenchAndIndianWar"
+        },
+        {
+          "label":"General Officer",
+          "uri":"http://dbpedia.org/class/yago/GeneralOfficer110125786"
+        },
+        {
+          "label":"Artifact",
+          "uri":"http://umbel.org/umbel/ac/Artifact"
+        },
+        {
+          "label":"Virginia Colonial People",
+          "uri":"http://dbpedia.org/class/yago/VirginiaColonialPeople"
+        },
+        {
+          "label":"Continental Army generals",
+          "uri":"http://dbpedia.org/resource/Continental_Army_generals"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"People Of Virginia In The American Revolution",
+          "uri":"http://dbpedia.org/class/yago/PeopleOfVirginiaInTheAmericanRevolution"
+        },
+        {
+          "label":"Signers Of The United States Constitution",
+          "uri":"http://dbpedia.org/class/yago/SignersOfTheUnitedStatesConstitution"
+        },
+        {
+          "label":"Graduate",
+          "uri":"http://umbel.org/umbel/sc/Graduate"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Leader",
+          "uri":"http://umbel.org/umbel/sc/Leader"
+        },
+        {
+          "label":"historical figure",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKQB3pwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Instrumental Artifact",
+          "uri":"http://umbel.org/umbel/ac/InstrumentalArtifact"
+        },
+        {
+          "label":"Deaths from pneumonia",
+          "uri":"http://dbpedia.org/resource/Deaths_from_pneumonia"
+        },
+        {
+          "label":"American surveyors",
+          "uri":"http://dbpedia.org/resource/American_surveyors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Continental Army Generals",
+          "uri":"http://dbpedia.org/class/yago/ContinentalArmyGenerals"
+        },
+        {
+          "label":"Spymasters",
+          "uri":"http://dbpedia.org/class/yago/Spymasters"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Administrator",
+          "uri":"http://umbel.org/umbel/sc/Administrator"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Furniture Piece",
+          "uri":"http://umbel.org/umbel/sc/FurniturePiece"
+        },
+        {
+          "label":"Farmer",
+          "uri":"http://dbpedia.org/class/yago/Farmer110078806"
+        }
+      ]
+    }
+  ]
+}

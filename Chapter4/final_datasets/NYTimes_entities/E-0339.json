@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "John Oberon",
+            "types": [
+                {
+                    "label": "Fictional kings",
+                    "uri": "http://dbpedia.org/resource/Fictional_kings"
+                },
+                {
+                    "label": "Fictional fairies and sprites",
+                    "uri": "http://dbpedia.org/resource/Fictional_fairies_and_sprites"
+                },
+                {
+                    "label": "Fictional Fairies And Sprites",
+                    "uri": "http://dbpedia.org/class/yago/FictionalFairiesAndSprites"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oberon"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0339",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John Oberon",
+            "types": [
+                {
+                    "label": "Fictional kings",
+                    "uri": "http://dbpedia.org/resource/Fictional_kings"
+                },
+                {
+                    "label": "Fictional fairies and sprites",
+                    "uri": "http://dbpedia.org/resource/Fictional_fairies_and_sprites"
+                },
+                {
+                    "label": "Fictional Fairies And Sprites",
+                    "uri": "http://dbpedia.org/class/yago/FictionalFairiesAndSprites"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oberon"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

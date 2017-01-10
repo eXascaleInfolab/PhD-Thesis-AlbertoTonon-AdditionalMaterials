@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Patrick Kaleta",
+            "types": [
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Buffalo Sabres players",
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Patrick_Kaleta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0640",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Patrick Kaleta",
+            "types": [
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Buffalo Sabres players",
+                    "uri": "http://dbpedia.org/resource/Buffalo_Sabres_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Patrick_Kaleta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

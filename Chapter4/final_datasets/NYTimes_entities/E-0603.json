@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Coldplay",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English musical groups",
+                    "uri": "http://dbpedia.org/resource/English_musical_groups"
+                },
+                {
+                    "label": "English Rock Music Groups",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicGroups"
+                },
+                {
+                    "label": "English Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicalGroups"
+                },
+                {
+                    "label": "Alternative musical groups",
+                    "uri": "http://dbpedia.org/resource/Alternative_musical_groups"
+                },
+                {
+                    "label": "Band",
+                    "uri": "http://dbpedia.org/ontology/Band"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "Alternative Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/AlternativeMusicalGroups"
+                },
+                {
+                    "label": "musician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English rock music groups",
+                    "uri": "http://dbpedia.org/resource/English_rock_music_groups"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Musical Groups Established In1997",
+                    "uri": "http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1997"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Coldplay"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0603",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Coldplay",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English musical groups",
+                    "uri": "http://dbpedia.org/resource/English_musical_groups"
+                },
+                {
+                    "label": "English Rock Music Groups",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicGroups"
+                },
+                {
+                    "label": "English Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicalGroups"
+                },
+                {
+                    "label": "Alternative musical groups",
+                    "uri": "http://dbpedia.org/resource/Alternative_musical_groups"
+                },
+                {
+                    "label": "Band",
+                    "uri": "http://dbpedia.org/ontology/Band"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "Alternative Musical Groups",
+                    "uri": "http://dbpedia.org/class/yago/AlternativeMusicalGroups"
+                },
+                {
+                    "label": "musician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English rock music groups",
+                    "uri": "http://dbpedia.org/resource/English_rock_music_groups"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Musical Groups Established In1997",
+                    "uri": "http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1997"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Coldplay"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

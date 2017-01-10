@@ -1,0 +1,189 @@
+{
+  "mainText":"He had also done work on the bliss point, showing how a product\u2019s allure is contextual, shaped partly by the other foods a person is eating, and that it changes as people age.\nToppels, a cracker with cheese topping; Stuffers, a shell with a variety of fillings; Rumbles, a bite-size granola snack \u2014 they all came and went in a blink, and the company took a $52 million hit.\nThe largest single block of customers, the baby boomers, had begun hitting middle age.\nAccording to the research, this suggested that their liking for salty snacks \u2014 both in the concentration of salt and how much they ate \u2014 would be tapering off.\nAround that time, the marketing team was joined by Dwight Riskey, an expert on cravings who had been a fellow at the Monell Chemical Senses Center in Philadelphia, where he was part of a team of scientists that found that people could beat their salt habits simply by refraining from salty foods long enough for their taste buds to return to a normal level of sensitivity.\nThis seemed to help explain why Frito-Lay was having so much trouble selling new snacks.\nThe company had introduced a series of high-profile products that failed miserably.\nNot much had changed by 1986, except Frito-Lay found itself on a rare cold streak.\nAlong with the rest of the snack-food industry, Frito-Lay anticipated lower sales because of an aging population, and marketing plans were adjusted to focus even more intently on younger consumers.",
+  "shownText":"I tracked Lin down in Irvine, Calif., where we spent several days going through the internal company memos, strategy papers and handwritten notes he had kept.\nThe documents were evidence of the concern that Lin had for consumers and of the company\u2019s intent on using science not to address the health concerns but to thwart them.\nBy chance, I ran across a letter that Lin sent to Karppanen three weeks after that dinner, buried in some files to which I had gained access.\nWhile at Frito-Lay, Lin and other company scientists spoke openly about the country\u2019s excessive consumption of sodium and the fact that, as Lin said to me on more than one occasion, \u201cpeople get addicted to salt.\u201d\nAttached to the letter was a memo written when Lin was at Frito-Lay, which detailed some of the company\u2019s efforts in defending salt.\n\nHe had also done work on the bliss point, showing how a product\u2019s allure is contextual, shaped partly by the other foods a person is eating, and that it changes as people age.\nToppels, a cracker with cheese topping; Stuffers, a shell with a variety of fillings; Rumbles, a bite-size granola snack \u2014 they all came and went in a blink, and the company took a $52 million hit.\nThe largest single block of customers, the baby boomers, had begun hitting middle age.\nAccording to the research, this suggested that their liking for salty snacks \u2014 both in the concentration of salt and how much they ate \u2014 would be tapering off.\nAround that time, the marketing team was joined by Dwight Riskey, an expert on cravings who had been a fellow at the Monell Chemical Senses Center in Philadelphia, where he was part of a team of scientists that found that people could beat their salt habits simply by refraining from salty foods long enough for their taste buds to return to a normal level of sensitivity.\nThis seemed to help explain why Frito-Lay was having so much trouble selling new snacks.\nThe company had introduced a series of high-profile products that failed miserably.\nNot much had changed by 1986, except Frito-Lay found itself on a rare cold streak.\nAlong with the rest of the snack-food industry, Frito-Lay anticipated lower sales because of an aging population, and marketing plans were adjusted to focus even more intently on younger consumers.\n\nBut what they weren\u2019t measuring, Riskey realized, is how those snacking habits of the boomers compared to themselves when they were in their 20s.\nPoring over data one day in his home office, trying to understand just who was consuming all the snack food, Riskey realized that he and his colleagues had been misreading things all along.\nThey had been measuring the snacking habits of different age groups and were seeing what they expected to see, that older consumers ate less than those in their 20s.\n\u201cIn fact, as those people aged, their consumption of all those segments \u2014 the cookies, the crackers, the candy, the chips \u2014 was going up,\u201d Riskey said.\nWhen he called up a new set of sales data and performed what\u2019s called a cohort study, following a single group over time, a far more encouraging picture \u2014 for Frito-Lay, anyway \u2014 emerged.\nExcept that snack sales didn\u2019t decline as everyone had projected, Frito-Lay\u2019s doomed product launches notwithstanding.\nThe baby boomers were not eating fewer salty snacks as they aged.\nIn fact, everyone in the country, on average, was eating more salty snacks than they used to.\n\u201cThey were not only eating what they ate when they were younger, they were eating more of it.\u201d\nThe rate of consumption was edging up about one-third of a pound every year, with the average intake of snacks like chips and cheese crackers pushing past 12 pounds a year.\n",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P3-0177",
+  "elementNumber":72,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":1589,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Monell_Chemical_Senses_Center",
+      "label":"Monell Chemical Senses Center",
+      "offsets":[
+        {
+          "offset":1556,
+          "length":29
+        }
+      ],
+      "types":[
+        {
+          "label":"Research Institutes In The United States",
+          "uri":"http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+        },
+        {
+          "label":"Independent research institutes",
+          "uri":"http://dbpedia.org/resource/Independent_research_institutes"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":1589,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Monell_Chemical_Senses_Center",
+      "label":"Monell Chemical Senses Center",
+      "offsets":[
+        {
+          "offset":1556,
+          "length":29
+        }
+      ],
+      "types":[
+        {
+          "label":"Research Institutes In The United States",
+          "uri":"http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+        },
+        {
+          "label":"Independent research institutes",
+          "uri":"http://dbpedia.org/resource/Independent_research_institutes"
+        }
+      ]
+    }
+  ]
+}

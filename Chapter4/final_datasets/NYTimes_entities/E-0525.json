@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Rubirosa",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Socialites",
+                    "uri": "http://dbpedia.org/class/yago/Socialites"
+                },
+                {
+                    "label": "Dominican Republic Diplomats",
+                    "uri": "http://dbpedia.org/class/yago/DominicanRepublicDiplomats"
+                },
+                {
+                    "label": "Dominican Republic diplomats",
+                    "uri": "http://dbpedia.org/resource/Dominican_Republic_diplomats"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Porfirio_Rubirosa"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0525",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rubirosa",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Socialites",
+                    "uri": "http://dbpedia.org/class/yago/Socialites"
+                },
+                {
+                    "label": "Dominican Republic Diplomats",
+                    "uri": "http://dbpedia.org/class/yago/DominicanRepublicDiplomats"
+                },
+                {
+                    "label": "Dominican Republic diplomats",
+                    "uri": "http://dbpedia.org/resource/Dominican_Republic_diplomats"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Porfirio_Rubirosa"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,101 @@
+{
+  "mainText":"The suit seeking to prohibit CommonWealth\u2019s stock offering, a draft copy of which was filed with regulators, is expected to be filed in a Maryland state court on Wednesday morning.\nThe investors are being represented by the law firm Gibson, Dunn & Crutcher.",
+  "shownText":"The suit seeking to prohibit CommonWealth\u2019s stock offering, a draft copy of which was filed with regulators, is expected to be filed in a Maryland state court on Wednesday morning.\nThe investors are being represented by the law firm Gibson, Dunn & Crutcher.",
+  "title":"Covex Management and Related Companies Ratchet Up Pressure on CommonWealth - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/27/activist-investors-ratchet-up-pressure-on-commonwealth/",
+  "category":"dealbook",
+  "docID":"P-0083",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Gibson,_Dunn_&_Crutcher",
+      "label":"Gibson, Dunn &amp; Crutcher",
+      "offsets":[
+        {
+          "offset":233,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Based In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+        },
+        {
+          "label":"Law Firms Of The United States",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1890",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1890"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Commonwealth",
+      "label":"CommonWealth",
+      "offsets":[
+        {
+          "offset":29,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Constitutional state types",
+          "uri":"http://dbpedia.org/resource/Constitutional_state_types"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Gibson,_Dunn_&_Crutcher",
+      "label":"Gibson, Dunn &amp; Crutcher",
+      "offsets":[
+        {
+          "offset":233,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Based In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+        },
+        {
+          "label":"Law Firms Of The United States",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1890",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1890"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Commonwealth",
+      "label":"CommonWealth",
+      "offsets":[
+        {
+          "offset":29,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Constitutional state types",
+          "uri":"http://dbpedia.org/resource/Constitutional_state_types"
+        }
+      ]
+    }
+  ]
+}

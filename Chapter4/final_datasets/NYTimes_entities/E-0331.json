@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Virginia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "17th century establishments",
+                    "uri": "http://dbpedia.org/resource/17th_century_establishments"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Virginia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0331",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Virginia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "17th century establishments",
+                    "uri": "http://dbpedia.org/resource/17th_century_establishments"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Virginia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

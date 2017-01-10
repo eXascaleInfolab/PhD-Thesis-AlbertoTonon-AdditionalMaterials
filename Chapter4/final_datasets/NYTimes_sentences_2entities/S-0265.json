@@ -1,0 +1,181 @@
+{
+  "mainText":"The company\u2019s newspapers, including The Wall Street Journal and The New York Post, will join a publishing-based company that will retain the name News Corporation.",
+  "shownText":"The company\u2019s newspapers, including The Wall Street Journal and The New York Post, will join a publishing-based company that will retain the name News Corporation.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0265",
+  "elementNumber":57,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":146,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/New_York_Post",
+      "label":"New York Post",
+      "offsets":[
+        {
+          "offset":68,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Publications Established In1801",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1801"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"newspaper",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":146,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/New_York_Post",
+      "label":"New York Post",
+      "offsets":[
+        {
+          "offset":68,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Publications Established In1801",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1801"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"newspaper",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

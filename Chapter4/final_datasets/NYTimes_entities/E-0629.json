@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Jeffrey Tambor",
+            "types": [
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "American Scientologists",
+                    "uri": "http://dbpedia.org/resource/American_Scientologists"
+                },
+                {
+                    "label": "People From San Francisco",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeffrey_Tambor"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0629",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jeffrey Tambor",
+            "types": [
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "American Scientologists",
+                    "uri": "http://dbpedia.org/resource/American_Scientologists"
+                },
+                {
+                    "label": "People From San Francisco",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSanFrancisco"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeffrey_Tambor"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

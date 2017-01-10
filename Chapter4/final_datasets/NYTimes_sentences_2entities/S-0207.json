@@ -1,0 +1,229 @@
+{
+  "mainText":"WASHINGTON (AP) \u2014 Defense Secretary Leon Panetta has apparently had all the Pentagon farewells he can take.",
+  "shownText":"WASHINGTON (AP) \u2014 Defense Secretary Leon Panetta has apparently had all the Pentagon farewells he can take.",
+  "title":"Panetta Tuning In to C-SPAN to Await Hagel Vote - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/aponline/2013/02/25/us/politics/ap-us-panetta-hagel.html",
+  "category":"politics",
+  "docID":"S-0207",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"WASHINGTON",
+      "offsets":[
+        {
+          "offset":0,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Panetta",
+      "label":"Leon Panetta",
+      "offsets":[
+        {
+          "offset":36,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"United States Army Officers",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesArmyOfficers"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Clinton Administration personnel",
+          "uri":"http://dbpedia.org/resource/Clinton_Administration_personnel"
+        },
+        {
+          "label":"Directors Of The Office Of Management And Budget",
+          "uri":"http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+        },
+        {
+          "label":"Santa Clara University Alumni",
+          "uri":"http://dbpedia.org/class/yago/SantaClaraUniversityAlumni"
+        },
+        {
+          "label":"Official",
+          "uri":"http://dbpedia.org/class/yago/Official110372373"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Italian-American politicians",
+          "uri":"http://dbpedia.org/resource/Italian-American_politicians"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Italian-American Politicians",
+          "uri":"http://dbpedia.org/class/yago/Italian-AmericanPoliticians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"White House Chiefs Of Staff",
+          "uri":"http://dbpedia.org/class/yago/WhiteHouseChiefsOfStaff"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"WASHINGTON",
+      "offsets":[
+        {
+          "offset":0,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Panetta",
+      "label":"Leon Panetta",
+      "offsets":[
+        {
+          "offset":36,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"United States Army Officers",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesArmyOfficers"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Clinton Administration personnel",
+          "uri":"http://dbpedia.org/resource/Clinton_Administration_personnel"
+        },
+        {
+          "label":"Directors Of The Office Of Management And Budget",
+          "uri":"http://dbpedia.org/class/yago/DirectorsOfTheOfficeOfManagementAndBudget"
+        },
+        {
+          "label":"Santa Clara University Alumni",
+          "uri":"http://dbpedia.org/class/yago/SantaClaraUniversityAlumni"
+        },
+        {
+          "label":"Official",
+          "uri":"http://dbpedia.org/class/yago/Official110372373"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Italian-American politicians",
+          "uri":"http://dbpedia.org/resource/Italian-American_politicians"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Italian-American Politicians",
+          "uri":"http://dbpedia.org/class/yago/Italian-AmericanPoliticians"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"White House Chiefs Of Staff",
+          "uri":"http://dbpedia.org/class/yago/WhiteHouseChiefsOfStaff"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "Robert Coleman Richardson",
+            "types": [
+                {
+                    "label": "Cornell University faculty",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_faculty"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Duke University faculty",
+                    "uri": "http://dbpedia.org/resource/Duke_University_faculty"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Experimental Physicists",
+                    "uri": "http://dbpedia.org/class/yago/ExperimentalPhysicists"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/class/yago/Scientist110560637"
+                },
+                {
+                    "label": "Nobel Laureates In Physics",
+                    "uri": "http://dbpedia.org/class/yago/NobelLaureatesInPhysics"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American physicists",
+                    "uri": "http://dbpedia.org/resource/American_physicists"
+                },
+                {
+                    "label": "American Physicists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhysicists"
+                },
+                {
+                    "label": "Eagle Scouts",
+                    "uri": "http://dbpedia.org/class/yago/EagleScouts"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Duke University alumni",
+                    "uri": "http://dbpedia.org/resource/Duke_University_alumni"
+                },
+                {
+                    "label": "Duke University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DukeUniversityAlumni"
+                },
+                {
+                    "label": "Virginia Tech Alumni",
+                    "uri": "http://dbpedia.org/class/yago/VirginiaTechAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert_Coleman_Richardson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0075",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Robert Coleman Richardson",
+            "types": [
+                {
+                    "label": "Cornell University faculty",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_faculty"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Duke University faculty",
+                    "uri": "http://dbpedia.org/resource/Duke_University_faculty"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Experimental Physicists",
+                    "uri": "http://dbpedia.org/class/yago/ExperimentalPhysicists"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/class/yago/Scientist110560637"
+                },
+                {
+                    "label": "Nobel Laureates In Physics",
+                    "uri": "http://dbpedia.org/class/yago/NobelLaureatesInPhysics"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American physicists",
+                    "uri": "http://dbpedia.org/resource/American_physicists"
+                },
+                {
+                    "label": "American Physicists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhysicists"
+                },
+                {
+                    "label": "Eagle Scouts",
+                    "uri": "http://dbpedia.org/class/yago/EagleScouts"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Duke University alumni",
+                    "uri": "http://dbpedia.org/resource/Duke_University_alumni"
+                },
+                {
+                    "label": "Duke University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DukeUniversityAlumni"
+                },
+                {
+                    "label": "Virginia Tech Alumni",
+                    "uri": "http://dbpedia.org/class/yago/VirginiaTechAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert_Coleman_Richardson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

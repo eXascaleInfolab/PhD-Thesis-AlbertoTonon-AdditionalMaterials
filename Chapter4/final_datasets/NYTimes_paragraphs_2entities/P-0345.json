@@ -1,0 +1,181 @@
+{
+  "mainText":"\u201cThings are different,\u201d said Maina Kiai, a prominent Kenyan human rights advocate.\nFor instance, he noted, it was the Kikuyu and Kalenjin who fought one another in the Rift Valley in 2007 and 2008, but now many members of those two groups are on the same side because their leaders have formed a political alliance.",
+  "shownText":"\u201cThings are different,\u201d said Maina Kiai, a prominent Kenyan human rights advocate.\nFor instance, he noted, it was the Kikuyu and Kalenjin who fought one another in the Rift Valley in 2007 and 2008, but now many members of those two groups are on the same side because their leaders have formed a political alliance.",
+  "title":"Neighbors Kill Neighbors in Kenya as Election Tensions Stir Age-Old Grievances - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/world/africa/neighbors-kill-neighbors-in-kenya-as-election-tensions-stir-age-old-grievances.html?ref=world",
+  "category":"world",
+  "docID":"P-0345",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kikuyu",
+      "label":"Kikuyu",
+      "offsets":[
+        {
+          "offset":118,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ethnic Group",
+          "uri":"http://dbpedia.org/ontology/EthnicGroup"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kenya",
+      "label":"Kenya",
+      "offsets":[
+        {
+          "offset":53,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"African Union Member States",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kikuyu",
+      "label":"Kikuyu",
+      "offsets":[
+        {
+          "offset":118,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Ethnic Group",
+          "uri":"http://dbpedia.org/ontology/EthnicGroup"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kenya",
+      "label":"Kenya",
+      "offsets":[
+        {
+          "offset":53,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"African Union Member States",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

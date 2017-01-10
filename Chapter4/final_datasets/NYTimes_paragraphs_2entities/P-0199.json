@@ -1,0 +1,317 @@
+{
+  "mainText":"Whether the draft will turn out the way Te\u2019o thought it would remains to be seen, but the effect of the hoax on Te\u2019o\u2019s draft stock has been a constant source of discussion at the combine.\nTe\u2019o\u2019s performance Saturday \u2014 mostly relaxed even when he was asked near the end if he was dating anybody now \u201cin real life\u201d \u2014 will almost certainly help to quiet the din surrounding him.\nSeveral team executives said that their organizations were looking at social media tools like Twitter and Facebook more extensively as part of the scouting process.\nMinnesota Vikings General Manager Rick Spielman said he thought the increased scrutiny of social media was almost solely attributable to Te\u2019o\u2019s situation.",
+  "shownText":"Whether the draft will turn out the way Te\u2019o thought it would remains to be seen, but the effect of the hoax on Te\u2019o\u2019s draft stock has been a constant source of discussion at the combine.\nTe\u2019o\u2019s performance Saturday \u2014 mostly relaxed even when he was asked near the end if he was dating anybody now \u201cin real life\u201d \u2014 will almost certainly help to quiet the din surrounding him.\nSeveral team executives said that their organizations were looking at social media tools like Twitter and Facebook more extensively as part of the scouting process.\nMinnesota Vikings General Manager Rick Spielman said he thought the increased scrutiny of social media was almost solely attributable to Te\u2019o\u2019s situation.",
+  "title":"With N.F.L. Watching, Manti Teâo Fields Questions at Scouting Combine - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/sports/football/manti-teo-fields-questions-at-scouting-combine.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0199",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Twitter",
+      "label":"Twitter",
+      "offsets":[
+        {
+          "offset":470,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":482,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Minnesota_Vikings",
+      "label":"Minnesota Vikings",
+      "offsets":[
+        {
+          "offset":541,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Sports In Minneapolis-St.Paul",
+          "uri":"http://dbpedia.org/class/yago/SportsInMinneapolis-St.Paul"
+        },
+        {
+          "label":"American Football Team",
+          "uri":"http://dbpedia.org/ontology/AmericanFootballTeam"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"group of men",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rwP1535wpEbGdrcN5Y29ycB4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"National Football League Teams",
+          "uri":"http://dbpedia.org/class/yago/NationalFootballLeagueTeams"
+        },
+        {
+          "label":"football team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj5a5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Sports Clubs Established In1961",
+          "uri":"http://dbpedia.org/class/yago/SportsClubsEstablishedIn1961"
+        },
+        {
+          "label":"NFL football team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVj5a5wpEbGdrcN5Y29ycB4rvViz-5wpEbGdrcN5Y29ycB4rvVjw5ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Sports Team",
+          "uri":"http://dbpedia.org/ontology/SportsTeam"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Twitter",
+      "label":"Twitter",
+      "offsets":[
+        {
+          "offset":470,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":482,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Minnesota_Vikings",
+      "label":"Minnesota Vikings",
+      "offsets":[
+        {
+          "offset":541,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Sports In Minneapolis-St.Paul",
+          "uri":"http://dbpedia.org/class/yago/SportsInMinneapolis-St.Paul"
+        },
+        {
+          "label":"American Football Team",
+          "uri":"http://dbpedia.org/ontology/AmericanFootballTeam"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"group of men",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rwP1535wpEbGdrcN5Y29ycB4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"National Football League Teams",
+          "uri":"http://dbpedia.org/class/yago/NationalFootballLeagueTeams"
+        },
+        {
+          "label":"football team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj5a5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Sports Clubs Established In1961",
+          "uri":"http://dbpedia.org/class/yago/SportsClubsEstablishedIn1961"
+        },
+        {
+          "label":"NFL football team",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVj5a5wpEbGdrcN5Y29ycB4rvViz-5wpEbGdrcN5Y29ycB4rvVjw5ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Sports Team",
+          "uri":"http://dbpedia.org/ontology/SportsTeam"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Mark Cuban",
+            "types": [
+                {
+                    "label": "Owner",
+                    "uri": "http://dbpedia.org/class/yago/Owner110388924"
+                },
+                {
+                    "label": "Jewish businesspeople",
+                    "uri": "http://dbpedia.org/resource/Jewish_businesspeople"
+                },
+                {
+                    "label": "American bloggers",
+                    "uri": "http://dbpedia.org/resource/American_bloggers"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "American Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBloggers"
+                },
+                {
+                    "label": "Businesspeople from Pittsburgh",
+                    "uri": "http://dbpedia.org/resource/Businesspeople_from_Pittsburgh"
+                },
+                {
+                    "label": "Copyright activists",
+                    "uri": "http://dbpedia.org/resource/Copyright_activists"
+                },
+                {
+                    "label": "American billionaires",
+                    "uri": "http://dbpedia.org/resource/American_billionaires"
+                },
+                {
+                    "label": "American sports businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_sports_businesspeople"
+                },
+                {
+                    "label": "Copyright Activists",
+                    "uri": "http://dbpedia.org/class/yago/CopyrightActivists"
+                },
+                {
+                    "label": "Indiana University alumni",
+                    "uri": "http://dbpedia.org/resource/Indiana_University_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mark_Cuban"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0701",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mark Cuban",
+            "types": [
+                {
+                    "label": "Owner",
+                    "uri": "http://dbpedia.org/class/yago/Owner110388924"
+                },
+                {
+                    "label": "Jewish businesspeople",
+                    "uri": "http://dbpedia.org/resource/Jewish_businesspeople"
+                },
+                {
+                    "label": "American bloggers",
+                    "uri": "http://dbpedia.org/resource/American_bloggers"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "American Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBloggers"
+                },
+                {
+                    "label": "Businesspeople from Pittsburgh",
+                    "uri": "http://dbpedia.org/resource/Businesspeople_from_Pittsburgh"
+                },
+                {
+                    "label": "Copyright activists",
+                    "uri": "http://dbpedia.org/resource/Copyright_activists"
+                },
+                {
+                    "label": "American billionaires",
+                    "uri": "http://dbpedia.org/resource/American_billionaires"
+                },
+                {
+                    "label": "American sports businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_sports_businesspeople"
+                },
+                {
+                    "label": "Copyright Activists",
+                    "uri": "http://dbpedia.org/class/yago/CopyrightActivists"
+                },
+                {
+                    "label": "Indiana University alumni",
+                    "uri": "http://dbpedia.org/resource/Indiana_University_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mark_Cuban"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

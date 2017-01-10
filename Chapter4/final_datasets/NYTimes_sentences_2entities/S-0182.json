@@ -1,0 +1,325 @@
+{
+  "mainText":"François Hollande, Angela Merkel and especially David Cameron: remember the passeurs!",
+  "shownText":"François Hollande, Angela Merkel and especially David Cameron: remember the passeurs!",
+  "title":"Are There Any Europeans Left? - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/opinion/sunday/are-there-any-europeans-left.html?ref=opinion",
+  "category":"opinion",
+  "docID":"S-0182",
+  "elementNumber":59,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Angela_Merkel",
+      "label":"Angela Merkel",
+      "offsets":[
+        {
+          "offset":19,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Current Female Heads Of Government",
+          "uri":"http://dbpedia.org/class/yago/CurrentFemaleHeadsOfGovernment"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Hamburg",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHamburg"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/class/yago/Chancellor109906986"
+        },
+        {
+          "label":"Leaders Of Political Parties",
+          "uri":"http://dbpedia.org/class/yago/LeadersOfPoliticalParties"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"German Scientists",
+          "uri":"http://dbpedia.org/class/yago/GermanScientists"
+        },
+        {
+          "label":"German Women In Politics",
+          "uri":"http://dbpedia.org/class/yago/GermanWomenInPolitics"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/ontology/Chancellor"
+        },
+        {
+          "label":"Chancellors Of Germany",
+          "uri":"http://dbpedia.org/class/yago/ChancellorsOfGermany"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"German Christian Democrat Politicians",
+          "uri":"http://dbpedia.org/class/yago/GermanChristianDemocratPoliticians"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Female Heads Of Government",
+          "uri":"http://dbpedia.org/class/yago/FemaleHeadsOfGovernment"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/David_Cameron",
+      "label":"David Cameron",
+      "offsets":[
+        {
+          "offset":48,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Honorary Fellows Of Brasenose College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/HonoraryFellowsOfBrasenoseCollege,Oxford"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/class/yago/Politician110451263"
+        },
+        {
+          "label":"Leaders Of The British Conservative Party",
+          "uri":"http://dbpedia.org/class/yago/LeadersOfTheBritishConservativeParty"
+        },
+        {
+          "label":"English Anglicans",
+          "uri":"http://dbpedia.org/resource/English_Anglicans"
+        },
+        {
+          "label":"Alumni Of Brasenose College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfBrasenoseCollege,Oxford"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"People From Berkshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBerkshire"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Conservative MPs (UK)",
+          "uri":"http://dbpedia.org/resource/Conservative_MPs_%28UK%29"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Angela_Merkel",
+      "label":"Angela Merkel",
+      "offsets":[
+        {
+          "offset":19,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Current Female Heads Of Government",
+          "uri":"http://dbpedia.org/class/yago/CurrentFemaleHeadsOfGovernment"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Hamburg",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHamburg"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/class/yago/Chancellor109906986"
+        },
+        {
+          "label":"Leaders Of Political Parties",
+          "uri":"http://dbpedia.org/class/yago/LeadersOfPoliticalParties"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"German Scientists",
+          "uri":"http://dbpedia.org/class/yago/GermanScientists"
+        },
+        {
+          "label":"German Women In Politics",
+          "uri":"http://dbpedia.org/class/yago/GermanWomenInPolitics"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/ontology/Chancellor"
+        },
+        {
+          "label":"Chancellors Of Germany",
+          "uri":"http://dbpedia.org/class/yago/ChancellorsOfGermany"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"German Christian Democrat Politicians",
+          "uri":"http://dbpedia.org/class/yago/GermanChristianDemocratPoliticians"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Female Heads Of Government",
+          "uri":"http://dbpedia.org/class/yago/FemaleHeadsOfGovernment"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/David_Cameron",
+      "label":"David Cameron",
+      "offsets":[
+        {
+          "offset":48,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Honorary Fellows Of Brasenose College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/HonoraryFellowsOfBrasenoseCollege,Oxford"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/class/yago/Politician110451263"
+        },
+        {
+          "label":"Leaders Of The British Conservative Party",
+          "uri":"http://dbpedia.org/class/yago/LeadersOfTheBritishConservativeParty"
+        },
+        {
+          "label":"English Anglicans",
+          "uri":"http://dbpedia.org/resource/English_Anglicans"
+        },
+        {
+          "label":"Alumni Of Brasenose College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfBrasenoseCollege,Oxford"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"People From Berkshire",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBerkshire"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Conservative MPs (UK)",
+          "uri":"http://dbpedia.org/resource/Conservative_MPs_%28UK%29"
+        }
+      ]
+    }
+  ]
+}

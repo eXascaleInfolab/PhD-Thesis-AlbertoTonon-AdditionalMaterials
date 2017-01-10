@@ -1,0 +1,365 @@
+{
+  "mainText":"Others believed in the promise of the e-reader as well.\nLast year, Microsoft paid $300 million for a 17.6 percent stake in the Nook business, valuing it then at $1.7 billion.\nThe technology titan also secured Barnes & Noble\u2019s commitment to produce an e-reader app for its Windows 8 operating system.",
+  "shownText":"It is the boldest move yet by Mr. Riggio to try and save the company he built into the nation\u2019s biggest brick-and-mortar bookseller.\nHe has fended off challenges from the likes of the billionaire Ronald Burkle, arguing in large part that the company was well-positioned in the future by betting on the Nook and digital books.\n\nOthers believed in the promise of the e-reader as well.\nLast year, Microsoft paid $300 million for a 17.6 percent stake in the Nook business, valuing it then at $1.7 billion.\nThe technology titan also secured Barnes & Noble\u2019s commitment to produce an e-reader app for its Windows 8 operating system.\n\nBarnes & Noble said in a statement that it has formed a special board committee comprised of three directors \u2014 David G. Golden, David A. Wilson and Patricia L. Higgins \u2014 to consider Mr. Riggio\u2019s proposal.\nThe trio will be advised by Evercore Partners and the law firm Paul, Weiss, Rifkind, Wharton & Garrison.\n",
+  "title":"Barnes &amp; Noble Founder Leonard Riggio to Bid for Bookstore&#039;s Retail Business - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/barnes-noble-founder-to-bid-for-bookstores-retail-business/?ref=business",
+  "category":"business",
+  "docID":"P3-0052",
+  "elementNumber":7,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":536,
+          "length":14
+        },
+        {
+          "offset":628,
+          "length":14
+        },
+        {
+          "offset":536,
+          "length":14
+        },
+        {
+          "offset":628,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":394,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":34,
+          "length":6
+        },
+        {
+          "offset":814,
+          "length":6
+        },
+        {
+          "offset":34,
+          "length":6
+        },
+        {
+          "offset":814,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Evercore_Partners",
+      "label":"Evercore Partners",
+      "offsets":[
+        {
+          "offset":861,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1996",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":536,
+          "length":14
+        },
+        {
+          "offset":628,
+          "length":14
+        },
+        {
+          "offset":536,
+          "length":14
+        },
+        {
+          "offset":628,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":394,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Golden",
+      "label":"David G. Golden",
+      "offsets":[
+        {
+          "offset":739,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Irish surnames",
+          "uri":"http://dbpedia.org/resource/Irish_surnames"
+        },
+        {
+          "label":"English surnames",
+          "uri":"http://dbpedia.org/resource/English_surnames"
+        }
+      ]
+    }
+  ]
+}

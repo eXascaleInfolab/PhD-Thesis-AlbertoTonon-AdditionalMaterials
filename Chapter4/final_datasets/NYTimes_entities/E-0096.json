@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "John B. Hess",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "People From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewJersey"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_B._Hess"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0096",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John B. Hess",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "People From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewJersey"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_B._Hess"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

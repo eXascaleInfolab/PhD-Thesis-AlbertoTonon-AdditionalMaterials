@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "BDSM",
+            "types": [
+                {
+                    "label": "Abbreviations",
+                    "uri": "http://dbpedia.org/class/yago/Abbreviations"
+                },
+                {
+                    "label": "first-order collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Subcultures",
+                    "uri": "http://dbpedia.org/class/yago/Subcultures"
+                },
+                {
+                    "label": "type of temporally stuff-like thing",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVitN5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/BDSM"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0365",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "BDSM",
+            "types": [
+                {
+                    "label": "Abbreviations",
+                    "uri": "http://dbpedia.org/class/yago/Abbreviations"
+                },
+                {
+                    "label": "first-order collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Subcultures",
+                    "uri": "http://dbpedia.org/class/yago/Subcultures"
+                },
+                {
+                    "label": "type of temporally stuff-like thing",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVitN5wpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/BDSM"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

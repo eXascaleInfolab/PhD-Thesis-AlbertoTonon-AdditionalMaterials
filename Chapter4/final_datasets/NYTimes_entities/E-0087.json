@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "St. Mary&rsquo;s Cathedral",
+            "types": [
+                {
+                    "label": "kind of artifact not distinguished by brand or model",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rejmDbrF_QdeIENT1qpbYzQ"
+                },
+                {
+                    "label": "artifactual feature type",
+                    "uri": "http://sw.opencyc.org/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                },
+                {
+                    "label": "cartographic feature type",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6-wc8BKxEdeIXwCgydofLQ"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "artifactual feature type",
+                    "uri": "http://sw.cyc.com/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                },
+                {
+                    "label": "Class",
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                },
+                {
+                    "label": "first-order collection",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cathedral"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0087",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "St. Mary&rsquo;s Cathedral",
+            "types": [
+                {
+                    "label": "kind of artifact not distinguished by brand or model",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rejmDbrF_QdeIENT1qpbYzQ"
+                },
+                {
+                    "label": "artifactual feature type",
+                    "uri": "http://sw.opencyc.org/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                },
+                {
+                    "label": "cartographic feature type",
+                    "uri": "http://sw.opencyc.org/concept/Mx4r6-wc8BKxEdeIXwCgydofLQ"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "type of object",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "artifactual feature type",
+                    "uri": "http://sw.cyc.com/concept/Mx4ru-8ymLHtEdmAAAACs6hO_g"
+                },
+                {
+                    "label": "Class",
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                },
+                {
+                    "label": "first-order collection",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rHIBS0h_TEdaAAABQ2rksLw"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Cathedral"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

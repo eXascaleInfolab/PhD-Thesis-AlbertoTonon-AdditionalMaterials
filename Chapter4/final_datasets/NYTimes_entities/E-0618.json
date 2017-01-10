@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Al Bab",
+            "types": [
+                {
+                    "label": "Cities In Syria",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSyria"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Al_Bab"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0618",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Al Bab",
+            "types": [
+                {
+                    "label": "Cities In Syria",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInSyria"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://umbel.org/umbel/sc/City"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Al_Bab"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

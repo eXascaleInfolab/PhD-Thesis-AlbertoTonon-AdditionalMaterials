@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Carmelo Anthony",
+            "types": [
+                {
+                    "label": "Puerto Rican Athletes",
+                    "uri": "http://dbpedia.org/class/yago/PuertoRicanAthletes"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Denver Nuggets Players",
+                    "uri": "http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Basketball Players At The2004Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BasketballPlayersAtThe2004SummerOlympics"
+                },
+                {
+                    "label": "Small Forwards",
+                    "uri": "http://dbpedia.org/class/yago/SmallForwards"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Basketball Player",
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                },
+                {
+                    "label": "Olympic Basketball Players Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBasketballPlayersOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Syracuse Orange Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/SyracuseOrangeMen'sBasketballPlayers"
+                },
+                {
+                    "label": "Olympic Bronze Medalists For The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBronzeMedalistsForTheUnitedStates"
+                },
+                {
+                    "label": "People From Baltimore,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                },
+                {
+                    "label": "Puerto Rican Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/PuertoRicanBasketballPlayers"
+                },
+                {
+                    "label": "Afro-Puerto Ricans",
+                    "uri": "http://dbpedia.org/resource/Afro-Puerto_Ricans"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carmelo_Anthony"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0025",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Carmelo Anthony",
+            "types": [
+                {
+                    "label": "Puerto Rican Athletes",
+                    "uri": "http://dbpedia.org/class/yago/PuertoRicanAthletes"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Denver Nuggets Players",
+                    "uri": "http://dbpedia.org/class/yago/DenverNuggetsPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "Basketball Players At The2004Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BasketballPlayersAtThe2004SummerOlympics"
+                },
+                {
+                    "label": "Small Forwards",
+                    "uri": "http://dbpedia.org/class/yago/SmallForwards"
+                },
+                {
+                    "label": "Denver Nuggets players",
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Basketball Player",
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                },
+                {
+                    "label": "Olympic Basketball Players Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBasketballPlayersOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Syracuse Orange Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/SyracuseOrangeMen'sBasketballPlayers"
+                },
+                {
+                    "label": "Olympic Bronze Medalists For The United States",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBronzeMedalistsForTheUnitedStates"
+                },
+                {
+                    "label": "People From Baltimore,Maryland",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                },
+                {
+                    "label": "Puerto Rican Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/PuertoRicanBasketballPlayers"
+                },
+                {
+                    "label": "Afro-Puerto Ricans",
+                    "uri": "http://dbpedia.org/resource/Afro-Puerto_Ricans"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carmelo_Anthony"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

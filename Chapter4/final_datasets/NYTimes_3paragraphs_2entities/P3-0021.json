@@ -1,0 +1,461 @@
+{
+  "mainText":"\u201cI want to thank Canada,\u201d Mr. Affleck said in a rapid-fire speech, a reference to that country\u2019s heroics in saving the diplomats who were the subject of his movie.\nMichelle Obama, wearing a silver gown and appearing via satellite from the White House, helped Jack Nicholson present the award.",
+  "shownText":"But in a break from recent years Oscar voters also found a way to take care of a wide variety of movies, especially \u201cLife of Pi,\u201d which won four trophies, including the best director honor for Ang Lee.\n\u201cLes Misérables\u201d joined \u201cArgo\u201d in taking home three awards, and \u201cDjango Unchained\u201d was honored with two, including one for Quentin Tarantino for best original screenplay.\n\n\u201cI want to thank Canada,\u201d Mr. Affleck said in a rapid-fire speech, a reference to that country\u2019s heroics in saving the diplomats who were the subject of his movie.\nMichelle Obama, wearing a silver gown and appearing via satellite from the White House, helped Jack Nicholson present the award.\n\nOnly a decade ago Mr. Affleck would have been a punch line at the Academy Awards, having taking an unfortunate career turn through flops like \u201cGigli\u201d and \u201cReindeer Games.\u201d\nBut he has turned out several highly praised films in recent years, gaining prestige along the way.\nHis ascent culminated with \u201cArgo,\u201d a tale of a cinematic cover for an escape from revolutionary Iran.\n",
+  "title":"Best Picture for âArgoâ in Varied Oscar Field - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0021",
+  "elementNumber":8,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Michelle_Obama",
+      "label":"Michelle Obama",
+      "offsets":[
+        {
+          "offset":538,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Female Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFemaleLawyers"
+        },
+        {
+          "label":"People From Chicago",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChicago"
+        },
+        {
+          "label":"African American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AfricanAmericanLawyers"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"People From Chicago,Illinois",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChicago,Illinois"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Illinois lawyers",
+          "uri":"http://dbpedia.org/resource/Illinois_lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Princeton University Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+        },
+        {
+          "label":"Vice President",
+          "uri":"http://dbpedia.org/class/yago/VicePresident110751265"
+        },
+        {
+          "label":"Illinois Lawyers",
+          "uri":"http://dbpedia.org/class/yago/IllinoisLawyers"
+        },
+        {
+          "label":"First Ladies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+        },
+        {
+          "label":"Women In Illinois Politics",
+          "uri":"http://dbpedia.org/class/yago/WomenInIllinoisPolitics"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":613,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Quentin_Tarantino",
+      "label":"Quentin Tarantino",
+      "offsets":[
+        {
+          "offset":325,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Italian-American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/Italian-AmericanFilmDirectors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"People From Torrance,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTorrance,California"
+        },
+        {
+          "label":"People From Knoxville,Tennessee",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKnoxville,Tennessee"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"film director",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqs5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Iran",
+      "label":"Iran",
+      "offsets":[
+        {
+          "offset":1036,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Countries with alcohol prohibition",
+          "uri":"http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Near Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/NearEasternCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Developing8Countries Member States",
+          "uri":"http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+        },
+        {
+          "label":"Countries With Alcohol Prohibition",
+          "uri":"http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Middle Eastern Countries",
+          "uri":"http://dbpedia.org/class/yago/MiddleEasternCountries"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Islamic republics",
+          "uri":"http://dbpedia.org/resource/Islamic_republics"
+        },
+        {
+          "label":"Developing 8 Countries member states",
+          "uri":"http://dbpedia.org/resource/Developing_8_Countries_member_states"
+        },
+        {
+          "label":"Persian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Michelle_Obama",
+      "label":"Michelle Obama",
+      "offsets":[
+        {
+          "offset":538,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard Law School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Law_School_alumni"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Female Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFemaleLawyers"
+        },
+        {
+          "label":"People From Chicago",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChicago"
+        },
+        {
+          "label":"African American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/AfricanAmericanLawyers"
+        },
+        {
+          "label":"Harvard Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+        },
+        {
+          "label":"People From Chicago,Illinois",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChicago,Illinois"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Illinois lawyers",
+          "uri":"http://dbpedia.org/resource/Illinois_lawyers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Princeton University Alumni",
+          "uri":"http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+        },
+        {
+          "label":"Vice President",
+          "uri":"http://dbpedia.org/class/yago/VicePresident110751265"
+        },
+        {
+          "label":"Illinois Lawyers",
+          "uri":"http://dbpedia.org/class/yago/IllinoisLawyers"
+        },
+        {
+          "label":"First Ladies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FirstLadiesOfTheUnitedStates"
+        },
+        {
+          "label":"Women In Illinois Politics",
+          "uri":"http://dbpedia.org/class/yago/WomenInIllinoisPolitics"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/White_House",
+      "label":"White House",
+      "offsets":[
+        {
+          "offset":613,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Buildings Of The United States Government In Washington,D.C.",
+          "uri":"http://dbpedia.org/class/yago/BuildingsOfTheUnitedStatesGovernmentInWashington,D.C."
+        },
+        {
+          "label":"Presidential Palaces",
+          "uri":"http://dbpedia.org/class/yago/PresidentialPalaces"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Rebuilt Buildings And Structures",
+          "uri":"http://dbpedia.org/class/yago/RebuiltBuildingsAndStructures"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"executive branch of government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rZfkIHrThQdiWL_Y3RJ_NSA"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"19th century architecture",
+          "uri":"http://dbpedia.org/resource/19th_century_architecture"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/class/yago/Building102913152"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"branch of U.S. Government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTo_pVPbDEdyAAAACs6hRXg"
+        },
+        {
+          "label":"19th century works",
+          "uri":"http://dbpedia.org/resource/19th_century_works"
+        }
+      ]
+    }
+  ]
+}

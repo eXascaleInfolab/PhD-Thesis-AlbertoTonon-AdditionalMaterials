@@ -1,0 +1,189 @@
+{
+  "mainText":"The list also includes Wall Street firms like BlackRock, Goldman Sachs and Morgan Stanley.",
+  "shownText":"The list also includes Wall Street firms like BlackRock, Goldman Sachs and Morgan Stanley.",
+  "title":"Companies Ask Justices to Overturn Gay Marriage Ban - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/business/companies-ask-justices-to-overturn-gay-marriage-ban.html?ref=business",
+  "category":"business",
+  "docID":"S-0050",
+  "elementNumber":21,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Morgan_Stanley",
+      "label":"Morgan Stanley",
+      "offsets":[
+        {
+          "offset":75,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Established In1935",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1935"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Goldman_Sachs",
+      "label":"Goldman Sachs",
+      "offsets":[
+        {
+          "offset":57,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1869",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1869"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Family Businesses",
+          "uri":"http://dbpedia.org/class/yago/FamilyBusinesses"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BlackRock",
+      "label":"BlackRock",
+      "offsets":[
+        {
+          "offset":46,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Investment Management Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InvestmentManagementCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Morgan_Stanley",
+      "label":"Morgan Stanley",
+      "offsets":[
+        {
+          "offset":75,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Established In1935",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1935"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Goldman_Sachs",
+      "label":"Goldman Sachs",
+      "offsets":[
+        {
+          "offset":57,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1869",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1869"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Family Businesses",
+          "uri":"http://dbpedia.org/class/yago/FamilyBusinesses"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BlackRock",
+      "label":"BlackRock",
+      "offsets":[
+        {
+          "offset":46,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Investment Management Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InvestmentManagementCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

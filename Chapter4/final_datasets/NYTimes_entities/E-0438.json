@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Evgeni Malkin",
+            "types": [
+                {
+                    "label": "Calder Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Calder_Trophy_winners"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Evgeni_Malkin"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0438",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Evgeni Malkin",
+            "types": [
+                {
+                    "label": "Calder Trophy winners",
+                    "uri": "http://dbpedia.org/resource/Calder_Trophy_winners"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Evgeni_Malkin"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

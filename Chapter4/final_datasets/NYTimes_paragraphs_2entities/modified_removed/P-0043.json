@@ -1,0 +1,109 @@
+{
+    "allEntities": [
+        {
+            "label": "Kelly McBride", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 153
+                }, 
+                {
+                    "length": 13, 
+                    "offset": 147
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/McBride"
+        }, 
+        {
+            "label": "Poynter Institute", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 222
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Journalism organizations", 
+                    "uri": "http://dbpedia.org/resource/Journalism_organizations"
+                }, 
+                {
+                    "label": "Organization", 
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                }, 
+                {
+                    "label": "Journalism Organizations", 
+                    "uri": "http://dbpedia.org/class/yago/JournalismOrganizations"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Poynter_Institute"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/27/arts/television/pig-rescues-goat-and-the-video-is-really-cute-but-totally-faked.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P-0043", 
+    "elementNumber": 8, 
+    "mainEntities": [
+        {
+            "label": "Kelly McBride", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 153
+                }, 
+                {
+                    "length": 13, 
+                    "offset": 147
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/McBride"
+        }, 
+        {
+            "label": "Poynter Institute", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 222
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Journalism organizations", 
+                    "uri": "http://dbpedia.org/resource/Journalism_organizations"
+                }, 
+                {
+                    "label": "Organization", 
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                }, 
+                {
+                    "label": "Journalism Organizations", 
+                    "uri": "http://dbpedia.org/class/yago/JournalismOrganizations"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Poynter_Institute"
+        }
+    ], 
+    "mainText": "&ldquo;It really is embarrassing for the journalists who stumbled upon this and decided to promote it or share it with their audience,&rdquo; said Kelly McBride, the senior faculty for ethics, reporting and writing at the Poynter Institute.\n&ldquo;It&rsquo;s almost a form of malpractice.&rdquo;", 
+    "shownText": "&ldquo;It really is embarrassing for the journalists who stumbled upon this and decided to promote it or share it with their audience,&rdquo; said Kelly McBride, the senior faculty for ethics, reporting and writing at the Poynter Institute.\n&ldquo;It&rsquo;s almost a form of malpractice.&rdquo;", 
+    "title": "Pig Rescues Goat, and the Video Is Really Cute, but Totally Faked - NYTimes.com"
+}

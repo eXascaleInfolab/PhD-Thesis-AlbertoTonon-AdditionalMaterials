@@ -1,0 +1,185 @@
+{
+    "allEntities": [
+        {
+            "label": "Quincy Lewis",
+            "types": [
+                {
+                    "label": "CBLucentum Alicante Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/CBLucentumAlicanteBasketballPlayers"
+                },
+                {
+                    "label": "CB Lucentum Alicante basketball players",
+                    "uri": "http://dbpedia.org/resource/CB_Lucentum_Alicante_basketball_players"
+                },
+                {
+                    "label": "People From Little Rock,Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLittleRock,Arkansas"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "CB Bilbao Berri basketball players",
+                    "uri": "http://dbpedia.org/resource/CB_Bilbao_Berri_basketball_players"
+                },
+                {
+                    "label": "Small Forwards",
+                    "uri": "http://dbpedia.org/class/yago/SmallForwards"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Maccabi Tel Aviv B.C.Players",
+                    "uri": "http://dbpedia.org/class/yago/MaccabiTelAvivB.C.Players"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Ligat Ha'al Players",
+                    "uri": "http://dbpedia.org/class/yago/LigatHa'alPlayers"
+                },
+                {
+                    "label": "Shooting Guards",
+                    "uri": "http://dbpedia.org/class/yago/ShootingGuards"
+                },
+                {
+                    "label": "People From Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromArkansas"
+                },
+                {
+                    "label": "Olympiacos Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/OlympiacosBasketballPlayers"
+                },
+                {
+                    "label": "ACBLeague Players",
+                    "uri": "http://dbpedia.org/class/yago/ACBLeaguePlayers"
+                },
+                {
+                    "label": "Minnesota Golden Gophers Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/MinnesotaGoldenGophersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "CBBilbao Berri Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/CBBilbaoBerriBasketballPlayers"
+                },
+                {
+                    "label": "Minnesota Timberwolves Players",
+                    "uri": "http://dbpedia.org/class/yago/MinnesotaTimberwolvesPlayers"
+                },
+                {
+                    "label": "ACB league players",
+                    "uri": "http://dbpedia.org/resource/ACB_league_players"
+                },
+                {
+                    "label": "Utah Jazz Players",
+                    "uri": "http://dbpedia.org/class/yago/UtahJazzPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Quincy_Lewis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0714",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Quincy Lewis",
+            "types": [
+                {
+                    "label": "CBLucentum Alicante Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/CBLucentumAlicanteBasketballPlayers"
+                },
+                {
+                    "label": "CB Lucentum Alicante basketball players",
+                    "uri": "http://dbpedia.org/resource/CB_Lucentum_Alicante_basketball_players"
+                },
+                {
+                    "label": "People From Little Rock,Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLittleRock,Arkansas"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "CB Bilbao Berri basketball players",
+                    "uri": "http://dbpedia.org/resource/CB_Bilbao_Berri_basketball_players"
+                },
+                {
+                    "label": "Small Forwards",
+                    "uri": "http://dbpedia.org/class/yago/SmallForwards"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Maccabi Tel Aviv B.C.Players",
+                    "uri": "http://dbpedia.org/class/yago/MaccabiTelAvivB.C.Players"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Ligat Ha'al Players",
+                    "uri": "http://dbpedia.org/class/yago/LigatHa'alPlayers"
+                },
+                {
+                    "label": "Shooting Guards",
+                    "uri": "http://dbpedia.org/class/yago/ShootingGuards"
+                },
+                {
+                    "label": "People From Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromArkansas"
+                },
+                {
+                    "label": "Olympiacos Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/OlympiacosBasketballPlayers"
+                },
+                {
+                    "label": "ACBLeague Players",
+                    "uri": "http://dbpedia.org/class/yago/ACBLeaguePlayers"
+                },
+                {
+                    "label": "Minnesota Golden Gophers Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/MinnesotaGoldenGophersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "CBBilbao Berri Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/CBBilbaoBerriBasketballPlayers"
+                },
+                {
+                    "label": "Minnesota Timberwolves Players",
+                    "uri": "http://dbpedia.org/class/yago/MinnesotaTimberwolvesPlayers"
+                },
+                {
+                    "label": "ACB league players",
+                    "uri": "http://dbpedia.org/resource/ACB_league_players"
+                },
+                {
+                    "label": "Utah Jazz Players",
+                    "uri": "http://dbpedia.org/class/yago/UtahJazzPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Quincy_Lewis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

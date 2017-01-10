@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Stephen S. Fuller",
+            "types": [
+                {
+                    "label": "Fianna F%C3%A1il Politicians",
+                    "uri": "http://dbpedia.org/class/yago/FiannaF%C3%A1ilPoliticians"
+                },
+                {
+                    "label": "Fianna F%E1il politicians",
+                    "uri": "http://dbpedia.org/resource/Fianna_F%E1il_politicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stephen_Fuller"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0770",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Stephen S. Fuller",
+            "types": [
+                {
+                    "label": "Fianna F%C3%A1il Politicians",
+                    "uri": "http://dbpedia.org/class/yago/FiannaF%C3%A1ilPoliticians"
+                },
+                {
+                    "label": "Fianna F%E1il politicians",
+                    "uri": "http://dbpedia.org/resource/Fianna_F%E1il_politicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stephen_Fuller"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "John Cornyn",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Prosecutors",
+                    "uri": "http://dbpedia.org/class/yago/Prosecutors"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Conservatives",
+                    "uri": "http://dbpedia.org/class/yago/Conservatives"
+                },
+                {
+                    "label": "Texas Republicans",
+                    "uri": "http://dbpedia.org/class/yago/TexasRepublicans"
+                },
+                {
+                    "label": "Texas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/TexasLawyers"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "People From Houston",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHouston"
+                },
+                {
+                    "label": "Military Brats",
+                    "uri": "http://dbpedia.org/class/yago/MilitaryBrats"
+                },
+                {
+                    "label": "United States Senators From Texas",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromTexas"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Cornyn"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0489",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John Cornyn",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Prosecutors",
+                    "uri": "http://dbpedia.org/class/yago/Prosecutors"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Conservatives",
+                    "uri": "http://dbpedia.org/class/yago/Conservatives"
+                },
+                {
+                    "label": "Texas Republicans",
+                    "uri": "http://dbpedia.org/class/yago/TexasRepublicans"
+                },
+                {
+                    "label": "Texas Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/TexasLawyers"
+                },
+                {
+                    "label": "politician",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/ontology/Senator"
+                },
+                {
+                    "label": "People From Houston",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHouston"
+                },
+                {
+                    "label": "Military Brats",
+                    "uri": "http://dbpedia.org/class/yago/MilitaryBrats"
+                },
+                {
+                    "label": "United States Senators From Texas",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromTexas"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Cornyn"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,709 @@
+{
+  "mainText":"Cardinal O\u2019Brien, whose office had initially said he would fly to Rome before the conclave, has been the head of the Catholic Church in Scotland since 1985, and was named a cardinal by Pope John Paul II in 2003.\nHe was among the cardinals who attended the conclave that chose Benedict as John Paul\u2019s successor in 2005.",
+  "shownText":"\u201cI also ask God\u2019s blessing on my brother cardinals who will soon gather in Rome to elect\u201d Benedict\u2019s successor.\n\u201cI will not join them for this conclave in person.\nI do not wish media attention in Rome to be focused on me \u2014 but rather on Pope Benedict XVI and on his successor,\u201d the cardinal said.\n\nCardinal O\u2019Brien, whose office had initially said he would fly to Rome before the conclave, has been the head of the Catholic Church in Scotland since 1985, and was named a cardinal by Pope John Paul II in 2003.\nHe was among the cardinals who attended the conclave that chose Benedict as John Paul\u2019s successor in 2005.\n\nOn Monday, the Vatican announced that the pope had changed the laws governing the conclave to elect his successor, allowing cardinals to decide to begin the voting earlier than the customary 15-to-20-day waiting period after the papacy is vacant.\n",
+  "title":"Top British Cardinal Resigns After Accusations of âInappropriate Actsâ - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/world/europe/top-british-cardinal-resigns-after-accusations-of-inappropriate-acts.html?ref=world",
+  "category":"world",
+  "docID":"P3-0359",
+  "elementNumber":10,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pope_John_Paul_II",
+      "label":"Pope John Paul II",
+      "offsets":[
+        {
+          "offset":483,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Polish person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjNdZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"Polish Popes",
+          "uri":"http://dbpedia.org/class/yago/PolishPopes"
+        },
+        {
+          "label":"Servants Of God",
+          "uri":"http://dbpedia.org/class/yago/ServantsOfGod"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/class/yago/Pope110453533"
+        },
+        {
+          "label":"Karlspreis Recipients",
+          "uri":"http://dbpedia.org/resource/Karlspreis_Recipients"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Archbishops Of Krak%C3%B3w",
+          "uri":"http://dbpedia.org/class/yago/ArchbishopsOfKrak%C3%B3w"
+        },
+        {
+          "label":"Polish Polyglots",
+          "uri":"http://dbpedia.org/class/yago/PolishPolyglots"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/ontology/Pope"
+        },
+        {
+          "label":"Polish Theologians",
+          "uri":"http://dbpedia.org/class/yago/PolishTheologians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"Popes",
+          "uri":"http://dbpedia.org/class/yago/Popes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"People With Parkinson's Disease",
+          "uri":"http://dbpedia.org/class/yago/PeopleWithParkinson'sDisease"
+        },
+        {
+          "label":"Participants In The Second Vatican Council",
+          "uri":"http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+        },
+        {
+          "label":"dead organism",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Sovereigns Of Vatican City",
+          "uri":"http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+        },
+        {
+          "label":"Shooting Victims",
+          "uri":"http://dbpedia.org/class/yago/ShootingVictims"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"pope",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBxYpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Catholic exorcists",
+          "uri":"http://dbpedia.org/resource/Catholic_exorcists"
+        },
+        {
+          "label":"Roman Catholic Writers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicWriters"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Polish Philosophers",
+          "uri":"http://dbpedia.org/class/yago/PolishPhilosophers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Scotland",
+      "label":"Scotland",
+      "offsets":[
+        {
+          "offset":434,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":75,
+          "length":4
+        },
+        {
+          "offset":196,
+          "length":4
+        },
+        {
+          "offset":364,
+          "length":4
+        },
+        {
+          "offset":75,
+          "length":4
+        },
+        {
+          "offset":196,
+          "length":4
+        },
+        {
+          "offset":364,
+          "length":4
+        },
+        {
+          "offset":75,
+          "length":4
+        },
+        {
+          "offset":196,
+          "length":4
+        },
+        {
+          "offset":364,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Pope_John_Paul_II",
+      "label":"Pope John Paul II",
+      "offsets":[
+        {
+          "offset":483,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Polish person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjNdZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"Polish Popes",
+          "uri":"http://dbpedia.org/class/yago/PolishPopes"
+        },
+        {
+          "label":"Servants Of God",
+          "uri":"http://dbpedia.org/class/yago/ServantsOfGod"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/class/yago/Pope110453533"
+        },
+        {
+          "label":"Karlspreis Recipients",
+          "uri":"http://dbpedia.org/resource/Karlspreis_Recipients"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Archbishops Of Krak%C3%B3w",
+          "uri":"http://dbpedia.org/class/yago/ArchbishopsOfKrak%C3%B3w"
+        },
+        {
+          "label":"Polish Polyglots",
+          "uri":"http://dbpedia.org/class/yago/PolishPolyglots"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/ontology/Pope"
+        },
+        {
+          "label":"Polish Theologians",
+          "uri":"http://dbpedia.org/class/yago/PolishTheologians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"Popes",
+          "uri":"http://dbpedia.org/class/yago/Popes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"People With Parkinson's Disease",
+          "uri":"http://dbpedia.org/class/yago/PeopleWithParkinson'sDisease"
+        },
+        {
+          "label":"Participants In The Second Vatican Council",
+          "uri":"http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+        },
+        {
+          "label":"dead organism",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+        },
+        {
+          "label":"Sovereigns Of Vatican City",
+          "uri":"http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+        },
+        {
+          "label":"Shooting Victims",
+          "uri":"http://dbpedia.org/class/yago/ShootingVictims"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"pope",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBxYpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Catholic exorcists",
+          "uri":"http://dbpedia.org/resource/Catholic_exorcists"
+        },
+        {
+          "label":"Roman Catholic Writers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicWriters"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Polish Philosophers",
+          "uri":"http://dbpedia.org/class/yago/PolishPhilosophers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pope_Benedict_XVI",
+      "label":"Pope Benedict XVI",
+      "offsets":[
+        {
+          "offset":237,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"Cardinals Created By Pope Paul VI",
+          "uri":"http://dbpedia.org/class/yago/CardinalsCreatedByPopePaulVI"
+        },
+        {
+          "label":"German Prisoners Of War",
+          "uri":"http://dbpedia.org/class/yago/GermanPrisonersOfWar"
+        },
+        {
+          "label":"Current National Leaders",
+          "uri":"http://dbpedia.org/class/yago/CurrentNationalLeaders"
+        },
+        {
+          "label":"Roman Catholic Theologians",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicTheologians"
+        },
+        {
+          "label":"Roman Catholic Philosophers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicPhilosophers"
+        },
+        {
+          "label":"German",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVkMGZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/class/yago/Pope110453533"
+        },
+        {
+          "label":"World War IIPrisoners Of War",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWar"
+        },
+        {
+          "label":"German Cardinals",
+          "uri":"http://dbpedia.org/class/yago/GermanCardinals"
+        },
+        {
+          "label":"Roman Catholic Archbishops Of Munich And Freising",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicArchbishopsOfMunichAndFreising"
+        },
+        {
+          "label":"German",
+          "uri":"http://sw.cyc.com/concept/Mx4rvVkMGZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"German Roman Catholic Theologians",
+          "uri":"http://dbpedia.org/class/yago/GermanRomanCatholicTheologians"
+        },
+        {
+          "label":"German Popes",
+          "uri":"http://dbpedia.org/class/yago/GermanPopes"
+        },
+        {
+          "label":"Vatican City People",
+          "uri":"http://dbpedia.org/class/yago/VaticanCityPeople"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"German Theologians",
+          "uri":"http://dbpedia.org/class/yago/GermanTheologians"
+        },
+        {
+          "label":"Pope",
+          "uri":"http://dbpedia.org/ontology/Pope"
+        },
+        {
+          "label":"World War IIPrisoners Of War Held By The United States",
+          "uri":"http://dbpedia.org/class/yago/WorldWarIIPrisonersOfWarHeldByTheUnitedStates"
+        },
+        {
+          "label":"German popes",
+          "uri":"http://dbpedia.org/resource/German_popes"
+        },
+        {
+          "label":"People From The District Of Alt%C3%B6tting",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTheDistrictOfAlt%C3%B6tting"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"People From Bavaria",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBavaria"
+        },
+        {
+          "label":"European",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViWX5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Popes",
+          "uri":"http://dbpedia.org/class/yago/Popes"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Participants In The Second Vatican Council",
+          "uri":"http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+        },
+        {
+          "label":"Sovereigns Of Vatican City",
+          "uri":"http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Reigning Monarchs",
+          "uri":"http://dbpedia.org/class/yago/ReigningMonarchs"
+        },
+        {
+          "label":"Non-Italian Popes",
+          "uri":"http://dbpedia.org/class/yago/Non-ItalianPopes"
+        },
+        {
+          "label":"Deans Of The College Of Cardinals",
+          "uri":"http://dbpedia.org/class/yago/DeansOfTheCollegeOfCardinals"
+        },
+        {
+          "label":"Roman Catholic Writers",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicWriters"
+        },
+        {
+          "label":"person",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViAkpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Scotland",
+      "label":"Scotland",
+      "offsets":[
+        {
+          "offset":434,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pope",
+      "label":"pope",
+      "offsets":[
+        {
+          "offset":660,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ecclesiastical titles",
+          "uri":"http://dbpedia.org/resource/Ecclesiastical_titles"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":75,
+          "length":4
+        },
+        {
+          "offset":196,
+          "length":4
+        },
+        {
+          "offset":364,
+          "length":4
+        },
+        {
+          "offset":75,
+          "length":4
+        },
+        {
+          "offset":196,
+          "length":4
+        },
+        {
+          "offset":364,
+          "length":4
+        },
+        {
+          "offset":75,
+          "length":4
+        },
+        {
+          "offset":196,
+          "length":4
+        },
+        {
+          "offset":364,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

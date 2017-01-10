@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Jacques Brel",
+            "types": [
+                {
+                    "label": "Belgian actors",
+                    "uri": "http://dbpedia.org/resource/Belgian_actors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Belgian Actors",
+                    "uri": "http://dbpedia.org/class/yago/BelgianActors"
+                },
+                {
+                    "label": "Belgian Singers",
+                    "uri": "http://dbpedia.org/class/yago/BelgianSingers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Belgian poets",
+                    "uri": "http://dbpedia.org/resource/Belgian_poets"
+                },
+                {
+                    "label": "Belgian Poets",
+                    "uri": "http://dbpedia.org/class/yago/BelgianPoets"
+                },
+                {
+                    "label": "French-language Singers",
+                    "uri": "http://dbpedia.org/class/yago/French-languageSingers"
+                },
+                {
+                    "label": "Cabaret Singers",
+                    "uri": "http://dbpedia.org/class/yago/CabaretSingers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jacques_Brel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0724",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jacques Brel",
+            "types": [
+                {
+                    "label": "Belgian actors",
+                    "uri": "http://dbpedia.org/resource/Belgian_actors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Belgian Actors",
+                    "uri": "http://dbpedia.org/class/yago/BelgianActors"
+                },
+                {
+                    "label": "Belgian Singers",
+                    "uri": "http://dbpedia.org/class/yago/BelgianSingers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Belgian poets",
+                    "uri": "http://dbpedia.org/resource/Belgian_poets"
+                },
+                {
+                    "label": "Belgian Poets",
+                    "uri": "http://dbpedia.org/class/yago/BelgianPoets"
+                },
+                {
+                    "label": "French-language Singers",
+                    "uri": "http://dbpedia.org/class/yago/French-languageSingers"
+                },
+                {
+                    "label": "Cabaret Singers",
+                    "uri": "http://dbpedia.org/class/yago/CabaretSingers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jacques_Brel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

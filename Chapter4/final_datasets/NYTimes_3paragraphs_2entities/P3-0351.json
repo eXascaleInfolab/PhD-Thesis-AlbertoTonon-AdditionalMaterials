@@ -1,0 +1,589 @@
+{
+  "mainText":"Prime Minister Benjamin Netanyahu\u2019s office declined to comment on the rocket fire, but has generally held Hamas, the militant Islamic faction that has ruled the Gaza Strip since 2007, responsible for all attacks emanating from the territory.\nPresident Shimon Peres, who was visiting southern Israel on a previously scheduled tour, said, \u201cQuiet will be met with quiet; missiles will be met with a response.\u201d",
+  "shownText":"Palestinian officials have blamed Mr. Jaradat\u2019s death on what they described as \u201csevere torture\u201d during interrogation after his arrest Feb. 21 for throwing rocks at Israeli settlers in November.\nThe Israeli authorities said that an autopsy conducted on Sunday could not determine the cause of death and that the bruising and broken ribs the Palestinians cited as evidence of torture could have been caused by resuscitation efforts.\n\nPrime Minister Benjamin Netanyahu\u2019s office declined to comment on the rocket fire, but has generally held Hamas, the militant Islamic faction that has ruled the Gaza Strip since 2007, responsible for all attacks emanating from the territory.\nPresident Shimon Peres, who was visiting southern Israel on a previously scheduled tour, said, \u201cQuiet will be met with quiet; missiles will be met with a response.\u201d\n\n\u201cI believe both sides have a deep interest in lowering the flames,\u201d Mr. Peres added.\n",
+  "title":"Rocket From Gaza Hits Israel, Breaking Cease-Fire - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html?ref=world",
+  "category":"world",
+  "docID":"P3-0351",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Shimon_Peres",
+      "label":"Shimon Peres",
+      "offsets":[
+        {
+          "offset":685,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Israeli Nobel Laureates",
+          "uri":"http://dbpedia.org/class/yago/IsraeliNobelLaureates"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Nobel Peace Prize Laureates",
+          "uri":"http://dbpedia.org/class/yago/NobelPeacePrizeLaureates"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Israeli Nobel laureates",
+          "uri":"http://dbpedia.org/resource/Israeli_Nobel_laureates"
+        },
+        {
+          "label":"Belarusian Jews",
+          "uri":"http://dbpedia.org/resource/Belarusian_Jews"
+        },
+        {
+          "label":"prime minister",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBhpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Presidents Of Israel",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfIsrael"
+        },
+        {
+          "label":"Jewish politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_politicians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Israeli Civil Servants",
+          "uri":"http://dbpedia.org/class/yago/IsraeliCivilServants"
+        },
+        {
+          "label":"Israeli party leaders",
+          "uri":"http://dbpedia.org/resource/Israeli_party_leaders"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish Politicians",
+          "uri":"http://dbpedia.org/class/yago/JewishPoliticians"
+        },
+        {
+          "label":"Israeli civil servants",
+          "uri":"http://dbpedia.org/resource/Israeli_civil_servants"
+        },
+        {
+          "label":"Israeli Party Leaders",
+          "uri":"http://dbpedia.org/class/yago/IsraeliPartyLeaders"
+        },
+        {
+          "label":"Prime Ministers Of Israel",
+          "uri":"http://dbpedia.org/class/yago/PrimeMinistersOfIsrael"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Israeli",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqYZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hamas",
+      "label":"Hamas",
+      "offsets":[
+        {
+          "offset":539,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Party",
+          "uri":"http://dbpedia.org/class/yago/Party108256968"
+        },
+        {
+          "label":"Protocols Of The Elders Of Zion",
+          "uri":"http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+        },
+        {
+          "label":"Palestinian Militant Groups",
+          "uri":"http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+        },
+        {
+          "label":"Political Party",
+          "uri":"http://umbel.org/umbel/sc/PoliticalParty"
+        },
+        {
+          "label":"Palestinian Political Parties",
+          "uri":"http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Benjamin_Netanyahu",
+      "label":"Benjamin Netanyahu",
+      "offsets":[
+        {
+          "offset":448,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"prime minister",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBhpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/class/yago/Chancellor109906986"
+        },
+        {
+          "label":"Israeli Ambassadors To The United Nations",
+          "uri":"http://dbpedia.org/class/yago/IsraeliAmbassadorsToTheUnitedNations"
+        },
+        {
+          "label":"Israeli ambassadors to the United Nations",
+          "uri":"http://dbpedia.org/resource/Israeli_ambassadors_to_the_United_Nations"
+        },
+        {
+          "label":"Jewish politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_politicians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Israeli party leaders",
+          "uri":"http://dbpedia.org/resource/Israeli_party_leaders"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Israeli Diplomats",
+          "uri":"http://dbpedia.org/class/yago/IsraeliDiplomats"
+        },
+        {
+          "label":"Jewish Politicians",
+          "uri":"http://dbpedia.org/class/yago/JewishPoliticians"
+        },
+        {
+          "label":"Israeli diplomats",
+          "uri":"http://dbpedia.org/resource/Israeli_diplomats"
+        },
+        {
+          "label":"Israeli Party Leaders",
+          "uri":"http://dbpedia.org/class/yago/IsraeliPartyLeaders"
+        },
+        {
+          "label":"Prime Ministers Of Israel",
+          "uri":"http://dbpedia.org/class/yago/PrimeMinistersOfIsrael"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"People From Tel Aviv",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTelAviv"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":594,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza_Strip",
+      "label":"Gaza Strip",
+      "offsets":[
+        {
+          "offset":594,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Shimon_Peres",
+      "label":"Shimon Peres",
+      "offsets":[
+        {
+          "offset":685,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Israeli Nobel Laureates",
+          "uri":"http://dbpedia.org/class/yago/IsraeliNobelLaureates"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Nobel Peace Prize Laureates",
+          "uri":"http://dbpedia.org/class/yago/NobelPeacePrizeLaureates"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Israeli Nobel laureates",
+          "uri":"http://dbpedia.org/resource/Israeli_Nobel_laureates"
+        },
+        {
+          "label":"Belarusian Jews",
+          "uri":"http://dbpedia.org/resource/Belarusian_Jews"
+        },
+        {
+          "label":"prime minister",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBhpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Presidents Of Israel",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfIsrael"
+        },
+        {
+          "label":"Jewish politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_politicians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Israeli Civil Servants",
+          "uri":"http://dbpedia.org/class/yago/IsraeliCivilServants"
+        },
+        {
+          "label":"Israeli party leaders",
+          "uri":"http://dbpedia.org/resource/Israeli_party_leaders"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish Politicians",
+          "uri":"http://dbpedia.org/class/yago/JewishPoliticians"
+        },
+        {
+          "label":"Israeli civil servants",
+          "uri":"http://dbpedia.org/resource/Israeli_civil_servants"
+        },
+        {
+          "label":"Israeli Party Leaders",
+          "uri":"http://dbpedia.org/class/yago/IsraeliPartyLeaders"
+        },
+        {
+          "label":"Prime Ministers Of Israel",
+          "uri":"http://dbpedia.org/class/yago/PrimeMinistersOfIsrael"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Israeli",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqYZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hamas",
+      "label":"Hamas",
+      "offsets":[
+        {
+          "offset":539,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Party",
+          "uri":"http://dbpedia.org/class/yago/Party108256968"
+        },
+        {
+          "label":"Protocols Of The Elders Of Zion",
+          "uri":"http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+        },
+        {
+          "label":"Palestinian Militant Groups",
+          "uri":"http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+        },
+        {
+          "label":"Political Party",
+          "uri":"http://umbel.org/umbel/sc/PoliticalParty"
+        },
+        {
+          "label":"Palestinian Political Parties",
+          "uri":"http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Benjamin_Netanyahu",
+      "label":"Benjamin Netanyahu",
+      "offsets":[
+        {
+          "offset":448,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"prime minister",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBhpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Chancellor",
+          "uri":"http://dbpedia.org/class/yago/Chancellor109906986"
+        },
+        {
+          "label":"Israeli Ambassadors To The United Nations",
+          "uri":"http://dbpedia.org/class/yago/IsraeliAmbassadorsToTheUnitedNations"
+        },
+        {
+          "label":"Israeli ambassadors to the United Nations",
+          "uri":"http://dbpedia.org/resource/Israeli_ambassadors_to_the_United_Nations"
+        },
+        {
+          "label":"Jewish politicians",
+          "uri":"http://dbpedia.org/resource/Jewish_politicians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Israeli party leaders",
+          "uri":"http://dbpedia.org/resource/Israeli_party_leaders"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Israeli Diplomats",
+          "uri":"http://dbpedia.org/class/yago/IsraeliDiplomats"
+        },
+        {
+          "label":"Jewish Politicians",
+          "uri":"http://dbpedia.org/class/yago/JewishPoliticians"
+        },
+        {
+          "label":"Israeli diplomats",
+          "uri":"http://dbpedia.org/resource/Israeli_diplomats"
+        },
+        {
+          "label":"Israeli Party Leaders",
+          "uri":"http://dbpedia.org/class/yago/IsraeliPartyLeaders"
+        },
+        {
+          "label":"Prime Ministers Of Israel",
+          "uri":"http://dbpedia.org/class/yago/PrimeMinistersOfIsrael"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"People From Tel Aviv",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromTelAviv"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":594,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza_Strip",
+      "label":"Gaza Strip",
+      "offsets":[
+        {
+          "offset":594,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        }
+      ]
+    }
+  ]
+}

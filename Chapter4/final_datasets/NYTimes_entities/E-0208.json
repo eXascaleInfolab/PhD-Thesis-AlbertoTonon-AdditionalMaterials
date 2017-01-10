@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Shreveport",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shreveport"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0208",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Shreveport",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shreveport"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

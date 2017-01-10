@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "C. Thomas Howell",
+            "types": [
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/C._Thomas_Howell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0697",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "C. Thomas Howell",
+            "types": [
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/C._Thomas_Howell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

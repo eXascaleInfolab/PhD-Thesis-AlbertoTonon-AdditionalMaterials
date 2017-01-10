@@ -1,0 +1,125 @@
+{
+  "mainText":"Fox is certainly asset-rich.\nIt plans to use existing long-term deals to fill Fox Sports 1 with M.L.B. games, including some from the league division series, beginning in 2014; Nascar Sprint Cup and truck races; U.F.C. matches; future World Cup soccer matches; and Big 12 and Pac-12 football and basketball games, as well as those from a basketball conference that is being formed by the seven Catholic universities that are leaving the Big East.\nThe new network is also expected to buy some Big East games from ESPN.",
+  "shownText":"Fox is certainly asset-rich.\nIt plans to use existing long-term deals to fill Fox Sports 1 with M.L.B. games, including some from the league division series, beginning in 2014; Nascar Sprint Cup and truck races; U.F.C. matches; future World Cup soccer matches; and Big 12 and Pac-12 football and basketball games, as well as those from a basketball conference that is being formed by the seven Catholic universities that are leaving the Big East.\nThe new network is also expected to buy some Big East games from ESPN.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0210",
+  "elementNumber":27,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN for N.B.A.",
+      "offsets":[
+        {
+          "offset":512,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NASCAR",
+      "label":"Nascar",
+      "offsets":[
+        {
+          "offset":177,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Sports In North Carolina",
+          "uri":"http://dbpedia.org/class/yago/SportsInNorthCarolina"
+        },
+        {
+          "label":"Sport",
+          "uri":"http://dbpedia.org/class/yago/Sport100523513"
+        },
+        {
+          "label":"sports organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwIw695wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Based In Florida",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInFlorida"
+        },
+        {
+          "label":"Auto racing organizations",
+          "uri":"http://dbpedia.org/resource/Auto_racing_organizations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN for N.B.A.",
+      "offsets":[
+        {
+          "offset":512,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/NASCAR",
+      "label":"Nascar",
+      "offsets":[
+        {
+          "offset":177,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Sports In North Carolina",
+          "uri":"http://dbpedia.org/class/yago/SportsInNorthCarolina"
+        },
+        {
+          "label":"Sport",
+          "uri":"http://dbpedia.org/class/yago/Sport100523513"
+        },
+        {
+          "label":"sports organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwIw695wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Based In Florida",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInFlorida"
+        },
+        {
+          "label":"Auto racing organizations",
+          "uri":"http://dbpedia.org/resource/Auto_racing_organizations"
+        }
+      ]
+    }
+  ]
+}

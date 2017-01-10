@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Taliban",
+            "types": [
+                {
+                    "label": "Cabal",
+                    "uri": "http://dbpedia.org/class/yago/Cabal108241798"
+                },
+                {
+                    "label": "Afghan society",
+                    "uri": "http://dbpedia.org/resource/Afghan_society"
+                },
+                {
+                    "label": "Jihadist Organizations",
+                    "uri": "http://dbpedia.org/class/yago/JihadistOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Taliban"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0192",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Taliban",
+            "types": [
+                {
+                    "label": "Cabal",
+                    "uri": "http://dbpedia.org/class/yago/Cabal108241798"
+                },
+                {
+                    "label": "Afghan society",
+                    "uri": "http://dbpedia.org/resource/Afghan_society"
+                },
+                {
+                    "label": "Jihadist Organizations",
+                    "uri": "http://dbpedia.org/class/yago/JihadistOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Taliban"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,117 @@
+{
+  "mainText":"\u201cNow is truly the time to double down on our efforts,\u201d she told state officials on Wednesday at an elementary school here, where she also entertained a giant group of students with a cooking contest in the cafeteria between school chefs and the celebrity food personality Rachael Ray.",
+  "shownText":"\u201cNow is truly the time to double down on our efforts,\u201d she told state officials on Wednesday at an elementary school here, where she also entertained a giant group of students with a cooking contest in the cafeteria between school chefs and the celebrity food personality Rachael Ray.",
+  "title":"New Attention to First Lady - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/us/politics/new-attention-to-first-lady.html?ref=health",
+  "category":"health",
+  "docID":"S-0110",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ray",
+      "label":"Ray",
+      "offsets":[
+        {
+          "offset":280,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rachael_Ray",
+      "label":"Rachael Ray",
+      "offsets":[
+        {
+          "offset":272,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American television talk show hosts",
+          "uri":"http://dbpedia.org/resource/American_television_talk_show_hosts"
+        },
+        {
+          "label":"Chef",
+          "uri":"http://dbpedia.org/class/yago/Chef109963574"
+        },
+        {
+          "label":"American food writers",
+          "uri":"http://dbpedia.org/resource/American_food_writers"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"American television chefs",
+          "uri":"http://dbpedia.org/resource/American_television_chefs"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ray",
+      "label":"Ray",
+      "offsets":[
+        {
+          "offset":280,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rachael_Ray",
+      "label":"Rachael Ray",
+      "offsets":[
+        {
+          "offset":272,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American television talk show hosts",
+          "uri":"http://dbpedia.org/resource/American_television_talk_show_hosts"
+        },
+        {
+          "label":"Chef",
+          "uri":"http://dbpedia.org/class/yago/Chef109963574"
+        },
+        {
+          "label":"American food writers",
+          "uri":"http://dbpedia.org/resource/American_food_writers"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"American television chefs",
+          "uri":"http://dbpedia.org/resource/American_television_chefs"
+        }
+      ]
+    }
+  ]
+}

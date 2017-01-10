@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Jack Styczynski",
+            "types": [
+                {
+                    "label": "American poker players",
+                    "uri": "http://dbpedia.org/resource/American_poker_players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Poker Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPokerPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Poker Player",
+                    "uri": "http://dbpedia.org/ontology/PokerPlayer"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gary_Styczynski"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0193",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jack Styczynski",
+            "types": [
+                {
+                    "label": "American poker players",
+                    "uri": "http://dbpedia.org/resource/American_poker_players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Poker Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPokerPlayers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Poker Player",
+                    "uri": "http://dbpedia.org/ontology/PokerPlayer"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gary_Styczynski"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

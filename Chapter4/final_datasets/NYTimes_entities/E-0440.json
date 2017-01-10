@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Arkansas",
+            "types": [
+                {
+                    "label": "Educational Institutions Established In1871",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1871"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInArkansas"
+                },
+                {
+                    "label": "Land-grant Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Land-grant universities and colleges",
+                    "uri": "http://dbpedia.org/resource/Land-grant_universities_and_colleges"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Public Universities",
+                    "uri": "http://dbpedia.org/class/yago/PublicUniversities"
+                },
+                {
+                    "label": "College",
+                    "uri": "http://dbpedia.org/ontology/College"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Arkansas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0440",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Arkansas",
+            "types": [
+                {
+                    "label": "Educational Institutions Established In1871",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1871"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In Arkansas",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInArkansas"
+                },
+                {
+                    "label": "Land-grant Universities And Colleges",
+                    "uri": "http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Land-grant universities and colleges",
+                    "uri": "http://dbpedia.org/resource/Land-grant_universities_and_colleges"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Public Universities",
+                    "uri": "http://dbpedia.org/class/yago/PublicUniversities"
+                },
+                {
+                    "label": "College",
+                    "uri": "http://dbpedia.org/ontology/College"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Arkansas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

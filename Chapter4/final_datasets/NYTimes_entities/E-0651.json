@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Mills College",
+            "types": [
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Liberal Arts Colleges",
+                    "uri": "http://dbpedia.org/class/yago/LiberalArtsColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mills_College"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0651",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mills College",
+            "types": [
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Liberal Arts Colleges",
+                    "uri": "http://dbpedia.org/class/yago/LiberalArtsColleges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mills_College"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Scott Caan",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "Jewish rappers",
+                    "uri": "http://dbpedia.org/resource/Jewish_rappers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Scott_Caan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0060",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Scott Caan",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "Jewish rappers",
+                    "uri": "http://dbpedia.org/resource/Jewish_rappers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Scott_Caan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

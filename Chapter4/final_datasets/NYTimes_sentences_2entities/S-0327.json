@@ -1,0 +1,205 @@
+{
+  "mainText":"Teenagers are increasingly turning to other services, including Instagram, which Facebook now owns, so much so that David A. Ebersman, the company\u2019s chief financial officer, said last week in a conference sponsored by Morgan Stanley that Facebook considered the photo-sharing site a competitor.",
+  "shownText":"Teenagers are increasingly turning to other services, including Instagram, which Facebook now owns, so much so that David A. Ebersman, the company\u2019s chief financial officer, said last week in a conference sponsored by Morgan Stanley that Facebook considered the photo-sharing site a competitor.",
+  "title":"Facebookâs Redesign Hopes to Keep Users Engaged - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/technology/facebooks-redesign-hopes-to-keep-users-engaged.html?ref=technology",
+  "category":"technology",
+  "docID":"S-0327",
+  "elementNumber":29,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Morgan_Stanley",
+      "label":"Morgan Stanley",
+      "offsets":[
+        {
+          "offset":218,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Established In1935",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1935"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":81,
+          "length":8
+        },
+        {
+          "offset":238,
+          "length":8
+        },
+        {
+          "offset":81,
+          "length":8
+        },
+        {
+          "offset":238,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Morgan_Stanley",
+      "label":"Morgan Stanley",
+      "offsets":[
+        {
+          "offset":218,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Established In1935",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1935"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":81,
+          "length":8
+        },
+        {
+          "offset":238,
+          "length":8
+        },
+        {
+          "offset":81,
+          "length":8
+        },
+        {
+          "offset":238,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ]
+}

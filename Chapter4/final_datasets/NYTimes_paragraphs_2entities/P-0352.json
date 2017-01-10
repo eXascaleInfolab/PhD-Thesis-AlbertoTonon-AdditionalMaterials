@@ -1,0 +1,173 @@
+{
+  "mainText":"Mushir al-Masri, a Hamas lawmaker, said in an interview that the statement from the Al Aqsa group was a \u201cfabrication\u201d and that Hamas \u201cdid not find that any of the working and known resistance groups have fired any projectile.\u201d\nIn any case, Mr. Masri said Israel was \u201cfully responsible for the consequences of the wave of the Palestinian public fury.\u201d\nHe also accused Israel of violating the cease-fire first, citing several incidents in which Gazans have been shot near the strip\u2019s borders with Israel and fishermen attacked at sea; the Israeli authorities have said their soldiers and sailors were only responding to efforts to breach the new limits set out in the cease-fire agreement.",
+  "shownText":"Mushir al-Masri, a Hamas lawmaker, said in an interview that the statement from the Al Aqsa group was a \u201cfabrication\u201d and that Hamas \u201cdid not find that any of the working and known resistance groups have fired any projectile.\u201d\nIn any case, Mr. Masri said Israel was \u201cfully responsible for the consequences of the wave of the Palestinian public fury.\u201d\nHe also accused Israel of violating the cease-fire first, citing several incidents in which Gazans have been shot near the strip\u2019s borders with Israel and fishermen attacked at sea; the Israeli authorities have said their soldiers and sailors were only responding to efforts to breach the new limits set out in the cease-fire agreement.",
+  "title":"Rocket From Gaza Hits Israel, Breaking Cease-Fire - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html?ref=world",
+  "category":"world",
+  "docID":"P-0352",
+  "elementNumber":7,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hamas",
+      "label":"Hamas",
+      "offsets":[
+        {
+          "offset":19,
+          "length":5
+        },
+        {
+          "offset":127,
+          "length":5
+        },
+        {
+          "offset":19,
+          "length":5
+        },
+        {
+          "offset":127,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Party",
+          "uri":"http://dbpedia.org/class/yago/Party108256968"
+        },
+        {
+          "label":"Protocols Of The Elders Of Zion",
+          "uri":"http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+        },
+        {
+          "label":"Palestinian Militant Groups",
+          "uri":"http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+        },
+        {
+          "label":"Political Party",
+          "uri":"http://umbel.org/umbel/sc/PoliticalParty"
+        },
+        {
+          "label":"Palestinian Political Parties",
+          "uri":"http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":443,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hamas",
+      "label":"Hamas",
+      "offsets":[
+        {
+          "offset":19,
+          "length":5
+        },
+        {
+          "offset":127,
+          "length":5
+        },
+        {
+          "offset":19,
+          "length":5
+        },
+        {
+          "offset":127,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Party",
+          "uri":"http://dbpedia.org/class/yago/Party108256968"
+        },
+        {
+          "label":"Protocols Of The Elders Of Zion",
+          "uri":"http://dbpedia.org/class/yago/ProtocolsOfTheEldersOfZion"
+        },
+        {
+          "label":"Palestinian Militant Groups",
+          "uri":"http://dbpedia.org/class/yago/PalestinianMilitantGroups"
+        },
+        {
+          "label":"Political Party",
+          "uri":"http://umbel.org/umbel/sc/PoliticalParty"
+        },
+        {
+          "label":"Palestinian Political Parties",
+          "uri":"http://dbpedia.org/class/yago/PalestinianPoliticalParties"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gaza",
+      "label":"Gaza",
+      "offsets":[
+        {
+          "offset":443,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ]
+}

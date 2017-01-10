@@ -1,0 +1,101 @@
+{
+  "mainText":"The Penguins, who are in first place in the Atlantic Division, have a new medical team this season, headed by Dr. Christopher Harner of the University of Pittsburgh Medical Center, where the team is planning to open a training, sports medicine and performance facility.\nThe Penguins announced in the summer that they had ended their association with their longtime team doctor, Charles Burke.",
+  "shownText":"\u201cThe protocol and resting with a concussion, he\u2019s following that right now,\u201d Bylsma added.\n\nThe Penguins, who are in first place in the Atlantic Division, have a new medical team this season, headed by Dr. Christopher Harner of the University of Pittsburgh Medical Center, where the team is planning to open a training, sports medicine and performance facility.\nThe Penguins announced in the summer that they had ended their association with their longtime team doctor, Charles Burke.\n\nThe team and Burke said that their parting was amicable and not related to Crosby\u2019s 14-month concussion saga.\nPenguins President David Morehouse said the team \u201cwanted to have enhanced medical coverage for our players,\u201d which included having doctors travel with the team.\n",
+  "title":"A Wave of Concussions Hits the N.H.L. - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/sports/hockey/another-wave-of-concussions-hits-nhl.html?ref=sports",
+  "category":"sports",
+  "docID":"P3-0214",
+  "elementNumber":10,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Atlantic",
+      "label":"Atlantic",
+      "offsets":[
+        {
+          "offset":136,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center",
+      "label":"University of Pittsburgh Medical Center",
+      "offsets":[
+        {
+          "offset":232,
+          "length":39
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Hospital networks",
+          "uri":"http://dbpedia.org/resource/Hospital_networks"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Atlantic",
+      "label":"Atlantic",
+      "offsets":[
+        {
+          "offset":136,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center",
+      "label":"University of Pittsburgh Medical Center",
+      "offsets":[
+        {
+          "offset":232,
+          "length":39
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Hospital networks",
+          "uri":"http://dbpedia.org/resource/Hospital_networks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Yemen",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arabic-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Arabic-speaking_countries"
+                },
+                {
+                    "label": "Middle Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/MiddleEasternCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Countries bordering the Red Sea",
+                    "uri": "http://dbpedia.org/resource/Countries_bordering_the_Red_Sea"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yemen"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0176",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Yemen",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Arabic-speaking countries",
+                    "uri": "http://dbpedia.org/resource/Arabic-speaking_countries"
+                },
+                {
+                    "label": "Middle Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/MiddleEasternCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Countries bordering the Red Sea",
+                    "uri": "http://dbpedia.org/resource/Countries_bordering_the_Red_Sea"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yemen"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

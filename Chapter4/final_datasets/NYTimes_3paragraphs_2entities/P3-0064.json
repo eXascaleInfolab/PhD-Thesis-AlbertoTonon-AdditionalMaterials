@@ -1,0 +1,629 @@
+{
+  "mainText":"Netflix has been ordering entire seasons of its shows without seeing pilots first.\nReed Hastings, Netflix\u2019s chief executive, said last week that \u201cHouse of Cards,\u201d the political thriller starring Kevin Spacey and Robin Wright, had been a \u201c great success \u201d for the company.\nIts next program, a horror series called \u201c Hemlock Grove \u201d from the film director Eli Roth, premieres in April.",
+  "shownText":"As he suggested, the competition has only just begun.\nAmazon is making pilot episodes for at least six comedies and five children\u2019s shows, with more to be announced soon.\nSometime this spring it will put the episodes on its Amazon Prime Instant Video service and ask its customers which ones they like, then order full seasons of some of them.\n\nNetflix has been ordering entire seasons of its shows without seeing pilots first.\nReed Hastings, Netflix\u2019s chief executive, said last week that \u201cHouse of Cards,\u201d the political thriller starring Kevin Spacey and Robin Wright, had been a \u201c great success \u201d for the company.\nIts next program, a horror series called \u201c Hemlock Grove \u201d from the film director Eli Roth, premieres in April.\n\nMicrosoft has said comparatively little about its plans.\nBut all three companies are commissioning TV shows because they have millions of subscribers on monthly or yearly subscription plans.\nThough the shows may be loss leaders, executives say that having exclusive content \u2014 something that cannot be seen anywhere else \u2014 increases the likelihood that existing subscribers will keep paying and that new ones will sign up.\n",
+  "title":"Online-Only TV Shows Join Fight for Attention - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/business/media/online-only-tv-shows-join-fight-for-attention.html?ref=business",
+  "category":"business",
+  "docID":"P3-0064",
+  "elementNumber":8,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Reed_Hastings",
+      "label":"Reed Hastings",
+      "offsets":[
+        {
+          "offset":428,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Bowdoin College alumni",
+          "uri":"http://dbpedia.org/resource/Bowdoin_College_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/House_of_Cards",
+      "label":"House of Cards",
+      "offsets":[
+        {
+          "offset":491,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Television Programs Based On Novels",
+          "uri":"http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Film",
+          "uri":"http://dbpedia.org/ontology/Film"
+        },
+        {
+          "label":"BBC television dramas",
+          "uri":"http://dbpedia.org/resource/BBC_television_dramas"
+        },
+        {
+          "label":"BBCTelevision Dramas",
+          "uri":"http://dbpedia.org/class/yago/BBCTelevisionDramas"
+        },
+        {
+          "label":"British television miniseries",
+          "uri":"http://dbpedia.org/resource/British_television_miniseries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Netflix",
+      "label":"Netflix",
+      "offsets":[
+        {
+          "offset":345,
+          "length":7
+        },
+        {
+          "offset":443,
+          "length":7
+        },
+        {
+          "offset":345,
+          "length":7
+        },
+        {
+          "offset":443,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kevin_Spacey",
+      "label":"Kevin Spacey",
+      "offsets":[
+        {
+          "offset":540,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"People From New Jersey",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewJersey"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"People Associated With London South Bank University",
+          "uri":"http://dbpedia.org/class/yago/PeopleAssociatedWithLondonSouthBankUniversity"
+        },
+        {
+          "label":"American theatre directors",
+          "uri":"http://dbpedia.org/resource/American_theatre_directors"
+        },
+        {
+          "label":"Best Supporting Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Juilliard School Alumni",
+          "uri":"http://dbpedia.org/class/yago/JuilliardSchoolAlumni"
+        },
+        {
+          "label":"American Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanStageActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        },
+        {
+          "label":"New Jersey Actors",
+          "uri":"http://dbpedia.org/class/yago/NewJerseyActors"
+        },
+        {
+          "label":"Juilliard School alumni",
+          "uri":"http://dbpedia.org/resource/Juilliard_School_alumni"
+        },
+        {
+          "label":"American Theatre Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTheatreDirectors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"English-American Actors",
+          "uri":"http://dbpedia.org/class/yago/English-AmericanActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"Best Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Expatriates In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/AmericanExpatriatesInTheUnitedKingdom"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eli_Roth",
+      "label":"Eli Roth",
+      "offsets":[
+        {
+          "offset":699,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Jewish American film directors",
+          "uri":"http://dbpedia.org/resource/Jewish_American_film_directors"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"Horror film directors",
+          "uri":"http://dbpedia.org/resource/Horror_film_directors"
+        },
+        {
+          "label":"Horror Film Directors",
+          "uri":"http://dbpedia.org/class/yago/HorrorFilmDirectors"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Reed_Hastings",
+      "label":"Reed Hastings",
+      "offsets":[
+        {
+          "offset":428,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Bowdoin College alumni",
+          "uri":"http://dbpedia.org/resource/Bowdoin_College_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/House_of_Cards",
+      "label":"House of Cards",
+      "offsets":[
+        {
+          "offset":491,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Television Programs Based On Novels",
+          "uri":"http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Film",
+          "uri":"http://dbpedia.org/ontology/Film"
+        },
+        {
+          "label":"BBC television dramas",
+          "uri":"http://dbpedia.org/resource/BBC_television_dramas"
+        },
+        {
+          "label":"BBCTelevision Dramas",
+          "uri":"http://dbpedia.org/class/yago/BBCTelevisionDramas"
+        },
+        {
+          "label":"British television miniseries",
+          "uri":"http://dbpedia.org/resource/British_television_miniseries"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Netflix",
+      "label":"Netflix",
+      "offsets":[
+        {
+          "offset":345,
+          "length":7
+        },
+        {
+          "offset":443,
+          "length":7
+        },
+        {
+          "offset":345,
+          "length":7
+        },
+        {
+          "offset":443,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Microsoft",
+      "label":"Microsoft",
+      "offsets":[
+        {
+          "offset":730,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"company in the Standard &amp; Poor's systems software subindustry",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhcjdhwhuEduVNADggVaqog"
+        },
+        {
+          "label":"major company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwKv8OJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"software company",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_2oMpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Institution",
+          "uri":"http://umbel.org/umbel/sc/Institution"
+        },
+        {
+          "label":"Companies Based In Redmond,Washington",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInRedmond,Washington"
+        },
+        {
+          "label":"Companies Established In1975",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1975"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"high tech manufacturer",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"item",
+          "uri":"http://purl.org/rss/1.0/item"
+        },
+        {
+          "label":"Business",
+          "uri":"http://umbel.org/umbel/sc/Business"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        },
+        {
+          "label":"Social Group",
+          "uri":"http://umbel.org/umbel/sc/SocialGroup"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://umbel.org/umbel/sc/Organization"
+        },
+        {
+          "label":"incorporated business",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViSTpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kevin_Spacey",
+      "label":"Kevin Spacey",
+      "offsets":[
+        {
+          "offset":540,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"People From New Jersey",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewJersey"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"People Associated With London South Bank University",
+          "uri":"http://dbpedia.org/class/yago/PeopleAssociatedWithLondonSouthBankUniversity"
+        },
+        {
+          "label":"American theatre directors",
+          "uri":"http://dbpedia.org/resource/American_theatre_directors"
+        },
+        {
+          "label":"Best Supporting Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Supporting_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Juilliard School Alumni",
+          "uri":"http://dbpedia.org/class/yago/JuilliardSchoolAlumni"
+        },
+        {
+          "label":"American Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanStageActors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        },
+        {
+          "label":"New Jersey Actors",
+          "uri":"http://dbpedia.org/class/yago/NewJerseyActors"
+        },
+        {
+          "label":"Juilliard School alumni",
+          "uri":"http://dbpedia.org/resource/Juilliard_School_alumni"
+        },
+        {
+          "label":"American Theatre Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanTheatreDirectors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"American stage actors",
+          "uri":"http://dbpedia.org/resource/American_stage_actors"
+        },
+        {
+          "label":"English-American Actors",
+          "uri":"http://dbpedia.org/class/yago/English-AmericanActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"Best Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Expatriates In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/AmericanExpatriatesInTheUnitedKingdom"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eli_Roth",
+      "label":"Eli Roth",
+      "offsets":[
+        {
+          "offset":699,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Jewish American film directors",
+          "uri":"http://dbpedia.org/resource/Jewish_American_film_directors"
+        },
+        {
+          "label":"Jewish American writers",
+          "uri":"http://dbpedia.org/resource/Jewish_American_writers"
+        },
+        {
+          "label":"Horror film directors",
+          "uri":"http://dbpedia.org/resource/Horror_film_directors"
+        },
+        {
+          "label":"Horror Film Directors",
+          "uri":"http://dbpedia.org/class/yago/HorrorFilmDirectors"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    }
+  ]
+}

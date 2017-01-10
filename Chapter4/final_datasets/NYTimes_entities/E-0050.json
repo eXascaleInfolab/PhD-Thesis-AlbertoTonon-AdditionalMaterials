@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Ben Affleck",
+            "types": [
+                {
+                    "label": "American poker players",
+                    "uri": "http://dbpedia.org/resource/American_poker_players"
+                },
+                {
+                    "label": "People From Cambridge,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCambridge,Massachusetts"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Massachusetts Actors",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsActors"
+                },
+                {
+                    "label": "People From Barnstable County,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBarnstableCounty,Massachusetts"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Best Original Screenplay Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Original_Screenplay_Academy_Award_winners"
+                },
+                {
+                    "label": "Massachusetts Democrats",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsDemocrats"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmProducers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "American Poker Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPokerPlayers"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "California Actors",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaActors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Child Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanChildActors"
+                },
+                {
+                    "label": "People From Berkeley,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBerkeley,California"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ben_Affleck"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0050",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ben Affleck",
+            "types": [
+                {
+                    "label": "American poker players",
+                    "uri": "http://dbpedia.org/resource/American_poker_players"
+                },
+                {
+                    "label": "People From Cambridge,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromCambridge,Massachusetts"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "Massachusetts Actors",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsActors"
+                },
+                {
+                    "label": "People From Barnstable County,Massachusetts",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBarnstableCounty,Massachusetts"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Best Original Screenplay Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Original_Screenplay_Academy_Award_winners"
+                },
+                {
+                    "label": "Massachusetts Democrats",
+                    "uri": "http://dbpedia.org/class/yago/MassachusettsDemocrats"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmProducers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "American Poker Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPokerPlayers"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "California Actors",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaActors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Child Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanChildActors"
+                },
+                {
+                    "label": "People From Berkeley,California",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBerkeley,California"
+                },
+                {
+                    "label": "movie actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "American Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionActors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ben_Affleck"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

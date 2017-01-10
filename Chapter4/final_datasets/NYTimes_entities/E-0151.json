@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "David G. Golden",
+            "types": [
+                {
+                    "label": "Irish surnames",
+                    "uri": "http://dbpedia.org/resource/Irish_surnames"
+                },
+                {
+                    "label": "English surnames",
+                    "uri": "http://dbpedia.org/resource/English_surnames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Golden"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0151",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "David G. Golden",
+            "types": [
+                {
+                    "label": "Irish surnames",
+                    "uri": "http://dbpedia.org/resource/Irish_surnames"
+                },
+                {
+                    "label": "English surnames",
+                    "uri": "http://dbpedia.org/resource/English_surnames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Golden"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

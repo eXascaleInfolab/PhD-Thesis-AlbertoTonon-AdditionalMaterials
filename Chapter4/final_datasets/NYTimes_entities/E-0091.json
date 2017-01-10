@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Sheryl Sandberg",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard Business School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+                },
+                {
+                    "label": "Google employees",
+                    "uri": "http://dbpedia.org/resource/Google_employees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Google Employees",
+                    "uri": "http://dbpedia.org/class/yago/GoogleEmployees"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "Facebook Employees",
+                    "uri": "http://dbpedia.org/class/yago/FacebookEmployees"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Harvard Business School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Business_School_alumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sheryl_Sandberg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0091",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sheryl Sandberg",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard Business School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+                },
+                {
+                    "label": "Google employees",
+                    "uri": "http://dbpedia.org/resource/Google_employees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Google Employees",
+                    "uri": "http://dbpedia.org/class/yago/GoogleEmployees"
+                },
+                {
+                    "label": "Harvard University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+                },
+                {
+                    "label": "Facebook Employees",
+                    "uri": "http://dbpedia.org/class/yago/FacebookEmployees"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Harvard Business School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Business_School_alumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sheryl_Sandberg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

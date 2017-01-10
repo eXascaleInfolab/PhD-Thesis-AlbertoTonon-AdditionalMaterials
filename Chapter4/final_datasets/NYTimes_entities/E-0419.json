@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "JEFFREY GETTLEMAN",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeffrey_Gettleman"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0419",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "JEFFREY GETTLEMAN",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeffrey_Gettleman"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

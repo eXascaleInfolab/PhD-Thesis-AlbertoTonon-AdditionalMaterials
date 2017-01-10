@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Yao Ming",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Olympic Basketball Players Of China",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBasketballPlayersOfChina"
+                },
+                {
+                    "label": "Laureus World Sports Awards winners",
+                    "uri": "http://dbpedia.org/resource/Laureus_World_Sports_Awards_winners"
+                },
+                {
+                    "label": "Basketball Players At The2004Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BasketballPlayersAtThe2004SummerOlympics"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Centers (basketball)",
+                    "uri": "http://dbpedia.org/resource/Centers_%28basketball%29"
+                },
+                {
+                    "label": "Basketball Player",
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                },
+                {
+                    "label": "Chinese Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/ChineseBasketballPlayers"
+                },
+                {
+                    "label": "Houston Rockets players",
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Chinese basketball players",
+                    "uri": "http://dbpedia.org/resource/Chinese_basketball_players"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "People From Shanghai",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromShanghai"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Houston Rockets Players",
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yao_Ming"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0712",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Yao Ming",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Olympic Basketball Players Of China",
+                    "uri": "http://dbpedia.org/class/yago/OlympicBasketballPlayersOfChina"
+                },
+                {
+                    "label": "Laureus World Sports Awards winners",
+                    "uri": "http://dbpedia.org/resource/Laureus_World_Sports_Awards_winners"
+                },
+                {
+                    "label": "Basketball Players At The2004Summer Olympics",
+                    "uri": "http://dbpedia.org/class/yago/BasketballPlayersAtThe2004SummerOlympics"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Centers (basketball)",
+                    "uri": "http://dbpedia.org/resource/Centers_%28basketball%29"
+                },
+                {
+                    "label": "Basketball Player",
+                    "uri": "http://dbpedia.org/ontology/BasketballPlayer"
+                },
+                {
+                    "label": "Chinese Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/ChineseBasketballPlayers"
+                },
+                {
+                    "label": "Houston Rockets players",
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Chinese basketball players",
+                    "uri": "http://dbpedia.org/resource/Chinese_basketball_players"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "People From Shanghai",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromShanghai"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Houston Rockets Players",
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yao_Ming"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

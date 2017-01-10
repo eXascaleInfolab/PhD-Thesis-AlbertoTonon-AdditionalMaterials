@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "John Galliano",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Latin American and Iberian Britons",
+                    "uri": "http://dbpedia.org/resource/Latin_American_and_Iberian_Britons"
+                },
+                {
+                    "label": "British Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/BritishFashionDesigners"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "LGBTPeople From Spain",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromSpain"
+                },
+                {
+                    "label": "Couturier",
+                    "uri": "http://dbpedia.org/class/yago/Couturier109972157"
+                },
+                {
+                    "label": "LGBTPeople From France",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromFrance"
+                },
+                {
+                    "label": "Gibraltarian People",
+                    "uri": "http://dbpedia.org/class/yago/GibraltarianPeople"
+                },
+                {
+                    "label": "LGBTPeople From The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedKingdom"
+                },
+                {
+                    "label": "British fashion designers",
+                    "uri": "http://dbpedia.org/resource/British_fashion_designers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Galliano"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0682",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John Galliano",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Latin American and Iberian Britons",
+                    "uri": "http://dbpedia.org/resource/Latin_American_and_Iberian_Britons"
+                },
+                {
+                    "label": "British Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/BritishFashionDesigners"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "LGBTPeople From Spain",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromSpain"
+                },
+                {
+                    "label": "Couturier",
+                    "uri": "http://dbpedia.org/class/yago/Couturier109972157"
+                },
+                {
+                    "label": "LGBTPeople From France",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromFrance"
+                },
+                {
+                    "label": "Gibraltarian People",
+                    "uri": "http://dbpedia.org/class/yago/GibraltarianPeople"
+                },
+                {
+                    "label": "LGBTPeople From The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromTheUnitedKingdom"
+                },
+                {
+                    "label": "British fashion designers",
+                    "uri": "http://dbpedia.org/resource/British_fashion_designers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Galliano"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

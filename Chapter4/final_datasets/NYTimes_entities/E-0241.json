@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Procter &amp; Gamble",
+            "types": [
+                {
+                    "label": "Companies Established In1837",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1837"
+                },
+                {
+                    "label": "Companies Based In Cincinnati",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInCincinnati"
+                },
+                {
+                    "label": "Pharmaceutical Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Manufacturing Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/ManufacturingCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Dental Companies",
+                    "uri": "http://dbpedia.org/class/yago/DentalCompanies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Procter_&_Gamble"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0241",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Procter &amp; Gamble",
+            "types": [
+                {
+                    "label": "Companies Established In1837",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1837"
+                },
+                {
+                    "label": "Companies Based In Cincinnati",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInCincinnati"
+                },
+                {
+                    "label": "Pharmaceutical Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PharmaceuticalCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Manufacturing Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/ManufacturingCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Dental Companies",
+                    "uri": "http://dbpedia.org/class/yago/DentalCompanies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Procter_&_Gamble"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

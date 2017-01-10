@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Michigan",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In Michigan",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInMichigan"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Educational Institutions Established In1817",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1817"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Michigan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0078",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Michigan",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": "Universities And Colleges In Michigan",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInMichigan"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Schools Of Public Health",
+                    "uri": "http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+                },
+                {
+                    "label": "Educational Institutions Established In1817",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1817"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Oak Ridge Associated Universities",
+                    "uri": "http://dbpedia.org/class/yago/OakRidgeAssociatedUniversities"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Michigan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

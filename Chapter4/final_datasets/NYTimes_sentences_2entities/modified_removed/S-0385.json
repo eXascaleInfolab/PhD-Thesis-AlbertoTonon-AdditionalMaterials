@@ -1,0 +1,309 @@
+{
+    "allEntities": [
+        {
+            "label": "Google", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 133
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Established In1998", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Google"
+        }, 
+        {
+            "label": "Facebook", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 144
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Internet Properties Established In2004", 
+                    "uri": "http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+                }, 
+                {
+                    "label": "Global internet community", 
+                    "uri": "http://dbpedia.org/resource/Global_internet_community"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies Based In Palo Alto,California", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+                }, 
+                {
+                    "label": "Privately Held Companies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Companies Based In Silicon Valley", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Facebook"
+        }, 
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 4
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Harvard", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 43
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Educational Institution", 
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Harvard"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us", 
+    "category": "us", 
+    "docID": "S-0385", 
+    "elementNumber": 42, 
+    "mainEntities": [
+        {
+            "label": "Google", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 133
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Established In1998", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Google"
+        }, 
+        {
+            "label": "Facebook", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 144
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Internet Properties Established In2004", 
+                    "uri": "http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+                }, 
+                {
+                    "label": "Global internet community", 
+                    "uri": "http://dbpedia.org/resource/Global_internet_community"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies Based In Palo Alto,California", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+                }, 
+                {
+                    "label": "Privately Held Companies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }, 
+                {
+                    "label": "ns#Target", 
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Companies Based In Silicon Valley", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Facebook"
+        }, 
+        {
+            "label": "Sandberg", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 4
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Sandberg"
+        }, 
+        {
+            "label": "Harvard", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 43
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Educational Institution", 
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Harvard"
+        }
+    ], 
+    "mainText": "Ms. Sandberg, who wrote a senior thesis at Harvard about domestic violence and women&rsquo;s income, and who has championed women at Google and Facebook, shows no sign of relenting.", 
+    "shownText": "Ms. Sandberg, who wrote a senior thesis at Harvard about domestic violence and women&rsquo;s income, and who has championed women at Google and Facebook, shows no sign of relenting.", 
+    "title": "Sheryl Sandberg, &acirc;Lean In&acirc; Author, Hopes to Spur Movement - NYTimes.com"
+}

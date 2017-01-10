@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Soon-Yi Previn",
+            "types": [
+                {
+                    "label": "Drew University alumni",
+                    "uri": "http://dbpedia.org/resource/Drew_University_alumni"
+                },
+                {
+                    "label": "American adoptees",
+                    "uri": "http://dbpedia.org/resource/American_adoptees"
+                },
+                {
+                    "label": "American adoptive parents",
+                    "uri": "http://dbpedia.org/resource/American_adoptive_parents"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Soon-Yi_Previn"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0771",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Soon-Yi Previn",
+            "types": [
+                {
+                    "label": "Drew University alumni",
+                    "uri": "http://dbpedia.org/resource/Drew_University_alumni"
+                },
+                {
+                    "label": "American adoptees",
+                    "uri": "http://dbpedia.org/resource/American_adoptees"
+                },
+                {
+                    "label": "American adoptive parents",
+                    "uri": "http://dbpedia.org/resource/American_adoptive_parents"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Soon-Yi_Previn"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,241 @@
+[{
+        "docID" : "S-0079",
+        "uri" : "http://dbpedia.org/resource/Fox"
+    },  
+    {
+        "docID" : "S-0063",
+        "uri" : "http://dbpedia.org/resource/British"
+    },  
+    {
+        "docID" : "S-0060",
+        "uri" : "http://dbpedia.org/resource/Europe"
+    },
+    {
+        "docID" : "S-0037",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0036",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0035",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0034",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0033",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0031",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0030",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0029",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0028",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID" : "S-0026",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },  
+    {
+        "docID" : "S-0014",
+        "uri" : "http://dbpedia.org/resource/MozarT"
+    },
+    {
+        "docID" : "S-0013",
+        "uri" : "http://dbpedia.org/resource/MozarT"
+    },
+    {
+        "docID" : "S-0202",
+        "uri" : "http://dbpedia.org/resource/Clinton"
+    },
+    {
+        "docID" : "S-0171",
+        "uri" : "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "docID" : "S-0254",
+        "uri" : "http://dbpedia.org/resource/Fox"
+    },
+    {
+        "docID" : "S-0257",
+        "uri" : "http://dbpedia.org/resource/Fox"
+    },
+    {
+        "docID" : "S-0253",
+        "uri" : "http://dbpedia.org/resource/Fox"
+    },
+    {
+        "docID" : "S-0312",
+        "uri" : "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "docID" : "S-0351",
+        "uri" : "http://dbpedia.org/resource/State"
+    },
+    {
+        "docID" : "S-0299",
+        "uri" : "http://dbpedia.org/resource/The_Hospital"
+    },
+    {
+        "docID" : "S-0299",
+        "uri" : "http://dbpedia.org/resource/Gabriel_Torres"
+    },
+    {
+        "docID" : "S-0249",
+        "uri" : "http://dbpedia.org/resource/Will_Young"
+    },
+    {
+        "docID" : "S-0427",
+        "uri" : "http://dbpedia.org/resource/Meghalaya"
+    },
+    {
+        "docID" : "S-0152",
+        "uri" : "http://dbpedia.org/resource/Washington"
+    },
+    {
+        "docID" : "S-0230",
+        "uri" : "*"
+    },
+    {
+        "docID" : "S-0422",
+        "uri" : "http://dbpedia.org/resource/Kenya"
+    },
+    {
+        "docID" : "S-0049",
+        "uri" : "http://dbpedia.org/resource/Walt_Disney"
+    },
+    {
+        "docID" : "S-0259",
+        "uri" : "http://dbpedia.org/resource/Fox"
+    },
+    {
+        "docID" : "S-0352",
+        "uri" : "*"
+    },
+    {
+        "docID": "S-0086", 
+        "uri": "http://dbpedia.org/resource/John_%22Hot_Rod%22_Williams"
+    }, 
+    {
+        "docID": "S-0109", 
+        "uri": "http://dbpedia.org/resource/Clinton"
+    }, 
+    {
+        "docID": "S-0115", 
+        "uri": "http://dbpedia.org/resource/Archie_Bleyer"
+    }, 
+    {
+        "docID": "S-0116", 
+        "uri": "http://dbpedia.org/resource/Carved_in_Stone_(Vince_Neil_album)"
+    }, 
+    {
+        "docID": "S-0123", 
+        "uri": "http://dbpedia.org/resource/Lauren_Glassberg"
+    }, 
+    {
+        "docID": "S-0127", 
+        "uri": "http://dbpedia.org/resource/Punam"
+    }, 
+    {
+        "docID": "S-0187", 
+        "uri": "http://dbpedia.org/resource/Steve_Ellis"
+    }, 
+    {
+        "docID": "S-0224", 
+        "uri": "http://dbpedia.org/resource/Jeffrey_Dunn"
+    }, 
+    {
+        "docID": "S-0240", 
+        "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+    }, 
+    {
+        "docID": "S-0240", 
+        "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+    }, 
+    {
+        "docID": "S-0241", 
+        "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+    }, 
+    {
+        "docID": "S-0258", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "S-0260", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "S-0269", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "S-0270", 
+        "uri": "http://dbpedia.org/resource/Atlantic"
+    }, 
+    {
+        "docID": "S-0285", 
+        "uri": "http://dbpedia.org/resource/Ruff"
+    }, 
+    {
+        "docID": "S-0285", 
+        "uri": "http://dbpedia.org/resource/Ruff"
+    }, 
+    {
+        "docID": "S-0295", 
+        "uri": "http://dbpedia.org/resource/Atlantic"
+    }, 
+    {
+        "docID": "S-0303", 
+        "uri": "http://dbpedia.org/resource/Philo"
+    }, 
+    {
+        "docID": "S-0303", 
+        "uri": "http://dbpedia.org/resource/Philo"
+    }, 
+    {
+        "docID": "S-0305", 
+        "uri": "http://dbpedia.org/resource/Picardie"
+    }, 
+    {
+        "docID": "S-0334", 
+        "uri": "http://dbpedia.org/resource/European_Commission"
+    }, 
+    {
+        "docID": "S-0353", 
+        "uri": "http://dbpedia.org/resource/Childress"
+    }, 
+    {
+        "docID": "S-0353", 
+        "uri": "http://dbpedia.org/resource/Childress"
+    }, 
+    {
+        "docID": "S-0382", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "S-0385", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "S-0405", 
+        "uri": "http://dbpedia.org/resource/Ahmed_Hassan"
+    }, 
+    {
+        "docID": "S-0443", 
+        "uri": "http://dbpedia.org/resource/Mass"
+    }
+]

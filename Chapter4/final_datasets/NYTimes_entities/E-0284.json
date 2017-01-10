@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "The Hague",
+            "types": [
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Municipalities Of South Holland",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfSouthHolland"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Building",
+                    "uri": "http://dbpedia.org/ontology/Building"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Hague"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0284",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "The Hague",
+            "types": [
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Municipalities Of South Holland",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfSouthHolland"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Building",
+                    "uri": "http://dbpedia.org/ontology/Building"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Hague"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

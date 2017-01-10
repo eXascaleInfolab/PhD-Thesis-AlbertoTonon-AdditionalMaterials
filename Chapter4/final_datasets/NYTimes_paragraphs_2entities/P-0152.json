@@ -1,0 +1,789 @@
+{
+  "mainText":"Raising the tax has generally succeeded only when it was sold as a way to lower the deficit or improve infrastructure or both.\nA 1-cent federal gasoline tax was created in 1932, during the Depression.\nIn 1983, President Ronald Reagan raised the tax to 9 cents from 4 cents, calling it a \u201cuser fee\u201d to finance transportation improvements.\nThe tax rose again, to 14.1 cents in 1990, and to 18.4 cents in 1993, as part of deficit-reduction deals under President George Bush and President Bill Clinton.",
+  "shownText":"Raising the tax has generally succeeded only when it was sold as a way to lower the deficit or improve infrastructure or both.\nA 1-cent federal gasoline tax was created in 1932, during the Depression.\nIn 1983, President Ronald Reagan raised the tax to 9 cents from 4 cents, calling it a \u201cuser fee\u201d to finance transportation improvements.\nThe tax rose again, to 14.1 cents in 1990, and to 18.4 cents in 1993, as part of deficit-reduction deals under President George Bush and President Bill Clinton.",
+  "title":"The Case for a Higher Gasoline Tax - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/opinion/the-case-for-a-higher-gasoline-tax.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0152",
+  "elementNumber":13,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ronald_Reagan",
+      "label":"Ronald Reagan",
+      "offsets":[
+        {
+          "offset":220,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American Ranchers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRanchers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Conservatives",
+          "uri":"http://dbpedia.org/class/yago/Conservatives"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"California Republicans",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaRepublicans"
+        },
+        {
+          "label":"Deaths from Alzheimer%27s disease",
+          "uri":"http://dbpedia.org/resource/Deaths_from_Alzheimer%27s_disease"
+        },
+        {
+          "label":"American diarists",
+          "uri":"http://dbpedia.org/resource/American_diarists"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/resource/American_Presbyterians"
+        },
+        {
+          "label":"People From Lee County,Illinois",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLeeCounty,Illinois"
+        },
+        {
+          "label":"American ranchers",
+          "uri":"http://dbpedia.org/resource/American_ranchers"
+        },
+        {
+          "label":"Chicago Cubs",
+          "uri":"http://dbpedia.org/class/yago/ChicagoCubs"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Irish-American politicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_politicians"
+        },
+        {
+          "label":"American Diarists",
+          "uri":"http://dbpedia.org/class/yago/AmericanDiarists"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"American B-movie Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanB-movieActors"
+        },
+        {
+          "label":"Irish-American Politicians",
+          "uri":"http://dbpedia.org/class/yago/Irish-AmericanPoliticians"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"California Republicans",
+          "uri":"http://dbpedia.org/resource/California_Republicans"
+        },
+        {
+          "label":"California politicians",
+          "uri":"http://dbpedia.org/resource/California_politicians"
+        },
+        {
+          "label":"Cold War leaders",
+          "uri":"http://dbpedia.org/resource/Cold_War_leaders"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Cold War Leaders",
+          "uri":"http://dbpedia.org/class/yago/ColdWarLeaders"
+        },
+        {
+          "label":"left-handed person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rD9YjvGfuQdiB-OXz86_dYQ"
+        },
+        {
+          "label":"Shooting Victims",
+          "uri":"http://dbpedia.org/class/yago/ShootingVictims"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+        },
+        {
+          "label":"California Politicians",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaPoliticians"
+        },
+        {
+          "label":"People From Whiteside County,Illinois",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromWhitesideCounty,Illinois"
+        },
+        {
+          "label":"Governors Of California",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfCalifornia"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bill_Clinton",
+      "label":"Bill Clinton",
+      "offsets":[
+        {
+          "offset":485,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Legal Academics",
+          "uri":"http://dbpedia.org/class/yago/AmericanLegalAcademics"
+        },
+        {
+          "label":"Alumni Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"American saxophonists",
+          "uri":"http://dbpedia.org/resource/American_saxophonists"
+        },
+        {
+          "label":"American Rhodes Scholars",
+          "uri":"http://dbpedia.org/class/yago/AmericanRhodesScholars"
+        },
+        {
+          "label":"Georgetown University Alumni",
+          "uri":"http://dbpedia.org/class/yago/GeorgetownUniversityAlumni"
+        },
+        {
+          "label":"People Associated With The University Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleAssociatedWithTheUniversityOfArkansas"
+        },
+        {
+          "label":"American humanitarians",
+          "uri":"http://dbpedia.org/resource/American_humanitarians"
+        },
+        {
+          "label":"Honorary Fellows Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/HonoraryFellowsOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Hot Springs,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHotSprings,Arkansas"
+        },
+        {
+          "label":"Disbarred American lawyers",
+          "uri":"http://dbpedia.org/resource/Disbarred_American_lawyers"
+        },
+        {
+          "label":"Arkansas Attorneys General",
+          "uri":"http://dbpedia.org/resource/Arkansas_Attorneys_General"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Artifact",
+          "uri":"http://umbel.org/umbel/ac/Artifact"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Grand Companions Of The Order Of Logohu",
+          "uri":"http://dbpedia.org/class/yago/GrandCompanionsOfTheOrderOfLogohu"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Graduate",
+          "uri":"http://umbel.org/umbel/sc/Graduate"
+        },
+        {
+          "label":"Democratic Party (United States) presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+        },
+        {
+          "label":"Georgetown University alumni",
+          "uri":"http://dbpedia.org/resource/Georgetown_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Leader",
+          "uri":"http://umbel.org/umbel/sc/Leader"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Impeached United States Officials",
+          "uri":"http://dbpedia.org/class/yago/ImpeachedUnitedStatesOfficials"
+        },
+        {
+          "label":"Disbarred American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/DisbarredAmericanLawyers"
+        },
+        {
+          "label":"Instrumental Artifact",
+          "uri":"http://umbel.org/umbel/ac/InstrumentalArtifact"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"left-handed person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rD9YjvGfuQdiB-OXz86_dYQ"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Yale Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleLawSchoolAlumni"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Saxophonists",
+          "uri":"http://dbpedia.org/class/yago/AmericanSaxophonists"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Governors Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfArkansas"
+        },
+        {
+          "label":"American Humanitarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHumanitarians"
+        },
+        {
+          "label":"American Rhodes scholars",
+          "uri":"http://dbpedia.org/resource/American_Rhodes_scholars"
+        },
+        {
+          "label":"Administrator",
+          "uri":"http://umbel.org/umbel/sc/Administrator"
+        },
+        {
+          "label":"People From Hope,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHope,Arkansas"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        },
+        {
+          "label":"Furniture Piece",
+          "uri":"http://umbel.org/umbel/sc/FurniturePiece"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ronald_Reagan",
+      "label":"Ronald Reagan",
+      "offsets":[
+        {
+          "offset":220,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American Ranchers",
+          "uri":"http://dbpedia.org/class/yago/AmericanRanchers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Conservatives",
+          "uri":"http://dbpedia.org/class/yago/Conservatives"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"California Republicans",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaRepublicans"
+        },
+        {
+          "label":"Deaths from Alzheimer%27s disease",
+          "uri":"http://dbpedia.org/resource/Deaths_from_Alzheimer%27s_disease"
+        },
+        {
+          "label":"American diarists",
+          "uri":"http://dbpedia.org/resource/American_diarists"
+        },
+        {
+          "label":"American Presbyterians",
+          "uri":"http://dbpedia.org/resource/American_Presbyterians"
+        },
+        {
+          "label":"People From Lee County,Illinois",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLeeCounty,Illinois"
+        },
+        {
+          "label":"American ranchers",
+          "uri":"http://dbpedia.org/resource/American_ranchers"
+        },
+        {
+          "label":"Chicago Cubs",
+          "uri":"http://dbpedia.org/class/yago/ChicagoCubs"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Irish-American politicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_politicians"
+        },
+        {
+          "label":"American Diarists",
+          "uri":"http://dbpedia.org/class/yago/AmericanDiarists"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"American B-movie Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanB-movieActors"
+        },
+        {
+          "label":"Irish-American Politicians",
+          "uri":"http://dbpedia.org/class/yago/Irish-AmericanPoliticians"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"California Republicans",
+          "uri":"http://dbpedia.org/resource/California_Republicans"
+        },
+        {
+          "label":"California politicians",
+          "uri":"http://dbpedia.org/resource/California_politicians"
+        },
+        {
+          "label":"Cold War leaders",
+          "uri":"http://dbpedia.org/resource/Cold_War_leaders"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Cold War Leaders",
+          "uri":"http://dbpedia.org/class/yago/ColdWarLeaders"
+        },
+        {
+          "label":"left-handed person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rD9YjvGfuQdiB-OXz86_dYQ"
+        },
+        {
+          "label":"Shooting Victims",
+          "uri":"http://dbpedia.org/class/yago/ShootingVictims"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+        },
+        {
+          "label":"California Politicians",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaPoliticians"
+        },
+        {
+          "label":"People From Whiteside County,Illinois",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromWhitesideCounty,Illinois"
+        },
+        {
+          "label":"Governors Of California",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfCalifornia"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bill_Clinton",
+      "label":"Bill Clinton",
+      "offsets":[
+        {
+          "offset":485,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Legal Academics",
+          "uri":"http://dbpedia.org/class/yago/AmericanLegalAcademics"
+        },
+        {
+          "label":"Alumni Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"American saxophonists",
+          "uri":"http://dbpedia.org/resource/American_saxophonists"
+        },
+        {
+          "label":"American Rhodes Scholars",
+          "uri":"http://dbpedia.org/class/yago/AmericanRhodesScholars"
+        },
+        {
+          "label":"Georgetown University Alumni",
+          "uri":"http://dbpedia.org/class/yago/GeorgetownUniversityAlumni"
+        },
+        {
+          "label":"People Associated With The University Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleAssociatedWithTheUniversityOfArkansas"
+        },
+        {
+          "label":"American humanitarians",
+          "uri":"http://dbpedia.org/resource/American_humanitarians"
+        },
+        {
+          "label":"Honorary Fellows Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/HonoraryFellowsOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Hot Springs,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHotSprings,Arkansas"
+        },
+        {
+          "label":"Disbarred American lawyers",
+          "uri":"http://dbpedia.org/resource/Disbarred_American_lawyers"
+        },
+        {
+          "label":"Arkansas Attorneys General",
+          "uri":"http://dbpedia.org/resource/Arkansas_Attorneys_General"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Artifact",
+          "uri":"http://umbel.org/umbel/ac/Artifact"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Grand Companions Of The Order Of Logohu",
+          "uri":"http://dbpedia.org/class/yago/GrandCompanionsOfTheOrderOfLogohu"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Graduate",
+          "uri":"http://umbel.org/umbel/sc/Graduate"
+        },
+        {
+          "label":"Democratic Party (United States) presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+        },
+        {
+          "label":"Georgetown University alumni",
+          "uri":"http://dbpedia.org/resource/Georgetown_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Leader",
+          "uri":"http://umbel.org/umbel/sc/Leader"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Impeached United States Officials",
+          "uri":"http://dbpedia.org/class/yago/ImpeachedUnitedStatesOfficials"
+        },
+        {
+          "label":"Disbarred American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/DisbarredAmericanLawyers"
+        },
+        {
+          "label":"Instrumental Artifact",
+          "uri":"http://umbel.org/umbel/ac/InstrumentalArtifact"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"left-handed person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rD9YjvGfuQdiB-OXz86_dYQ"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Yale Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleLawSchoolAlumni"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Saxophonists",
+          "uri":"http://dbpedia.org/class/yago/AmericanSaxophonists"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Governors Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfArkansas"
+        },
+        {
+          "label":"American Humanitarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHumanitarians"
+        },
+        {
+          "label":"American Rhodes scholars",
+          "uri":"http://dbpedia.org/resource/American_Rhodes_scholars"
+        },
+        {
+          "label":"Administrator",
+          "uri":"http://umbel.org/umbel/sc/Administrator"
+        },
+        {
+          "label":"People From Hope,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHope,Arkansas"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        },
+        {
+          "label":"Furniture Piece",
+          "uri":"http://umbel.org/umbel/sc/FurniturePiece"
+        }
+      ]
+    }
+  ]
+}

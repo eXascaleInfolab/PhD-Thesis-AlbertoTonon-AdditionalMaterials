@@ -1,0 +1,117 @@
+{
+  "mainText":"Many of the protests had been marked by clashes between the protesters and Israeli soldiers and settlers, with two Palestinian teenagers sustaining serious gunshot wounds on Monday at Rachel\u2019s Tomb, near Bethlehem.",
+  "shownText":"Many of the protests had been marked by clashes between the protesters and Israeli soldiers and settlers, with two Palestinian teenagers sustaining serious gunshot wounds on Monday at Rachel\u2019s Tomb, near Bethlehem.",
+  "title":"Rocket From Gaza Hits Israel, Breaking Cease-Fire - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/world/middleeast/rocket-from-gaza-hits-israel-breaking-cease-fire.html?ref=world",
+  "category":"world",
+  "docID":"S-0433",
+  "elementNumber":17,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bethlehem",
+      "label":"Bethlehem",
+      "offsets":[
+        {
+          "offset":204,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Hebrew Bible places",
+          "uri":"http://dbpedia.org/resource/Hebrew_Bible_places"
+        },
+        {
+          "label":"Historic Jewish communities",
+          "uri":"http://dbpedia.org/resource/Historic_Jewish_communities"
+        },
+        {
+          "label":"Hebrew Bible Places",
+          "uri":"http://dbpedia.org/class/yago/HebrewBiblePlaces"
+        },
+        {
+          "label":"Hebrew Bible cities",
+          "uri":"http://dbpedia.org/resource/Hebrew_Bible_cities"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rachel",
+      "label":"Rachel",
+      "offsets":[
+        {
+          "offset":184,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Biblical matriarchs",
+          "uri":"http://dbpedia.org/resource/Biblical_matriarchs"
+        },
+        {
+          "label":"Aramaeans",
+          "uri":"http://dbpedia.org/class/yago/Aramaeans"
+        },
+        {
+          "label":"Biblical Matriarchs",
+          "uri":"http://dbpedia.org/class/yago/BiblicalMatriarchs"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Bethlehem",
+      "label":"Bethlehem",
+      "offsets":[
+        {
+          "offset":204,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Hebrew Bible places",
+          "uri":"http://dbpedia.org/resource/Hebrew_Bible_places"
+        },
+        {
+          "label":"Historic Jewish communities",
+          "uri":"http://dbpedia.org/resource/Historic_Jewish_communities"
+        },
+        {
+          "label":"Hebrew Bible Places",
+          "uri":"http://dbpedia.org/class/yago/HebrewBiblePlaces"
+        },
+        {
+          "label":"Hebrew Bible cities",
+          "uri":"http://dbpedia.org/resource/Hebrew_Bible_cities"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rachel",
+      "label":"Rachel",
+      "offsets":[
+        {
+          "offset":184,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Biblical matriarchs",
+          "uri":"http://dbpedia.org/resource/Biblical_matriarchs"
+        },
+        {
+          "label":"Aramaeans",
+          "uri":"http://dbpedia.org/class/yago/Aramaeans"
+        },
+        {
+          "label":"Biblical Matriarchs",
+          "uri":"http://dbpedia.org/class/yago/BiblicalMatriarchs"
+        }
+      ]
+    }
+  ]
+}

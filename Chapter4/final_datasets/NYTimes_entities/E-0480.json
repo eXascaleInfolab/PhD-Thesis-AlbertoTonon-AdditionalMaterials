@@ -1,0 +1,185 @@
+{
+    "allEntities": [
+        {
+            "label": "Macau",
+            "types": [
+                {
+                    "label": "Populated Coastal Places In China",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInChina"
+                },
+                {
+                    "label": "Portuguese-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Portuguese-speakingCountries"
+                },
+                {
+                    "label": "Chinese-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/Chinese-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Cities In China",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInChina"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Port Cities And Towns In China",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInChina"
+                },
+                {
+                    "label": "World Trade Organization Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "Chinese-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Special Territories",
+                    "uri": "http://dbpedia.org/class/yago/SpecialTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Special Administrative Regions Of The People's Republic Of China",
+                    "uri": "http://dbpedia.org/class/yago/SpecialAdministrativeRegionsOfThePeople'sRepublicOfChina"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Former Portuguese colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Portuguese_colonies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Macau"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0480",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Macau",
+            "types": [
+                {
+                    "label": "Populated Coastal Places In China",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInChina"
+                },
+                {
+                    "label": "Portuguese-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Portuguese-speakingCountries"
+                },
+                {
+                    "label": "Chinese-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/Chinese-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Cities In China",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInChina"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Port Cities And Towns In China",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInChina"
+                },
+                {
+                    "label": "World Trade Organization Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                },
+                {
+                    "label": "Chinese-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Special Territories",
+                    "uri": "http://dbpedia.org/class/yago/SpecialTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Special Administrative Regions Of The People's Republic Of China",
+                    "uri": "http://dbpedia.org/class/yago/SpecialAdministrativeRegionsOfThePeople'sRepublicOfChina"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Former Portuguese colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Portuguese_colonies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Macau"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

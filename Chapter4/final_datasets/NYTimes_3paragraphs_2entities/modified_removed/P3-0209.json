@@ -1,0 +1,117 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 15
+                }, 
+                {
+                    "length": 4, 
+                    "offset": 160
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 102
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 263
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "P3-0209", 
+    "elementNumber": 25, 
+    "mainEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 15
+                }, 
+                {
+                    "length": 4, 
+                    "offset": 160
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 102
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 263
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "mainText": "&ldquo;We view Fox as a formidable competitor,&rdquo; said John Skipper, ESPN&rsquo;s president.\n&ldquo;They&rsquo;ve got the resources of News Corp., and the willingness that Fox has shown in the past to take big bets and to create a difference.&rdquo;", 
+    "shownText": "By comparison, ESPN charges $5.15 a month and additional fees for its other channels.\n\n&ldquo;We view Fox as a formidable competitor,&rdquo; said John Skipper, ESPN&rsquo;s president.\n&ldquo;They&rsquo;ve got the resources of News Corp., and the willingness that Fox has shown in the past to take big bets and to create a difference.&rdquo;\n\nHe added: &ldquo;We like our hand.\nWe just have to play it well.&rdquo;\n", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "PETER EAVIS",
+            "types": [
+                {
+                    "label": "English farmers",
+                    "uri": "http://dbpedia.org/resource/English_farmers"
+                },
+                {
+                    "label": "English Farmers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFarmers"
+                },
+                {
+                    "label": "British Merchant Navy personnel",
+                    "uri": "http://dbpedia.org/resource/British_Merchant_Navy_personnel"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michael_Eavis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0530",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "PETER EAVIS",
+            "types": [
+                {
+                    "label": "English farmers",
+                    "uri": "http://dbpedia.org/resource/English_farmers"
+                },
+                {
+                    "label": "English Farmers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFarmers"
+                },
+                {
+                    "label": "British Merchant Navy personnel",
+                    "uri": "http://dbpedia.org/resource/British_Merchant_Navy_personnel"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Michael_Eavis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

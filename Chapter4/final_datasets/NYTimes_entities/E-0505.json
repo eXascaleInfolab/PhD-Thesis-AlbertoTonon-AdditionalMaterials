@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Iran",
+            "types": [
+                {
+                    "label": "Countries with alcohol prohibition",
+                    "uri": "http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Caspian Sea countries",
+                    "uri": "http://dbpedia.org/resource/Caspian_Sea_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Near Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/NearEasternCountries"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Developing8Countries Member States",
+                    "uri": "http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+                },
+                {
+                    "label": "Countries With Alcohol Prohibition",
+                    "uri": "http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Middle Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/MiddleEasternCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Islamic republics",
+                    "uri": "http://dbpedia.org/resource/Islamic_republics"
+                },
+                {
+                    "label": "Developing 8 Countries member states",
+                    "uri": "http://dbpedia.org/resource/Developing_8_Countries_member_states"
+                },
+                {
+                    "label": "Persian-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Iran"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0505",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Iran",
+            "types": [
+                {
+                    "label": "Countries with alcohol prohibition",
+                    "uri": "http://dbpedia.org/resource/Countries_with_alcohol_prohibition"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Caspian Sea countries",
+                    "uri": "http://dbpedia.org/resource/Caspian_Sea_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Near Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/NearEasternCountries"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Developing8Countries Member States",
+                    "uri": "http://dbpedia.org/class/yago/Developing8CountriesMemberStates"
+                },
+                {
+                    "label": "Countries With Alcohol Prohibition",
+                    "uri": "http://dbpedia.org/class/yago/CountriesWithAlcoholProhibition"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Middle Eastern Countries",
+                    "uri": "http://dbpedia.org/class/yago/MiddleEasternCountries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Islamic republics",
+                    "uri": "http://dbpedia.org/resource/Islamic_republics"
+                },
+                {
+                    "label": "Developing 8 Countries member states",
+                    "uri": "http://dbpedia.org/resource/Developing_8_Countries_member_states"
+                },
+                {
+                    "label": "Persian-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/Persian-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Iran"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

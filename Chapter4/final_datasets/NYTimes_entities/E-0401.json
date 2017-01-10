@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "U.S.",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/U.S."
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0401",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "U.S.",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/U.S."
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

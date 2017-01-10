@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Stavros Niarchos",
+            "types": [
+                {
+                    "label": "People From Attica",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAttica"
+                },
+                {
+                    "label": "Greek Art Collectors",
+                    "uri": "http://dbpedia.org/class/yago/GreekArtCollectors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Greek Racehorse Owners And Breeders",
+                    "uri": "http://dbpedia.org/class/yago/GreekRacehorseOwnersAndBreeders"
+                },
+                {
+                    "label": "Greek racehorse owners and breeders",
+                    "uri": "http://dbpedia.org/resource/Greek_racehorse_owners_and_breeders"
+                },
+                {
+                    "label": "Greek art collectors",
+                    "uri": "http://dbpedia.org/resource/Greek_art_collectors"
+                },
+                {
+                    "label": "Greek businesspeople",
+                    "uri": "http://dbpedia.org/resource/Greek_businesspeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stavros_Niarchos"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0492",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Stavros Niarchos",
+            "types": [
+                {
+                    "label": "People From Attica",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAttica"
+                },
+                {
+                    "label": "Greek Art Collectors",
+                    "uri": "http://dbpedia.org/class/yago/GreekArtCollectors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Greek Racehorse Owners And Breeders",
+                    "uri": "http://dbpedia.org/class/yago/GreekRacehorseOwnersAndBreeders"
+                },
+                {
+                    "label": "Greek racehorse owners and breeders",
+                    "uri": "http://dbpedia.org/resource/Greek_racehorse_owners_and_breeders"
+                },
+                {
+                    "label": "Greek art collectors",
+                    "uri": "http://dbpedia.org/resource/Greek_art_collectors"
+                },
+                {
+                    "label": "Greek businesspeople",
+                    "uri": "http://dbpedia.org/resource/Greek_businesspeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stavros_Niarchos"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

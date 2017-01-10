@@ -1,0 +1,361 @@
+{
+    "allEntities": [
+        {
+            "label": "Allen Ginsberg",
+            "types": [
+                {
+                    "label": "American spoken word artists",
+                    "uri": "http://dbpedia.org/resource/American_spoken_word_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Montclair State University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/MontclairStateUniversityAlumni"
+                },
+                {
+                    "label": "poet",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvftqlZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People Associated With The Hippie Movement",
+                    "uri": "http://dbpedia.org/class/yago/PeopleAssociatedWithTheHippieMovement"
+                },
+                {
+                    "label": "Jewish Poets",
+                    "uri": "http://dbpedia.org/class/yago/JewishPoets"
+                },
+                {
+                    "label": "Jewish poets",
+                    "uri": "http://dbpedia.org/resource/Jewish_poets"
+                },
+                {
+                    "label": "American Poets",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoets"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Psychedelic Advocates And Proponents",
+                    "uri": "http://dbpedia.org/class/yago/PsychedelicAdvocatesAndProponents"
+                },
+                {
+                    "label": "American tax resisters",
+                    "uri": "http://dbpedia.org/resource/American_tax_resisters"
+                },
+                {
+                    "label": "Gay writers",
+                    "uri": "http://dbpedia.org/resource/Gay_writers"
+                },
+                {
+                    "label": "LGBTAnarchists",
+                    "uri": "http://dbpedia.org/class/yago/LGBTAnarchists"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "American Anti-Vietnam War Activists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnti-VietnamWarActivists"
+                },
+                {
+                    "label": "People From Newark,New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewark,NewJersey"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Gay Writers",
+                    "uri": "http://dbpedia.org/class/yago/GayWriters"
+                },
+                {
+                    "label": "Jewish Anarchists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAnarchists"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "LGBT Jews",
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "LGBTRights Activists From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+                },
+                {
+                    "label": "American Anarchists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnarchists"
+                },
+                {
+                    "label": "American Buddhists",
+                    "uri": "http://dbpedia.org/resource/American_Buddhists"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Beat writers",
+                    "uri": "http://dbpedia.org/resource/Beat_writers"
+                },
+                {
+                    "label": "American poets",
+                    "uri": "http://dbpedia.org/resource/American_poets"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "American Tax Resisters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTaxResisters"
+                },
+                {
+                    "label": "American anarchists",
+                    "uri": "http://dbpedia.org/resource/American_anarchists"
+                },
+                {
+                    "label": "Beat Writers",
+                    "uri": "http://dbpedia.org/class/yago/BeatWriters"
+                },
+                {
+                    "label": "American Spoken Word Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSpokenWordArtists"
+                },
+                {
+                    "label": "LGBT anarchists",
+                    "uri": "http://dbpedia.org/resource/LGBT_anarchists"
+                },
+                {
+                    "label": "People From Boulder,Colorado",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBoulder,Colorado"
+                },
+                {
+                    "label": "People From Paterson,New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPaterson,NewJersey"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Allen_Ginsberg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0282",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Allen Ginsberg",
+            "types": [
+                {
+                    "label": "American spoken word artists",
+                    "uri": "http://dbpedia.org/resource/American_spoken_word_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Montclair State University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/MontclairStateUniversityAlumni"
+                },
+                {
+                    "label": "poet",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvftqlZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "People Associated With The Hippie Movement",
+                    "uri": "http://dbpedia.org/class/yago/PeopleAssociatedWithTheHippieMovement"
+                },
+                {
+                    "label": "Jewish Poets",
+                    "uri": "http://dbpedia.org/class/yago/JewishPoets"
+                },
+                {
+                    "label": "Jewish poets",
+                    "uri": "http://dbpedia.org/resource/Jewish_poets"
+                },
+                {
+                    "label": "American Poets",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoets"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "Psychedelic Advocates And Proponents",
+                    "uri": "http://dbpedia.org/class/yago/PsychedelicAdvocatesAndProponents"
+                },
+                {
+                    "label": "American tax resisters",
+                    "uri": "http://dbpedia.org/resource/American_tax_resisters"
+                },
+                {
+                    "label": "Gay writers",
+                    "uri": "http://dbpedia.org/resource/Gay_writers"
+                },
+                {
+                    "label": "LGBTAnarchists",
+                    "uri": "http://dbpedia.org/class/yago/LGBTAnarchists"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "American Anti-Vietnam War Activists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnti-VietnamWarActivists"
+                },
+                {
+                    "label": "People From Newark,New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewark,NewJersey"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Gay Writers",
+                    "uri": "http://dbpedia.org/class/yago/GayWriters"
+                },
+                {
+                    "label": "Jewish Anarchists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAnarchists"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "LGBT Jews",
+                    "uri": "http://dbpedia.org/resource/LGBT_Jews"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "LGBTRights Activists From The United States",
+                    "uri": "http://dbpedia.org/class/yago/LGBTRightsActivistsFromTheUnitedStates"
+                },
+                {
+                    "label": "American Anarchists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnarchists"
+                },
+                {
+                    "label": "American Buddhists",
+                    "uri": "http://dbpedia.org/resource/American_Buddhists"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Beat writers",
+                    "uri": "http://dbpedia.org/resource/Beat_writers"
+                },
+                {
+                    "label": "American poets",
+                    "uri": "http://dbpedia.org/resource/American_poets"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "Jewish American Writers",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanWriters"
+                },
+                {
+                    "label": "American Tax Resisters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTaxResisters"
+                },
+                {
+                    "label": "American anarchists",
+                    "uri": "http://dbpedia.org/resource/American_anarchists"
+                },
+                {
+                    "label": "Beat Writers",
+                    "uri": "http://dbpedia.org/class/yago/BeatWriters"
+                },
+                {
+                    "label": "American Spoken Word Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSpokenWordArtists"
+                },
+                {
+                    "label": "LGBT anarchists",
+                    "uri": "http://dbpedia.org/resource/LGBT_anarchists"
+                },
+                {
+                    "label": "People From Boulder,Colorado",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBoulder,Colorado"
+                },
+                {
+                    "label": "People From Paterson,New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPaterson,NewJersey"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Allen_Ginsberg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

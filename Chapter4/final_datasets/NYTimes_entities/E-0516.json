@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "State University of New York",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Public Universities",
+                    "uri": "http://dbpedia.org/class/yago/PublicUniversities"
+                },
+                {
+                    "label": "Educational Institutions Established In1948",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1948"
+                },
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/State_University_of_New_York"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0516",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "State University of New York",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Public Universities",
+                    "uri": "http://dbpedia.org/class/yago/PublicUniversities"
+                },
+                {
+                    "label": "Educational Institutions Established In1948",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1948"
+                },
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/State_University_of_New_York"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

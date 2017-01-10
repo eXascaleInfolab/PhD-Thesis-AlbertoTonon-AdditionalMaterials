@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Mats Sundin",
+            "types": [
+                {
+                    "label": "Djurg%E5rdens IF Hockey players",
+                    "uri": "http://dbpedia.org/resource/Djurg%E5rdens_IF_Hockey_players"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Sweden",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfSweden"
+                },
+                {
+                    "label": "Olympic Gold Medalists For Sweden",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForSweden"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "man",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Winter Olympics Medalists",
+                    "uri": "http://dbpedia.org/class/yago/WinterOlympicsMedalists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Toronto Maple Leafs Players",
+                    "uri": "http://dbpedia.org/class/yago/TorontoMapleLeafsPlayers"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Swedish Ice Hockey Players",
+                    "uri": "http://dbpedia.org/class/yago/SwedishIceHockeyPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Quebec Nordiques Players",
+                    "uri": "http://dbpedia.org/class/yago/QuebecNordiquesPlayers"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "ice hockey player",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjL0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Djurg%C3%A5rdens IFHockey Players",
+                    "uri": "http://dbpedia.org/class/yago/Djurg%C3%A5rdensIFHockeyPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mats_Sundin"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0257",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mats Sundin",
+            "types": [
+                {
+                    "label": "Djurg%E5rdens IF Hockey players",
+                    "uri": "http://dbpedia.org/resource/Djurg%E5rdens_IF_Hockey_players"
+                },
+                {
+                    "label": "Olympic Ice Hockey Players Of Sweden",
+                    "uri": "http://dbpedia.org/class/yago/OlympicIceHockeyPlayersOfSweden"
+                },
+                {
+                    "label": "Olympic Gold Medalists For Sweden",
+                    "uri": "http://dbpedia.org/class/yago/OlympicGoldMedalistsForSweden"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "man",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Winter Olympics Medalists",
+                    "uri": "http://dbpedia.org/class/yago/WinterOlympicsMedalists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Toronto Maple Leafs Players",
+                    "uri": "http://dbpedia.org/class/yago/TorontoMapleLeafsPlayers"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "National Hockey League Players With100Point Seasons",
+                    "uri": "http://dbpedia.org/class/yago/NationalHockeyLeaguePlayersWith100PointSeasons"
+                },
+                {
+                    "label": "Swedish Ice Hockey Players",
+                    "uri": "http://dbpedia.org/class/yago/SwedishIceHockeyPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Quebec Nordiques Players",
+                    "uri": "http://dbpedia.org/class/yago/QuebecNordiquesPlayers"
+                },
+                {
+                    "label": "famous person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "ice hockey player",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjL0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Djurg%C3%A5rdens IFHockey Players",
+                    "uri": "http://dbpedia.org/class/yago/Djurg%C3%A5rdensIFHockeyPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mats_Sundin"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Columbus Blue Jackets",
+            "types": [
+                {
+                    "label": "Sports Clubs Established In2000",
+                    "uri": "http://dbpedia.org/class/yago/SportsClubsEstablishedIn2000"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "ice hockey team",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQr-W5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Sports In Ohio",
+                    "uri": "http://dbpedia.org/class/yago/SportsInOhio"
+                },
+                {
+                    "label": "20th century establishments",
+                    "uri": "http://dbpedia.org/resource/20th_century_establishments"
+                },
+                {
+                    "label": "Hockey Team",
+                    "uri": "http://dbpedia.org/ontology/HockeyTeam"
+                },
+                {
+                    "label": "Athletic Activity",
+                    "uri": "http://umbel.org/umbel/sc/AthleticActivity"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0349",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Columbus Blue Jackets",
+            "types": [
+                {
+                    "label": "Sports Clubs Established In2000",
+                    "uri": "http://dbpedia.org/class/yago/SportsClubsEstablishedIn2000"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "ice hockey team",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQr-W5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Sports In Ohio",
+                    "uri": "http://dbpedia.org/class/yago/SportsInOhio"
+                },
+                {
+                    "label": "20th century establishments",
+                    "uri": "http://dbpedia.org/resource/20th_century_establishments"
+                },
+                {
+                    "label": "Hockey Team",
+                    "uri": "http://dbpedia.org/ontology/HockeyTeam"
+                },
+                {
+                    "label": "Athletic Activity",
+                    "uri": "http://umbel.org/umbel/sc/AthleticActivity"
+                },
+                {
+                    "label": "Sports Team",
+                    "uri": "http://dbpedia.org/ontology/SportsTeam"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Mount Vernon",
+            "types": [
+                {
+                    "label": "Presidential Places",
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlaces"
+                },
+                {
+                    "label": "Presidential Places Related To George Washington",
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlacesRelatedToGeorgeWashington"
+                },
+                {
+                    "label": "18th century architecture",
+                    "uri": "http://dbpedia.org/resource/18th_century_architecture"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mount_Vernon"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0723",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mount Vernon",
+            "types": [
+                {
+                    "label": "Presidential Places",
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlaces"
+                },
+                {
+                    "label": "Presidential Places Related To George Washington",
+                    "uri": "http://dbpedia.org/class/yago/PresidentialPlacesRelatedToGeorgeWashington"
+                },
+                {
+                    "label": "18th century architecture",
+                    "uri": "http://dbpedia.org/resource/18th_century_architecture"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mount_Vernon"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

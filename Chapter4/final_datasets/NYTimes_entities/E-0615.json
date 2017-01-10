@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Elizabeth",
+            "types": [
+                {
+                    "label": "Feminine given names",
+                    "uri": "http://dbpedia.org/resource/Feminine_given_names"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Elizabeth"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0615",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Elizabeth",
+            "types": [
+                {
+                    "label": "Feminine given names",
+                    "uri": "http://dbpedia.org/resource/Feminine_given_names"
+                },
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Elizabeth"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

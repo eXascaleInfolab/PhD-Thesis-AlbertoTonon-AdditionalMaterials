@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Sviatoslav Richter",
+            "types": [
+                {
+                    "label": "People From Odessa",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromOdessa"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Pianist",
+                    "uri": "http://dbpedia.org/class/yago/Pianist110430665"
+                },
+                {
+                    "label": "People's Artists Of The USSR",
+                    "uri": "http://dbpedia.org/class/yago/People'sArtistsOfTheUSSR"
+                },
+                {
+                    "label": "Ukrainian Classical Pianists",
+                    "uri": "http://dbpedia.org/class/yago/UkrainianClassicalPianists"
+                },
+                {
+                    "label": "Gay musicians",
+                    "uri": "http://dbpedia.org/resource/Gay_musicians"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sviatoslav_Richter"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0293",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sviatoslav Richter",
+            "types": [
+                {
+                    "label": "People From Odessa",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromOdessa"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Pianist",
+                    "uri": "http://dbpedia.org/class/yago/Pianist110430665"
+                },
+                {
+                    "label": "People's Artists Of The USSR",
+                    "uri": "http://dbpedia.org/class/yago/People'sArtistsOfTheUSSR"
+                },
+                {
+                    "label": "Ukrainian Classical Pianists",
+                    "uri": "http://dbpedia.org/class/yago/UkrainianClassicalPianists"
+                },
+                {
+                    "label": "Gay musicians",
+                    "uri": "http://dbpedia.org/resource/Gay_musicians"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sviatoslav_Richter"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

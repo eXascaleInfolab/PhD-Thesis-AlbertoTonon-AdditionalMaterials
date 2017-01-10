@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Gibson, Dunn &amp; Crutcher",
+            "types": [
+                {
+                    "label": "Companies Based In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+                },
+                {
+                    "label": "Law Firms Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1890",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1890"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gibson,_Dunn_&_Crutcher"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0274",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gibson, Dunn &amp; Crutcher",
+            "types": [
+                {
+                    "label": "Companies Based In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+                },
+                {
+                    "label": "Law Firms Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1890",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1890"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gibson,_Dunn_&_Crutcher"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

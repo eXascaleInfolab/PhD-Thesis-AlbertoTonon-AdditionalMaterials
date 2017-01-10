@@ -1,0 +1,165 @@
+{
+    "allEntities": [
+        {
+            "label": "Jacques Brel", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 32
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Belgian actors", 
+                    "uri": "http://dbpedia.org/resource/Belgian_actors"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Belgian Actors", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianActors"
+                }, 
+                {
+                    "label": "Belgian Singers", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianSingers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Belgian poets", 
+                    "uri": "http://dbpedia.org/resource/Belgian_poets"
+                }, 
+                {
+                    "label": "Belgian Poets", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianPoets"
+                }, 
+                {
+                    "label": "French-language Singers", 
+                    "uri": "http://dbpedia.org/class/yago/French-languageSingers"
+                }, 
+                {
+                    "label": "Cabaret Singers", 
+                    "uri": "http://dbpedia.org/class/yago/CabaretSingers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jacques_Brel"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 84
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "S-0037", 
+    "elementNumber": 89, 
+    "mainEntities": [
+        {
+            "label": "Jacques Brel", 
+            "offsets": [
+                {
+                    "length": 12, 
+                    "offset": 32
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Belgian actors", 
+                    "uri": "http://dbpedia.org/resource/Belgian_actors"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Belgian Actors", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianActors"
+                }, 
+                {
+                    "label": "Belgian Singers", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianSingers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "Belgian poets", 
+                    "uri": "http://dbpedia.org/resource/Belgian_poets"
+                }, 
+                {
+                    "label": "Belgian Poets", 
+                    "uri": "http://dbpedia.org/class/yago/BelgianPoets"
+                }, 
+                {
+                    "label": "French-language Singers", 
+                    "uri": "http://dbpedia.org/class/yago/French-languageSingers"
+                }, 
+                {
+                    "label": "Cabaret Singers", 
+                    "uri": "http://dbpedia.org/class/yago/CabaretSingers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jacques_Brel"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 84
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "In his Ziggy guise he performed Jacques Brel&rsquo;s &ldquo;My Death&rdquo; and Mr. Bowie&rsquo;shit &ldquo;Ashes to Ashes&rdquo; derives its title from a burial service.", 
+    "shownText": "In his Ziggy guise he performed Jacques Brel&rsquo;s &ldquo;My Death&rdquo; and Mr. Bowie&rsquo;shit &ldquo;Ashes to Ashes&rdquo; derives its title from a burial service.", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

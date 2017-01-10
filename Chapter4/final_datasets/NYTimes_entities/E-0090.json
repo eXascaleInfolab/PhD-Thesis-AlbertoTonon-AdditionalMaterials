@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Doug MillsThe",
+            "types": [
+                {
+                    "label": "1991Television Series Debuts",
+                    "uri": "http://dbpedia.org/class/yago/1991TelevisionSeriesDebuts"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "television series",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvj_X65wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Series",
+                    "uri": "http://umbel.org/umbel/sc/Series"
+                },
+                {
+                    "label": "American Broadcasting Company network shows",
+                    "uri": "http://dbpedia.org/resource/American_Broadcasting_Company_network_shows"
+                },
+                {
+                    "label": "Nickelodeon Shows",
+                    "uri": "http://dbpedia.org/class/yago/NickelodeonShows"
+                },
+                {
+                    "label": "1999Television Series Endings",
+                    "uri": "http://dbpedia.org/class/yago/1999TelevisionSeriesEndings"
+                },
+                {
+                    "label": "1990s Nickelodeon Shows",
+                    "uri": "http://dbpedia.org/class/yago/1990sNickelodeonShows"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Disney Channel Shows",
+                    "uri": "http://dbpedia.org/class/yago/DisneyChannelShows"
+                },
+                {
+                    "label": "Series",
+                    "uri": "http://dbpedia.org/class/yago/Series108457976"
+                },
+                {
+                    "label": "Television Show",
+                    "uri": "http://dbpedia.org/ontology/TelevisionShow"
+                },
+                {
+                    "label": "American animated television series",
+                    "uri": "http://dbpedia.org/resource/American_animated_television_series"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Doug"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0090",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Doug MillsThe",
+            "types": [
+                {
+                    "label": "1991Television Series Debuts",
+                    "uri": "http://dbpedia.org/class/yago/1991TelevisionSeriesDebuts"
+                },
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "television series",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvj_X65wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Series",
+                    "uri": "http://umbel.org/umbel/sc/Series"
+                },
+                {
+                    "label": "American Broadcasting Company network shows",
+                    "uri": "http://dbpedia.org/resource/American_Broadcasting_Company_network_shows"
+                },
+                {
+                    "label": "Nickelodeon Shows",
+                    "uri": "http://dbpedia.org/class/yago/NickelodeonShows"
+                },
+                {
+                    "label": "1999Television Series Endings",
+                    "uri": "http://dbpedia.org/class/yago/1999TelevisionSeriesEndings"
+                },
+                {
+                    "label": "1990s Nickelodeon Shows",
+                    "uri": "http://dbpedia.org/class/yago/1990sNickelodeonShows"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Disney Channel Shows",
+                    "uri": "http://dbpedia.org/class/yago/DisneyChannelShows"
+                },
+                {
+                    "label": "Series",
+                    "uri": "http://dbpedia.org/class/yago/Series108457976"
+                },
+                {
+                    "label": "Television Show",
+                    "uri": "http://dbpedia.org/ontology/TelevisionShow"
+                },
+                {
+                    "label": "American animated television series",
+                    "uri": "http://dbpedia.org/resource/American_animated_television_series"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Doug"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

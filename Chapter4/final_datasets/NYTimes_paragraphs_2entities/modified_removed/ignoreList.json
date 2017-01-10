@@ -1,0 +1,245 @@
+[   {
+        "docID" : "P-0183",
+        "uri" : "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+    },
+    {
+        "docID": "P-0279",
+        "uri" : "http://dbpedia.org/resource/State"
+    },
+    {
+        "docID": "P-0039",
+        "uri" : "*"
+    },
+    {
+        "docID": "P-0035",
+        "uri" : "http://dbpedia.org/resource/Bowie"
+    },
+    {
+        "docID": "P-0304",
+        "uri" : "http://dbpedia.org/resource/Sandberg"
+    },
+    {
+        "docID": "P-0140",
+        "uri" : "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "docID": "P-0000", 
+        "uri": "http://dbpedia.org/resource/Phoenix"
+    }, 
+    {
+        "docID": "P-0004", 
+        "uri": "http://dbpedia.org/resource/Ben_Sherman"
+    }, 
+    {
+        "docID": "P-0019", 
+        "uri": "http://dbpedia.org/resource/MozarT"
+    }, 
+    {
+        "docID": "P-0024", 
+        "uri": "http://dbpedia.org/resource/Chicago"
+    }, 
+    {
+        "docID": "P-0025", 
+        "uri": "http://dbpedia.org/resource/Mary"
+    }, 
+    {
+        "docID": "P-0029", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0030", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0030", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0031", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0032", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0033", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0034", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0037", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0038", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P-0043", 
+        "uri": "http://dbpedia.org/resource/McBride"
+    }, 
+    {
+        "docID": "P-0053", 
+        "uri": "http://dbpedia.org/resource/Golden"
+    }, 
+    {
+        "docID": "P-0058", 
+        "uri": "http://dbpedia.org/resource/European_Commission"
+    }, 
+    {
+        "docID": "P-0059", 
+        "uri": "http://dbpedia.org/resource/Europe"
+    }, 
+    {
+        "docID": "P-0065", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0076", 
+        "uri": "http://dbpedia.org/resource/Golden"
+    }, 
+    {
+        "docID": "P-0093", 
+        "uri": "http://dbpedia.org/resource/Americanos"
+    }, 
+    {
+        "docID": "P-0096", 
+        "uri": "http://dbpedia.org/resource/Ray"
+    }, 
+    {
+        "docID": "P-0106", 
+        "uri": "http://dbpedia.org/resource/Lauren_Glassberg"
+    }, 
+    {
+        "docID": "P-0107", 
+        "uri": "http://dbpedia.org/resource/Norwood"
+    }, 
+    {
+        "docID": "P-0107", 
+        "uri": "http://dbpedia.org/resource/Norwood"
+    }, 
+    {
+        "docID": "P-0121", 
+        "uri": "http://dbpedia.org/resource/Nico"
+    }, 
+    {
+        "docID": "P-0150", 
+        "uri": "http://dbpedia.org/resource/Europe"
+    }, 
+    {
+        "docID": "P-0158", 
+        "uri": "http://dbpedia.org/resource/Clinton"
+    }, 
+    {
+        "docID": "P-0159", 
+        "uri": "http://dbpedia.org/resource/Clinton"
+    }, 
+    {
+        "docID": "P-0181", 
+        "uri": "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+    }, 
+    {
+        "docID": "P-0181", 
+        "uri": "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+    }, 
+    {
+        "docID": "P-0193", 
+        "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+    }, 
+    {
+        "docID": "P-0195", 
+        "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+    }, 
+    {
+        "docID": "P-0203", 
+        "uri": "http://dbpedia.org/resource/Mount_Vernon"
+    }, 
+    {
+        "docID": "P-0208", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0210", 
+        "uri": "http://dbpedia.org/resource/Catholic"
+    }, 
+    {
+        "docID": "P-0210", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0211", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0212", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0220", 
+        "uri": "http://dbpedia.org/resource/Mormon"
+    }, 
+    {
+        "docID": "P-0220", 
+        "uri": "http://dbpedia.org/resource/Mormon"
+    }, 
+    {
+        "docID": "P-0225", 
+        "uri": "http://dbpedia.org/resource/Ruff"
+    }, 
+    {
+        "docID": "P-0235", 
+        "uri": "http://dbpedia.org/resource/The_Hospital"
+    }, 
+    {
+        "docID": "P-0239", 
+        "uri": "http://dbpedia.org/resource/Philo"
+    }, 
+    {
+        "docID": "P-0244", 
+        "uri": "http://dbpedia.org/resource/Portlandia"
+    }, 
+    {
+        "docID": "P-0244", 
+        "uri": "http://dbpedia.org/resource/Portlandia"
+    }, 
+    {
+        "docID": "P-0259", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0260", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P-0263", 
+        "uri": "http://dbpedia.org/resource/Morgan_Stanley"
+    }, 
+    {
+        "docID": "P-0269", 
+        "uri": "http://dbpedia.org/resource/European_Commission"
+    }, 
+    {
+        "docID": "P-0279", 
+        "uri": "http://dbpedia.org/resource/Childress"
+    }, 
+    {
+        "docID": "P-0287", 
+        "uri": "http://dbpedia.org/resource/Methodist"
+    }, 
+    {
+        "docID": "P-0288", 
+        "uri": "http://dbpedia.org/resource/Methodist"
+    }, 
+    {
+        "docID": "P-0306", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P-0348", 
+        "uri": "http://dbpedia.org/resource/Meghalaya"
+    }
+]

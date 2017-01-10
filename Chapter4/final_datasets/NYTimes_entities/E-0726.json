@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Michael DeVitto",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American session musicians",
+                    "uri": "http://dbpedia.org/resource/American_session_musicians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Drummers",
+                    "uri": "http://dbpedia.org/class/yago/Drummers"
+                },
+                {
+                    "label": "American Session Musicians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSessionMusicians"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Liberty_DeVitto"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0726",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Michael DeVitto",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American session musicians",
+                    "uri": "http://dbpedia.org/resource/American_session_musicians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Drummers",
+                    "uri": "http://dbpedia.org/class/yago/Drummers"
+                },
+                {
+                    "label": "American Session Musicians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSessionMusicians"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Liberty_DeVitto"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Douglas D. Osheroff",
+            "types": [
+                {
+                    "label": "People From Aberdeen,Washington",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAberdeen,Washington"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish American Scientists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanScientists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Jewish American scientists",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_scientists"
+                },
+                {
+                    "label": "Mac Arthur Fellows",
+                    "uri": "http://dbpedia.org/class/yago/MacArthurFellows"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                },
+                {
+                    "label": "Cornell University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CornellUniversityAlumni"
+                },
+                {
+                    "label": "Scientists At Bell Labs",
+                    "uri": "http://dbpedia.org/class/yago/ScientistsAtBellLabs"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Nobel Laureates In Physics",
+                    "uri": "http://dbpedia.org/class/yago/NobelLaureatesInPhysics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Douglas_D._Osheroff"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0747",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Douglas D. Osheroff",
+            "types": [
+                {
+                    "label": "People From Aberdeen,Washington",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAberdeen,Washington"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish American Scientists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanScientists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Jewish American scientists",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_scientists"
+                },
+                {
+                    "label": "Mac Arthur Fellows",
+                    "uri": "http://dbpedia.org/class/yago/MacArthurFellows"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                },
+                {
+                    "label": "Cornell University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CornellUniversityAlumni"
+                },
+                {
+                    "label": "Scientists At Bell Labs",
+                    "uri": "http://dbpedia.org/class/yago/ScientistsAtBellLabs"
+                },
+                {
+                    "label": "Scientist",
+                    "uri": "http://dbpedia.org/ontology/Scientist"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Nobel Laureates In Physics",
+                    "uri": "http://dbpedia.org/class/yago/NobelLaureatesInPhysics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Douglas_D._Osheroff"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

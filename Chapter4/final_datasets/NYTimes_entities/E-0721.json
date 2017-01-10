@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Lawrence",
+            "types": [
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                },
+                {
+                    "label": "English surnames",
+                    "uri": "http://dbpedia.org/resource/English_surnames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lawrence"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0721",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Lawrence",
+            "types": [
+                {
+                    "label": "English given names",
+                    "uri": "http://dbpedia.org/resource/English_given_names"
+                },
+                {
+                    "label": "English surnames",
+                    "uri": "http://dbpedia.org/resource/English_surnames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lawrence"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

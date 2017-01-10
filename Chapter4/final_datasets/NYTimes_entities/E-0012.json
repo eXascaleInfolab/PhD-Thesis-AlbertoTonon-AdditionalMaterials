@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "U. S. National Medal of Science",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Award",
+                    "uri": "http://dbpedia.org/ontology/Award"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Civil Awards And Decorations Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/CivilAwardsAndDecorationsOfTheUnitedStates"
+                },
+                {
+                    "label": "Award",
+                    "uri": "http://dbpedia.org/class/yago/Award106696483"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Medal_of_Science"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0012",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "U. S. National Medal of Science",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Award",
+                    "uri": "http://dbpedia.org/ontology/Award"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Civil Awards And Decorations Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/CivilAwardsAndDecorationsOfTheUnitedStates"
+                },
+                {
+                    "label": "Award",
+                    "uri": "http://dbpedia.org/class/yago/Award106696483"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/National_Medal_of_Science"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

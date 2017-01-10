@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Kristen Stewart",
+            "types": [
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kristen_Stewart"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0230",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kristen Stewart",
+            "types": [
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American child actors",
+                    "uri": "http://dbpedia.org/resource/American_child_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kristen_Stewart"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

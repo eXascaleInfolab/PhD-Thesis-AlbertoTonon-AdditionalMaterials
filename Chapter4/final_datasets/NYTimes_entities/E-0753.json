@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Melinda Sue Gordon",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Fictional Character",
+                    "uri": "http://dbpedia.org/class/yago/FictionalCharacter109587565"
+                },
+                {
+                    "label": "Fictional Character",
+                    "uri": "http://dbpedia.org/ontology/FictionalCharacter"
+                },
+                {
+                    "label": "Ghost Whisperer characters",
+                    "uri": "http://dbpedia.org/resource/Ghost_Whisperer_characters"
+                },
+                {
+                    "label": "Ghost Whisperer Characters",
+                    "uri": "http://dbpedia.org/class/yago/GhostWhispererCharacters"
+                },
+                {
+                    "label": "Fictional shopkeepers",
+                    "uri": "http://dbpedia.org/resource/Fictional_shopkeepers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Melinda_Gordon"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0753",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Melinda Sue Gordon",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Fictional Character",
+                    "uri": "http://dbpedia.org/class/yago/FictionalCharacter109587565"
+                },
+                {
+                    "label": "Fictional Character",
+                    "uri": "http://dbpedia.org/ontology/FictionalCharacter"
+                },
+                {
+                    "label": "Ghost Whisperer characters",
+                    "uri": "http://dbpedia.org/resource/Ghost_Whisperer_characters"
+                },
+                {
+                    "label": "Ghost Whisperer Characters",
+                    "uri": "http://dbpedia.org/class/yago/GhostWhispererCharacters"
+                },
+                {
+                    "label": "Fictional shopkeepers",
+                    "uri": "http://dbpedia.org/resource/Fictional_shopkeepers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Melinda_Gordon"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

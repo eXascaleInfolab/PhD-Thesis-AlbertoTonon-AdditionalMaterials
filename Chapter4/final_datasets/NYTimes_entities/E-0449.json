@@ -1,0 +1,145 @@
+{
+    "allEntities": [
+        {
+            "label": "Harry S. Truman",
+            "types": [
+                {
+                    "label": "Democratic Party (United States) presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Congressional Gold Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+                },
+                {
+                    "label": "World War IIPolitical Leaders",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+                },
+                {
+                    "label": "Democratic Party (United States) vice presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_vice_presidential_nominees"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Missouri Writers",
+                    "uri": "http://dbpedia.org/class/yago/MissouriWriters"
+                },
+                {
+                    "label": "People From Kansas City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKansasCity"
+                },
+                {
+                    "label": "Vice Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/VicePresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "United States Senators From Missouri",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMissouri"
+                },
+                {
+                    "label": "Baptists from the United States",
+                    "uri": "http://dbpedia.org/resource/Baptists_from_the_United_States"
+                },
+                {
+                    "label": "Cold War leaders",
+                    "uri": "http://dbpedia.org/resource/Cold_War_leaders"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harry_S._Truman"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0449",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Harry S. Truman",
+            "types": [
+                {
+                    "label": "Democratic Party (United States) presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Congressional Gold Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+                },
+                {
+                    "label": "World War IIPolitical Leaders",
+                    "uri": "http://dbpedia.org/class/yago/WorldWarIIPoliticalLeaders"
+                },
+                {
+                    "label": "Democratic Party (United States) vice presidential nominees",
+                    "uri": "http://dbpedia.org/resource/Democratic_Party_%28United_States%29_vice_presidential_nominees"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Missouri Writers",
+                    "uri": "http://dbpedia.org/class/yago/MissouriWriters"
+                },
+                {
+                    "label": "People From Kansas City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKansasCity"
+                },
+                {
+                    "label": "Vice Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/VicePresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "United States Senators From Missouri",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMissouri"
+                },
+                {
+                    "label": "Baptists from the United States",
+                    "uri": "http://dbpedia.org/resource/Baptists_from_the_United_States"
+                },
+                {
+                    "label": "Cold War leaders",
+                    "uri": "http://dbpedia.org/resource/Cold_War_leaders"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Harry_S._Truman"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

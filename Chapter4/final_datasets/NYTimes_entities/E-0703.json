@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Rajiv Gupta",
+            "types": [
+                {
+                    "label": "Computer and mathematical occupations",
+                    "uri": "http://dbpedia.org/resource/Computer_and_mathematical_occupations"
+                },
+                {
+                    "label": "People In Information Technology",
+                    "uri": "http://dbpedia.org/class/yago/PeopleInInformationTechnology"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rajiv_Gupta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0703",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rajiv Gupta",
+            "types": [
+                {
+                    "label": "Computer and mathematical occupations",
+                    "uri": "http://dbpedia.org/resource/Computer_and_mathematical_occupations"
+                },
+                {
+                    "label": "People In Information Technology",
+                    "uri": "http://dbpedia.org/class/yago/PeopleInInformationTechnology"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rajiv_Gupta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

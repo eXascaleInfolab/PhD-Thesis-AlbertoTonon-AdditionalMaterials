@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Sabin Willett",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Guantanamo Bay Attorneys",
+                    "uri": "http://dbpedia.org/class/yago/GuantanamoBayAttorneys"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sabin_Willett"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0616",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sabin Willett",
+            "types": [
+                {
+                    "label": "Harvard University alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_University_alumni"
+                },
+                {
+                    "label": "Guantanamo Bay Attorneys",
+                    "uri": "http://dbpedia.org/class/yago/GuantanamoBayAttorneys"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sabin_Willett"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

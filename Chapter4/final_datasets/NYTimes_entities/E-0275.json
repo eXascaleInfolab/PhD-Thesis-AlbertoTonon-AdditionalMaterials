@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Sony",
+            "types": [
+                {
+                    "label": "Japanese company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r_DNawd91EdaeFgACs6MxsQ"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Institution",
+                    "uri": "http://umbel.org/umbel/sc/Institution"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Based In Tokyo",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInTokyo"
+                },
+                {
+                    "label": "Electronics Companies Of Japan",
+                    "uri": "http://dbpedia.org/class/yago/ElectronicsCompaniesOfJapan"
+                },
+                {
+                    "label": "high tech manufacturer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Audio equipment manufacturers",
+                    "uri": "http://dbpedia.org/resource/Audio_equipment_manufacturers"
+                },
+                {
+                    "label": "Audio Equipment Manufacturers",
+                    "uri": "http://dbpedia.org/class/yago/AudioEquipmentManufacturers"
+                },
+                {
+                    "label": "Semiconductor Companies",
+                    "uri": "http://dbpedia.org/class/yago/SemiconductorCompanies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Record Label",
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Business",
+                    "uri": "http://umbel.org/umbel/sc/Business"
+                },
+                {
+                    "label": "Manufacturing Organization",
+                    "uri": "http://umbel.org/umbel/sc/ManufacturingOrganization"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                },
+                {
+                    "label": "Companies Established In1946",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1946"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sony"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0275",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sony",
+            "types": [
+                {
+                    "label": "Japanese company",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r_DNawd91EdaeFgACs6MxsQ"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Institution",
+                    "uri": "http://umbel.org/umbel/sc/Institution"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Based In Tokyo",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInTokyo"
+                },
+                {
+                    "label": "Electronics Companies Of Japan",
+                    "uri": "http://dbpedia.org/class/yago/ElectronicsCompaniesOfJapan"
+                },
+                {
+                    "label": "high tech manufacturer",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjTwJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Audio equipment manufacturers",
+                    "uri": "http://dbpedia.org/resource/Audio_equipment_manufacturers"
+                },
+                {
+                    "label": "Audio Equipment Manufacturers",
+                    "uri": "http://dbpedia.org/class/yago/AudioEquipmentManufacturers"
+                },
+                {
+                    "label": "Semiconductor Companies",
+                    "uri": "http://dbpedia.org/class/yago/SemiconductorCompanies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Record Label",
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Business",
+                    "uri": "http://umbel.org/umbel/sc/Business"
+                },
+                {
+                    "label": "Manufacturing Organization",
+                    "uri": "http://umbel.org/umbel/sc/ManufacturingOrganization"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://umbel.org/umbel/sc/Organization"
+                },
+                {
+                    "label": "Companies Established In1946",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1946"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sony"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

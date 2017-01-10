@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Chicago",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Cities In Illinois",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInIllinois"
+                },
+                {
+                    "label": "United States Places With Orthodox Jewish Communities",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+                },
+                {
+                    "label": "Communities on U.S. Route 66",
+                    "uri": "http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Lakeshore cities",
+                    "uri": "http://dbpedia.org/resource/Lakeshore_cities"
+                },
+                {
+                    "label": "Cities On The Great Lakes",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+                },
+                {
+                    "label": "American city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Economies By City",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByCity"
+                },
+                {
+                    "label": "Lakeshore Cities",
+                    "uri": "http://dbpedia.org/class/yago/LakeshoreCities"
+                },
+                {
+                    "label": "Settlements Established In1833",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+                },
+                {
+                    "label": "Port Cities In The United States",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+                },
+                {
+                    "label": "County Seats In Illinois",
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInIllinois"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chicago"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0251",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Chicago",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Cities In Illinois",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInIllinois"
+                },
+                {
+                    "label": "United States Places With Orthodox Jewish Communities",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+                },
+                {
+                    "label": "Communities on U.S. Route 66",
+                    "uri": "http://dbpedia.org/resource/Communities_on_U.S._Route_66"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Lakeshore cities",
+                    "uri": "http://dbpedia.org/resource/Lakeshore_cities"
+                },
+                {
+                    "label": "Cities On The Great Lakes",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheGreatLakes"
+                },
+                {
+                    "label": "American city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Economies By City",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByCity"
+                },
+                {
+                    "label": "Lakeshore Cities",
+                    "uri": "http://dbpedia.org/class/yago/LakeshoreCities"
+                },
+                {
+                    "label": "Settlements Established In1833",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1833"
+                },
+                {
+                    "label": "Port Cities In The United States",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInTheUnitedStates"
+                },
+                {
+                    "label": "County Seats In Illinois",
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInIllinois"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Chicago"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

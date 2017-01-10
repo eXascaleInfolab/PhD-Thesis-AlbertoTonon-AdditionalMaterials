@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Oscar Mayer",
+            "types": [
+                {
+                    "label": "Companies Based In Chicago",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInChicago"
+                },
+                {
+                    "label": "Brand name hot dogs",
+                    "uri": "http://dbpedia.org/resource/Brand_name_hot_dogs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oscar_Mayer"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0728",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Oscar Mayer",
+            "types": [
+                {
+                    "label": "Companies Based In Chicago",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInChicago"
+                },
+                {
+                    "label": "Brand name hot dogs",
+                    "uri": "http://dbpedia.org/resource/Brand_name_hot_dogs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Oscar_Mayer"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

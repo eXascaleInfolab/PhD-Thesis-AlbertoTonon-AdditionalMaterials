@@ -1,0 +1,257 @@
+{
+    "allEntities": [
+        {
+            "label": "Edmundo Chirinos",
+            "types": [
+                {
+                    "label": "Serie APlayers",
+                    "uri": "http://dbpedia.org/class/yago/SerieAPlayers"
+                },
+                {
+                    "label": "Fiorentina Players",
+                    "uri": "http://dbpedia.org/class/yago/FiorentinaPlayers"
+                },
+                {
+                    "label": "S.S.C.Napoli Players",
+                    "uri": "http://dbpedia.org/class/yago/S.S.C.NapoliPlayers"
+                },
+                {
+                    "label": "Soccer Player",
+                    "uri": "http://dbpedia.org/ontology/SoccerPlayer"
+                },
+                {
+                    "label": "Expatriate Football Players In Italy",
+                    "uri": "http://dbpedia.org/class/yago/ExpatriateFootballPlayersInItaly"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Brazil International Footballers",
+                    "uri": "http://dbpedia.org/class/yago/BrazilInternationalFootballers"
+                },
+                {
+                    "label": "Urawa Red Diamonds Players",
+                    "uri": "http://dbpedia.org/class/yago/UrawaRedDiamondsPlayers"
+                },
+                {
+                    "label": "Figueirense Futebol Clube Players",
+                    "uri": "http://dbpedia.org/class/yago/FigueirenseFutebolClubePlayers"
+                },
+                {
+                    "label": "Figueirense Futebol Clube players",
+                    "uri": "http://dbpedia.org/resource/Figueirense_Futebol_Clube_players"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Santos Futebol Clube Players",
+                    "uri": "http://dbpedia.org/class/yago/SantosFutebolClubePlayers"
+                },
+                {
+                    "label": "Fiorentina players",
+                    "uri": "http://dbpedia.org/resource/Fiorentina_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "FIFA World Cup 1998 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_1998_players"
+                },
+                {
+                    "label": "Expatriate Footballers In Japan",
+                    "uri": "http://dbpedia.org/class/yago/ExpatriateFootballersInJapan"
+                },
+                {
+                    "label": "Clube De Regatas Do Flamengo Players",
+                    "uri": "http://dbpedia.org/class/yago/ClubeDeRegatasDoFlamengoPlayers"
+                },
+                {
+                    "label": "Sport Club Corinthians Paulista Players",
+                    "uri": "http://dbpedia.org/class/yago/SportClubCorinthiansPaulistaPlayers"
+                },
+                {
+                    "label": "Brazil international footballers",
+                    "uri": "http://dbpedia.org/resource/Brazil_international_footballers"
+                },
+                {
+                    "label": "Sociedade Esportiva Palmeiras Players",
+                    "uri": "http://dbpedia.org/class/yago/SociedadeEsportivaPalmeirasPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "FIFAWorld Cup1998Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup1998Players"
+                },
+                {
+                    "label": "Brazilian Footballers",
+                    "uri": "http://dbpedia.org/class/yago/BrazilianFootballers"
+                },
+                {
+                    "label": "Cruzeiro Esporte Clube players",
+                    "uri": "http://dbpedia.org/resource/Cruzeiro_Esporte_Clube_players"
+                },
+                {
+                    "label": "Clube de Regatas do Flamengo players",
+                    "uri": "http://dbpedia.org/resource/Clube_de_Regatas_do_Flamengo_players"
+                },
+                {
+                    "label": "Club de Regatas Vasco da Gama players",
+                    "uri": "http://dbpedia.org/resource/Club_de_Regatas_Vasco_da_Gama_players"
+                },
+                {
+                    "label": "Cruzeiro Esporte Clube Players",
+                    "uri": "http://dbpedia.org/class/yago/CruzeiroEsporteClubePlayers"
+                },
+                {
+                    "label": "Tokyo Verdy1969Players",
+                    "uri": "http://dbpedia.org/class/yago/TokyoVerdy1969Players"
+                },
+                {
+                    "label": "Club De Regatas Vasco Da Gama Players",
+                    "uri": "http://dbpedia.org/class/yago/ClubDeRegatasVascoDaGamaPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Edmundo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0579",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Edmundo Chirinos",
+            "types": [
+                {
+                    "label": "Serie APlayers",
+                    "uri": "http://dbpedia.org/class/yago/SerieAPlayers"
+                },
+                {
+                    "label": "Fiorentina Players",
+                    "uri": "http://dbpedia.org/class/yago/FiorentinaPlayers"
+                },
+                {
+                    "label": "S.S.C.Napoli Players",
+                    "uri": "http://dbpedia.org/class/yago/S.S.C.NapoliPlayers"
+                },
+                {
+                    "label": "Soccer Player",
+                    "uri": "http://dbpedia.org/ontology/SoccerPlayer"
+                },
+                {
+                    "label": "Expatriate Football Players In Italy",
+                    "uri": "http://dbpedia.org/class/yago/ExpatriateFootballPlayersInItaly"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Brazil International Footballers",
+                    "uri": "http://dbpedia.org/class/yago/BrazilInternationalFootballers"
+                },
+                {
+                    "label": "Urawa Red Diamonds Players",
+                    "uri": "http://dbpedia.org/class/yago/UrawaRedDiamondsPlayers"
+                },
+                {
+                    "label": "Figueirense Futebol Clube Players",
+                    "uri": "http://dbpedia.org/class/yago/FigueirenseFutebolClubePlayers"
+                },
+                {
+                    "label": "Figueirense Futebol Clube players",
+                    "uri": "http://dbpedia.org/resource/Figueirense_Futebol_Clube_players"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Santos Futebol Clube Players",
+                    "uri": "http://dbpedia.org/class/yago/SantosFutebolClubePlayers"
+                },
+                {
+                    "label": "Fiorentina players",
+                    "uri": "http://dbpedia.org/resource/Fiorentina_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "FIFA World Cup 1998 players",
+                    "uri": "http://dbpedia.org/resource/FIFA_World_Cup_1998_players"
+                },
+                {
+                    "label": "Expatriate Footballers In Japan",
+                    "uri": "http://dbpedia.org/class/yago/ExpatriateFootballersInJapan"
+                },
+                {
+                    "label": "Clube De Regatas Do Flamengo Players",
+                    "uri": "http://dbpedia.org/class/yago/ClubeDeRegatasDoFlamengoPlayers"
+                },
+                {
+                    "label": "Sport Club Corinthians Paulista Players",
+                    "uri": "http://dbpedia.org/class/yago/SportClubCorinthiansPaulistaPlayers"
+                },
+                {
+                    "label": "Brazil international footballers",
+                    "uri": "http://dbpedia.org/resource/Brazil_international_footballers"
+                },
+                {
+                    "label": "Sociedade Esportiva Palmeiras Players",
+                    "uri": "http://dbpedia.org/class/yago/SociedadeEsportivaPalmeirasPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "FIFAWorld Cup1998Players",
+                    "uri": "http://dbpedia.org/class/yago/FIFAWorldCup1998Players"
+                },
+                {
+                    "label": "Brazilian Footballers",
+                    "uri": "http://dbpedia.org/class/yago/BrazilianFootballers"
+                },
+                {
+                    "label": "Cruzeiro Esporte Clube players",
+                    "uri": "http://dbpedia.org/resource/Cruzeiro_Esporte_Clube_players"
+                },
+                {
+                    "label": "Clube de Regatas do Flamengo players",
+                    "uri": "http://dbpedia.org/resource/Clube_de_Regatas_do_Flamengo_players"
+                },
+                {
+                    "label": "Club de Regatas Vasco da Gama players",
+                    "uri": "http://dbpedia.org/resource/Club_de_Regatas_Vasco_da_Gama_players"
+                },
+                {
+                    "label": "Cruzeiro Esporte Clube Players",
+                    "uri": "http://dbpedia.org/class/yago/CruzeiroEsporteClubePlayers"
+                },
+                {
+                    "label": "Tokyo Verdy1969Players",
+                    "uri": "http://dbpedia.org/class/yago/TokyoVerdy1969Players"
+                },
+                {
+                    "label": "Club De Regatas Vasco Da Gama Players",
+                    "uri": "http://dbpedia.org/class/yago/ClubDeRegatasVascoDaGamaPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Edmundo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

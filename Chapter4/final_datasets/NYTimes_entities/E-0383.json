@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Rick Nash",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "People From Brampton,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrampton,Ontario"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Columbus Blue Jackets players",
+                    "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Columbus Blue Jackets Players",
+                    "uri": "http://dbpedia.org/class/yago/ColumbusBlueJacketsPlayers"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "London Knights Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LondonKnightsAlumni"
+                },
+                {
+                    "label": "Canadian Ice Hockey Left Wingers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rick_Nash"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0383",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rick Nash",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "People From Brampton,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrampton,Ontario"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Columbus Blue Jackets players",
+                    "uri": "http://dbpedia.org/resource/Columbus_Blue_Jackets_players"
+                },
+                {
+                    "label": "Ice Hockey Players At The2006Winter Olympics",
+                    "uri": "http://dbpedia.org/class/yago/IceHockeyPlayersAtThe2006WinterOlympics"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ice Hockey Player",
+                    "uri": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                },
+                {
+                    "label": "Columbus Blue Jackets Players",
+                    "uri": "http://dbpedia.org/class/yago/ColumbusBlueJacketsPlayers"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "London Knights Alumni",
+                    "uri": "http://dbpedia.org/class/yago/LondonKnightsAlumni"
+                },
+                {
+                    "label": "Canadian Ice Hockey Left Wingers",
+                    "uri": "http://dbpedia.org/class/yago/CanadianIceHockeyLeftWingers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rick_Nash"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

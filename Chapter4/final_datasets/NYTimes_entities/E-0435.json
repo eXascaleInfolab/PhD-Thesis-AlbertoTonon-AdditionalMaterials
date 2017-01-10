@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Anderson Cooper",
+            "types": [
+                {
+                    "label": "Broadcast Journalist",
+                    "uri": "http://dbpedia.org/class/yago/BroadcastJournalist109875979"
+                },
+                {
+                    "label": "American television reporters and correspondents",
+                    "uri": "http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+                },
+                {
+                    "label": "Spanish-Dutch People",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-DutchPeople"
+                },
+                {
+                    "label": "American Male Models",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMaleModels"
+                },
+                {
+                    "label": "American broadcast news analysts",
+                    "uri": "http://dbpedia.org/resource/American_broadcast_news_analysts"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Emmy Award winners",
+                    "uri": "http://dbpedia.org/resource/Emmy_Award_winners"
+                },
+                {
+                    "label": "American Broadcast News Analysts",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBroadcastNewsAnalysts"
+                },
+                {
+                    "label": "American Television Journalists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionJournalists"
+                },
+                {
+                    "label": "American bloggers",
+                    "uri": "http://dbpedia.org/resource/American_bloggers"
+                },
+                {
+                    "label": "American game show hosts",
+                    "uri": "http://dbpedia.org/resource/American_game_show_hosts"
+                },
+                {
+                    "label": "Participants In American Reality Television Series",
+                    "uri": "http://dbpedia.org/class/yago/ParticipantsInAmericanRealityTelevisionSeries"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Television Reporters And Correspondents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+                },
+                {
+                    "label": "Yale University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/YaleUniversityAlumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Dalton School alumni",
+                    "uri": "http://dbpedia.org/resource/Dalton_School_alumni"
+                },
+                {
+                    "label": "American Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBloggers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/ontology/Journalist"
+                },
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/class/yago/Journalist110224578"
+                },
+                {
+                    "label": "American Game Show Hosts",
+                    "uri": "http://dbpedia.org/class/yago/AmericanGameShowHosts"
+                },
+                {
+                    "label": "War Correspondents",
+                    "uri": "http://dbpedia.org/class/yago/WarCorrespondents"
+                },
+                {
+                    "label": "Dalton School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DaltonSchoolAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anderson_Cooper"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0435",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Anderson Cooper",
+            "types": [
+                {
+                    "label": "Broadcast Journalist",
+                    "uri": "http://dbpedia.org/class/yago/BroadcastJournalist109875979"
+                },
+                {
+                    "label": "American television reporters and correspondents",
+                    "uri": "http://dbpedia.org/resource/American_television_reporters_and_correspondents"
+                },
+                {
+                    "label": "Spanish-Dutch People",
+                    "uri": "http://dbpedia.org/class/yago/Spanish-DutchPeople"
+                },
+                {
+                    "label": "American Male Models",
+                    "uri": "http://dbpedia.org/class/yago/AmericanMaleModels"
+                },
+                {
+                    "label": "American broadcast news analysts",
+                    "uri": "http://dbpedia.org/resource/American_broadcast_news_analysts"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "Emmy Award winners",
+                    "uri": "http://dbpedia.org/resource/Emmy_Award_winners"
+                },
+                {
+                    "label": "American Broadcast News Analysts",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBroadcastNewsAnalysts"
+                },
+                {
+                    "label": "American Television Journalists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionJournalists"
+                },
+                {
+                    "label": "American bloggers",
+                    "uri": "http://dbpedia.org/resource/American_bloggers"
+                },
+                {
+                    "label": "American game show hosts",
+                    "uri": "http://dbpedia.org/resource/American_game_show_hosts"
+                },
+                {
+                    "label": "Participants In American Reality Television Series",
+                    "uri": "http://dbpedia.org/class/yago/ParticipantsInAmericanRealityTelevisionSeries"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Television Reporters And Correspondents",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTelevisionReportersAndCorrespondents"
+                },
+                {
+                    "label": "Yale University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/YaleUniversityAlumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Dalton School alumni",
+                    "uri": "http://dbpedia.org/resource/Dalton_School_alumni"
+                },
+                {
+                    "label": "American Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBloggers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/ontology/Journalist"
+                },
+                {
+                    "label": "Journalist",
+                    "uri": "http://dbpedia.org/class/yago/Journalist110224578"
+                },
+                {
+                    "label": "American Game Show Hosts",
+                    "uri": "http://dbpedia.org/class/yago/AmericanGameShowHosts"
+                },
+                {
+                    "label": "War Correspondents",
+                    "uri": "http://dbpedia.org/class/yago/WarCorrespondents"
+                },
+                {
+                    "label": "Dalton School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/DaltonSchoolAlumni"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Anderson_Cooper"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,169 @@
+{
+    "allEntities": [
+        {
+            "label": "Philippines",
+            "types": [
+                {
+                    "label": "type of person classified by political affiliation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvqjUrpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Island Countries",
+                    "uri": "http://dbpedia.org/class/yago/IslandCountries"
+                },
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Independent Country",
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://umbel.org/umbel/sc/AdministrativeDistrict"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philippines"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0319",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Philippines",
+            "types": [
+                {
+                    "label": "type of person classified by political affiliation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvqjUrpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Island Countries",
+                    "uri": "http://dbpedia.org/class/yago/IslandCountries"
+                },
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Independent Country",
+                    "uri": "http://umbel.org/umbel/sc/IndependentCountry"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Controlled Land",
+                    "uri": "http://umbel.org/umbel/sc/ControlledLand"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Geographical Region",
+                    "uri": "http://umbel.org/umbel/sc/GeographicalRegion"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://umbel.org/umbel/sc/Place"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://umbel.org/umbel/sc/AdministrativeDistrict"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philippines"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

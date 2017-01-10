@@ -1,0 +1,173 @@
+{
+  "mainText":"\u201cIf Uhuru\u2019s president, it will be harder to send him to The Hague,\u201d said Terry Wamitha, a vegetable seller in Limuru, a Kikuyu-dominated area outside of Nairobi.",
+  "shownText":"\u201cIf Uhuru\u2019s president, it will be harder to send him to The Hague,\u201d said Terry Wamitha, a vegetable seller in Limuru, a Kikuyu-dominated area outside of Nairobi.",
+  "title":"Kenyatta Is Ahead in Kenya Vote - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/africa/kenya-presidential-election.html?ref=world",
+  "category":"world",
+  "docID":"S-0408",
+  "elementNumber":38,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nairobi",
+      "label":"Nairobi",
+      "offsets":[
+        {
+          "offset":153,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/The_Hague",
+      "label":"The Hague",
+      "offsets":[
+        {
+          "offset":56,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Municipalities Of South Holland",
+          "uri":"http://dbpedia.org/class/yago/MunicipalitiesOfSouthHolland"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Nairobi",
+      "label":"Nairobi",
+      "offsets":[
+        {
+          "offset":153,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"country subsidiary",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMAYTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.cyc.com/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/The_Hague",
+      "label":"The Hague",
+      "offsets":[
+        {
+          "offset":56,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Municipalities Of South Holland",
+          "uri":"http://dbpedia.org/class/yago/MunicipalitiesOfSouthHolland"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Building",
+          "uri":"http://dbpedia.org/ontology/Building"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Coastal Cities",
+          "uri":"http://dbpedia.org/class/yago/CoastalCities"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "mainText":"With the chiefs of Barneys New York and Neiman Marcus in the front row, stores are certainly looking for something \u201chands-on.\u201d\nEmilia Wickstead\u2019s charming collection had the kind of soft, quirky femininity that London is known for.\nThe newcomer Huishan Zhang did a delicate blend of Mao-meets-Mondrian.",
+  "shownText":"Asked what separates his fashion, and maybe that of other young designers from the London pack, Mr. Kane said, \u201cThere\u2019s ideas, and it\u2019s very polished.\u201d\nAnd compared with the style of big brands, he added: \u201cThere\u2019s something more hands-on about it.\nA big brand is just a formula.\u201d\n\nWith the chiefs of Barneys New York and Neiman Marcus in the front row, stores are certainly looking for something \u201chands-on.\u201d\nEmilia Wickstead\u2019s charming collection had the kind of soft, quirky femininity that London is known for.\nThe newcomer Huishan Zhang did a delicate blend of Mao-meets-Mondrian.\n\nAnd there\u2019s still that great punk spirit, now with a glamorous swat of pink chiffon by Ryan Lo at the Fashion East show.\nClaire Barrow, a fine-boned woman with bleached hair, showed cut velvet pieces and a long, full-skirted black leather dress that looked chalk-scrawled.\nAsked if she could do the same work somewhere else, she shook her head.\n",
+  "title":"Londonâs New Designers Unleash Their Creative Force - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/21/fashion/londons-new-designers-unleash-their-creative-force.html?ref=style",
+  "category":"style",
+  "docID":"P3-0243",
+  "elementNumber":23,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Neiman_Marcus",
+      "label":"Neiman Marcus",
+      "offsets":[
+        {
+          "offset":321,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Established In1907",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1907"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Based In Dallas,Texas",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInDallas,Texas"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":83,
+          "length":6
+        },
+        {
+          "offset":492,
+          "length":6
+        },
+        {
+          "offset":83,
+          "length":6
+        },
+        {
+          "offset":492,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Neiman_Marcus",
+      "label":"Neiman Marcus",
+      "offsets":[
+        {
+          "offset":321,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies Established In1907",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1907"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Based In Dallas,Texas",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInDallas,Texas"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/London",
+      "label":"London",
+      "offsets":[
+        {
+          "offset":83,
+          "length":6
+        },
+        {
+          "offset":492,
+          "length":6
+        },
+        {
+          "offset":83,
+          "length":6
+        },
+        {
+          "offset":492,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Port Cities And Towns In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"British Capitals",
+          "uri":"http://dbpedia.org/class/yago/BritishCapitals"
+        },
+        {
+          "label":"Staple Ports",
+          "uri":"http://dbpedia.org/class/yago/StaplePorts"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"British capitals",
+          "uri":"http://dbpedia.org/resource/British_capitals"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Geoclass Capital Of APolitical Entity",
+          "uri":"http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Populated Places Established In The1st Century",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Fashion",
+      "label":"Fashion East",
+      "offsets":[
+        {
+          "offset":687,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"faceting collection type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvprlOZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"type of atemporal collection in which membership is necessarily essential",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rqEYnNVMqEdaSKAACs0x8nw"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"second-order Cyc collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rHQdVmB_TEdaAAABQ2rksLw"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        }
+      ]
+    }
+  ]
+}

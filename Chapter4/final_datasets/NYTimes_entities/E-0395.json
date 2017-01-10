@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Hezbollah",
+            "types": [
+                {
+                    "label": "Islamist groups",
+                    "uri": "http://dbpedia.org/resource/Islamist_groups"
+                },
+                {
+                    "label": "U.S.State Department Designated Terrorist Organizations",
+                    "uri": "http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hezbollah"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0395",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Hezbollah",
+            "types": [
+                {
+                    "label": "Islamist groups",
+                    "uri": "http://dbpedia.org/resource/Islamist_groups"
+                },
+                {
+                    "label": "U.S.State Department Designated Terrorist Organizations",
+                    "uri": "http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Hezbollah"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

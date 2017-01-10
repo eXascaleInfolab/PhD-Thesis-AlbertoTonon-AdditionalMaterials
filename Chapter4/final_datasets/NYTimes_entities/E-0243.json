@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "International Herald Tribune",
+            "types": [
+                {
+                    "label": "International newspapers",
+                    "uri": "http://dbpedia.org/resource/International_newspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "English-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/English-languageNewspapers"
+                },
+                {
+                    "label": "English-language newspapers",
+                    "uri": "http://dbpedia.org/resource/English-language_newspapers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Herald_Tribune"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0243",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "International Herald Tribune",
+            "types": [
+                {
+                    "label": "International newspapers",
+                    "uri": "http://dbpedia.org/resource/International_newspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/class/yago/Newspaper106267145"
+                },
+                {
+                    "label": "English-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/English-languageNewspapers"
+                },
+                {
+                    "label": "English-language newspapers",
+                    "uri": "http://dbpedia.org/resource/English-language_newspapers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/International_Herald_Tribune"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

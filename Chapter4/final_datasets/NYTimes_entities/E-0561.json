@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Vancouver",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Canadian city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlements Established In1862",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+                },
+                {
+                    "label": "Coastal Cities In Canada",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Host Cities Of The Winter Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+                },
+                {
+                    "label": "Cities on the Fraser River",
+                    "uri": "http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Area",
+                    "uri": "http://dbpedia.org/ontology/Area"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Port Cities In Canada",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInCanada"
+                },
+                {
+                    "label": "Host Cities Of The Commonwealth Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                },
+                {
+                    "label": "Cities On The Fraser River",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+                },
+                {
+                    "label": "Cities In British Columbia",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Vancouver"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0561",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Vancouver",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Village",
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Canadian city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlements Established In1862",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+                },
+                {
+                    "label": "Coastal Cities In Canada",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                },
+                {
+                    "label": "Host Cities Of The Winter Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+                },
+                {
+                    "label": "Cities on the Fraser River",
+                    "uri": "http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Area",
+                    "uri": "http://dbpedia.org/ontology/Area"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Port Cities In Canada",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInCanada"
+                },
+                {
+                    "label": "Host Cities Of The Commonwealth Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                },
+                {
+                    "label": "Cities On The Fraser River",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+                },
+                {
+                    "label": "Cities In British Columbia",
+                    "uri": "http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Vancouver"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

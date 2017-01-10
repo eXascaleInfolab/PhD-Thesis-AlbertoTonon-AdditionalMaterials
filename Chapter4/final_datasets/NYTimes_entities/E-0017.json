@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "YouTube",
+            "types": [
+                {
+                    "label": "Internet advertising and promotion",
+                    "uri": "http://dbpedia.org/resource/Internet_advertising_and_promotion"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Internet Properties Established In2005",
+                    "uri": "http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2005"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Entertainment websites",
+                    "uri": "http://dbpedia.org/resource/Entertainment_websites"
+                },
+                {
+                    "label": "Google Services",
+                    "uri": "http://dbpedia.org/class/yago/GoogleServices"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Based In San Mateo County",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSanMateoCounty"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/YouTube"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0017",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "YouTube",
+            "types": [
+                {
+                    "label": "Internet advertising and promotion",
+                    "uri": "http://dbpedia.org/resource/Internet_advertising_and_promotion"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Internet Properties Established In2005",
+                    "uri": "http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2005"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Entertainment websites",
+                    "uri": "http://dbpedia.org/resource/Entertainment_websites"
+                },
+                {
+                    "label": "Google Services",
+                    "uri": "http://dbpedia.org/class/yago/GoogleServices"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Based In San Mateo County",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSanMateoCounty"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/YouTube"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

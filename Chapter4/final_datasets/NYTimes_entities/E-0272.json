@@ -1,0 +1,185 @@
+{
+    "allEntities": [
+        {
+            "label": "Mike Woodson",
+            "types": [
+                {
+                    "label": "People From Indianapolis,Indiana",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromIndianapolis,Indiana"
+                },
+                {
+                    "label": "Atlanta Hawks coaches",
+                    "uri": "http://dbpedia.org/resource/Atlanta_Hawks_coaches"
+                },
+                {
+                    "label": "Indiana Hoosiers men%27s basketball players",
+                    "uri": "http://dbpedia.org/resource/Indiana_Hoosiers_men%27s_basketball_players"
+                },
+                {
+                    "label": "Indiana Hoosiers Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/IndianaHoosiersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "New York Knicks Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkKnicksPlayers"
+                },
+                {
+                    "label": "American Basketball Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballCoaches"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Kansas City Kings Players",
+                    "uri": "http://dbpedia.org/class/yago/KansasCityKingsPlayers"
+                },
+                {
+                    "label": "Atlanta Hawks Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AtlantaHawksCoaches"
+                },
+                {
+                    "label": "Cleveland Cavaliers Players",
+                    "uri": "http://dbpedia.org/class/yago/ClevelandCavaliersPlayers"
+                },
+                {
+                    "label": "Houston Rockets players",
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                },
+                {
+                    "label": "Kansas City Kings players",
+                    "uri": "http://dbpedia.org/resource/Kansas_City_Kings_players"
+                },
+                {
+                    "label": "Sacramento Kings Players",
+                    "uri": "http://dbpedia.org/class/yago/SacramentoKingsPlayers"
+                },
+                {
+                    "label": "New Jersey Nets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewJerseyNetsPlayers"
+                },
+                {
+                    "label": "Cleveland Cavaliers players",
+                    "uri": "http://dbpedia.org/resource/Cleveland_Cavaliers_players"
+                },
+                {
+                    "label": "American basketball coaches",
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Los Angeles Clippers Players",
+                    "uri": "http://dbpedia.org/class/yago/LosAngelesClippersPlayers"
+                },
+                {
+                    "label": "Houston Rockets Players",
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mike_Woodson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0272",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mike Woodson",
+            "types": [
+                {
+                    "label": "People From Indianapolis,Indiana",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromIndianapolis,Indiana"
+                },
+                {
+                    "label": "Atlanta Hawks coaches",
+                    "uri": "http://dbpedia.org/resource/Atlanta_Hawks_coaches"
+                },
+                {
+                    "label": "Indiana Hoosiers men%27s basketball players",
+                    "uri": "http://dbpedia.org/resource/Indiana_Hoosiers_men%27s_basketball_players"
+                },
+                {
+                    "label": "Indiana Hoosiers Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/IndianaHoosiersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "African American sportspeople",
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                },
+                {
+                    "label": "New York Knicks Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkKnicksPlayers"
+                },
+                {
+                    "label": "American Basketball Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballCoaches"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Kansas City Kings Players",
+                    "uri": "http://dbpedia.org/class/yago/KansasCityKingsPlayers"
+                },
+                {
+                    "label": "Atlanta Hawks Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AtlantaHawksCoaches"
+                },
+                {
+                    "label": "Cleveland Cavaliers Players",
+                    "uri": "http://dbpedia.org/class/yago/ClevelandCavaliersPlayers"
+                },
+                {
+                    "label": "Houston Rockets players",
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                },
+                {
+                    "label": "Kansas City Kings players",
+                    "uri": "http://dbpedia.org/resource/Kansas_City_Kings_players"
+                },
+                {
+                    "label": "Sacramento Kings Players",
+                    "uri": "http://dbpedia.org/class/yago/SacramentoKingsPlayers"
+                },
+                {
+                    "label": "New Jersey Nets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewJerseyNetsPlayers"
+                },
+                {
+                    "label": "Cleveland Cavaliers players",
+                    "uri": "http://dbpedia.org/resource/Cleveland_Cavaliers_players"
+                },
+                {
+                    "label": "American basketball coaches",
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Los Angeles Clippers Players",
+                    "uri": "http://dbpedia.org/class/yago/LosAngelesClippersPlayers"
+                },
+                {
+                    "label": "Houston Rockets Players",
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mike_Woodson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

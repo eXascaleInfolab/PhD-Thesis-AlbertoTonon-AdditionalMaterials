@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Craig Zadan",
+            "types": [
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "LGBT directors",
+                    "uri": "http://dbpedia.org/resource/LGBT_directors"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Craig_Zadan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0676",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Craig Zadan",
+            "types": [
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/class/yago/Writer110794014"
+                },
+                {
+                    "label": "LGBT directors",
+                    "uri": "http://dbpedia.org/resource/LGBT_directors"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Craig_Zadan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

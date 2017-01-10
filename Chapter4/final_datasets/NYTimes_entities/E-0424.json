@@ -1,0 +1,185 @@
+{
+    "allEntities": [
+        {
+            "label": "Montreal",
+            "types": [
+                {
+                    "label": "Cities On The Saint Lawrence River",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheSaintLawrenceRiver"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Places On The Saint Lawrence River",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesOnTheSaintLawrenceRiver"
+                },
+                {
+                    "label": "Former Capitals Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/FormerCapitalsOfCanada"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Canadian city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Point",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#Point"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Port Cities In Canada",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInCanada"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Settlements Established In1642",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1642"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Populated Places Established In1642",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1642"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Montreal"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0424",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Montreal",
+            "types": [
+                {
+                    "label": "Cities On The Saint Lawrence River",
+                    "uri": "http://dbpedia.org/class/yago/CitiesOnTheSaintLawrenceRiver"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Populated Places On The Saint Lawrence River",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesOnTheSaintLawrenceRiver"
+                },
+                {
+                    "label": "Former Capitals Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/FormerCapitalsOfCanada"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "Canadian city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Point",
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#Point"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "port city",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Port Cities In Canada",
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesInCanada"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Settlements Established In1642",
+                    "uri": "http://dbpedia.org/class/yago/SettlementsEstablishedIn1642"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Populated Places Established In1642",
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1642"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Montreal"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

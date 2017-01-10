@@ -1,0 +1,205 @@
+{
+  "mainText":"An earlier version of this article referred imprecisely to the role of its largest shareholder, Leonard Riggio, in the company\u2019s history.\nWhile Mr. Riggio founded the modern company that acquired the name in the 1970s, William Barnes and G. Clifford Noble opened the original Barnes & Noble bookstore, in 1917.",
+  "shownText":"An earlier version of this article referred imprecisely to the role of its largest shareholder, Leonard Riggio, in the company\u2019s history.\nWhile Mr. Riggio founded the modern company that acquired the name in the 1970s, William Barnes and G. Clifford Noble opened the original Barnes & Noble bookstore, in 1917.",
+  "title":"Barnes &amp; Noble Chairman Leonard Riggio to Bid for Bookstore&#039;s Retail Business - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/barnes-noble-chairma-to-bid-for-bookstores-retail-business/",
+  "category":"dealbook",
+  "docID":"P-0082",
+  "elementNumber":15,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":104,
+          "length":6
+        },
+        {
+          "offset":148,
+          "length":6
+        },
+        {
+          "offset":104,
+          "length":6
+        },
+        {
+          "offset":148,
+          "length":6
+        },
+        {
+          "offset":96,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":276,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/William_Barnes",
+      "label":"William Barnes",
+      "offsets":[
+        {
+          "offset":219,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"English Poets",
+          "uri":"http://dbpedia.org/class/yago/EnglishPoets"
+        },
+        {
+          "label":"English philologists",
+          "uri":"http://dbpedia.org/resource/English_philologists"
+        },
+        {
+          "label":"English Philologists",
+          "uri":"http://dbpedia.org/class/yago/EnglishPhilologists"
+        },
+        {
+          "label":"English Anglican priests",
+          "uri":"http://dbpedia.org/resource/English_Anglican_priests"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":104,
+          "length":6
+        },
+        {
+          "offset":148,
+          "length":6
+        },
+        {
+          "offset":104,
+          "length":6
+        },
+        {
+          "offset":148,
+          "length":6
+        },
+        {
+          "offset":96,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":276,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/William_Barnes",
+      "label":"William Barnes",
+      "offsets":[
+        {
+          "offset":219,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"English Poets",
+          "uri":"http://dbpedia.org/class/yago/EnglishPoets"
+        },
+        {
+          "label":"English philologists",
+          "uri":"http://dbpedia.org/resource/English_philologists"
+        },
+        {
+          "label":"English Philologists",
+          "uri":"http://dbpedia.org/class/yago/EnglishPhilologists"
+        },
+        {
+          "label":"English Anglican priests",
+          "uri":"http://dbpedia.org/resource/English_Anglican_priests"
+        }
+      ]
+    }
+  ]
+}

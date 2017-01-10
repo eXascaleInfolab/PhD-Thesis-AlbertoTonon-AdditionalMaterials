@@ -1,0 +1,341 @@
+{
+  "mainText":"Archbishop Gomez sent a letter to his priests last week urging them to \u201cextend your prayers and warm wishes for Cardinal Roger Mahony as he prepares to travel to Rome to exercise his sacred duty as Cardinal Elector of our next Pope.\u201d",
+  "shownText":"Archbishop Gomez sent a letter to his priests last week urging them to \u201cextend your prayers and warm wishes for Cardinal Roger Mahony as he prepares to travel to Rome to exercise his sacred duty as Cardinal Elector of our next Pope.\u201d",
+  "title":"Catholics Gather in California, Haunted by Cardinalâs Scandal - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/23/us/catholics-gather-in-california-haunted-by-cardinals-scandal.html?ref=us",
+  "category":"us",
+  "docID":"S-0362",
+  "elementNumber":64,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Roger_Mahony",
+      "label":"Roger Mahony",
+      "offsets":[
+        {
+          "offset":121,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Roman Catholic Archbishops",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicArchbishops"
+        },
+        {
+          "label":"American Cardinals",
+          "uri":"http://dbpedia.org/class/yago/AmericanCardinals"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"American Roman Catholic Bishops",
+          "uri":"http://dbpedia.org/class/yago/AmericanRomanCatholicBishops"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American cardinals",
+          "uri":"http://dbpedia.org/resource/American_cardinals"
+        },
+        {
+          "label":"Cardinal",
+          "uri":"http://dbpedia.org/ontology/Cardinal"
+        },
+        {
+          "label":"People From Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+        },
+        {
+          "label":"Irish-American religious figures",
+          "uri":"http://dbpedia.org/resource/Irish-American_religious_figures"
+        },
+        {
+          "label":"American Roman Catholic bishops",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholic_bishops"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pope",
+      "label":"Pope",
+      "offsets":[
+        {
+          "offset":227,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ecclesiastical titles",
+          "uri":"http://dbpedia.org/resource/Ecclesiastical_titles"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":162,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Roger_Mahony",
+      "label":"Roger Mahony",
+      "offsets":[
+        {
+          "offset":121,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Roman Catholic Archbishops",
+          "uri":"http://dbpedia.org/class/yago/RomanCatholicArchbishops"
+        },
+        {
+          "label":"American Cardinals",
+          "uri":"http://dbpedia.org/class/yago/AmericanCardinals"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Cleric",
+          "uri":"http://dbpedia.org/ontology/Cleric"
+        },
+        {
+          "label":"American Roman Catholic Bishops",
+          "uri":"http://dbpedia.org/class/yago/AmericanRomanCatholicBishops"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American cardinals",
+          "uri":"http://dbpedia.org/resource/American_cardinals"
+        },
+        {
+          "label":"Cardinal",
+          "uri":"http://dbpedia.org/ontology/Cardinal"
+        },
+        {
+          "label":"People From Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+        },
+        {
+          "label":"Irish-American religious figures",
+          "uri":"http://dbpedia.org/resource/Irish-American_religious_figures"
+        },
+        {
+          "label":"American Roman Catholic bishops",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholic_bishops"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Pope",
+      "label":"Pope",
+      "offsets":[
+        {
+          "offset":227,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Ecclesiastical titles",
+          "uri":"http://dbpedia.org/resource/Ecclesiastical_titles"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rome",
+      "label":"Rome",
+      "offsets":[
+        {
+          "offset":162,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Populated Places Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Weather",
+          "uri":"http://dbpedia.org/class/yago/Weather111524662"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In The8th Century BC",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedInThe8thCenturyBC"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"Holy Cities",
+          "uri":"http://dbpedia.org/class/yago/HolyCities"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Ancient Cities",
+          "uri":"http://dbpedia.org/class/yago/AncientCities"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

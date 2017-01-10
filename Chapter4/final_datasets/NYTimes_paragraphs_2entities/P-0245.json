@@ -1,0 +1,445 @@
+{
+  "mainText":"For those not ready to explore kink in public, dating sites like Alt.com and social networks like FetLife let them do so from their own homes or mobile devices.\nFounded in 2008 and based in Vancouver, British Columbia, FetLife added 700,000 members last year, bringing its total membership to over 1.7 million, according to Susan Wright, a community manager for the site as well as a spokeswoman for the National Coalition for Sexual Freedom, a nonprofit group based in Baltimore that is working to raise awareness of kinky people and defend their rights.",
+  "shownText":"For those not ready to explore kink in public, dating sites like Alt.com and social networks like FetLife let them do so from their own homes or mobile devices.\nFounded in 2008 and based in Vancouver, British Columbia, FetLife added 700,000 members last year, bringing its total membership to over 1.7 million, according to Susan Wright, a community manager for the site as well as a spokeswoman for the National Coalition for Sexual Freedom, a nonprofit group based in Baltimore that is working to raise awareness of kinky people and defend their rights.",
+  "title":"Bondage, Domination and Kink Sex Communities Step Into View - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/fashion/bondage-domination-and-kink-sex-communities-step-into-view.html?ref=style",
+  "category":"style",
+  "docID":"P-0245",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Susan_Wright",
+      "label":"Susan Wright",
+      "offsets":[
+        {
+          "offset":324,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American Science Fiction Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanScienceFictionWriters"
+        },
+        {
+          "label":"BDSMWriters",
+          "uri":"http://dbpedia.org/class/yago/BDSMWriters"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Wright",
+      "label":"Wright",
+      "offsets":[
+        {
+          "offset":330,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Surname",
+          "uri":"http://dbpedia.org/class/yago/Surname106336904"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Baltimore",
+      "label":"Baltimore",
+      "offsets":[
+        {
+          "offset":470,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/British_Columbia",
+      "label":"British Columbia",
+      "offsets":[
+        {
+          "offset":201,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Canadian province",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj3zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"District",
+          "uri":"http://dbpedia.org/class/yago/District108552138"
+        },
+        {
+          "label":"Provinces And Territories Of Canada",
+          "uri":"http://dbpedia.org/class/yago/ProvincesAndTerritoriesOfCanada"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vancouver",
+      "label":"Vancouver",
+      "offsets":[
+        {
+          "offset":190,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1862",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+        },
+        {
+          "label":"Coastal Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Cities on the Fraser River",
+          "uri":"http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Cities On The Fraser River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+        },
+        {
+          "label":"Cities In British Columbia",
+          "uri":"http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Susan_Wright",
+      "label":"Susan Wright",
+      "offsets":[
+        {
+          "offset":324,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"American Science Fiction Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanScienceFictionWriters"
+        },
+        {
+          "label":"BDSMWriters",
+          "uri":"http://dbpedia.org/class/yago/BDSMWriters"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Wright",
+      "label":"Wright",
+      "offsets":[
+        {
+          "offset":330,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Surname",
+          "uri":"http://dbpedia.org/class/yago/Surname106336904"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Baltimore",
+      "label":"Baltimore",
+      "offsets":[
+        {
+          "offset":470,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/British_Columbia",
+      "label":"British Columbia",
+      "offsets":[
+        {
+          "offset":201,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Canadian province",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj3zpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"District",
+          "uri":"http://dbpedia.org/class/yago/District108552138"
+        },
+        {
+          "label":"Provinces And Territories Of Canada",
+          "uri":"http://dbpedia.org/class/yago/ProvincesAndTerritoriesOfCanada"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vancouver",
+      "label":"Vancouver",
+      "offsets":[
+        {
+          "offset":190,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1862",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+        },
+        {
+          "label":"Coastal Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Cities on the Fraser River",
+          "uri":"http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Cities On The Fraser River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+        },
+        {
+          "label":"Cities In British Columbia",
+          "uri":"http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

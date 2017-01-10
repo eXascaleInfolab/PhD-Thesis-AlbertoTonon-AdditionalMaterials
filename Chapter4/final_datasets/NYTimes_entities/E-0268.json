@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Haley Barbour",
+            "types": [
+                {
+                    "label": "People From Yazoo City,Mississippi",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromYazooCity,Mississippi"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American lobbyists",
+                    "uri": "http://dbpedia.org/resource/American_lobbyists"
+                },
+                {
+                    "label": "American Lobbyists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLobbyists"
+                },
+                {
+                    "label": "Governors Of Mississippi",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfMississippi"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Delegates To The Republican National Convention",
+                    "uri": "http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/resource/American_Presbyterians"
+                },
+                {
+                    "label": "Delegates to the Republican National Convention",
+                    "uri": "http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+                },
+                {
+                    "label": "American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Bush Pioneers",
+                    "uri": "http://dbpedia.org/class/yago/BushPioneers"
+                },
+                {
+                    "label": "Mississippi Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/MississippiLawyers"
+                },
+                {
+                    "label": "Mississippi Politicians",
+                    "uri": "http://dbpedia.org/class/yago/MississippiPoliticians"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Mississippi Republicans",
+                    "uri": "http://dbpedia.org/class/yago/MississippiRepublicans"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Haley_Barbour"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0268",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Haley Barbour",
+            "types": [
+                {
+                    "label": "People From Yazoo City,Mississippi",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromYazooCity,Mississippi"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/ontology/Governor"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American lobbyists",
+                    "uri": "http://dbpedia.org/resource/American_lobbyists"
+                },
+                {
+                    "label": "American Lobbyists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLobbyists"
+                },
+                {
+                    "label": "Governors Of Mississippi",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfMississippi"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Delegates To The Republican National Convention",
+                    "uri": "http://dbpedia.org/class/yago/DelegatesToTheRepublicanNationalConvention"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Presbyterians",
+                    "uri": "http://dbpedia.org/resource/American_Presbyterians"
+                },
+                {
+                    "label": "Delegates to the Republican National Convention",
+                    "uri": "http://dbpedia.org/resource/Delegates_to_the_Republican_National_Convention"
+                },
+                {
+                    "label": "American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLawyers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Bush Pioneers",
+                    "uri": "http://dbpedia.org/class/yago/BushPioneers"
+                },
+                {
+                    "label": "Mississippi Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/MississippiLawyers"
+                },
+                {
+                    "label": "Mississippi Politicians",
+                    "uri": "http://dbpedia.org/class/yago/MississippiPoliticians"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Mississippi Republicans",
+                    "uri": "http://dbpedia.org/class/yago/MississippiRepublicans"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Haley_Barbour"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

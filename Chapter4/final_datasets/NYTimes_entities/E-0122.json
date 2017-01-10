@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Bowie",
+            "types": [
+                {
+                    "label": "minor league team",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "minor league sports team",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0122",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bowie",
+            "types": [
+                {
+                    "label": "minor league team",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "minor league sports team",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

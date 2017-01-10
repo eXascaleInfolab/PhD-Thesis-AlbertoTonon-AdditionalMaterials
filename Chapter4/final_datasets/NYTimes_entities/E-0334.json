@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Milan Kundera",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Charles University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CharlesUniversityAlumni"
+                },
+                {
+                    "label": "People From Brno",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrno"
+                },
+                {
+                    "label": "Czech expatriates",
+                    "uri": "http://dbpedia.org/resource/Czech_expatriates"
+                },
+                {
+                    "label": "Czech Writers",
+                    "uri": "http://dbpedia.org/class/yago/CzechWriters"
+                },
+                {
+                    "label": "Czech Atheists",
+                    "uri": "http://dbpedia.org/class/yago/CzechAtheists"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "individual",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "French Novelists",
+                    "uri": "http://dbpedia.org/class/yago/FrenchNovelists"
+                },
+                {
+                    "label": "Charles University alumni",
+                    "uri": "http://dbpedia.org/resource/Charles_University_alumni"
+                },
+                {
+                    "label": "Czech Expatriates",
+                    "uri": "http://dbpedia.org/class/yago/CzechExpatriates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Czech atheists",
+                    "uri": "http://dbpedia.org/resource/Czech_atheists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Milan_Kundera"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0334",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Milan Kundera",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Charles University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/CharlesUniversityAlumni"
+                },
+                {
+                    "label": "People From Brno",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrno"
+                },
+                {
+                    "label": "Czech expatriates",
+                    "uri": "http://dbpedia.org/resource/Czech_expatriates"
+                },
+                {
+                    "label": "Czech Writers",
+                    "uri": "http://dbpedia.org/class/yago/CzechWriters"
+                },
+                {
+                    "label": "Czech Atheists",
+                    "uri": "http://dbpedia.org/class/yago/CzechAtheists"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "individual",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "French Novelists",
+                    "uri": "http://dbpedia.org/class/yago/FrenchNovelists"
+                },
+                {
+                    "label": "Charles University alumni",
+                    "uri": "http://dbpedia.org/resource/Charles_University_alumni"
+                },
+                {
+                    "label": "Czech Expatriates",
+                    "uri": "http://dbpedia.org/class/yago/CzechExpatriates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Czech atheists",
+                    "uri": "http://dbpedia.org/resource/Czech_atheists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Milan_Kundera"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

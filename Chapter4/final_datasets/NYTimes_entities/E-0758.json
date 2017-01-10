@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "New Jersey Thoroughbred Horsemen&rsquo;s Association",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_Jersey_Library_Association"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0758",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "New Jersey Thoroughbred Horsemen&rsquo;s Association",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_Jersey_Library_Association"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

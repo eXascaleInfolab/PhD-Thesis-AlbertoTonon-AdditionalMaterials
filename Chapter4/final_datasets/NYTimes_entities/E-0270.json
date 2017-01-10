@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Paramount Pictures",
+            "types": [
+                {
+                    "label": "Companies Based In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies Established In1914",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1914"
+                },
+                {
+                    "label": "Viacom Subsidiaries",
+                    "uri": "http://dbpedia.org/class/yago/ViacomSubsidiaries"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Film Production Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FilmProductionCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Paramount_Pictures"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0270",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Paramount Pictures",
+            "types": [
+                {
+                    "label": "Companies Based In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Companies Established In1914",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1914"
+                },
+                {
+                    "label": "Viacom Subsidiaries",
+                    "uri": "http://dbpedia.org/class/yago/ViacomSubsidiaries"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Film Production Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/FilmProductionCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Paramount_Pictures"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

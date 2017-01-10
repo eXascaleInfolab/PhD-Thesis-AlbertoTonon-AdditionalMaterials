@@ -1,0 +1,189 @@
+{
+  "mainText":"In 2011, Juniper Networks found more than 28,000 samples of mobile malware, mostly for capturing and transferring information like passwords.\nIn January this year, Florida\u2019s Juvenile Justice Department reported that 114,538 youth and employee records had disappeared when a mobile storage device with no password was stolen.\nThe state will pay for a year of credit monitoring for everyone whose data was lost.",
+  "shownText":"In 2011, Juniper Networks found more than 28,000 samples of mobile malware, mostly for capturing and transferring information like passwords.\nIn January this year, Florida\u2019s Juvenile Justice Department reported that 114,538 youth and employee records had disappeared when a mobile storage device with no password was stolen.\nThe state will pay for a year of credit monitoring for everyone whose data was lost.",
+  "title":"I.T. Managers Struggle to Contain Corporate Data in the Mobile Age - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/technology/it-managers-struggle-to-contain-corporate-data-in-the-mobile-age.html?ref=technology",
+  "category":"technology",
+  "docID":"P-0276",
+  "elementNumber":10,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Juniper_Networks",
+      "label":"Juniper Networks",
+      "offsets":[
+        {
+          "offset":9,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Companies Established In1996",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Listed On NASDAQ",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnNASDAQ"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Florida",
+      "label":"Florida",
+      "offsets":[
+        {
+          "offset":164,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Juniper_Networks",
+      "label":"Juniper Networks",
+      "offsets":[
+        {
+          "offset":9,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies listed on NASDAQ",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+        },
+        {
+          "label":"Companies Established In1996",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1996"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Listed On NASDAQ",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnNASDAQ"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Florida",
+      "label":"Florida",
+      "offsets":[
+        {
+          "offset":164,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "South America",
+            "types": [
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Regions Of The Americas",
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+                },
+                {
+                    "label": "Continent",
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                },
+                {
+                    "label": "Economies By Region",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                },
+                {
+                    "label": "type of person classified by continent",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+                },
+                {
+                    "label": "Continents",
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                },
+                {
+                    "label": "type of person classified by geographical residence",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/South_America"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0389",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "South America",
+            "types": [
+                {
+                    "label": "Region",
+                    "uri": "http://umbel.org/umbel/sc/Region"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Economic System",
+                    "uri": "http://umbel.org/umbel/sc/EconomicSystem"
+                },
+                {
+                    "label": "Regions Of The Americas",
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfTheAmericas"
+                },
+                {
+                    "label": "Continent",
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                },
+                {
+                    "label": "Economies By Region",
+                    "uri": "http://dbpedia.org/class/yago/EconomiesByRegion"
+                },
+                {
+                    "label": "type of person classified by continent",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r-dH_4JB7QdeAruTeHP-Itg"
+                },
+                {
+                    "label": "Continents",
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                },
+                {
+                    "label": "type of person classified by geographical residence",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv_ZQbZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/South_America"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

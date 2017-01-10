@@ -1,0 +1,245 @@
+{
+    "allEntities": [
+        {
+            "label": "Texas", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 172
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "States Of The Confederate States Of America", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+                }, 
+                {
+                    "label": "Yago Geo Entity", 
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                }, 
+                {
+                    "label": "States And Territories Established In1845", 
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+                }, 
+                {
+                    "label": "Class", 
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "nationality", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+                }, 
+                {
+                    "label": "States Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Locations", 
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }, 
+                {
+                    "label": "Administrative Region", 
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Texas"
+        }, 
+        {
+            "label": "Childress", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 217
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Childress"
+        }, 
+        {
+            "label": "Rick Perry", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 5
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Governors Of Texas", 
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfTexas"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American military personnel", 
+                    "uri": "http://dbpedia.org/resource/American_military_personnel"
+                }, 
+                {
+                    "label": "Intelligent design advocates", 
+                    "uri": "http://dbpedia.org/resource/Intelligent_design_advocates"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Rick_Perry"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/26/us/strong-storm-in-plains-brings-added-hazards.html?ref=us", 
+    "category": "us", 
+    "docID": "P-0279", 
+    "elementNumber": 15, 
+    "mainEntities": [
+        {
+            "label": "Texas", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 172
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "States Of The Confederate States Of America", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+                }, 
+                {
+                    "label": "Yago Geo Entity", 
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                }, 
+                {
+                    "label": "States And Territories Established In1845", 
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+                }, 
+                {
+                    "label": "Class", 
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "nationality", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+                }, 
+                {
+                    "label": "States Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Locations", 
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }, 
+                {
+                    "label": "Administrative Region", 
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Texas"
+        }, 
+        {
+            "label": "Childress", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 217
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Childress"
+        }, 
+        {
+            "label": "Rick Perry", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 5
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Governors Of Texas", 
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfTexas"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American military personnel", 
+                    "uri": "http://dbpedia.org/resource/American_military_personnel"
+                }, 
+                {
+                    "label": "Intelligent design advocates", 
+                    "uri": "http://dbpedia.org/resource/Intelligent_design_advocates"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Rick_Perry"
+        }
+    ], 
+    "mainText": "Gov. Rick Perry issued a statement Monday noting that snow was falling at a rate of two to three inches per hour.\nHe said the state had sent 23 members of the National and Texas State Guards to the areas of Amarillo, Childress, Lubbock and Pampa to help with rescue efforts.", 
+    "shownText": "Gov. Rick Perry issued a statement Monday noting that snow was falling at a rate of two to three inches per hour.\nHe said the state had sent 23 members of the National and Texas State Guards to the areas of Amarillo, Childress, Lubbock and Pampa to help with rescue efforts.", 
+    "title": "Strong Storm in Plains Brings Added Hazards - NYTimes.com"
+}

@@ -1,0 +1,109 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 199
+                }, 
+                {
+                    "length": 15, 
+                    "offset": 199
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 102
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "S-0258", 
+    "elementNumber": 26, 
+    "mainEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 199
+                }, 
+                {
+                    "length": 15, 
+                    "offset": 199
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 102
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "mainText": "David Bank, managing director of global media and Internet research at RBC Capital Markets, said that Fox Sports 1 would be a success &ldquo;from Day 1&rdquo; and could, in future years, bid against ESPN for N.B.A. rights and any cable package of N.F.L. games that might come to market.", 
+    "shownText": "David Bank, managing director of global media and Internet research at RBC Capital Markets, said that Fox Sports 1 would be a success &ldquo;from Day 1&rdquo; and could, in future years, bid against ESPN for N.B.A. rights and any cable package of N.F.L. games that might come to market.", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

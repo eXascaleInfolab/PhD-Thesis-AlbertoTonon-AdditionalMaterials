@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "General Foods",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Altria Group subsidiaries",
+                    "uri": "http://dbpedia.org/resource/Altria_Group_subsidiaries"
+                },
+                {
+                    "label": "Defunct Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/DefunctCompaniesOfTheUnitedStates"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/General_Foods"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0420",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "General Foods",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Altria Group subsidiaries",
+                    "uri": "http://dbpedia.org/resource/Altria_Group_subsidiaries"
+                },
+                {
+                    "label": "Defunct Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/DefunctCompaniesOfTheUnitedStates"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/General_Foods"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

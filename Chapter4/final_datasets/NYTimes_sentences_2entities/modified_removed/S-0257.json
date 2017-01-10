@@ -1,0 +1,133 @@
+{
+    "allEntities": [
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 29
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }, 
+        {
+            "label": "News Corporation", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 104
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies listed on the Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies Listed On The Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+                }, 
+                {
+                    "label": "Companies listed on the London Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/News_Corporation"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "S-0257", 
+    "elementNumber": 22, 
+    "mainEntities": [
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 29
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }, 
+        {
+            "label": "News Corporation", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 104
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies listed on the Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies Listed On The Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+                }, 
+                {
+                    "label": "Companies listed on the London Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/News_Corporation"
+        }
+    ], 
+    "mainText": "Hill, the former head of the Fox Sports Media Group, left the division last year for another job within News Corporation.", 
+    "shownText": "Hill, the former head of the Fox Sports Media Group, left the division last year for another job within News Corporation.", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

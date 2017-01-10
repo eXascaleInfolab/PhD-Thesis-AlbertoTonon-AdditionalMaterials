@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Salesforce.com",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Companies Based In San Francisco",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSanFrancisco"
+                },
+                {
+                    "label": "Software Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/SoftwareCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1999",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1999"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Salesforce.com"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0116",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Salesforce.com",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Companies Based In San Francisco",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSanFrancisco"
+                },
+                {
+                    "label": "Software Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/SoftwareCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Established In1999",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1999"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Salesforce.com"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

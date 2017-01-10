@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Yvon",
+            "types": [
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yvon_Labre"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0642",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Yvon",
+            "types": [
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Yvon_Labre"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

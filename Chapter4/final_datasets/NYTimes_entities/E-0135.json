@@ -1,0 +1,329 @@
+{
+    "allEntities": [
+        {
+            "label": "Barack Obama",
+            "types": [
+                {
+                    "label": "American spoken word artists",
+                    "uri": "http://dbpedia.org/resource/American_spoken_word_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Congressional Opponents Of The Iraq War",
+                    "uri": "http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+                },
+                {
+                    "label": "Chicago politicians",
+                    "uri": "http://dbpedia.org/resource/Chicago_politicians"
+                },
+                {
+                    "label": "African American politicians",
+                    "uri": "http://dbpedia.org/resource/African_American_politicians"
+                },
+                {
+                    "label": "American Legal Academics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLegalAcademics"
+                },
+                {
+                    "label": "Kenyan-Americans",
+                    "uri": "http://dbpedia.org/resource/Kenyan-Americans"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "American Congregationalists",
+                    "uri": "http://dbpedia.org/resource/American_Congregationalists"
+                },
+                {
+                    "label": "Chicago Politicians",
+                    "uri": "http://dbpedia.org/class/yago/ChicagoPoliticians"
+                },
+                {
+                    "label": "People From Honolulu",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHonolulu"
+                },
+                {
+                    "label": "Illinois Democrats",
+                    "uri": "http://dbpedia.org/resource/Illinois_Democrats"
+                },
+                {
+                    "label": "Illinois Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisLawyers"
+                },
+                {
+                    "label": "Illinois State Senators",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisStateSenators"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Illinois Democrats",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisDemocrats"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "United States Senators From Illinois",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromIllinois"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "American Anti-Iraq War Activists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnti-IraqWarActivists"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "Illinois lawyers",
+                    "uri": "http://dbpedia.org/resource/Illinois_lawyers"
+                },
+                {
+                    "label": "Punahou School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PunahouSchoolAlumni"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "American Political Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American political writers",
+                    "uri": "http://dbpedia.org/resource/American_political_writers"
+                },
+                {
+                    "label": "African American Senators",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanSenators"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "African American Senators",
+                    "uri": "http://dbpedia.org/resource/African_American_Senators"
+                },
+                {
+                    "label": "American Spoken Word Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSpokenWordArtists"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Barack_Obama"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0135",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Barack Obama",
+            "types": [
+                {
+                    "label": "American spoken word artists",
+                    "uri": "http://dbpedia.org/resource/American_spoken_word_artists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American memoirists",
+                    "uri": "http://dbpedia.org/resource/American_memoirists"
+                },
+                {
+                    "label": "Congressional Opponents Of The Iraq War",
+                    "uri": "http://dbpedia.org/class/yago/CongressionalOpponentsOfTheIraqWar"
+                },
+                {
+                    "label": "Chicago politicians",
+                    "uri": "http://dbpedia.org/resource/Chicago_politicians"
+                },
+                {
+                    "label": "African American politicians",
+                    "uri": "http://dbpedia.org/resource/African_American_politicians"
+                },
+                {
+                    "label": "American Legal Academics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLegalAcademics"
+                },
+                {
+                    "label": "Kenyan-Americans",
+                    "uri": "http://dbpedia.org/resource/Kenyan-Americans"
+                },
+                {
+                    "label": "Columbia University alumni",
+                    "uri": "http://dbpedia.org/resource/Columbia_University_alumni"
+                },
+                {
+                    "label": "American Congregationalists",
+                    "uri": "http://dbpedia.org/resource/American_Congregationalists"
+                },
+                {
+                    "label": "Chicago Politicians",
+                    "uri": "http://dbpedia.org/class/yago/ChicagoPoliticians"
+                },
+                {
+                    "label": "People From Honolulu",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHonolulu"
+                },
+                {
+                    "label": "Illinois Democrats",
+                    "uri": "http://dbpedia.org/resource/Illinois_Democrats"
+                },
+                {
+                    "label": "Illinois Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisLawyers"
+                },
+                {
+                    "label": "Illinois State Senators",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisStateSenators"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Illinois Democrats",
+                    "uri": "http://dbpedia.org/class/yago/IllinoisDemocrats"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "United States Senators From Illinois",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromIllinois"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "American Anti-Iraq War Activists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnti-IraqWarActivists"
+                },
+                {
+                    "label": "Columbia University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/ColumbiaUniversityAlumni"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "Illinois lawyers",
+                    "uri": "http://dbpedia.org/resource/Illinois_lawyers"
+                },
+                {
+                    "label": "Punahou School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PunahouSchoolAlumni"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "American Political Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American political writers",
+                    "uri": "http://dbpedia.org/resource/American_political_writers"
+                },
+                {
+                    "label": "African American Senators",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericanSenators"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Senator",
+                    "uri": "http://dbpedia.org/class/yago/Senator110578471"
+                },
+                {
+                    "label": "African American Senators",
+                    "uri": "http://dbpedia.org/resource/African_American_Senators"
+                },
+                {
+                    "label": "American Spoken Word Artists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSpokenWordArtists"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Barack_Obama"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

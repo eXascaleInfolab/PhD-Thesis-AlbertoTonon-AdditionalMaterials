@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Fr&eacute;d&eacute;ric Parrenin",
+            "types": [
+                {
+                    "label": "French Female Singers",
+                    "uri": "http://dbpedia.org/class/yago/FrenchFemaleSingers"
+                },
+                {
+                    "label": "French Singers",
+                    "uri": "http://dbpedia.org/class/yago/FrenchSingers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0059",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fr&eacute;d&eacute;ric Parrenin",
+            "types": [
+                {
+                    "label": "French Female Singers",
+                    "uri": "http://dbpedia.org/class/yago/FrenchFemaleSingers"
+                },
+                {
+                    "label": "French Singers",
+                    "uri": "http://dbpedia.org/class/yago/FrenchSingers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Emmanuelle_Parrenin"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,101 @@
+{
+  "mainText":"The brief drew 278 signers, including more than 200 companies \u2014 among them Citigroup, Apple, Mars and Alcoa \u2014 as well as city governments and other groups.\nIn statements on Wednesday, many declared their firm opposition to discrimination based on sexual orientation.\nBut the brief focused more on the burdens imposed by the 1996 law on companies that offer benefits to same-sex spouses.",
+  "shownText":"Arguing that the federal Defense of Marriage Act imposes serious administrative and financial costs on their operations, some of the nation\u2019s largest companies filed a brief Wednesday with the Supreme Court , urging it to overturn a section of the act that denies federal benefits and recognition to same-sex couples.\n\nThe brief drew 278 signers, including more than 200 companies \u2014 among them Citigroup, Apple, Mars and Alcoa \u2014 as well as city governments and other groups.\nIn statements on Wednesday, many declared their firm opposition to discrimination based on sexual orientation.\nBut the brief focused more on the burdens imposed by the 1996 law on companies that offer benefits to same-sex spouses.\n\nThe brief is one of hundreds received by the court as it considers landmark cases on gay rights and marriage.\nBut with a wide swath of leading companies signing on, it was the latest sign of the rapid shift toward acceptance of same-sex marriage in the corporate world as well as in the country at large.\n",
+  "title":"Companies Ask Justices to Overturn Gay Marriage Ban - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/business/companies-ask-justices-to-overturn-gay-marriage-ban.html?ref=business",
+  "category":"business",
+  "docID":"P3-0047",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Alcoa",
+      "label":"Alcoa",
+      "offsets":[
+        {
+          "offset":421,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Aluminium companies",
+          "uri":"http://dbpedia.org/resource/Aluminium_companies"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Citigroup",
+      "label":"Citigroup",
+      "offsets":[
+        {
+          "offset":394,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1986",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1986"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Alcoa",
+      "label":"Alcoa",
+      "offsets":[
+        {
+          "offset":421,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Aluminium companies",
+          "uri":"http://dbpedia.org/resource/Aluminium_companies"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Citigroup",
+      "label":"Citigroup",
+      "offsets":[
+        {
+          "offset":394,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1986",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1986"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

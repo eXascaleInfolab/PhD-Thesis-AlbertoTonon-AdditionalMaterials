@@ -1,0 +1,305 @@
+{
+    "allEntities": [
+        {
+            "label": "John Lennon",
+            "types": [
+                {
+                    "label": "People From Liverpool",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLiverpool"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Best Original Music Score Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Original_Music_Score_Academy_Award_winners"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "Apple Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/AppleRecordsArtists"
+                },
+                {
+                    "label": "English Rock Guitarists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockGuitarists"
+                },
+                {
+                    "label": "Apple Records artists",
+                    "uri": "http://dbpedia.org/resource/Apple_Records_artists"
+                },
+                {
+                    "label": "English Rock Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockSingers"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "British experimental musicians",
+                    "uri": "http://dbpedia.org/resource/British_experimental_musicians"
+                },
+                {
+                    "label": "English pacifists",
+                    "uri": "http://dbpedia.org/resource/English_pacifists"
+                },
+                {
+                    "label": "People From Greenwich Village,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromGreenwichVillage,NewYork"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Murdered Entertainers",
+                    "uri": "http://dbpedia.org/class/yago/MurderedEntertainers"
+                },
+                {
+                    "label": "English Murder Victims",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMurderVictims"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English Rock Pianists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockPianists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "English rock guitarists",
+                    "uri": "http://dbpedia.org/resource/English_rock_guitarists"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "British Expatriates In The United States",
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "English rock pianists",
+                    "uri": "http://dbpedia.org/resource/English_rock_pianists"
+                },
+                {
+                    "label": "popular music star",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rCThRjlILEdqAAAACs71DGQ"
+                },
+                {
+                    "label": "English Pacifists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPacifists"
+                },
+                {
+                    "label": "English rock singers",
+                    "uri": "http://dbpedia.org/resource/English_rock_singers"
+                },
+                {
+                    "label": "English murder victims",
+                    "uri": "http://dbpedia.org/resource/English_murder_victims"
+                },
+                {
+                    "label": "British Experimental Musicians",
+                    "uri": "http://dbpedia.org/class/yago/BritishExperimentalMusicians"
+                },
+                {
+                    "label": "performer of rock music",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv9t9NFMnQdeStuhcY3fjLA"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Lennon"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0644",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "John Lennon",
+            "types": [
+                {
+                    "label": "People From Liverpool",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLiverpool"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Best Original Music Score Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Original_Music_Score_Academy_Award_winners"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "Apple Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/AppleRecordsArtists"
+                },
+                {
+                    "label": "English Rock Guitarists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockGuitarists"
+                },
+                {
+                    "label": "Apple Records artists",
+                    "uri": "http://dbpedia.org/resource/Apple_Records_artists"
+                },
+                {
+                    "label": "English Rock Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockSingers"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "People Of Irish Descent In Great Britain",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                },
+                {
+                    "label": "British experimental musicians",
+                    "uri": "http://dbpedia.org/resource/British_experimental_musicians"
+                },
+                {
+                    "label": "English pacifists",
+                    "uri": "http://dbpedia.org/resource/English_pacifists"
+                },
+                {
+                    "label": "People From Greenwich Village,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromGreenwichVillage,NewYork"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Murdered Entertainers",
+                    "uri": "http://dbpedia.org/class/yago/MurderedEntertainers"
+                },
+                {
+                    "label": "English Murder Victims",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMurderVictims"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "English Rock Pianists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockPianists"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "English rock guitarists",
+                    "uri": "http://dbpedia.org/resource/English_rock_guitarists"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "British Expatriates In The United States",
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "English Male Singers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                },
+                {
+                    "label": "English rock pianists",
+                    "uri": "http://dbpedia.org/resource/English_rock_pianists"
+                },
+                {
+                    "label": "popular music star",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rCThRjlILEdqAAAACs71DGQ"
+                },
+                {
+                    "label": "English Pacifists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPacifists"
+                },
+                {
+                    "label": "English rock singers",
+                    "uri": "http://dbpedia.org/resource/English_rock_singers"
+                },
+                {
+                    "label": "English murder victims",
+                    "uri": "http://dbpedia.org/resource/English_murder_victims"
+                },
+                {
+                    "label": "British Experimental Musicians",
+                    "uri": "http://dbpedia.org/class/yago/BritishExperimentalMusicians"
+                },
+                {
+                    "label": "performer of rock music",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv9t9NFMnQdeStuhcY3fjLA"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/John_Lennon"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

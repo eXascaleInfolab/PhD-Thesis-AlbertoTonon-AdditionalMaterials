@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Eli Roth",
+            "types": [
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Jewish American film directors",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_film_directors"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "Horror film directors",
+                    "uri": "http://dbpedia.org/resource/Horror_film_directors"
+                },
+                {
+                    "label": "Horror Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/HorrorFilmDirectors"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Eli_Roth"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0345",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Eli Roth",
+            "types": [
+                {
+                    "label": "Jewish actors",
+                    "uri": "http://dbpedia.org/resource/Jewish_actors"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Jewish American film directors",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_film_directors"
+                },
+                {
+                    "label": "Jewish American writers",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_writers"
+                },
+                {
+                    "label": "Horror film directors",
+                    "uri": "http://dbpedia.org/resource/Horror_film_directors"
+                },
+                {
+                    "label": "Horror Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/HorrorFilmDirectors"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Eli_Roth"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

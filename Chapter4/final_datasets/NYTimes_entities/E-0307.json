@@ -1,0 +1,121 @@
+{
+    "allEntities": [
+        {
+            "label": "Greenland",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former Danish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Danish_colonies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "island",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "First-level Administrative Country Subdivisions",
+                    "uri": "http://dbpedia.org/class/yago/First-levelAdministrativeCountrySubdivisions"
+                },
+                {
+                    "label": "Arctic islands",
+                    "uri": "http://dbpedia.org/resource/Arctic_islands"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Danish-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Danish-speakingCountries"
+                },
+                {
+                    "label": "Proposed Countries",
+                    "uri": "http://dbpedia.org/class/yago/ProposedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greenland"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0307",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Greenland",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former Danish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Danish_colonies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "island",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi7OZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "First-level Administrative Country Subdivisions",
+                    "uri": "http://dbpedia.org/class/yago/First-levelAdministrativeCountrySubdivisions"
+                },
+                {
+                    "label": "Arctic islands",
+                    "uri": "http://dbpedia.org/resource/Arctic_islands"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Danish-speaking Countries",
+                    "uri": "http://dbpedia.org/class/yago/Danish-speakingCountries"
+                },
+                {
+                    "label": "Proposed Countries",
+                    "uri": "http://dbpedia.org/class/yago/ProposedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Greenland"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

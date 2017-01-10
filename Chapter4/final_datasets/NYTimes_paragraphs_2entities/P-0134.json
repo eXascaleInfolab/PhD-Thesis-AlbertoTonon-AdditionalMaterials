@@ -1,0 +1,429 @@
+{
+  "mainText":"\u201cIt\u2019s a remote territory of Russia,\u201d says Heikki Hyoty, a scientist at the University of Tampere in Finland.\n\u201cThey live like Finns 50 years ago.\u201d",
+  "shownText":"\u201cIt\u2019s a remote territory of Russia,\u201d says Heikki Hyoty, a scientist at the University of Tampere in Finland.\n\u201cThey live like Finns 50 years ago.\u201d",
+  "title":"What Really Causes Celiac Disease? - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/opinion/sunday/what-really-causes-celiac-disease.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0134",
+  "elementNumber":24,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Russia",
+      "label":"Russia",
+      "offsets":[
+        {
+          "offset":28,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"European Countries",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCountries"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"federation government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rKT8ebm2nEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"North Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/NorthAsianCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Countries Bordering The Baltic Sea",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheBalticSea"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Black Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/BlackSeaCountries"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Countries Bordering The Arctic Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheArcticOcean"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Russian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Russian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"East Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/EastAsianCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"States And Territories Established In862",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn862"
+        },
+        {
+          "label":"Caspian Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/CaspianSeaCountries"
+        },
+        {
+          "label":"Bicontinental Countries",
+          "uri":"http://dbpedia.org/class/yago/BicontinentalCountries"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Central Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/CentralAsianCountries"
+        },
+        {
+          "label":"Countries Bordering The Pacific Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingThePacificOcean"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Slavic Countries",
+          "uri":"http://dbpedia.org/class/yago/SlavicCountries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Caucasus country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rveVONpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"former soviet republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rD2crlmAKQdmLOr88Soi59h8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvViIeZwpEbGdrcN5Y29ycB4rvfGaTZwpEbGdrcN5Y29ycB4rvVjPzpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Caspian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvx-IVJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Tampere",
+      "label":"University of Tampere",
+      "offsets":[
+        {
+          "offset":75,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Universities In Finland",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesInFinland"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Russia",
+      "label":"Russia",
+      "offsets":[
+        {
+          "offset":28,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"some countries geography topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8BgqpmJsQdiF2ohxo8tMTA"
+        },
+        {
+          "label":"Geopolitical Entity",
+          "uri":"http://umbel.org/umbel/sc/GeopoliticalEntity"
+        },
+        {
+          "label":"world power",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvaJ7ipwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"European Countries",
+          "uri":"http://dbpedia.org/class/yago/EuropeanCountries"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"federation government",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rKT8ebm2nEdaAAACgyZzFrg"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Locations",
+          "uri":"http://dbpedia.org/class/yago/Locations"
+        },
+        {
+          "label":"North Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/NorthAsianCountries"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Countries Bordering The Baltic Sea",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheBalticSea"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Yago Geo Entity",
+          "uri":"http://dbpedia.org/class/yago/YagoGeoEntity"
+        },
+        {
+          "label":"Black Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/BlackSeaCountries"
+        },
+        {
+          "label":"Caspian Sea countries",
+          "uri":"http://dbpedia.org/resource/Caspian_Sea_countries"
+        },
+        {
+          "label":"Countries Bordering The Arctic Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingTheArcticOcean"
+        },
+        {
+          "label":"Federal Countries",
+          "uri":"http://dbpedia.org/class/yago/FederalCountries"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Russian-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/Russian-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"East Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/EastAsianCountries"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"States And Territories Established In862",
+          "uri":"http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn862"
+        },
+        {
+          "label":"Caspian Sea Countries",
+          "uri":"http://dbpedia.org/class/yago/CaspianSeaCountries"
+        },
+        {
+          "label":"Bicontinental Countries",
+          "uri":"http://dbpedia.org/class/yago/BicontinentalCountries"
+        },
+        {
+          "label":"certain distant countries with interests in the hormuz area hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8gRhpGJsQdiL9-7bzdhMug"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Central Asian Countries",
+          "uri":"http://dbpedia.org/class/yago/CentralAsianCountries"
+        },
+        {
+          "label":"Countries Bordering The Pacific Ocean",
+          "uri":"http://dbpedia.org/class/yago/CountriesBorderingThePacificOcean"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Slavic Countries",
+          "uri":"http://dbpedia.org/class/yago/SlavicCountries"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Caucasus country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rveVONpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"former soviet republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rD2crlmAKQdmLOr88Soi59h8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvViIeZwpEbGdrcN5Y29ycB4rvfGaTZwpEbGdrcN5Y29ycB4rvVjPzpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Caspian country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvx-IVJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Tampere",
+      "label":"University of Tampere",
+      "offsets":[
+        {
+          "offset":75,
+          "length":21
+        }
+      ],
+      "types":[
+        {
+          "label":"Universities In Finland",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesInFinland"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Transocean",
+            "types": [
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies formerly listed on the Oslo Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_formerly_listed_on_the_Oslo_Stock_Exchange"
+                },
+                {
+                    "label": "Companies Based In Houston",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHouston"
+                },
+                {
+                    "label": "Drilling rig operators",
+                    "uri": "http://dbpedia.org/resource/Drilling_rig_operators"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Transocean"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0244",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Transocean",
+            "types": [
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Companies formerly listed on the Oslo Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_formerly_listed_on_the_Oslo_Stock_Exchange"
+                },
+                {
+                    "label": "Companies Based In Houston",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHouston"
+                },
+                {
+                    "label": "Drilling rig operators",
+                    "uri": "http://dbpedia.org/resource/Drilling_rig_operators"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Transocean"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

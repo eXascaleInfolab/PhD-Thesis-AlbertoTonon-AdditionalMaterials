@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Sweden",
+            "types": [
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Constitutional Monarchies",
+                    "uri": "http://dbpedia.org/class/yago/ConstitutionalMonarchies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "European Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sweden"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0619",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Sweden",
+            "types": [
+                {
+                    "label": "constitutional monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rsQ8Nwm2iEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Constitutional Monarchies",
+                    "uri": "http://dbpedia.org/class/yago/ConstitutionalMonarchies"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "European Union Member Economies",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Sweden"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

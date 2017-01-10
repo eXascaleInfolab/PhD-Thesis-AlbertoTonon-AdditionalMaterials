@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Marissa Mayer",
+            "types": [
+                {
+                    "label": "People From Wausau,Wisconsin",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWausau,Wisconsin"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Google employees",
+                    "uri": "http://dbpedia.org/resource/Google_employees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Google Employees",
+                    "uri": "http://dbpedia.org/class/yago/GoogleEmployees"
+                },
+                {
+                    "label": "Women In Business",
+                    "uri": "http://dbpedia.org/class/yago/WomenInBusiness"
+                },
+                {
+                    "label": "Women Computer Scientists",
+                    "uri": "http://dbpedia.org/class/yago/WomenComputerScientists"
+                },
+                {
+                    "label": "Celebrity",
+                    "uri": "http://dbpedia.org/class/yago/Celebrity109903153"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marissa_Mayer"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0118",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Marissa Mayer",
+            "types": [
+                {
+                    "label": "People From Wausau,Wisconsin",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWausau,Wisconsin"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Google employees",
+                    "uri": "http://dbpedia.org/resource/Google_employees"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Google Employees",
+                    "uri": "http://dbpedia.org/class/yago/GoogleEmployees"
+                },
+                {
+                    "label": "Women In Business",
+                    "uri": "http://dbpedia.org/class/yago/WomenInBusiness"
+                },
+                {
+                    "label": "Women Computer Scientists",
+                    "uri": "http://dbpedia.org/class/yago/WomenComputerScientists"
+                },
+                {
+                    "label": "Celebrity",
+                    "uri": "http://dbpedia.org/class/yago/Celebrity109903153"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marissa_Mayer"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

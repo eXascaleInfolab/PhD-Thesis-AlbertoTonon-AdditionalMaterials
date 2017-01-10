@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Whitney Young",
+            "types": [
+                {
+                    "label": "African Americans%27 rights activists",
+                    "uri": "http://dbpedia.org/resource/African_Americans%27_rights_activists"
+                },
+                {
+                    "label": "People From Kentucky",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKentucky"
+                },
+                {
+                    "label": "American Unitarians",
+                    "uri": "http://dbpedia.org/resource/American_Unitarians"
+                },
+                {
+                    "label": "African Americans'Rights Activists",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericans'RightsActivists"
+                },
+                {
+                    "label": "Accidental deaths",
+                    "uri": "http://dbpedia.org/resource/Accidental_deaths"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Whitney_Young"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0443",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Whitney Young",
+            "types": [
+                {
+                    "label": "African Americans%27 rights activists",
+                    "uri": "http://dbpedia.org/resource/African_Americans%27_rights_activists"
+                },
+                {
+                    "label": "People From Kentucky",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKentucky"
+                },
+                {
+                    "label": "American Unitarians",
+                    "uri": "http://dbpedia.org/resource/American_Unitarians"
+                },
+                {
+                    "label": "African Americans'Rights Activists",
+                    "uri": "http://dbpedia.org/class/yago/AfricanAmericans'RightsActivists"
+                },
+                {
+                    "label": "Accidental deaths",
+                    "uri": "http://dbpedia.org/resource/Accidental_deaths"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Whitney_Young"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

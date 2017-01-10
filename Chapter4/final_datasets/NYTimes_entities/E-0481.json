@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Rachel",
+            "types": [
+                {
+                    "label": "Biblical matriarchs",
+                    "uri": "http://dbpedia.org/resource/Biblical_matriarchs"
+                },
+                {
+                    "label": "Aramaeans",
+                    "uri": "http://dbpedia.org/class/yago/Aramaeans"
+                },
+                {
+                    "label": "Biblical Matriarchs",
+                    "uri": "http://dbpedia.org/class/yago/BiblicalMatriarchs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rachel"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0481",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rachel",
+            "types": [
+                {
+                    "label": "Biblical matriarchs",
+                    "uri": "http://dbpedia.org/resource/Biblical_matriarchs"
+                },
+                {
+                    "label": "Aramaeans",
+                    "uri": "http://dbpedia.org/class/yago/Aramaeans"
+                },
+                {
+                    "label": "Biblical Matriarchs",
+                    "uri": "http://dbpedia.org/class/yago/BiblicalMatriarchs"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rachel"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

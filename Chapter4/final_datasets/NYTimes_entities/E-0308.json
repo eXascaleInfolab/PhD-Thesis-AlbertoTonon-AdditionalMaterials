@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Army",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Iranian Army echelon",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rbVMJWnStEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "U.S. Army echelon",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4radO_4HStEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Field armies",
+                    "uri": "http://dbpedia.org/resource/Field_armies"
+                },
+                {
+                    "label": "Military Unit",
+                    "uri": "http://dbpedia.org/ontology/MilitaryUnit"
+                },
+                {
+                    "label": "military organization concept",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4roClzfvSSEdmAAAACs0uFOQ"
+                },
+                {
+                    "label": "generic military organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6_yViGJsQdifUcwDA-kIWw"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Army"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0308",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Army",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Iranian Army echelon",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rbVMJWnStEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "U.S. Army echelon",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4radO_4HStEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Field armies",
+                    "uri": "http://dbpedia.org/resource/Field_armies"
+                },
+                {
+                    "label": "Military Unit",
+                    "uri": "http://dbpedia.org/ontology/MilitaryUnit"
+                },
+                {
+                    "label": "military organization concept",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4roClzfvSSEdmAAAACs0uFOQ"
+                },
+                {
+                    "label": "generic military organizations organization topic",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6_yViGJsQdifUcwDA-kIWw"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Army"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

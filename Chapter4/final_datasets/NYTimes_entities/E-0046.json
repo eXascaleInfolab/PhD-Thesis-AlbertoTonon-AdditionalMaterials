@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Bhutan",
+            "types": [
+                {
+                    "label": "monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9q9Azm2vEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Least Developed Countries",
+                    "uri": "http://dbpedia.org/class/yago/LeastDevelopedCountries"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "South Asian country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bhutan"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0046",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bhutan",
+            "types": [
+                {
+                    "label": "monarchy",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9q9Azm2vEdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Least Developed Countries",
+                    "uri": "http://dbpedia.org/class/yago/LeastDevelopedCountries"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "South Asian country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rMH__9phpQdiGoqh69-34gg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "landlocked region",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "Landlocked Countries",
+                    "uri": "http://dbpedia.org/class/yago/LandlockedCountries"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bhutan"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

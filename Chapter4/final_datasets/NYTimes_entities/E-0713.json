@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Gabriel Torres",
+            "types": [
+                {
+                    "label": "Brazilian journalists",
+                    "uri": "http://dbpedia.org/resource/Brazilian_journalists"
+                },
+                {
+                    "label": "Brazilian emigrants",
+                    "uri": "http://dbpedia.org/resource/Brazilian_emigrants"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gabriel_Torres"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0713",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gabriel Torres",
+            "types": [
+                {
+                    "label": "Brazilian journalists",
+                    "uri": "http://dbpedia.org/resource/Brazilian_journalists"
+                },
+                {
+                    "label": "Brazilian emigrants",
+                    "uri": "http://dbpedia.org/resource/Brazilian_emigrants"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gabriel_Torres"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

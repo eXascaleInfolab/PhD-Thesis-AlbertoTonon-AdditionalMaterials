@@ -1,0 +1,409 @@
+{
+    "allEntities": [
+        {
+            "label": "David Bowie", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 26
+                }, 
+                {
+                    "length": 11, 
+                    "offset": 77
+                }, 
+                {
+                    "length": 11, 
+                    "offset": 158
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "English Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                }, 
+                {
+                    "label": "English Rock Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicians"
+                }, 
+                {
+                    "label": "glam rock performer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "People Of Irish Descent In Great Britain", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                }, 
+                {
+                    "label": "Bisexual Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "English songwriters", 
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                }, 
+                {
+                    "label": "English Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                }, 
+                {
+                    "label": "English record producers", 
+                    "uri": "http://dbpedia.org/resource/English_record_producers"
+                }, 
+                {
+                    "label": "LGBTComposers", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                }, 
+                {
+                    "label": "English rock musicians", 
+                    "uri": "http://dbpedia.org/resource/English_rock_musicians"
+                }, 
+                {
+                    "label": "English film actors", 
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Daytime Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                }, 
+                {
+                    "label": "English Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishRecordProducers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "English Buddhists", 
+                    "uri": "http://dbpedia.org/resource/English_Buddhists"
+                }, 
+                {
+                    "label": "English baritones", 
+                    "uri": "http://dbpedia.org/resource/English_baritones"
+                }, 
+                {
+                    "label": "English Baritones", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishBaritones"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "English Male Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                }, 
+                {
+                    "label": "People From Brixton", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrixton"
+                }, 
+                {
+                    "label": "English Songwriters", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                }, 
+                {
+                    "label": "Bisexual musicians", 
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/David_Bowie"
+        }, 
+        {
+            "label": "Jimmy King", 
+            "offsets": [
+                {
+                    "length": 10, 
+                    "offset": 59
+                }
+            ], 
+            "types": [
+                {
+                    "label": "African American sportspeople", 
+                    "uri": "http://dbpedia.org/resource/African_American_sportspeople"
+                }, 
+                {
+                    "label": "Denver Nuggets players", 
+                    "uri": "http://dbpedia.org/resource/Denver_Nuggets_players"
+                }, 
+                {
+                    "label": "People From Plano,Texas", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPlano,Texas"
+                }, 
+                {
+                    "label": "Player", 
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Jimmy_King"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 32
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 83
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 164
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }, 
+        {
+            "label": "SIMON REYNOLDS", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 282
+                }
+            ], 
+            "types": [
+                {
+                    "label": "British Expatriates In The United States", 
+                    "uri": "http://dbpedia.org/class/yago/BritishExpatriatesInTheUnitedStates"
+                }, 
+                {
+                    "label": "English music journalists", 
+                    "uri": "http://dbpedia.org/resource/English_music_journalists"
+                }, 
+                {
+                    "label": "English music critics", 
+                    "uri": "http://dbpedia.org/resource/English_music_critics"
+                }, 
+                {
+                    "label": "People From Hertfordshire", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHertfordshire"
+                }, 
+                {
+                    "label": "English bloggers", 
+                    "uri": "http://dbpedia.org/resource/English_bloggers"
+                }, 
+                {
+                    "label": "Melody Maker Writers", 
+                    "uri": "http://dbpedia.org/class/yago/MelodyMakerWriters"
+                }, 
+                {
+                    "label": "English Bloggers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishBloggers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Simon_Reynolds"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P3-0029", 
+    "elementNumber": 3, 
+    "mainEntities": [
+        {
+            "label": "David Bowie", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 26
+                }, 
+                {
+                    "length": 11, 
+                    "offset": 77
+                }, 
+                {
+                    "length": 11, 
+                    "offset": 158
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "English Film Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                }, 
+                {
+                    "label": "English Rock Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishRockMusicians"
+                }, 
+                {
+                    "label": "glam rock performer", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r9gJdqFM-QdeUeZLzHVIHHw"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "People Of Irish Descent In Great Britain", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfIrishDescentInGreatBritain"
+                }, 
+                {
+                    "label": "Bisexual Musicians", 
+                    "uri": "http://dbpedia.org/class/yago/BisexualMusicians"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }, 
+                {
+                    "label": "English songwriters", 
+                    "uri": "http://dbpedia.org/resource/English_songwriters"
+                }, 
+                {
+                    "label": "English Television Actors", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                }, 
+                {
+                    "label": "English record producers", 
+                    "uri": "http://dbpedia.org/resource/English_record_producers"
+                }, 
+                {
+                    "label": "LGBTComposers", 
+                    "uri": "http://dbpedia.org/class/yago/LGBTComposers"
+                }, 
+                {
+                    "label": "English rock musicians", 
+                    "uri": "http://dbpedia.org/resource/English_rock_musicians"
+                }, 
+                {
+                    "label": "English film actors", 
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Daytime Emmy Award winners", 
+                    "uri": "http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+                }, 
+                {
+                    "label": "English Record Producers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishRecordProducers"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "English Buddhists", 
+                    "uri": "http://dbpedia.org/resource/English_Buddhists"
+                }, 
+                {
+                    "label": "English baritones", 
+                    "uri": "http://dbpedia.org/resource/English_baritones"
+                }, 
+                {
+                    "label": "English Baritones", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishBaritones"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "English Male Singers", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishMaleSingers"
+                }, 
+                {
+                    "label": "People From Brixton", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrixton"
+                }, 
+                {
+                    "label": "English Songwriters", 
+                    "uri": "http://dbpedia.org/class/yago/EnglishSongwriters"
+                }, 
+                {
+                    "label": "Bisexual musicians", 
+                    "uri": "http://dbpedia.org/resource/Bisexual_musicians"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/David_Bowie"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 32
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 83
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 164
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "Left, David Bowie during his &acirc;Aladdin Sane&acirc; period, in a photo from &acirc;David Bowie Is,&acirc; a show coming to the Victoria and Albert Museum.\nRight, a more recent photo.\nMore Photos &raquo;", 
+    "shownText": "Left, Masayoshi SukitaThe David Bowie Archive 2012; right, Jimmy King\n\nLeft, David Bowie during his &acirc;Aladdin Sane&acirc; period, in a photo from &acirc;David Bowie Is,&acirc; a show coming to the Victoria and Albert Museum.\nRight, a more recent photo.\nMore Photos &raquo;\n\nBy SIMON REYNOLDS\n", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

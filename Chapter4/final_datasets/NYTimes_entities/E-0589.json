@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "American Museum of Natural History",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Museum",
+                    "uri": "http://dbpedia.org/class/yago/Museum103800563"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Museum_of_Natural_History"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0589",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "American Museum of Natural History",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Museum",
+                    "uri": "http://dbpedia.org/class/yago/Museum103800563"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Museum_of_Natural_History"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

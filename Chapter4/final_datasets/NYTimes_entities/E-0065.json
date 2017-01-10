@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Nelson Peltz",
+            "types": [
+                {
+                    "label": "Jewish businesspeople",
+                    "uri": "http://dbpedia.org/resource/Jewish_businesspeople"
+                },
+                {
+                    "label": "People From Westchester County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestchesterCounty,NewYork"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "American billionaires",
+                    "uri": "http://dbpedia.org/resource/American_billionaires"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nelson_Peltz"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0065",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Nelson Peltz",
+            "types": [
+                {
+                    "label": "Jewish businesspeople",
+                    "uri": "http://dbpedia.org/resource/Jewish_businesspeople"
+                },
+                {
+                    "label": "People From Westchester County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestchesterCounty,NewYork"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "People From Brooklyn",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrooklyn"
+                },
+                {
+                    "label": "American billionaires",
+                    "uri": "http://dbpedia.org/resource/American_billionaires"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nelson_Peltz"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,253 @@
+{
+  "mainText":"Of course, it was invariably a dump \u2014 and its dumpiness was in inverse relation to the glittering fantasies of its hopeful young inhabitants.\nBoth of these factors were essential fixtures in the best Manhattan bildungsromans, like the essays of Ruth McKenney, who wrote briskly of the fungus that grew nightly on the bathroom ceiling in the damp space she rented with her sister, Eileen, on Gay Street in the 1930s.",
+  "shownText":"Of course, it was invariably a dump \u2014 and its dumpiness was in inverse relation to the glittering fantasies of its hopeful young inhabitants.\nBoth of these factors were essential fixtures in the best Manhattan bildungsromans, like the essays of Ruth McKenney, who wrote briskly of the fungus that grew nightly on the bathroom ceiling in the damp space she rented with her sister, Eileen, on Gay Street in the 1930s.",
+  "title":"One Size (270 Sq. Ft.) Fits All - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/21/greathomesanddestinations/one-size-270-sq-ft-fits-all.html?ref=style",
+  "category":"style",
+  "docID":"P-0248",
+  "elementNumber":4,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ruth_McKenney",
+      "label":"Ruth McKenney",
+      "offsets":[
+        {
+          "offset":245,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American Journalists",
+          "uri":"http://dbpedia.org/class/yago/AmericanJournalists"
+        },
+        {
+          "label":"People From Indiana",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromIndiana"
+        },
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        },
+        {
+          "label":"People From Cleveland,Ohio",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCleveland,Ohio"
+        },
+        {
+          "label":"American dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/American_dramatists_and_playwrights"
+        },
+        {
+          "label":"American Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":200,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Ruth_McKenney",
+      "label":"Ruth McKenney",
+      "offsets":[
+        {
+          "offset":245,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American Journalists",
+          "uri":"http://dbpedia.org/class/yago/AmericanJournalists"
+        },
+        {
+          "label":"People From Indiana",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromIndiana"
+        },
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        },
+        {
+          "label":"People From Cleveland,Ohio",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCleveland,Ohio"
+        },
+        {
+          "label":"American dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/American_dramatists_and_playwrights"
+        },
+        {
+          "label":"American Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":200,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

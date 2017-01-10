@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Shantha Sinha",
+            "types": [
+                {
+                    "label": "Indian Children%27s rights activists",
+                    "uri": "http://dbpedia.org/resource/Indian_Children%27s_rights_activists"
+                },
+                {
+                    "label": "Indian Academics",
+                    "uri": "http://dbpedia.org/class/yago/IndianAcademics"
+                },
+                {
+                    "label": "Indian academics",
+                    "uri": "http://dbpedia.org/resource/Indian_academics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shantha_Sinha"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0281",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Shantha Sinha",
+            "types": [
+                {
+                    "label": "Indian Children%27s rights activists",
+                    "uri": "http://dbpedia.org/resource/Indian_Children%27s_rights_activists"
+                },
+                {
+                    "label": "Indian Academics",
+                    "uri": "http://dbpedia.org/class/yago/IndianAcademics"
+                },
+                {
+                    "label": "Indian academics",
+                    "uri": "http://dbpedia.org/resource/Indian_academics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shantha_Sinha"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

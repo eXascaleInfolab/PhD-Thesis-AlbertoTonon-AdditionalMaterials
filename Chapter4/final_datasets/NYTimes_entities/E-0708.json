@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Frankfurter Allgemeine Zeitung",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "German media",
+                    "uri": "http://dbpedia.org/resource/German_media"
+                },
+                {
+                    "label": "Newspapers Published In Germany",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInGermany"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "German-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/German-languageNewspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "German-language newspapers",
+                    "uri": "http://dbpedia.org/resource/German-language_newspapers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Frankfurter_Allgemeine_Zeitung"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0708",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Frankfurter Allgemeine Zeitung",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "German media",
+                    "uri": "http://dbpedia.org/resource/German_media"
+                },
+                {
+                    "label": "Newspapers Published In Germany",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInGermany"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "German-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/German-languageNewspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "German-language newspapers",
+                    "uri": "http://dbpedia.org/resource/German-language_newspapers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Frankfurter_Allgemeine_Zeitung"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

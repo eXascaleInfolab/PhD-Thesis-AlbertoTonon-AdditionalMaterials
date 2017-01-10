@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "Mexico",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "North American country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+                },
+                {
+                    "label": "industrialized country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "G15Nations",
+                    "uri": "http://dbpedia.org/class/yago/G15Nations"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Former Spanish Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerSpanishColonies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mexico"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0370",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mexico",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "North American country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r4qVlEJhnQdidKY2g0ysmcA"
+                },
+                {
+                    "label": "industrialized country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "G15 nations",
+                    "uri": "http://dbpedia.org/resource/G15_nations"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Former Spanish colonies",
+                    "uri": "http://dbpedia.org/resource/Former_Spanish_colonies"
+                },
+                {
+                    "label": "G15Nations",
+                    "uri": "http://dbpedia.org/class/yago/G15Nations"
+                },
+                {
+                    "label": "OECDMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/OECDMemberEconomies"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Former Spanish Colonies",
+                    "uri": "http://dbpedia.org/class/yago/FormerSpanishColonies"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Liberal Democracies",
+                    "uri": "http://dbpedia.org/class/yago/LiberalDemocracies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mexico"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

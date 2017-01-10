@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Nascar",
+            "types": [
+                {
+                    "label": "Sports In North Carolina",
+                    "uri": "http://dbpedia.org/class/yago/SportsInNorthCarolina"
+                },
+                {
+                    "label": "Sport",
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                },
+                {
+                    "label": "sports organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwIw695wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies Based In Florida",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInFlorida"
+                },
+                {
+                    "label": "Auto racing organizations",
+                    "uri": "http://dbpedia.org/resource/Auto_racing_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/NASCAR"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0098",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Nascar",
+            "types": [
+                {
+                    "label": "Sports In North Carolina",
+                    "uri": "http://dbpedia.org/class/yago/SportsInNorthCarolina"
+                },
+                {
+                    "label": "Sport",
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                },
+                {
+                    "label": "sports organization",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwIw695wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Companies Based In Florida",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInFlorida"
+                },
+                {
+                    "label": "Auto racing organizations",
+                    "uri": "http://dbpedia.org/resource/Auto_racing_organizations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/NASCAR"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

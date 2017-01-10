@@ -1,0 +1,349 @@
+{
+  "mainText":"The Academy was counting on Mr. MacFarlane to lure young male viewers, the primary audience for his \u201cFamily Guy\u201d television cartoon and R-rated movie \u201cTed.\u201d\nBut in a bit of a disconnect Mr. Zadan, making the publicity rounds last week, said Mr. MacFarlane in rehearsals reminded him of a \u201c throwback to the days of Bob Hope .\u201d",
+  "shownText":"The Academy was counting on Mr. MacFarlane to lure young male viewers, the primary audience for his \u201cFamily Guy\u201d television cartoon and R-rated movie \u201cTed.\u201d\nBut in a bit of a disconnect Mr. Zadan, making the publicity rounds last week, said Mr. MacFarlane in rehearsals reminded him of a \u201c throwback to the days of Bob Hope .\u201d",
+  "title":"Best Picture for âArgoâ in Varied Oscar Field - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts",
+  "category":"arts",
+  "docID":"P-0027",
+  "elementNumber":30,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Craig_Zadan",
+      "label":"Craig Zadan",
+      "offsets":[
+        {
+          "offset":190,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"LGBT directors",
+          "uri":"http://dbpedia.org/resource/LGBT_directors"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bob_Hope",
+      "label":"Bob Hope",
+      "offsets":[
+        {
+          "offset":315,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Honorary British knighthoods",
+          "uri":"http://dbpedia.org/resource/Honorary_British_knighthoods"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Converts To Roman Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"American centenarians",
+          "uri":"http://dbpedia.org/resource/American_centenarians"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American Centenarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanCentenarians"
+        },
+        {
+          "label":"People From Eltham",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromEltham"
+        },
+        {
+          "label":"English radio personalities",
+          "uri":"http://dbpedia.org/resource/English_radio_personalities"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"Burlesque Performers",
+          "uri":"http://dbpedia.org/class/yago/BurlesquePerformers"
+        },
+        {
+          "label":"Vaudeville Performers",
+          "uri":"http://dbpedia.org/class/yago/VaudevillePerformers"
+        },
+        {
+          "label":"Kentucky Colonels",
+          "uri":"http://dbpedia.org/class/yago/KentuckyColonels"
+        },
+        {
+          "label":"English comedians",
+          "uri":"http://dbpedia.org/resource/English_comedians"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"English Comedians",
+          "uri":"http://dbpedia.org/class/yago/EnglishComedians"
+        },
+        {
+          "label":"English Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/EnglishStand-upComedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Roman Catholics",
+          "uri":"http://dbpedia.org/resource/English_Roman_Catholics"
+        },
+        {
+          "label":"Burlesque performers",
+          "uri":"http://dbpedia.org/resource/Burlesque_performers"
+        },
+        {
+          "label":"Academy Honorary Award recipients",
+          "uri":"http://dbpedia.org/resource/Academy_Honorary_Award_recipients"
+        },
+        {
+          "label":"Converts to Roman Catholicism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+        },
+        {
+          "label":"English television actors",
+          "uri":"http://dbpedia.org/resource/English_television_actors"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Craig_Zadan",
+      "label":"Craig Zadan",
+      "offsets":[
+        {
+          "offset":190,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"LGBT directors",
+          "uri":"http://dbpedia.org/resource/LGBT_directors"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bob_Hope",
+      "label":"Bob Hope",
+      "offsets":[
+        {
+          "offset":315,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Honorary British knighthoods",
+          "uri":"http://dbpedia.org/resource/Honorary_British_knighthoods"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Converts To Roman Catholicism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToRomanCatholicism"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"American centenarians",
+          "uri":"http://dbpedia.org/resource/American_centenarians"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American Centenarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanCentenarians"
+        },
+        {
+          "label":"People From Eltham",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromEltham"
+        },
+        {
+          "label":"English radio personalities",
+          "uri":"http://dbpedia.org/resource/English_radio_personalities"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"Burlesque Performers",
+          "uri":"http://dbpedia.org/class/yago/BurlesquePerformers"
+        },
+        {
+          "label":"Vaudeville Performers",
+          "uri":"http://dbpedia.org/class/yago/VaudevillePerformers"
+        },
+        {
+          "label":"Kentucky Colonels",
+          "uri":"http://dbpedia.org/class/yago/KentuckyColonels"
+        },
+        {
+          "label":"English comedians",
+          "uri":"http://dbpedia.org/resource/English_comedians"
+        },
+        {
+          "label":"English Television Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishTelevisionActors"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Congressional Gold Medal recipients",
+          "uri":"http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+        },
+        {
+          "label":"English Comedians",
+          "uri":"http://dbpedia.org/class/yago/EnglishComedians"
+        },
+        {
+          "label":"English Stand-up Comedians",
+          "uri":"http://dbpedia.org/class/yago/EnglishStand-upComedians"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English Roman Catholics",
+          "uri":"http://dbpedia.org/resource/English_Roman_Catholics"
+        },
+        {
+          "label":"Burlesque performers",
+          "uri":"http://dbpedia.org/resource/Burlesque_performers"
+        },
+        {
+          "label":"Academy Honorary Award recipients",
+          "uri":"http://dbpedia.org/resource/Academy_Honorary_Award_recipients"
+        },
+        {
+          "label":"Converts to Roman Catholicism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Roman_Catholicism"
+        },
+        {
+          "label":"English television actors",
+          "uri":"http://dbpedia.org/resource/English_television_actors"
+        }
+      ]
+    }
+  ]
+}

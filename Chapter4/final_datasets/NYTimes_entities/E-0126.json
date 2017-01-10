@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "New York State Education Department",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Education ministries",
+                    "uri": "http://dbpedia.org/resource/Education_ministries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_State_Education_Department"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0126",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "New York State Education Department",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Education ministries",
+                    "uri": "http://dbpedia.org/resource/Education_ministries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_State_Education_Department"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

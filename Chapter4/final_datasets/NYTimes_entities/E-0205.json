@@ -1,0 +1,241 @@
+{
+    "allEntities": [
+        {
+            "label": "Pope John Paul II",
+            "types": [
+                {
+                    "label": "Polish person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjNdZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "Polish Popes",
+                    "uri": "http://dbpedia.org/class/yago/PolishPopes"
+                },
+                {
+                    "label": "Servants Of God",
+                    "uri": "http://dbpedia.org/class/yago/ServantsOfGod"
+                },
+                {
+                    "label": "Pope",
+                    "uri": "http://dbpedia.org/class/yago/Pope110453533"
+                },
+                {
+                    "label": "Karlspreis Recipients",
+                    "uri": "http://dbpedia.org/resource/Karlspreis_Recipients"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "Archbishops Of Krak%C3%B3w",
+                    "uri": "http://dbpedia.org/class/yago/ArchbishopsOfKrak%C3%B3w"
+                },
+                {
+                    "label": "Polish Polyglots",
+                    "uri": "http://dbpedia.org/class/yago/PolishPolyglots"
+                },
+                {
+                    "label": "Pope",
+                    "uri": "http://dbpedia.org/ontology/Pope"
+                },
+                {
+                    "label": "Polish Theologians",
+                    "uri": "http://dbpedia.org/class/yago/PolishTheologians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Congressional Gold Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+                },
+                {
+                    "label": "Popes",
+                    "uri": "http://dbpedia.org/class/yago/Popes"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "People With Parkinson's Disease",
+                    "uri": "http://dbpedia.org/class/yago/PeopleWithParkinson'sDisease"
+                },
+                {
+                    "label": "Participants In The Second Vatican Council",
+                    "uri": "http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+                },
+                {
+                    "label": "dead organism",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Sovereigns Of Vatican City",
+                    "uri": "http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+                },
+                {
+                    "label": "Shooting Victims",
+                    "uri": "http://dbpedia.org/class/yago/ShootingVictims"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "pope",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBxYpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Catholic exorcists",
+                    "uri": "http://dbpedia.org/resource/Catholic_exorcists"
+                },
+                {
+                    "label": "Roman Catholic Writers",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Polish Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/PolishPhilosophers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pope_John_Paul_II"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0205",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Pope John Paul II",
+            "types": [
+                {
+                    "label": "Polish person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjNdZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Cleric",
+                    "uri": "http://dbpedia.org/ontology/Cleric"
+                },
+                {
+                    "label": "Polish Popes",
+                    "uri": "http://dbpedia.org/class/yago/PolishPopes"
+                },
+                {
+                    "label": "Servants Of God",
+                    "uri": "http://dbpedia.org/class/yago/ServantsOfGod"
+                },
+                {
+                    "label": "Pope",
+                    "uri": "http://dbpedia.org/class/yago/Pope110453533"
+                },
+                {
+                    "label": "Karlspreis Recipients",
+                    "uri": "http://dbpedia.org/resource/Karlspreis_Recipients"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "Archbishops Of Krak%C3%B3w",
+                    "uri": "http://dbpedia.org/class/yago/ArchbishopsOfKrak%C3%B3w"
+                },
+                {
+                    "label": "Polish Polyglots",
+                    "uri": "http://dbpedia.org/class/yago/PolishPolyglots"
+                },
+                {
+                    "label": "Pope",
+                    "uri": "http://dbpedia.org/ontology/Pope"
+                },
+                {
+                    "label": "Polish Theologians",
+                    "uri": "http://dbpedia.org/class/yago/PolishTheologians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Congressional Gold Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+                },
+                {
+                    "label": "Popes",
+                    "uri": "http://dbpedia.org/class/yago/Popes"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "People With Parkinson's Disease",
+                    "uri": "http://dbpedia.org/class/yago/PeopleWithParkinson'sDisease"
+                },
+                {
+                    "label": "Participants In The Second Vatican Council",
+                    "uri": "http://dbpedia.org/class/yago/ParticipantsInTheSecondVaticanCouncil"
+                },
+                {
+                    "label": "dead organism",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Sovereigns Of Vatican City",
+                    "uri": "http://dbpedia.org/class/yago/SovereignsOfVaticanCity"
+                },
+                {
+                    "label": "Shooting Victims",
+                    "uri": "http://dbpedia.org/class/yago/ShootingVictims"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "pope",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBxYpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Catholic exorcists",
+                    "uri": "http://dbpedia.org/resource/Catholic_exorcists"
+                },
+                {
+                    "label": "Roman Catholic Writers",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Polish Philosophers",
+                    "uri": "http://dbpedia.org/class/yago/PolishPhilosophers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pope_John_Paul_II"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

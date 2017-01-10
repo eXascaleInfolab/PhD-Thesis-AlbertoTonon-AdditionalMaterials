@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Andrew Roth",
+            "types": [
+                {
+                    "label": "British Writers",
+                    "uri": "http://dbpedia.org/class/yago/BritishWriters"
+                },
+                {
+                    "label": "British writers",
+                    "uri": "http://dbpedia.org/resource/British_writers"
+                },
+                {
+                    "label": "British Journalists",
+                    "uri": "http://dbpedia.org/class/yago/BritishJournalists"
+                },
+                {
+                    "label": "British journalists",
+                    "uri": "http://dbpedia.org/resource/British_journalists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "People From New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYork"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Andrew_Roth"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0421",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Andrew Roth",
+            "types": [
+                {
+                    "label": "British Writers",
+                    "uri": "http://dbpedia.org/class/yago/BritishWriters"
+                },
+                {
+                    "label": "British writers",
+                    "uri": "http://dbpedia.org/resource/British_writers"
+                },
+                {
+                    "label": "British Journalists",
+                    "uri": "http://dbpedia.org/class/yago/BritishJournalists"
+                },
+                {
+                    "label": "British journalists",
+                    "uri": "http://dbpedia.org/resource/British_journalists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "People From New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYork"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Andrew_Roth"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

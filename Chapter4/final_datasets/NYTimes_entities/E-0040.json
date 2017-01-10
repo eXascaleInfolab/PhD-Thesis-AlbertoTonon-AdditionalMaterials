@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Fashion East",
+            "types": [
+                {
+                    "label": "faceting collection type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvprlOZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "type of atemporal collection in which membership is necessarily essential",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rqEYnNVMqEdaSKAACs0x8nw"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "second-order Cyc collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rHQdVmB_TEdaAAABQ2rksLw"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fashion"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0040",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fashion East",
+            "types": [
+                {
+                    "label": "faceting collection type",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvprlOZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "type of atemporal collection in which membership is necessarily essential",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rqEYnNVMqEdaSKAACs0x8nw"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "second-order Cyc collection",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rHQdVmB_TEdaAAABQ2rksLw"
+                },
+                {
+                    "label": "ns#Target",
+                    "uri": "http://s.zemanta.com/ns#Target"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fashion"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

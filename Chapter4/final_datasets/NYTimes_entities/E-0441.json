@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "YES Network",
+            "types": [
+                {
+                    "label": "HD channels",
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                },
+                {
+                    "label": "HDChannels",
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/YES_Network"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0441",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "YES Network",
+            "types": [
+                {
+                    "label": "HD channels",
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                },
+                {
+                    "label": "HDChannels",
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/YES_Network"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

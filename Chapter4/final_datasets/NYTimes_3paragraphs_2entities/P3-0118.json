@@ -1,0 +1,373 @@
+{
+  "mainText":"On Wednesday, he will take his message to Washington.\nHe has meetings scheduled with Vice President Joseph R. Biden Jr. and leaders of the Senate, including John McCain and Harry Reid.\nThe topic: guns.",
+  "shownText":"Mr. Bloomberg is just warming up, electorally.\nHe and his aides are already scouting out future races, making little secret of their plans to open his wallet in support of Democrats or Republicans who share his views on guns.\n\nOn Wednesday, he will take his message to Washington.\nHe has meetings scheduled with Vice President Joseph R. Biden Jr. and leaders of the Senate, including John McCain and Harry Reid.\nThe topic: guns.\n\n",
+  "title":"Robin Kelly&#039;s Win in Illinois Is Also a Win for Bloomberg - NYTimes.com",
+  "articleUrl":"http://cityroom.blogs.nytimes.com/2013/02/27/gun-control-advocates-win-in-illinois-is-also-a-win-for-bloomberg/?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0118",
+  "elementNumber":20,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":269,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_McCain",
+      "label":"John McCain",
+      "offsets":[
+        {
+          "offset":384,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American military writers",
+          "uri":"http://dbpedia.org/resource/American_military_writers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Officeholder",
+          "uri":"http://dbpedia.org/class/yago/Officeholder110371450"
+        },
+        {
+          "label":"United States Senators From Arizona",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromArizona"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Political Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPoliticalWriters"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/ontology/Senator"
+        },
+        {
+          "label":"American political writers",
+          "uri":"http://dbpedia.org/resource/American_political_writers"
+        },
+        {
+          "label":"American military personnel",
+          "uri":"http://dbpedia.org/resource/American_military_personnel"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harry_Reid",
+      "label":"Harry Reid",
+      "offsets":[
+        {
+          "offset":400,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/resource/American_Latter_Day_Saints"
+        },
+        {
+          "label":"Officeholder",
+          "uri":"http://dbpedia.org/class/yago/Officeholder110371450"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Nevada Lawyers",
+          "uri":"http://dbpedia.org/class/yago/NevadaLawyers"
+        },
+        {
+          "label":"Converts to Mormonism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Mormonism"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democratic Party (United States) politicians",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_politicians"
+        },
+        {
+          "label":"Converts To Mormonism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToMormonism"
+        },
+        {
+          "label":"United States Senators From Nevada",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNevada"
+        },
+        {
+          "label":"George Washington University alumni",
+          "uri":"http://dbpedia.org/resource/George_Washington_University_alumni"
+        },
+        {
+          "label":"Congressional scandals",
+          "uri":"http://dbpedia.org/resource/Congressional_scandals"
+        },
+        {
+          "label":"Lieutenant Governors Of Nevada",
+          "uri":"http://dbpedia.org/class/yago/LieutenantGovernorsOfNevada"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":269,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/John_McCain",
+      "label":"John McCain",
+      "offsets":[
+        {
+          "offset":384,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American military writers",
+          "uri":"http://dbpedia.org/resource/American_military_writers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Officeholder",
+          "uri":"http://dbpedia.org/class/yago/Officeholder110371450"
+        },
+        {
+          "label":"United States Senators From Arizona",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromArizona"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Future election candidates",
+          "uri":"http://dbpedia.org/resource/Future_election_candidates"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"politician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVjntpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Political Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanPoliticalWriters"
+        },
+        {
+          "label":"Senator",
+          "uri":"http://dbpedia.org/ontology/Senator"
+        },
+        {
+          "label":"American political writers",
+          "uri":"http://dbpedia.org/resource/American_political_writers"
+        },
+        {
+          "label":"American military personnel",
+          "uri":"http://dbpedia.org/resource/American_military_personnel"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harry_Reid",
+      "label":"Harry Reid",
+      "offsets":[
+        {
+          "offset":400,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/resource/American_Latter_Day_Saints"
+        },
+        {
+          "label":"Officeholder",
+          "uri":"http://dbpedia.org/class/yago/Officeholder110371450"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"Nevada Lawyers",
+          "uri":"http://dbpedia.org/class/yago/NevadaLawyers"
+        },
+        {
+          "label":"Converts to Mormonism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Mormonism"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Democratic Party (United States) politicians",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_politicians"
+        },
+        {
+          "label":"Converts To Mormonism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToMormonism"
+        },
+        {
+          "label":"United States Senators From Nevada",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNevada"
+        },
+        {
+          "label":"George Washington University alumni",
+          "uri":"http://dbpedia.org/resource/George_Washington_University_alumni"
+        },
+        {
+          "label":"Congressional scandals",
+          "uri":"http://dbpedia.org/resource/Congressional_scandals"
+        },
+        {
+          "label":"Lieutenant Governors Of Nevada",
+          "uri":"http://dbpedia.org/class/yago/LieutenantGovernorsOfNevada"
+        }
+      ]
+    }
+  ]
+}

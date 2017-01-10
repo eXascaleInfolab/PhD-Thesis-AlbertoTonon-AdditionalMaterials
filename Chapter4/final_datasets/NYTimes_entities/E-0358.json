@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "City University of New York",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/City_University_of_New_York"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0358",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "City University of New York",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/City_University_of_New_York"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,453 @@
+{
+  "mainText":"I did not take a calculus course until my second year of college.\n\u201cThere was nothing exceptional about the math and science training at Washington-Lee,\u201d he wrote in his autobiography for the Nobel Prize.\n\u201cThe idea of \u2018advanced placement\u2019 had not yet been invented.\nRobert attended Washington-Lee High School in Arlington.\nThe biology and physics courses were very old-fashioned.\u201d",
+  "shownText":"Robert Coleman Richardson was born on June 26, 1937, in Washington, the first child of Robert F. and Lois Price Richardson.\n(A sister, Addie, was born two years later.)\nThe family lived in Arlington, Va.\nHis father, the son of a rural general store owner who traced his family to early Colonial times, worked for a telephone company; his mother grew up an orphan in North Carolina and earned a master\u2019s degree in history.\n\nI did not take a calculus course until my second year of college.\n\u201cThere was nothing exceptional about the math and science training at Washington-Lee,\u201d he wrote in his autobiography for the Nobel Prize.\n\u201cThe idea of \u2018advanced placement\u2019 had not yet been invented.\nRobert attended Washington-Lee High School in Arlington.\nThe biology and physics courses were very old-fashioned.\u201d\n\nHe went on to earn a bachelor\u2019s degree in physics at Virginia Polytechnic Institute.\n",
+  "title":"Robert C. Richardson, Nobel-Winning Physicist, Dies at 75 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/science/robert-c-richardson-nobel-winning-physicist-dies-at-75.html?ref=science",
+  "category":"science",
+  "docID":"P3-0187",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":56,
+          "length":10
+        },
+        {
+          "offset":559,
+          "length":10
+        },
+        {
+          "offset":704,
+          "length":10
+        },
+        {
+          "offset":56,
+          "length":10
+        },
+        {
+          "offset":559,
+          "length":10
+        },
+        {
+          "offset":704,
+          "length":10
+        },
+        {
+          "offset":56,
+          "length":10
+        },
+        {
+          "offset":559,
+          "length":10
+        },
+        {
+          "offset":704,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert",
+      "label":"Robert",
+      "offsets":[
+        {
+          "offset":0,
+          "length":6
+        },
+        {
+          "offset":87,
+          "length":6
+        },
+        {
+          "offset":688,
+          "length":6
+        },
+        {
+          "offset":0,
+          "length":6
+        },
+        {
+          "offset":87,
+          "length":6
+        },
+        {
+          "offset":688,
+          "length":6
+        },
+        {
+          "offset":0,
+          "length":6
+        },
+        {
+          "offset":87,
+          "length":6
+        },
+        {
+          "offset":688,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"German given names",
+          "uri":"http://dbpedia.org/resource/German_given_names"
+        },
+        {
+          "label":"French surnames",
+          "uri":"http://dbpedia.org/resource/French_surnames"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington-Lee_High_School",
+      "label":"Washington-Lee High School",
+      "offsets":[
+        {
+          "offset":704,
+          "length":26
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"International Baccalaureate schools",
+          "uri":"http://dbpedia.org/resource/International_Baccalaureate_schools"
+        },
+        {
+          "label":"Educational Institutions Established In1924",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1924"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":56,
+          "length":10
+        },
+        {
+          "offset":559,
+          "length":10
+        },
+        {
+          "offset":704,
+          "length":10
+        },
+        {
+          "offset":56,
+          "length":10
+        },
+        {
+          "offset":559,
+          "length":10
+        },
+        {
+          "offset":704,
+          "length":10
+        },
+        {
+          "offset":56,
+          "length":10
+        },
+        {
+          "offset":559,
+          "length":10
+        },
+        {
+          "offset":704,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert",
+      "label":"Robert",
+      "offsets":[
+        {
+          "offset":0,
+          "length":6
+        },
+        {
+          "offset":87,
+          "length":6
+        },
+        {
+          "offset":688,
+          "length":6
+        },
+        {
+          "offset":0,
+          "length":6
+        },
+        {
+          "offset":87,
+          "length":6
+        },
+        {
+          "offset":688,
+          "length":6
+        },
+        {
+          "offset":0,
+          "length":6
+        },
+        {
+          "offset":87,
+          "length":6
+        },
+        {
+          "offset":688,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"German given names",
+          "uri":"http://dbpedia.org/resource/German_given_names"
+        },
+        {
+          "label":"French surnames",
+          "uri":"http://dbpedia.org/resource/French_surnames"
+        },
+        {
+          "label":"English given names",
+          "uri":"http://dbpedia.org/resource/English_given_names"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Washington-Lee_High_School",
+      "label":"Washington-Lee High School",
+      "offsets":[
+        {
+          "offset":704,
+          "length":26
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"International Baccalaureate schools",
+          "uri":"http://dbpedia.org/resource/International_Baccalaureate_schools"
+        },
+        {
+          "label":"Educational Institutions Established In1924",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1924"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/North_Carolina",
+      "label":"North Carolina",
+      "offsets":[
+        {
+          "offset":366,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Robert_Coleman_Richardson",
+      "label":"Robert Coleman Richardson",
+      "offsets":[
+        {
+          "offset":0,
+          "length":25
+        }
+      ],
+      "types":[
+        {
+          "label":"Cornell University faculty",
+          "uri":"http://dbpedia.org/resource/Cornell_University_faculty"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Duke University faculty",
+          "uri":"http://dbpedia.org/resource/Duke_University_faculty"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Experimental Physicists",
+          "uri":"http://dbpedia.org/class/yago/ExperimentalPhysicists"
+        },
+        {
+          "label":"Scientist",
+          "uri":"http://dbpedia.org/ontology/Scientist"
+        },
+        {
+          "label":"Scientist",
+          "uri":"http://dbpedia.org/class/yago/Scientist110560637"
+        },
+        {
+          "label":"Nobel Laureates In Physics",
+          "uri":"http://dbpedia.org/class/yago/NobelLaureatesInPhysics"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American physicists",
+          "uri":"http://dbpedia.org/resource/American_physicists"
+        },
+        {
+          "label":"American Physicists",
+          "uri":"http://dbpedia.org/class/yago/AmericanPhysicists"
+        },
+        {
+          "label":"Eagle Scouts",
+          "uri":"http://dbpedia.org/class/yago/EagleScouts"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Duke University alumni",
+          "uri":"http://dbpedia.org/resource/Duke_University_alumni"
+        },
+        {
+          "label":"Duke University Alumni",
+          "uri":"http://dbpedia.org/class/yago/DukeUniversityAlumni"
+        },
+        {
+          "label":"Virginia Tech Alumni",
+          "uri":"http://dbpedia.org/class/yago/VirginiaTechAlumni"
+        }
+      ]
+    }
+  ]
+}

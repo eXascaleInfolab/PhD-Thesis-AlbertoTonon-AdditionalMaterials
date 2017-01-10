@@ -1,0 +1,117 @@
+{
+  "mainText":"I first met Moskowitz on a crisp day in the spring of 2010 at the Harvard Club in Midtown Manhattan.\nAs a researcher, I was ahead of my time.\u201d\nI was struggling to survive and didn\u2019t have the luxury of being a moral creature.\n\u201cI did the best science I could.\n\u201cThere\u2019s no moral issue for me,\u201d he said.\nAs we talked, he made clear that while he has worked on numerous projects aimed at creating more healthful foods and insists the industry could be doing far more to curb obesity, he had no qualms about his own pioneering work on discovering what industry insiders now regularly refer to as \u201cthe bliss point\u201d or any of the other systems that helped food companies create the greatest amount of crave.",
+  "shownText":"I first met Moskowitz on a crisp day in the spring of 2010 at the Harvard Club in Midtown Manhattan.\nAs a researcher, I was ahead of my time.\u201d\nI was struggling to survive and didn\u2019t have the luxury of being a moral creature.\n\u201cI did the best science I could.\n\u201cThere\u2019s no moral issue for me,\u201d he said.\nAs we talked, he made clear that while he has worked on numerous projects aimed at creating more healthful foods and insists the industry could be doing far more to curb obesity, he had no qualms about his own pioneering work on discovering what industry insiders now regularly refer to as \u201cthe bliss point\u201d or any of the other systems that helped food companies create the greatest amount of crave.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"P-0173",
+  "elementNumber":33,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_Glee_Club",
+      "label":"Harvard Club",
+      "offsets":[
+        {
+          "offset":66,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston culture",
+          "uri":"http://dbpedia.org/resource/Boston_culture"
+        },
+        {
+          "label":"Massachusetts Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+        },
+        {
+          "label":"Glee Clubs",
+          "uri":"http://dbpedia.org/class/yago/GleeClubs"
+        },
+        {
+          "label":"Harvard Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/HarvardMusicalGroups"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":66,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_Glee_Club",
+      "label":"Harvard Club",
+      "offsets":[
+        {
+          "offset":66,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston culture",
+          "uri":"http://dbpedia.org/resource/Boston_culture"
+        },
+        {
+          "label":"Massachusetts Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+        },
+        {
+          "label":"Glee Clubs",
+          "uri":"http://dbpedia.org/class/yago/GleeClubs"
+        },
+        {
+          "label":"Harvard Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/HarvardMusicalGroups"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":66,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ]
+}

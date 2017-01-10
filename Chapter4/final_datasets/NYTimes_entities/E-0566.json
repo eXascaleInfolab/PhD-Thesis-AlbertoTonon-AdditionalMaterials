@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Helmut Newton",
+            "types": [
+                {
+                    "label": "Fetish Photographers",
+                    "uri": "http://dbpedia.org/class/yago/FetishPhotographers"
+                },
+                {
+                    "label": "Australian photographers",
+                    "uri": "http://dbpedia.org/resource/Australian_photographers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Helmut_Newton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0566",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Helmut Newton",
+            "types": [
+                {
+                    "label": "Fetish Photographers",
+                    "uri": "http://dbpedia.org/class/yago/FetishPhotographers"
+                },
+                {
+                    "label": "Australian photographers",
+                    "uri": "http://dbpedia.org/resource/Australian_photographers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Helmut_Newton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

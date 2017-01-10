@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Federal Trade Commission",
+            "types": [
+                {
+                    "label": "Competition regulators",
+                    "uri": "http://dbpedia.org/resource/Competition_regulators"
+                },
+                {
+                    "label": "Agency",
+                    "uri": "http://dbpedia.org/class/yago/Agency108337324"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Federal_Trade_Commission"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0502",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Federal Trade Commission",
+            "types": [
+                {
+                    "label": "Competition regulators",
+                    "uri": "http://dbpedia.org/resource/Competition_regulators"
+                },
+                {
+                    "label": "Agency",
+                    "uri": "http://dbpedia.org/class/yago/Agency108337324"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Federal_Trade_Commission"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Dichter",
+            "types": [
+                {
+                    "label": "Directors Of The Shabak",
+                    "uri": "http://dbpedia.org/class/yago/DirectorsOfTheShabak"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Avi_Dichter"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0071",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dichter",
+            "types": [
+                {
+                    "label": "Directors Of The Shabak",
+                    "uri": "http://dbpedia.org/class/yago/DirectorsOfTheShabak"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Avi_Dichter"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

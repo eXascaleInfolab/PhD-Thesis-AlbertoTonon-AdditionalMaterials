@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Marc Staal",
+            "types": [
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marc_Staal"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0601",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Marc Staal",
+            "types": [
+                {
+                    "label": "Hartford Wolf Pack players",
+                    "uri": "http://dbpedia.org/resource/Hartford_Wolf_Pack_players"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Ice hockey personnel from Ontario",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Ontario"
+                },
+                {
+                    "label": "Canadian ice hockey defencemen",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_defencemen"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Marc_Staal"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Microsoft Office",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/class/yago/Software106566077"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/ontology/Software"
+                },
+                {
+                    "label": "Office Suites",
+                    "uri": "http://dbpedia.org/class/yago/OfficeSuites"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Microsoft_Office"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0493",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Microsoft Office",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/class/yago/Software106566077"
+                },
+                {
+                    "label": "Software",
+                    "uri": "http://dbpedia.org/ontology/Software"
+                },
+                {
+                    "label": "Office Suites",
+                    "uri": "http://dbpedia.org/class/yago/OfficeSuites"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Microsoft_Office"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

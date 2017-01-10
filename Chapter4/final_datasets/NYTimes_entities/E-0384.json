@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Rafael Caldera",
+            "types": [
+                {
+                    "label": "Presidents Of Venezuela",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfVenezuela"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Roman Catholic Activists",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicActivists"
+                },
+                {
+                    "label": "Lawyer",
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Venezuelan Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/VenezuelanLawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rafael_Caldera"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0384",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Rafael Caldera",
+            "types": [
+                {
+                    "label": "Presidents Of Venezuela",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfVenezuela"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Roman Catholic Activists",
+                    "uri": "http://dbpedia.org/class/yago/RomanCatholicActivists"
+                },
+                {
+                    "label": "Lawyer",
+                    "uri": "http://dbpedia.org/class/yago/Lawyer110249950"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Venezuelan Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/VenezuelanLawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Rafael_Caldera"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

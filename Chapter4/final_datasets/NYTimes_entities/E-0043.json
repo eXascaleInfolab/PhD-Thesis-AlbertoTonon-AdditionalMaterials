@@ -1,0 +1,177 @@
+{
+    "allEntities": [
+        {
+            "label": "Bruce Conner",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Experimental Filmmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExperimentalFilmmakers"
+                },
+                {
+                    "label": "American photographers",
+                    "uri": "http://dbpedia.org/resource/American_photographers"
+                },
+                {
+                    "label": "American painters",
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                },
+                {
+                    "label": "California artists",
+                    "uri": "http://dbpedia.org/resource/California_artists"
+                },
+                {
+                    "label": "American experimental filmmakers",
+                    "uri": "http://dbpedia.org/resource/American_experimental_filmmakers"
+                },
+                {
+                    "label": "Contemporary Artists",
+                    "uri": "http://dbpedia.org/class/yago/ContemporaryArtists"
+                },
+                {
+                    "label": "American sculptors",
+                    "uri": "http://dbpedia.org/resource/American_sculptors"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Sculptors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSculptors"
+                },
+                {
+                    "label": "American Painters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPainters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "California Artists",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaArtists"
+                },
+                {
+                    "label": "American Photographers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhotographers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Postmodern Artists",
+                    "uri": "http://dbpedia.org/class/yago/PostmodernArtists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bruce_Conner"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0043",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bruce Conner",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Experimental Filmmakers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExperimentalFilmmakers"
+                },
+                {
+                    "label": "American photographers",
+                    "uri": "http://dbpedia.org/resource/American_photographers"
+                },
+                {
+                    "label": "American painters",
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                },
+                {
+                    "label": "California artists",
+                    "uri": "http://dbpedia.org/resource/California_artists"
+                },
+                {
+                    "label": "American experimental filmmakers",
+                    "uri": "http://dbpedia.org/resource/American_experimental_filmmakers"
+                },
+                {
+                    "label": "Contemporary Artists",
+                    "uri": "http://dbpedia.org/class/yago/ContemporaryArtists"
+                },
+                {
+                    "label": "American sculptors",
+                    "uri": "http://dbpedia.org/resource/American_sculptors"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Sculptors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanSculptors"
+                },
+                {
+                    "label": "American Painters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPainters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "California Artists",
+                    "uri": "http://dbpedia.org/class/yago/CaliforniaArtists"
+                },
+                {
+                    "label": "American Photographers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhotographers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Postmodern Artists",
+                    "uri": "http://dbpedia.org/class/yago/PostmodernArtists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bruce_Conner"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,349 @@
+{
+    "allEntities": [
+        {
+            "label": "Milan Kundera", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 159
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Writer", 
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                }, 
+                {
+                    "label": "Charles University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/CharlesUniversityAlumni"
+                }, 
+                {
+                    "label": "People From Brno", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrno"
+                }, 
+                {
+                    "label": "Czech expatriates", 
+                    "uri": "http://dbpedia.org/resource/Czech_expatriates"
+                }, 
+                {
+                    "label": "Czech Writers", 
+                    "uri": "http://dbpedia.org/class/yago/CzechWriters"
+                }, 
+                {
+                    "label": "Czech Atheists", 
+                    "uri": "http://dbpedia.org/class/yago/CzechAtheists"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "individual", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "French Novelists", 
+                    "uri": "http://dbpedia.org/class/yago/FrenchNovelists"
+                }, 
+                {
+                    "label": "Charles University alumni", 
+                    "uri": "http://dbpedia.org/resource/Charles_University_alumni"
+                }, 
+                {
+                    "label": "Czech Expatriates", 
+                    "uri": "http://dbpedia.org/class/yago/CzechExpatriates"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Czech atheists", 
+                    "uri": "http://dbpedia.org/resource/Czech_atheists"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Milan_Kundera"
+        }, 
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 144
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 374
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 414
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 476
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 613
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 644
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/03/opinion/sunday/are-there-any-europeans-left.html?ref=opinion", 
+    "category": "opinion", 
+    "docID": "P-0150", 
+    "elementNumber": 15, 
+    "mainEntities": [
+        {
+            "label": "Milan Kundera", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 159
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Writer", 
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                }, 
+                {
+                    "label": "Charles University Alumni", 
+                    "uri": "http://dbpedia.org/class/yago/CharlesUniversityAlumni"
+                }, 
+                {
+                    "label": "People From Brno", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBrno"
+                }, 
+                {
+                    "label": "Czech expatriates", 
+                    "uri": "http://dbpedia.org/resource/Czech_expatriates"
+                }, 
+                {
+                    "label": "Czech Writers", 
+                    "uri": "http://dbpedia.org/class/yago/CzechWriters"
+                }, 
+                {
+                    "label": "Czech Atheists", 
+                    "uri": "http://dbpedia.org/class/yago/CzechAtheists"
+                }, 
+                {
+                    "label": "Artist", 
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                }, 
+                {
+                    "label": "individual", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "French Novelists", 
+                    "uri": "http://dbpedia.org/class/yago/FrenchNovelists"
+                }, 
+                {
+                    "label": "Charles University alumni", 
+                    "uri": "http://dbpedia.org/resource/Charles_University_alumni"
+                }, 
+                {
+                    "label": "Czech Expatriates", 
+                    "uri": "http://dbpedia.org/class/yago/CzechExpatriates"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Czech atheists", 
+                    "uri": "http://dbpedia.org/resource/Czech_atheists"
+                }, 
+                {
+                    "label": "Living People", 
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Milan_Kundera"
+        }, 
+        {
+            "label": "Europe", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 144
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 374
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 414
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 476
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 613
+                }, 
+                {
+                    "length": 6, 
+                    "offset": 644
+                }
+            ], 
+            "types": [
+                {
+                    "label": "traditional continent", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkLu5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "Continent", 
+                    "uri": "http://dbpedia.org/ontology/Continent"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Band", 
+                    "uri": "http://dbpedia.org/ontology/Band"
+                }, 
+                {
+                    "label": "musician", 
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Record Label", 
+                    "uri": "http://dbpedia.org/ontology/RecordLabel"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Continents", 
+                    "uri": "http://dbpedia.org/class/yago/Continents"
+                }, 
+                {
+                    "label": "some important regions geography topic", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r6xmYAGJsQdiGG_36_HuOpw"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }, 
+                {
+                    "label": "Musical Artist", 
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Europe"
+        }
+    ], 
+    "mainText": "But those are available globally to anyone with their level of wealth and privilege.\nMeanwhile, the newly free countries of Central and Eastern Europe &mdash; Milan Kundera&rsquo;s &ldquo;kidnapped West,&rdquo; disfigured by 45 years of Soviet occupation &mdash; hadn&rsquo;t so much re-Europanized their economies as globalized them.\nApart from that euro in their pockets, Europe&rsquo;s young people do not feel Europe&rsquo;s presence on a daily basis.\nThe same is true of Europe&rsquo;s rising generation; it knows the pleasures of a modern economy.\nIn 2005, French and Dutch voters blocked progress toward a European constitution.\nPerhaps Europe&rsquo;s leaders should have been more alarmed when enthusiasm for unity began fraying even before the crisis.", 
+    "shownText": "But those are available globally to anyone with their level of wealth and privilege.\nMeanwhile, the newly free countries of Central and Eastern Europe &mdash; Milan Kundera&rsquo;s &ldquo;kidnapped West,&rdquo; disfigured by 45 years of Soviet occupation &mdash; hadn&rsquo;t so much re-Europanized their economies as globalized them.\nApart from that euro in their pockets, Europe&rsquo;s young people do not feel Europe&rsquo;s presence on a daily basis.\nThe same is true of Europe&rsquo;s rising generation; it knows the pleasures of a modern economy.\nIn 2005, French and Dutch voters blocked progress toward a European constitution.\nPerhaps Europe&rsquo;s leaders should have been more alarmed when enthusiasm for unity began fraying even before the crisis.", 
+    "title": "Are There Any Europeans Left? - NYTimes.com"
+}

@@ -1,0 +1,177 @@
+{
+    "allEntities": [
+        {
+            "label": "Paris",
+            "types": [
+                {
+                    "label": "Companions Of The Liberation",
+                    "uri": "http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+                },
+                {
+                    "label": "French department",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "3rd century BC establishments",
+                    "uri": "http://dbpedia.org/resource/3rd_century_BC_establishments"
+                },
+                {
+                    "label": "European Capitals Of Culture",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                },
+                {
+                    "label": "French commune",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": "World Heritage Sites In France",
+                    "uri": "http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Paris"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0068",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Paris",
+            "types": [
+                {
+                    "label": "Companions Of The Liberation",
+                    "uri": "http://dbpedia.org/class/yago/CompanionsOfTheLiberation"
+                },
+                {
+                    "label": "French department",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvrxtHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "capital",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/ontology/City"
+                },
+                {
+                    "label": "3rd century BC establishments",
+                    "uri": "http://dbpedia.org/resource/3rd_century_BC_establishments"
+                },
+                {
+                    "label": "European Capitals Of Culture",
+                    "uri": "http://dbpedia.org/class/yago/EuropeanCapitalsOfCulture"
+                },
+                {
+                    "label": "French commune",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwRXPZZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                },
+                {
+                    "label": "World Heritage Sites In France",
+                    "uri": "http://dbpedia.org/class/yago/WorldHeritageSitesInFrance"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Paris"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

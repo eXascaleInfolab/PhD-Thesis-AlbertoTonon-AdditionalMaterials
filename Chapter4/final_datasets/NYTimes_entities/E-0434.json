@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Julien Temple",
+            "types": [
+                {
+                    "label": "English Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmDirectors"
+                },
+                {
+                    "label": "English music video directors",
+                    "uri": "http://dbpedia.org/resource/English_music_video_directors"
+                },
+                {
+                    "label": "English Music Video Directors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicVideoDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Julien_Temple"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0434",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Julien Temple",
+            "types": [
+                {
+                    "label": "English Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmDirectors"
+                },
+                {
+                    "label": "English music video directors",
+                    "uri": "http://dbpedia.org/resource/English_music_video_directors"
+                },
+                {
+                    "label": "English Music Video Directors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishMusicVideoDirectors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Julien_Temple"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

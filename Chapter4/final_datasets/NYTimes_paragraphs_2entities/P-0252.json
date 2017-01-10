@@ -1,0 +1,317 @@
+{
+  "mainText":"One possibility is revamping the clothing and accessories line he and Ms. Hofeldt created.\nMs. Hofeldt said in a phone interview that members of Nine Inch Nails and Coldplay had worn their sequined sweatshirts at a Coachella Valley Music and Arts Festival .",
+  "shownText":"One possibility is revamping the clothing and accessories line he and Ms. Hofeldt created.\nMs. Hofeldt said in a phone interview that members of Nine Inch Nails and Coldplay had worn their sequined sweatshirts at a Coachella Valley Music and Arts Festival .",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"P-0252",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Coldplay",
+      "label":"Coldplay",
+      "offsets":[
+        {
+          "offset":165,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"English musical groups",
+          "uri":"http://dbpedia.org/resource/English_musical_groups"
+        },
+        {
+          "label":"English Rock Music Groups",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockMusicGroups"
+        },
+        {
+          "label":"English Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/EnglishMusicalGroups"
+        },
+        {
+          "label":"Alternative musical groups",
+          "uri":"http://dbpedia.org/resource/Alternative_musical_groups"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"Alternative Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/AlternativeMusicalGroups"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English rock music groups",
+          "uri":"http://dbpedia.org/resource/English_rock_music_groups"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Musical Groups Established In1997",
+          "uri":"http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1997"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Nine_Inch_Nails",
+      "label":"Nine Inch Nails",
+      "offsets":[
+        {
+          "offset":145,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Pop music",
+          "uri":"http://dbpedia.org/resource/Pop_music"
+        },
+        {
+          "label":"Alternative musical groups",
+          "uri":"http://dbpedia.org/resource/Alternative_musical_groups"
+        },
+        {
+          "label":"private-sector organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_D3hZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"Alternative Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/AlternativeMusicalGroups"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"commercial entertainment organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rIvhQOOaKEdqAAAACs2IKaQ"
+        },
+        {
+          "label":"Popular Music Band",
+          "uri":"http://umbel.org/umbel/sc/PopularMusicBand"
+        },
+        {
+          "label":"1990s Music Groups",
+          "uri":"http://dbpedia.org/class/yago/1990sMusicGroups"
+        },
+        {
+          "label":"American rock music groups",
+          "uri":"http://dbpedia.org/resource/American_rock_music_groups"
+        },
+        {
+          "label":"Industrial rock musical groups",
+          "uri":"http://dbpedia.org/resource/Industrial_rock_musical_groups"
+        },
+        {
+          "label":"American electronic music groups",
+          "uri":"http://dbpedia.org/resource/American_electronic_music_groups"
+        },
+        {
+          "label":"band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvgEZGJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.cyc.com/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"2000s Music Groups",
+          "uri":"http://dbpedia.org/class/yago/2000sMusicGroups"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Coldplay",
+      "label":"Coldplay",
+      "offsets":[
+        {
+          "offset":165,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"English musical groups",
+          "uri":"http://dbpedia.org/resource/English_musical_groups"
+        },
+        {
+          "label":"English Rock Music Groups",
+          "uri":"http://dbpedia.org/class/yago/EnglishRockMusicGroups"
+        },
+        {
+          "label":"English Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/EnglishMusicalGroups"
+        },
+        {
+          "label":"Alternative musical groups",
+          "uri":"http://dbpedia.org/resource/Alternative_musical_groups"
+        },
+        {
+          "label":"Band",
+          "uri":"http://dbpedia.org/ontology/Band"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"Alternative Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/AlternativeMusicalGroups"
+        },
+        {
+          "label":"musician",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvVisB5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"English rock music groups",
+          "uri":"http://dbpedia.org/resource/English_rock_music_groups"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Musical Groups Established In1997",
+          "uri":"http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1997"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Nine_Inch_Nails",
+      "label":"Nine Inch Nails",
+      "offsets":[
+        {
+          "offset":145,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Pop music",
+          "uri":"http://dbpedia.org/resource/Pop_music"
+        },
+        {
+          "label":"Alternative musical groups",
+          "uri":"http://dbpedia.org/resource/Alternative_musical_groups"
+        },
+        {
+          "label":"private-sector organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv_D3hZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"Alternative Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/AlternativeMusicalGroups"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"commercial entertainment organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rIvhQOOaKEdqAAAACs2IKaQ"
+        },
+        {
+          "label":"Popular Music Band",
+          "uri":"http://umbel.org/umbel/sc/PopularMusicBand"
+        },
+        {
+          "label":"1990s Music Groups",
+          "uri":"http://dbpedia.org/class/yago/1990sMusicGroups"
+        },
+        {
+          "label":"American rock music groups",
+          "uri":"http://dbpedia.org/resource/American_rock_music_groups"
+        },
+        {
+          "label":"Industrial rock musical groups",
+          "uri":"http://dbpedia.org/resource/Industrial_rock_musical_groups"
+        },
+        {
+          "label":"American electronic music groups",
+          "uri":"http://dbpedia.org/resource/American_electronic_music_groups"
+        },
+        {
+          "label":"band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvgEZGJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.cyc.com/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"2000s Music Groups",
+          "uri":"http://dbpedia.org/class/yago/2000sMusicGroups"
+        },
+        {
+          "label":"popular music band",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViqQZwpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

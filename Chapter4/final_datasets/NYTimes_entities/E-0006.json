@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Patrick Zuo",
+            "types": [
+                {
+                    "label": "Chinese centenarians",
+                    "uri": "http://dbpedia.org/resource/Chinese_centenarians"
+                },
+                {
+                    "label": "Cao Cao and associates",
+                    "uri": "http://dbpedia.org/resource/Cao_Cao_and_associates"
+                },
+                {
+                    "label": "Chinese Taoists",
+                    "uri": "http://dbpedia.org/resource/Chinese_Taoists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Zuo_Ci"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0006",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Patrick Zuo",
+            "types": [
+                {
+                    "label": "Chinese centenarians",
+                    "uri": "http://dbpedia.org/resource/Chinese_centenarians"
+                },
+                {
+                    "label": "Cao Cao and associates",
+                    "uri": "http://dbpedia.org/resource/Cao_Cao_and_associates"
+                },
+                {
+                    "label": "Chinese Taoists",
+                    "uri": "http://dbpedia.org/resource/Chinese_Taoists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Zuo_Ci"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

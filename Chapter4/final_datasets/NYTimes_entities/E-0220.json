@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Boston Public Library",
+            "types": [
+                {
+                    "label": "Boston cultural history",
+                    "uri": "http://dbpedia.org/resource/Boston_cultural_history"
+                },
+                {
+                    "label": "Beaux-Arts buildings",
+                    "uri": "http://dbpedia.org/resource/Beaux-Arts_buildings"
+                },
+                {
+                    "label": "Copley Square%2C Boston",
+                    "uri": "http://dbpedia.org/resource/Copley_Square%2C_Boston"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Boston_Public_Library"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0220",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Boston Public Library",
+            "types": [
+                {
+                    "label": "Boston cultural history",
+                    "uri": "http://dbpedia.org/resource/Boston_cultural_history"
+                },
+                {
+                    "label": "Beaux-Arts buildings",
+                    "uri": "http://dbpedia.org/resource/Beaux-Arts_buildings"
+                },
+                {
+                    "label": "Copley Square%2C Boston",
+                    "uri": "http://dbpedia.org/resource/Copley_Square%2C_Boston"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Boston_Public_Library"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

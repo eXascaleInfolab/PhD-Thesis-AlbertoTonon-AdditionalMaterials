@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "European Parliament",
+            "types": [
+                {
+                    "label": "Parliament",
+                    "uri": "http://dbpedia.org/class/yago/Parliament108319198"
+                },
+                {
+                    "label": "Parliament",
+                    "uri": "http://umbel.org/umbel/sc/Parliament"
+                },
+                {
+                    "label": "Legislature",
+                    "uri": "http://dbpedia.org/ontology/Legislature"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/European_Parliament"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0194",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "European Parliament",
+            "types": [
+                {
+                    "label": "Parliament",
+                    "uri": "http://dbpedia.org/class/yago/Parliament108319198"
+                },
+                {
+                    "label": "Parliament",
+                    "uri": "http://umbel.org/umbel/sc/Parliament"
+                },
+                {
+                    "label": "Legislature",
+                    "uri": "http://dbpedia.org/ontology/Legislature"
+                },
+                {
+                    "label": "Social Group",
+                    "uri": "http://umbel.org/umbel/sc/SocialGroup"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/European_Parliament"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

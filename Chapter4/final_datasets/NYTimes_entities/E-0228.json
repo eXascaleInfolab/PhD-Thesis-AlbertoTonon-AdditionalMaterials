@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "pope",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ecclesiastical titles",
+                    "uri": "http://dbpedia.org/resource/Ecclesiastical_titles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pope"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0228",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "pope",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Ecclesiastical titles",
+                    "uri": "http://dbpedia.org/resource/Ecclesiastical_titles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Pope"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Massachusetts",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Incomplete lists",
+                    "uri": "http://dbpedia.org/resource/Incomplete_lists"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Massachusetts"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0054",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Massachusetts",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Incomplete lists",
+                    "uri": "http://dbpedia.org/resource/Incomplete_lists"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Massachusetts"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

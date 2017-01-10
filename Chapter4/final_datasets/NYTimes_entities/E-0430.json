@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Regina King",
+            "types": [
+                {
+                    "label": "American Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American voice actors",
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Regina_King"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0430",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Regina King",
+            "types": [
+                {
+                    "label": "American Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                },
+                {
+                    "label": "California actors",
+                    "uri": "http://dbpedia.org/resource/California_actors"
+                },
+                {
+                    "label": "American voice actors",
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Regina_King"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

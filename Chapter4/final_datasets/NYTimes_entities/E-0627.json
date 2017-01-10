@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Miuccia Prada",
+            "types": [
+                {
+                    "label": "People From Milan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMilan"
+                },
+                {
+                    "label": "Italian Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/ItalianFashionDesigners"
+                },
+                {
+                    "label": "Italian fashion designers",
+                    "uri": "http://dbpedia.org/resource/Italian_fashion_designers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Miuccia_Prada"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0627",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Miuccia Prada",
+            "types": [
+                {
+                    "label": "People From Milan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMilan"
+                },
+                {
+                    "label": "Italian Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/ItalianFashionDesigners"
+                },
+                {
+                    "label": "Italian fashion designers",
+                    "uri": "http://dbpedia.org/resource/Italian_fashion_designers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Miuccia_Prada"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

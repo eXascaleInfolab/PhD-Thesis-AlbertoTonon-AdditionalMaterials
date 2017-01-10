@@ -1,0 +1,197 @@
+{
+  "mainText":"Those reports were greeted skeptically, particularly since testing methods were not very sophisticated back then.\nBut those reports and this new one could suggest there is something different about babies\u2019 immune systems, said Dr. Joseph McCune of the University of California, San Francisco.",
+  "shownText":"There have been scattered cases reported in the past, including one in The New England Journal of Medicine in 1995, of babies clearing the virus, even without treatment.\n\nThose reports were greeted skeptically, particularly since testing methods were not very sophisticated back then.\nBut those reports and this new one could suggest there is something different about babies\u2019 immune systems, said Dr. Joseph McCune of the University of California, San Francisco.\n\nOne hypothesis is that the drugs killed off the virus before it could establish a hidden reservoir in the baby.\nOne reason people cannot be cured now is that the virus hides in a dormant state, out of reach of existing drugs.\nWhen drug therapy is stopped, the virus can emerge from hiding.\n",
+  "title":"Baby With H.I.V. Is Reported Cured - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/health/for-first-time-baby-cured-of-hiv-doctors-say.html?ref=science",
+  "category":"science",
+  "docID":"P3-0167",
+  "elementNumber":24,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/San_Francisco",
+      "label":"San Francisco",
+      "offsets":[
+        {
+          "offset":449,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_California",
+      "label":"University of California",
+      "offsets":[
+        {
+          "offset":423,
+          "length":24
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Universities And Colleges In California",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInCalifornia"
+        },
+        {
+          "label":"Educational Institutions Established In1868",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1868"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/San_Francisco",
+      "label":"San Francisco",
+      "offsets":[
+        {
+          "offset":449,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_California",
+      "label":"University of California",
+      "offsets":[
+        {
+          "offset":423,
+          "length":24
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvV_t0JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Universities And Colleges In California",
+          "uri":"http://dbpedia.org/class/yago/UniversitiesAndCollegesInCalifornia"
+        },
+        {
+          "label":"Educational Institutions Established In1868",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1868"
+        },
+        {
+          "label":"organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjVT5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ]
+}

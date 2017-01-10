@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Arthur Friedheim",
+            "types": [
+                {
+                    "label": "Russian Pianists",
+                    "uri": "http://dbpedia.org/class/yago/RussianPianists"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Jewish composers and songwriters",
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                },
+                {
+                    "label": "Jewish Composers And Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                },
+                {
+                    "label": "Russian Composers",
+                    "uri": "http://dbpedia.org/class/yago/RussianComposers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Arthur_Friedheim"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0488",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Arthur Friedheim",
+            "types": [
+                {
+                    "label": "Russian Pianists",
+                    "uri": "http://dbpedia.org/class/yago/RussianPianists"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Jewish composers and songwriters",
+                    "uri": "http://dbpedia.org/resource/Jewish_composers_and_songwriters"
+                },
+                {
+                    "label": "Jewish Composers And Songwriters",
+                    "uri": "http://dbpedia.org/class/yago/JewishComposersAndSongwriters"
+                },
+                {
+                    "label": "Russian Composers",
+                    "uri": "http://dbpedia.org/class/yago/RussianComposers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Arthur_Friedheim"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,189 @@
+{
+  "mainText":"On Monday, Leonard Riggio told the company\u2019s board that he will make an offer for Barnes & Noble Booksellers, barnesandnoble.com and other retail assets.\nThe proposal would not include the e-book division, Nook Media.",
+  "shownText":"The founder of Barnes & Noble plans to bid for the retail business of the bookstore chain he started 40 years ago, as the company struggles to deal with the changing competitive landscape.\n\nOn Monday, Leonard Riggio told the company\u2019s board that he will make an offer for Barnes & Noble Booksellers, barnesandnoble.com and other retail assets.\nThe proposal would not include the e-book division, Nook Media.\n\nLike many retailers, Barnes & Nobles is dealing with waning profit in its core business, as online players and other competitors gain marketshare.\nThe company recently warned that earnings in the latest quarter would be weak, with losses rising in its Nook Media division.\n",
+  "title":"Barnes &amp; Noble Founder Leonard Riggio to Bid for Bookstore&#039;s Retail Business - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/25/barnes-noble-founder-to-bid-for-bookstores-retail-business/?ref=business",
+  "category":"business",
+  "docID":"P3-0050",
+  "elementNumber":3,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":209,
+          "length":6
+        },
+        {
+          "offset":201,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":15,
+          "length":14
+        },
+        {
+          "offset":272,
+          "length":14
+        },
+        {
+          "offset":430,
+          "length":14
+        },
+        {
+          "offset":15,
+          "length":14
+        },
+        {
+          "offset":272,
+          "length":14
+        },
+        {
+          "offset":430,
+          "length":14
+        },
+        {
+          "offset":15,
+          "length":14
+        },
+        {
+          "offset":272,
+          "length":14
+        },
+        {
+          "offset":430,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Leonard_Riggio",
+      "label":"Leonard Riggio",
+      "offsets":[
+        {
+          "offset":209,
+          "length":6
+        },
+        {
+          "offset":201,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American businesspeople",
+          "uri":"http://dbpedia.org/resource/American_businesspeople"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Barnes_&_Noble",
+      "label":"Barnes &amp; Noble",
+      "offsets":[
+        {
+          "offset":15,
+          "length":14
+        },
+        {
+          "offset":272,
+          "length":14
+        },
+        {
+          "offset":430,
+          "length":14
+        },
+        {
+          "offset":15,
+          "length":14
+        },
+        {
+          "offset":272,
+          "length":14
+        },
+        {
+          "offset":430,
+          "length":14
+        },
+        {
+          "offset":15,
+          "length":14
+        },
+        {
+          "offset":272,
+          "length":14
+        },
+        {
+          "offset":430,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Retail Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"Companies Established In1873",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+        }
+      ]
+    }
+  ]
+}

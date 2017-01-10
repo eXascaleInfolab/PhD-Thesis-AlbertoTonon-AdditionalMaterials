@@ -1,0 +1,189 @@
+{
+  "mainText":"Around that time, the marketing team was joined by Dwight Riskey, an expert on cravings who had been a fellow at the Monell Chemical Senses Center in Philadelphia, where he was part of a team of scientists that found that people could beat their salt habits simply by refraining from salty foods long enough for their taste buds to return to a normal level of sensitivity.",
+  "shownText":"Around that time, the marketing team was joined by Dwight Riskey, an expert on cravings who had been a fellow at the Monell Chemical Senses Center in Philadelphia, where he was part of a team of scientists that found that people could beat their salt habits simply by refraining from salty foods long enough for their taste buds to return to a normal level of sensitivity.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"S-0222",
+  "elementNumber":326,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":150,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Monell_Chemical_Senses_Center",
+      "label":"Monell Chemical Senses Center",
+      "offsets":[
+        {
+          "offset":117,
+          "length":29
+        }
+      ],
+      "types":[
+        {
+          "label":"Research Institutes In The United States",
+          "uri":"http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+        },
+        {
+          "label":"Independent research institutes",
+          "uri":"http://dbpedia.org/resource/Independent_research_institutes"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Philadelphia",
+      "label":"Philadelphia",
+      "offsets":[
+        {
+          "offset":150,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Former Capitals Of The United States",
+          "uri":"http://dbpedia.org/class/yago/FormerCapitalsOfTheUnitedStates"
+        },
+        {
+          "label":"American city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViEwJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlements Established In1682",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1682"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former United States State Capitals",
+          "uri":"http://dbpedia.org/class/yago/FormerUnitedStatesStateCapitals"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Cities In Pennsylvania",
+          "uri":"http://dbpedia.org/class/yago/CitiesInPennsylvania"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Monell_Chemical_Senses_Center",
+      "label":"Monell Chemical Senses Center",
+      "offsets":[
+        {
+          "offset":117,
+          "length":29
+        }
+      ],
+      "types":[
+        {
+          "label":"Research Institutes In The United States",
+          "uri":"http://dbpedia.org/class/yago/ResearchInstitutesInTheUnitedStates"
+        },
+        {
+          "label":"Independent research institutes",
+          "uri":"http://dbpedia.org/resource/Independent_research_institutes"
+        }
+      ]
+    }
+  ]
+}

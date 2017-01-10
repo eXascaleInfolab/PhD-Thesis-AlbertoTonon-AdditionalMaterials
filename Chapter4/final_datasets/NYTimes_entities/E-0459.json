@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Baptist",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "type of person classified by religion",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvbSq6pwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Baptist"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0459",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Baptist",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "type of person classified by religion",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvbSq6pwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Baptist"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Odile",
+            "types": [
+                {
+                    "label": "Frankish women",
+                    "uri": "http://dbpedia.org/resource/Frankish_women"
+                },
+                {
+                    "label": "Frankish Saints",
+                    "uri": "http://dbpedia.org/class/yago/FrankishSaints"
+                },
+                {
+                    "label": "Frankish saints",
+                    "uri": "http://dbpedia.org/resource/Frankish_saints"
+                },
+                {
+                    "label": "Frankish Women",
+                    "uri": "http://dbpedia.org/class/yago/FrankishWomen"
+                },
+                {
+                    "label": "Frankish People",
+                    "uri": "http://dbpedia.org/class/yago/FrankishPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Odile"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0450",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Odile",
+            "types": [
+                {
+                    "label": "Frankish women",
+                    "uri": "http://dbpedia.org/resource/Frankish_women"
+                },
+                {
+                    "label": "Frankish Saints",
+                    "uri": "http://dbpedia.org/class/yago/FrankishSaints"
+                },
+                {
+                    "label": "Frankish saints",
+                    "uri": "http://dbpedia.org/resource/Frankish_saints"
+                },
+                {
+                    "label": "Frankish Women",
+                    "uri": "http://dbpedia.org/class/yago/FrankishWomen"
+                },
+                {
+                    "label": "Frankish People",
+                    "uri": "http://dbpedia.org/class/yago/FrankishPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Odile"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,125 @@
+{
+  "mainText":"Lewis recalled that Bill Self pulled Emery aside after he had starred at a University of Kansas basketball camp, saying, \u201cYou\u2019re good enough to play here.\u201d",
+  "shownText":"Lewis recalled that Bill Self pulled Emery aside after he had starred at a University of Kansas basketball camp, saying, \u201cYou\u2019re good enough to play here.\u201d",
+  "title":"Utahâs Lone Peak Surprisingly Climbs to Top of Pack - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/27/sports/utahs-lone-peak-high-school-surprisingly-climbs-to-top-of-pack.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0280",
+  "elementNumber":61,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Kansas",
+      "label":"University of Kansas",
+      "offsets":[
+        {
+          "offset":75,
+          "length":20
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bill_Self",
+      "label":"Bill Self",
+      "offsets":[
+        {
+          "offset":20,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"College Coach",
+          "uri":"http://dbpedia.org/ontology/CollegeCoach"
+        },
+        {
+          "label":"Illinois Fighting Illini men%27s basketball coaches",
+          "uri":"http://dbpedia.org/resource/Illinois_Fighting_Illini_men%27s_basketball_coaches"
+        },
+        {
+          "label":"American basketball coaches",
+          "uri":"http://dbpedia.org/resource/American_basketball_coaches"
+        },
+        {
+          "label":"Kansas Jayhawks men%27s basketball coaches",
+          "uri":"http://dbpedia.org/resource/Kansas_Jayhawks_men%27s_basketball_coaches"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Kansas",
+      "label":"University of Kansas",
+      "offsets":[
+        {
+          "offset":75,
+          "length":20
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bill_Self",
+      "label":"Bill Self",
+      "offsets":[
+        {
+          "offset":20,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"College Coach",
+          "uri":"http://dbpedia.org/ontology/CollegeCoach"
+        },
+        {
+          "label":"Illinois Fighting Illini men%27s basketball coaches",
+          "uri":"http://dbpedia.org/resource/Illinois_Fighting_Illini_men%27s_basketball_coaches"
+        },
+        {
+          "label":"American basketball coaches",
+          "uri":"http://dbpedia.org/resource/American_basketball_coaches"
+        },
+        {
+          "label":"Kansas Jayhawks men%27s basketball coaches",
+          "uri":"http://dbpedia.org/resource/Kansas_Jayhawks_men%27s_basketball_coaches"
+        }
+      ]
+    }
+  ]
+}

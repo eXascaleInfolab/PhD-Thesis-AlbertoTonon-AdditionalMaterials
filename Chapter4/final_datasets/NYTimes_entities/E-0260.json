@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Reddit",
+            "types": [
+                {
+                    "label": "Web Site",
+                    "uri": "http://dbpedia.org/class/yago/WebSite106359193"
+                },
+                {
+                    "label": "Website",
+                    "uri": "http://dbpedia.org/ontology/Website"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Reddit"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0260",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Reddit",
+            "types": [
+                {
+                    "label": "Web Site",
+                    "uri": "http://dbpedia.org/class/yago/WebSite106359193"
+                },
+                {
+                    "label": "Website",
+                    "uri": "http://dbpedia.org/ontology/Website"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Reddit"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

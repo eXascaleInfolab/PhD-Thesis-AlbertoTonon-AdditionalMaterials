@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Diep Nguyen",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Dutch Films",
+                    "uri": "http://dbpedia.org/class/yago/DutchFilms"
+                },
+                {
+                    "label": "Drama Films",
+                    "uri": "http://dbpedia.org/class/yago/DramaFilms"
+                },
+                {
+                    "label": "2005Films",
+                    "uri": "http://dbpedia.org/class/yago/2005Films"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Diep"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0731",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Diep Nguyen",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Dutch Films",
+                    "uri": "http://dbpedia.org/class/yago/DutchFilms"
+                },
+                {
+                    "label": "Drama Films",
+                    "uri": "http://dbpedia.org/class/yago/DramaFilms"
+                },
+                {
+                    "label": "2005Films",
+                    "uri": "http://dbpedia.org/class/yago/2005Films"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Diep"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

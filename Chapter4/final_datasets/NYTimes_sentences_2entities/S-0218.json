@@ -1,0 +1,117 @@
+{
+  "mainText":"I first met Moskowitz on a crisp day in the spring of 2010 at the Harvard Club in Midtown Manhattan.",
+  "shownText":"I first met Moskowitz on a crisp day in the spring of 2010 at the Harvard Club in Midtown Manhattan.",
+  "title":"The Extraordinary Science of Addictive Junk Food - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html?ref=science",
+  "category":"science",
+  "docID":"S-0218",
+  "elementNumber":139,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_Glee_Club",
+      "label":"Harvard Club",
+      "offsets":[
+        {
+          "offset":66,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston culture",
+          "uri":"http://dbpedia.org/resource/Boston_culture"
+        },
+        {
+          "label":"Massachusetts Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+        },
+        {
+          "label":"Glee Clubs",
+          "uri":"http://dbpedia.org/class/yago/GleeClubs"
+        },
+        {
+          "label":"Harvard Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/HarvardMusicalGroups"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":66,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Harvard_Glee_Club",
+      "label":"Harvard Club",
+      "offsets":[
+        {
+          "offset":66,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Boston culture",
+          "uri":"http://dbpedia.org/resource/Boston_culture"
+        },
+        {
+          "label":"Massachusetts Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/MassachusettsMusicalGroups"
+        },
+        {
+          "label":"Glee Clubs",
+          "uri":"http://dbpedia.org/class/yago/GleeClubs"
+        },
+        {
+          "label":"Harvard Musical Groups",
+          "uri":"http://dbpedia.org/class/yago/HarvardMusicalGroups"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":66,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ]
+}

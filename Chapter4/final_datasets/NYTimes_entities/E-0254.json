@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Methodist",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Methodist"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0254",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Methodist",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Methodist"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

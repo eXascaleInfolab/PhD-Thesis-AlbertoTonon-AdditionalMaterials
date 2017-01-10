@@ -1,0 +1,285 @@
+{
+  "mainText":"\u201cChild labor is allowed to continue in Meghalaya by those in positions of power and authority, as it is across India,\u201d said Shantha Sinha, chairwoman of the National Commission for Protection of Child Rights .",
+  "shownText":"\u201cChild labor is allowed to continue in Meghalaya by those in positions of power and authority, as it is across India,\u201d said Shantha Sinha, chairwoman of the National Commission for Protection of Child Rights .",
+  "title":"In India, Missing School to Work in the Mine - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/26/world/asia/in-india-missing-school-to-work-in-the-mine.html?ref=world",
+  "category":"world",
+  "docID":"S-0428",
+  "elementNumber":44,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Shantha_Sinha",
+      "label":"Shantha Sinha",
+      "offsets":[
+        {
+          "offset":124,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Indian Children%27s rights activists",
+          "uri":"http://dbpedia.org/resource/Indian_Children%27s_rights_activists"
+        },
+        {
+          "label":"Indian Academics",
+          "uri":"http://dbpedia.org/class/yago/IndianAcademics"
+        },
+        {
+          "label":"Indian academics",
+          "uri":"http://dbpedia.org/resource/Indian_academics"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/India",
+      "label":"India",
+      "offsets":[
+        {
+          "offset":111,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Colony",
+          "uri":"http://dbpedia.org/class/yago/Colony108374049"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Republics",
+          "uri":"http://dbpedia.org/class/yago/Republics"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Meghalaya",
+      "label":"Meghalaya",
+      "offsets":[
+        {
+          "offset":39,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Shantha_Sinha",
+      "label":"Shantha Sinha",
+      "offsets":[
+        {
+          "offset":124,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Indian Children%27s rights activists",
+          "uri":"http://dbpedia.org/resource/Indian_Children%27s_rights_activists"
+        },
+        {
+          "label":"Indian Academics",
+          "uri":"http://dbpedia.org/class/yago/IndianAcademics"
+        },
+        {
+          "label":"Indian academics",
+          "uri":"http://dbpedia.org/resource/Indian_academics"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/India",
+      "label":"India",
+      "offsets":[
+        {
+          "offset":111,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Colony",
+          "uri":"http://dbpedia.org/class/yago/Colony108374049"
+        },
+        {
+          "label":"Democracy",
+          "uri":"http://dbpedia.org/class/yago/Democracy108361329"
+        },
+        {
+          "label":"G15 nations",
+          "uri":"http://dbpedia.org/resource/G15_nations"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"State",
+          "uri":"http://dbpedia.org/class/yago/State108168978"
+        },
+        {
+          "label":"English-speaking countries and territories",
+          "uri":"http://dbpedia.org/resource/English-speaking_countries_and_territories"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Republics",
+          "uri":"http://dbpedia.org/class/yago/Republics"
+        },
+        {
+          "label":"ethnic group",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjcrpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"ethnic groups in the region hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8GJN8mJsQdiL8vDEvu9P1A"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Liberal Democracies",
+          "uri":"http://dbpedia.org/class/yago/LiberalDemocracies"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Meghalaya",
+      "label":"Meghalaya",
+      "offsets":[
+        {
+          "offset":39,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    }
+  ]
+}

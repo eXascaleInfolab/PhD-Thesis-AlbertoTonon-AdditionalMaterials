@@ -1,0 +1,173 @@
+{
+  "mainText":"Ms. Slaughter continued her commentary: \u201cSheryl Sandberg is both superhuman and rich,\u201d she told Fortune magazine , implying that her advice makes little sense for anyone who is not.",
+  "shownText":"Ms. Slaughter continued her commentary: \u201cSheryl Sandberg is both superhuman and rich,\u201d she told Fortune magazine , implying that her advice makes little sense for anyone who is not.",
+  "title":"Sheryl Sandberg, âLean Inâ Author, Hopes to Spur Movement - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us",
+  "category":"us",
+  "docID":"S-0384",
+  "elementNumber":36,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":48,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sheryl_Sandberg",
+      "label":"Sheryl Sandberg",
+      "offsets":[
+        {
+          "offset":41,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"Google employees",
+          "uri":"http://dbpedia.org/resource/Google_employees"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Google Employees",
+          "uri":"http://dbpedia.org/class/yago/GoogleEmployees"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Facebook Employees",
+          "uri":"http://dbpedia.org/class/yago/FacebookEmployees"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":48,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sheryl_Sandberg",
+      "label":"Sheryl Sandberg",
+      "offsets":[
+        {
+          "offset":41,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Harvard University alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Harvard Business School Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardBusinessSchoolAlumni"
+        },
+        {
+          "label":"Google employees",
+          "uri":"http://dbpedia.org/resource/Google_employees"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Google Employees",
+          "uri":"http://dbpedia.org/class/yago/GoogleEmployees"
+        },
+        {
+          "label":"Harvard University Alumni",
+          "uri":"http://dbpedia.org/class/yago/HarvardUniversityAlumni"
+        },
+        {
+          "label":"Facebook Employees",
+          "uri":"http://dbpedia.org/class/yago/FacebookEmployees"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Harvard Business School alumni",
+          "uri":"http://dbpedia.org/resource/Harvard_Business_School_alumni"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

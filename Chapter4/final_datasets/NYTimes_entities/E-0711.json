@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "Texas",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "States Of The Confederate States Of America",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "States And Territories Established In1845",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+                },
+                {
+                    "label": "Class",
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "nationality",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Texas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0711",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Texas",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "States Of The Confederate States Of America",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheConfederateStatesOfAmerica"
+                },
+                {
+                    "label": "Yago Geo Entity",
+                    "uri": "http://dbpedia.org/class/yago/YagoGeoEntity"
+                },
+                {
+                    "label": "States And Territories Established In1845",
+                    "uri": "http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1845"
+                },
+                {
+                    "label": "Class",
+                    "uri": "http://www.w3.org/2002/07/owl#Class"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "nationality",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/en/PersonTypeByNationality"
+                },
+                {
+                    "label": "States Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+                },
+                {
+                    "label": "Locations",
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "Administrative Region",
+                    "uri": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Texas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

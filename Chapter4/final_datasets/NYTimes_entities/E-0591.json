@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "Malcolm Gladwell",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People Of English Descent",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfEnglishDescent"
+                },
+                {
+                    "label": "People Of Jamaican Descent",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfJamaicanDescent"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Canadian journalists",
+                    "uri": "http://dbpedia.org/resource/Canadian_journalists"
+                },
+                {
+                    "label": "Canadian Expatriate Journalists In The United States",
+                    "uri": "http://dbpedia.org/class/yago/CanadianExpatriateJournalistsInTheUnitedStates"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "People From Waterloo Region,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWaterlooRegion,Ontario"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Business Speakers",
+                    "uri": "http://dbpedia.org/class/yago/BusinessSpeakers"
+                },
+                {
+                    "label": "New Yorker Staff Writers",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkerStaffWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Trinity College(Canada)Alumni",
+                    "uri": "http://dbpedia.org/class/yago/TrinityCollege(Canada)Alumni"
+                },
+                {
+                    "label": "Business speakers",
+                    "uri": "http://dbpedia.org/resource/Business_speakers"
+                },
+                {
+                    "label": "Canadian Expatriate Writers In The United States",
+                    "uri": "http://dbpedia.org/class/yago/CanadianExpatriateWritersInTheUnitedStates"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Malcolm_Gladwell"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0591",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Malcolm Gladwell",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People Of English Descent",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfEnglishDescent"
+                },
+                {
+                    "label": "People Of Jamaican Descent",
+                    "uri": "http://dbpedia.org/class/yago/PeopleOfJamaicanDescent"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Writer",
+                    "uri": "http://dbpedia.org/ontology/Writer"
+                },
+                {
+                    "label": "Canadian journalists",
+                    "uri": "http://dbpedia.org/resource/Canadian_journalists"
+                },
+                {
+                    "label": "Canadian Expatriate Journalists In The United States",
+                    "uri": "http://dbpedia.org/class/yago/CanadianExpatriateJournalistsInTheUnitedStates"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "People From Waterloo Region,Ontario",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWaterlooRegion,Ontario"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Business Speakers",
+                    "uri": "http://dbpedia.org/class/yago/BusinessSpeakers"
+                },
+                {
+                    "label": "New Yorker Staff Writers",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkerStaffWriters"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Trinity College(Canada)Alumni",
+                    "uri": "http://dbpedia.org/class/yago/TrinityCollege(Canada)Alumni"
+                },
+                {
+                    "label": "Business speakers",
+                    "uri": "http://dbpedia.org/resource/Business_speakers"
+                },
+                {
+                    "label": "Canadian Expatriate Writers In The United States",
+                    "uri": "http://dbpedia.org/class/yago/CanadianExpatriateWritersInTheUnitedStates"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Malcolm_Gladwell"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

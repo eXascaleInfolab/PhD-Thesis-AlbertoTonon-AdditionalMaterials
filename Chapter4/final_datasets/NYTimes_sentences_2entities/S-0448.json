@@ -1,0 +1,213 @@
+{
+  "mainText":"\u201cHe has made people who didn\u2019t feel they were part of democracy before feel like they\u2019re part of the system,\u201d said Joy Olson, director of the Washington Office on Latin America , an advocacy group.",
+  "shownText":"\u201cHe has made people who didn\u2019t feel they were part of democracy before feel like they\u2019re part of the system,\u201d said Joy Olson, director of the Washington Office on Latin America , an advocacy group.",
+  "title":"For Good or Ill, ChÃ¡vez Altered How Venezuela Views Itself - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/07/world/americas/for-good-or-ill-chavez-altered-how-venezuela-views-itself.html?ref=world",
+  "category":"world",
+  "docID":"S-0448",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":142,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Latin_America",
+      "label":"Latin America",
+      "offsets":[
+        {
+          "offset":163,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"non abducible collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Cultural Spheres Of Influence",
+          "uri":"http://dbpedia.org/class/yago/CulturalSpheresOfInfluence"
+        },
+        {
+          "label":"type of object",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country classifications",
+          "uri":"http://dbpedia.org/resource/Country_classifications"
+        },
+        {
+          "label":"Country Classifications",
+          "uri":"http://dbpedia.org/class/yago/CountryClassifications"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"country type by general region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rVvBTrJhkQdiCKs3GWTcWTg"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Washington",
+      "label":"Washington",
+      "offsets":[
+        {
+          "offset":142,
+          "length":10
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Latin_America",
+      "label":"Latin America",
+      "offsets":[
+        {
+          "offset":163,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Region",
+          "uri":"http://umbel.org/umbel/sc/Region"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"non abducible collection",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4roVp5xVzKEdiLrQAH6RYvVA"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Continent",
+          "uri":"http://dbpedia.org/ontology/Continent"
+        },
+        {
+          "label":"Cultural Spheres Of Influence",
+          "uri":"http://dbpedia.org/class/yago/CulturalSpheresOfInfluence"
+        },
+        {
+          "label":"type of object",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvWXYgJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country classifications",
+          "uri":"http://dbpedia.org/resource/Country_classifications"
+        },
+        {
+          "label":"Country Classifications",
+          "uri":"http://dbpedia.org/class/yago/CountryClassifications"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"country type by general region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rVvBTrJhkQdiCKs3GWTcWTg"
+        }
+      ]
+    }
+  ]
+}

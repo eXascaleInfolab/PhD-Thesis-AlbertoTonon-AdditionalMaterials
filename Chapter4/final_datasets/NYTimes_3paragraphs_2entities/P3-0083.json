@@ -1,0 +1,125 @@
+{
+  "mainText":"The suit seeking to prohibit CommonWealth\u2019s stock offering, a draft copy of which was filed with regulators, is expected to be filed in a Maryland state court on Wednesday morning.\nThe investors are being represented by the law firm Gibson, Dunn & Crutcher.",
+  "shownText":"Another large investor has expressed support for Corvex and Related.\nThe Luxor Capital Group, a New York money manager that owns more than 8 percent of CommonWealth\u2019s shares, also sent a letter to the company demanding that it cancel the \u201cill-advised offering.\u201d\n\nThe suit seeking to prohibit CommonWealth\u2019s stock offering, a draft copy of which was filed with regulators, is expected to be filed in a Maryland state court on Wednesday morning.\nThe investors are being represented by the law firm Gibson, Dunn & Crutcher.\n\nIn recent months, a number of hedge funds and others investors have taken aim at company management with activist tactics, initiating proxy fights to oust boards and agitating for other corporate governance changes.\n",
+  "title":"Covex Management and Related Companies Ratchet Up Pressure on CommonWealth - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/02/27/activist-investors-ratchet-up-pressure-on-commonwealth/",
+  "category":"dealbook",
+  "docID":"P3-0083",
+  "elementNumber":14,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Gibson,_Dunn_&_Crutcher",
+      "label":"Gibson, Dunn &amp; Crutcher",
+      "offsets":[
+        {
+          "offset":496,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Based In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+        },
+        {
+          "label":"Law Firms Of The United States",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1890",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1890"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Commonwealth",
+      "label":"CommonWealth",
+      "offsets":[
+        {
+          "offset":152,
+          "length":12
+        },
+        {
+          "offset":292,
+          "length":12
+        },
+        {
+          "offset":152,
+          "length":12
+        },
+        {
+          "offset":292,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Constitutional state types",
+          "uri":"http://dbpedia.org/resource/Constitutional_state_types"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Gibson,_Dunn_&_Crutcher",
+      "label":"Gibson, Dunn &amp; Crutcher",
+      "offsets":[
+        {
+          "offset":496,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Based In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInLosAngeles"
+        },
+        {
+          "label":"Law Firms Of The United States",
+          "uri":"http://dbpedia.org/class/yago/LawFirmsOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1890",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1890"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Commonwealth",
+      "label":"CommonWealth",
+      "offsets":[
+        {
+          "offset":152,
+          "length":12
+        },
+        {
+          "offset":292,
+          "length":12
+        },
+        {
+          "offset":152,
+          "length":12
+        },
+        {
+          "offset":292,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Constitutional state types",
+          "uri":"http://dbpedia.org/resource/Constitutional_state_types"
+        }
+      ]
+    }
+  ]
+}

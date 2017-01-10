@@ -1,0 +1,189 @@
+{
+  "mainText":"At the time, America had produced an exceptional generation of pianists besides Mr. Cliburn who were all in promising stages of their own careers, among them Leon Fleisher, Byron Janis, Gary Graffman and Eugene Istomin.",
+  "shownText":"At the time, America had produced an exceptional generation of pianists besides Mr. Cliburn who were all in promising stages of their own careers, among them Leon Fleisher, Byron Janis, Gary Graffman and Eugene Istomin.",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0006",
+  "elementNumber":10,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Byron_Janis",
+      "label":"Byron Janis",
+      "offsets":[
+        {
+          "offset":173,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Jewish American musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_musicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eugene_Istomin",
+      "label":"Eugene Istomin",
+      "offsets":[
+        {
+          "offset":204,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Fleisher",
+      "label":"Leon Fleisher",
+      "offsets":[
+        {
+          "offset":158,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gary_Graffman",
+      "label":"Gary Graffman",
+      "offsets":[
+        {
+          "offset":186,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Classical pianists",
+          "uri":"http://dbpedia.org/resource/Classical_pianists"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Classical Pianists",
+          "uri":"http://dbpedia.org/class/yago/ClassicalPianists"
+        },
+        {
+          "label":"Jewish musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_musicians"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Byron_Janis",
+      "label":"Byron Janis",
+      "offsets":[
+        {
+          "offset":173,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Jewish American musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_American_musicians"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Eugene_Istomin",
+      "label":"Eugene Istomin",
+      "offsets":[
+        {
+          "offset":204,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Leon_Fleisher",
+      "label":"Leon Fleisher",
+      "offsets":[
+        {
+          "offset":158,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Gary_Graffman",
+      "label":"Gary Graffman",
+      "offsets":[
+        {
+          "offset":186,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"Classical pianists",
+          "uri":"http://dbpedia.org/resource/Classical_pianists"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Classical Pianists",
+          "uri":"http://dbpedia.org/class/yago/ClassicalPianists"
+        },
+        {
+          "label":"Jewish musicians",
+          "uri":"http://dbpedia.org/resource/Jewish_musicians"
+        }
+      ]
+    }
+  ]
+}

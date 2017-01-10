@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Ryan Carter",
+            "types": [
+                {
+                    "label": "Anaheim Ducks players",
+                    "uri": "http://dbpedia.org/resource/Anaheim_Ducks_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ryan_Carter"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0504",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Ryan Carter",
+            "types": [
+                {
+                    "label": "Anaheim Ducks players",
+                    "uri": "http://dbpedia.org/resource/Anaheim_Ducks_players"
+                },
+                {
+                    "label": "American ice hockey players",
+                    "uri": "http://dbpedia.org/resource/American_ice_hockey_players"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Ryan_Carter"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

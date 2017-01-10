@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Goldman Sachs",
+            "types": [
+                {
+                    "label": "Companies Established In1869",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1869"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Family Businesses",
+                    "uri": "http://dbpedia.org/class/yago/FamilyBusinesses"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Goldman_Sachs"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0736",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Goldman Sachs",
+            "types": [
+                {
+                    "label": "Companies Established In1869",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1869"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/ontology/Company"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "Companies listed on the New York Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Family Businesses",
+                    "uri": "http://dbpedia.org/class/yago/FamilyBusinesses"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Goldman_Sachs"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

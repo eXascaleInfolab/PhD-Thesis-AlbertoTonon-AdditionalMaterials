@@ -1,0 +1,253 @@
+{
+  "mainText":"\u201cI\u2019m not aware of any police department nationally coming up with the same strategy or replicating what the N.Y.P.D. has done here,\u201d said David M. Kennedy, director of the Center for Crime Prevention and Control at John Jay College of Criminal Justice in Manhattan.",
+  "shownText":"\u201cI\u2019m not aware of any police department nationally coming up with the same strategy or replicating what the N.Y.P.D. has done here,\u201d said David M. Kennedy, director of the Center for Crime Prevention and Control at John Jay College of Criminal Justice in Manhattan.",
+  "title":"For Troubled Teenagers in New York City, a New Tack -  Forced Outreach - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/nyregion/to-stem-juvenile-robberies-police-trail-youths-before-the-crime.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"S-0120",
+  "elementNumber":21,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/David_M._Kennedy",
+      "label":"David M. Kennedy",
+      "offsets":[
+        {
+          "offset":138,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Deaths from cardiovascular disease",
+          "uri":"http://dbpedia.org/resource/Deaths_from_cardiovascular_disease"
+        },
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/resource/American_Latter_Day_Saints"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"United States Secretaries Of The Treasury",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSecretariesOfTheTreasury"
+        },
+        {
+          "label":"George Washington University alumni",
+          "uri":"http://dbpedia.org/resource/George_Washington_University_alumni"
+        },
+        {
+          "label":"Official",
+          "uri":"http://dbpedia.org/class/yago/Official110372373"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":255,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/David_M._Kennedy",
+      "label":"David M. Kennedy",
+      "offsets":[
+        {
+          "offset":138,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Deaths from cardiovascular disease",
+          "uri":"http://dbpedia.org/resource/Deaths_from_cardiovascular_disease"
+        },
+        {
+          "label":"American Latter Day Saints",
+          "uri":"http://dbpedia.org/resource/American_Latter_Day_Saints"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"United States Secretaries Of The Treasury",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesSecretariesOfTheTreasury"
+        },
+        {
+          "label":"George Washington University alumni",
+          "uri":"http://dbpedia.org/resource/George_Washington_University_alumni"
+        },
+        {
+          "label":"Official",
+          "uri":"http://dbpedia.org/class/yago/Official110372373"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Manhattan",
+      "label":"Manhattan",
+      "offsets":[
+        {
+          "offset":255,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Settlements Established In1624",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1624"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"borough",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4row2WOHwNQdeFcucrvFV0yw"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"United States Places With Orthodox Jewish Communities",
+          "uri":"http://dbpedia.org/class/yago/UnitedStatesPlacesWithOrthodoxJewishCommunities"
+        },
+        {
+          "label":"Boroughs Of New York City",
+          "uri":"http://dbpedia.org/class/yago/BoroughsOfNewYorkCity"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Record Label",
+          "uri":"http://dbpedia.org/ontology/RecordLabel"
+        },
+        {
+          "label":"School",
+          "uri":"http://dbpedia.org/ontology/School"
+        },
+        {
+          "label":"County Seats In New York",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInNewYork"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"US county",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjmG5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

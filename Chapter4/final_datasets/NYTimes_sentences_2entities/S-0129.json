@@ -1,0 +1,301 @@
+{
+  "mainText":"They date back centuries: one of the most famous examples was between Louis XVI and Marie Antoinette, who were first married in her native Austria in his absence, before she was shipped to meet him in France.",
+  "shownText":"They date back centuries: one of the most famous examples was between Louis XVI and Marie Antoinette, who were first married in her native Austria in his absence, before she was shipped to meet him in France.",
+  "title":"Internet Marriages on Rise in Some Immigrant Communities - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/nyregion/internet-marriages-on-rise-in-some-immigrant-communities.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"S-0129",
+  "elementNumber":20,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Marie_Antoinette",
+      "label":"Marie Antoinette",
+      "offsets":[
+        {
+          "offset":84,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Sovereign",
+          "uri":"http://dbpedia.org/class/yago/Sovereign110628644"
+        },
+        {
+          "label":"Executed royalty",
+          "uri":"http://dbpedia.org/resource/Executed_royalty"
+        },
+        {
+          "label":"British Royalty",
+          "uri":"http://dbpedia.org/ontology/BritishRoyalty"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Austria",
+      "label":"Austria",
+      "offsets":[
+        {
+          "offset":139,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"European Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+        },
+        {
+          "label":"German-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/German-speakingCountries"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Democratic Republican Ideology",
+          "uri":"http://umbel.org/umbel/sc/DemocraticRepublicanIdeology"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Western European country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economic System",
+          "uri":"http://umbel.org/umbel/sc/EconomicSystem"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Erasmus Prize winners",
+          "uri":"http://dbpedia.org/resource/Erasmus_Prize_winners"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Marie_Antoinette",
+      "label":"Marie Antoinette",
+      "offsets":[
+        {
+          "offset":84,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Sovereign",
+          "uri":"http://dbpedia.org/class/yago/Sovereign110628644"
+        },
+        {
+          "label":"Executed royalty",
+          "uri":"http://dbpedia.org/resource/Executed_royalty"
+        },
+        {
+          "label":"British Royalty",
+          "uri":"http://dbpedia.org/ontology/BritishRoyalty"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Austria",
+      "label":"Austria",
+      "offsets":[
+        {
+          "offset":139,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"European Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"
+        },
+        {
+          "label":"German-speaking Countries",
+          "uri":"http://dbpedia.org/class/yago/German-speakingCountries"
+        },
+        {
+          "label":"Controlled Land",
+          "uri":"http://umbel.org/umbel/sc/ControlledLand"
+        },
+        {
+          "label":"Democratic Republican Ideology",
+          "uri":"http://umbel.org/umbel/sc/DemocraticRepublicanIdeology"
+        },
+        {
+          "label":"landlocked region",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwTpvCZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"Western European country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvd8IHJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Landlocked Countries",
+          "uri":"http://dbpedia.org/class/yago/LandlockedCountries"
+        },
+        {
+          "label":"federal republic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv02eLm2kEdaAAACgyZzFrg"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Economic System",
+          "uri":"http://umbel.org/umbel/sc/EconomicSystem"
+        },
+        {
+          "label":"Independent Country",
+          "uri":"http://umbel.org/umbel/sc/IndependentCountry"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Erasmus Prize winners",
+          "uri":"http://dbpedia.org/resource/Erasmus_Prize_winners"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Spatial Thing",
+          "uri":"http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"OECDMember Economies",
+          "uri":"http://dbpedia.org/class/yago/OECDMemberEconomies"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"Geographical Region",
+          "uri":"http://umbel.org/umbel/sc/GeographicalRegion"
+        },
+        {
+          "label":"Place",
+          "uri":"http://umbel.org/umbel/sc/Place"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":"Administrative District",
+          "uri":"http://umbel.org/umbel/sc/AdministrativeDistrict"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Fred Graver",
+            "types": [
+                {
+                    "label": "American fiction writers",
+                    "uri": "http://dbpedia.org/resource/American_fiction_writers"
+                },
+                {
+                    "label": "American novelists",
+                    "uri": "http://dbpedia.org/resource/American_novelists"
+                },
+                {
+                    "label": "Choose Your Own Adventure writers",
+                    "uri": "http://dbpedia.org/resource/Choose_Your_Own_Adventure_writers"
+                },
+                {
+                    "label": "Choose Your Own Adventure Writers",
+                    "uri": "http://dbpedia.org/class/yago/ChooseYourOwnAdventureWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fred_Graver"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0333",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fred Graver",
+            "types": [
+                {
+                    "label": "American fiction writers",
+                    "uri": "http://dbpedia.org/resource/American_fiction_writers"
+                },
+                {
+                    "label": "American novelists",
+                    "uri": "http://dbpedia.org/resource/American_novelists"
+                },
+                {
+                    "label": "Choose Your Own Adventure writers",
+                    "uri": "http://dbpedia.org/resource/Choose_Your_Own_Adventure_writers"
+                },
+                {
+                    "label": "Choose Your Own Adventure Writers",
+                    "uri": "http://dbpedia.org/class/yago/ChooseYourOwnAdventureWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Fred_Graver"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

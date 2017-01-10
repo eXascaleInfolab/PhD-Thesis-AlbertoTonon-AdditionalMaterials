@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Bethlehem",
+            "types": [
+                {
+                    "label": "Hebrew Bible places",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_places"
+                },
+                {
+                    "label": "Historic Jewish communities",
+                    "uri": "http://dbpedia.org/resource/Historic_Jewish_communities"
+                },
+                {
+                    "label": "Hebrew Bible Places",
+                    "uri": "http://dbpedia.org/class/yago/HebrewBiblePlaces"
+                },
+                {
+                    "label": "Hebrew Bible cities",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_cities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bethlehem"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0083",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bethlehem",
+            "types": [
+                {
+                    "label": "Hebrew Bible places",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_places"
+                },
+                {
+                    "label": "Historic Jewish communities",
+                    "uri": "http://dbpedia.org/resource/Historic_Jewish_communities"
+                },
+                {
+                    "label": "Hebrew Bible Places",
+                    "uri": "http://dbpedia.org/class/yago/HebrewBiblePlaces"
+                },
+                {
+                    "label": "Hebrew Bible cities",
+                    "uri": "http://dbpedia.org/resource/Hebrew_Bible_cities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bethlehem"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

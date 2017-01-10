@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Feinberg School of Medicine",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Feinberg_School_of_Medicine"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0039",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Feinberg School of Medicine",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Feinberg_School_of_Medicine"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

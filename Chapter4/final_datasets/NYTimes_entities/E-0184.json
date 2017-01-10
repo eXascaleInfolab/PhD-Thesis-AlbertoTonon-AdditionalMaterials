@@ -1,0 +1,161 @@
+{
+    "allEntities": [
+        {
+            "label": "Mark Zuckerberg",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Atheists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAtheists"
+                },
+                {
+                    "label": "American Internet personalities",
+                    "uri": "http://dbpedia.org/resource/American_Internet_personalities"
+                },
+                {
+                    "label": "American computer programmers",
+                    "uri": "http://dbpedia.org/resource/American_computer_programmers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Billionaires",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBillionaires"
+                },
+                {
+                    "label": "Child businesspeople",
+                    "uri": "http://dbpedia.org/resource/Child_businesspeople"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard University People",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityPeople"
+                },
+                {
+                    "label": "American Computer Programmers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComputerProgrammers"
+                },
+                {
+                    "label": "People From Westchester County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestchesterCounty,NewYork"
+                },
+                {
+                    "label": "Facebook Employees",
+                    "uri": "http://dbpedia.org/class/yago/FacebookEmployees"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "Jewish Atheists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAtheists"
+                },
+                {
+                    "label": "Phillips Exeter Academy Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PhillipsExeterAcademyAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mark_Zuckerberg"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0184",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mark Zuckerberg",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "American Atheists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAtheists"
+                },
+                {
+                    "label": "American Internet personalities",
+                    "uri": "http://dbpedia.org/resource/American_Internet_personalities"
+                },
+                {
+                    "label": "American computer programmers",
+                    "uri": "http://dbpedia.org/resource/American_computer_programmers"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "American Billionaires",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBillionaires"
+                },
+                {
+                    "label": "Child businesspeople",
+                    "uri": "http://dbpedia.org/resource/Child_businesspeople"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Harvard University People",
+                    "uri": "http://dbpedia.org/class/yago/HarvardUniversityPeople"
+                },
+                {
+                    "label": "American Computer Programmers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanComputerProgrammers"
+                },
+                {
+                    "label": "People From Westchester County,New York",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromWestchesterCounty,NewYork"
+                },
+                {
+                    "label": "Facebook Employees",
+                    "uri": "http://dbpedia.org/class/yago/FacebookEmployees"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "Jewish Atheists",
+                    "uri": "http://dbpedia.org/class/yago/JewishAtheists"
+                },
+                {
+                    "label": "Phillips Exeter Academy Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PhillipsExeterAcademyAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mark_Zuckerberg"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

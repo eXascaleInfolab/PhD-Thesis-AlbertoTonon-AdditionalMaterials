@@ -1,0 +1,185 @@
+{
+    "allEntities": [
+        {
+            "label": "Carnegie Hall",
+            "types": [
+                {
+                    "label": "Registered Historic Places In Manhattan",
+                    "uri": "http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+                },
+                {
+                    "label": "National Historic Landmarks Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Historic Place",
+                    "uri": "http://dbpedia.org/ontology/HistoricPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "19th century architecture",
+                    "uri": "http://dbpedia.org/resource/19th_century_architecture"
+                },
+                {
+                    "label": "place",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjTtJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "fixed free-standing structure",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjGR5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "theater",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "theater",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Music Venues In New York City",
+                    "uri": "http://dbpedia.org/class/yago/MusicVenuesInNewYorkCity"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "large construction",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjPSpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "public place",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rg7oNHCl-EduAAAACs0uFOQ"
+                },
+                {
+                    "label": "theater",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "19th century works",
+                    "uri": "http://dbpedia.org/resource/19th_century_works"
+                },
+                {
+                    "label": "Theater Physical Structure",
+                    "uri": "http://umbel.org/umbel/sc/Theater_PhysicalStructure"
+                },
+                {
+                    "label": "Landmarks In New York City",
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInNewYorkCity"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carnegie_Hall"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0263",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Carnegie Hall",
+            "types": [
+                {
+                    "label": "Registered Historic Places In Manhattan",
+                    "uri": "http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+                },
+                {
+                    "label": "National Historic Landmarks Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Historic Place",
+                    "uri": "http://dbpedia.org/ontology/HistoricPlace"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "19th century architecture",
+                    "uri": "http://dbpedia.org/resource/19th_century_architecture"
+                },
+                {
+                    "label": "place",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjTtJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "fixed free-standing structure",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjGR5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "theater",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "theater",
+                    "uri": "http://sw.cyc.com/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Music Venues In New York City",
+                    "uri": "http://dbpedia.org/class/yago/MusicVenuesInNewYorkCity"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "large construction",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rvVjPSpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "public place",
+                    "uri": "http://sw.opencyc.org/concept/Mx4rg7oNHCl-EduAAAACs0uFOQ"
+                },
+                {
+                    "label": "theater",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVifNJwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "19th century works",
+                    "uri": "http://dbpedia.org/resource/19th_century_works"
+                },
+                {
+                    "label": "Theater Physical Structure",
+                    "uri": "http://umbel.org/umbel/sc/Theater_PhysicalStructure"
+                },
+                {
+                    "label": "Landmarks In New York City",
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInNewYorkCity"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carnegie_Hall"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

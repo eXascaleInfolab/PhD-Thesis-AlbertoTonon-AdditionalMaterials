@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Southern Europe",
+            "types": [
+                {
+                    "label": "Regions Of Europe",
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfEurope"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://dbpedia.org/class/yago/Region108630039"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Southern_Europe"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0222",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Southern Europe",
+            "types": [
+                {
+                    "label": "Regions Of Europe",
+                    "uri": "http://dbpedia.org/class/yago/RegionsOfEurope"
+                },
+                {
+                    "label": "Region",
+                    "uri": "http://dbpedia.org/class/yago/Region108630039"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Southern_Europe"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

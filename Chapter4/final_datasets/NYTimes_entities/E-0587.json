@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Barnes &amp; Noble",
+            "types": [
+                {
+                    "label": "Retail Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Established In1873",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Barnes_&_Noble"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0587",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Barnes &amp; Noble",
+            "types": [
+                {
+                    "label": "Retail Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/RetailCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Companies Based In New York City",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Companies Established In1873",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1873"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Barnes_&_Noble"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

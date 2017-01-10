@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Susan Collins",
+            "types": [
+                {
+                    "label": "Irish-American politicians",
+                    "uri": "http://dbpedia.org/resource/Irish-American_politicians"
+                },
+                {
+                    "label": "United States Senators From Maine",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMaine"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "American Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+                },
+                {
+                    "label": "St.Lawrence University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/St.LawrenceUniversityAlumni"
+                },
+                {
+                    "label": "American women",
+                    "uri": "http://dbpedia.org/resource/American_women"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Susan_Collins"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0388",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Susan Collins",
+            "types": [
+                {
+                    "label": "Irish-American politicians",
+                    "uri": "http://dbpedia.org/resource/Irish-American_politicians"
+                },
+                {
+                    "label": "United States Senators From Maine",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromMaine"
+                },
+                {
+                    "label": "Future election candidates",
+                    "uri": "http://dbpedia.org/resource/Future_election_candidates"
+                },
+                {
+                    "label": "American Women In Politics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanWomenInPolitics"
+                },
+                {
+                    "label": "St.Lawrence University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/St.LawrenceUniversityAlumni"
+                },
+                {
+                    "label": "American women",
+                    "uri": "http://dbpedia.org/resource/American_women"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Susan_Collins"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,181 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 671
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Keith Olbermann", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 182
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American political pundits", 
+                    "uri": "http://dbpedia.org/resource/American_political_pundits"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "American sports announcers", 
+                    "uri": "http://dbpedia.org/resource/American_sports_announcers"
+                }, 
+                {
+                    "label": "American television personalities", 
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                }, 
+                {
+                    "label": "Boston television anchors", 
+                    "uri": "http://dbpedia.org/resource/Boston_television_anchors"
+                }, 
+                {
+                    "label": "Cornell University alumni", 
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                }, 
+                {
+                    "label": "American Political Pundits", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalPundits"
+                }, 
+                {
+                    "label": "American television journalists", 
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Keith_Olbermann"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 96
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 121
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 291
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "P3-0212", 
+    "elementNumber": 30, 
+    "mainEntities": [
+        {
+            "label": "Keith Olbermann", 
+            "offsets": [
+                {
+                    "length": 15, 
+                    "offset": 182
+                }
+            ], 
+            "types": [
+                {
+                    "label": "American political pundits", 
+                    "uri": "http://dbpedia.org/resource/American_political_pundits"
+                }, 
+                {
+                    "label": "People From New York City", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                }, 
+                {
+                    "label": "American sports announcers", 
+                    "uri": "http://dbpedia.org/resource/American_sports_announcers"
+                }, 
+                {
+                    "label": "American television personalities", 
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                }, 
+                {
+                    "label": "Boston television anchors", 
+                    "uri": "http://dbpedia.org/resource/Boston_television_anchors"
+                }, 
+                {
+                    "label": "Cornell University alumni", 
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                }, 
+                {
+                    "label": "American Political Pundits", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalPundits"
+                }, 
+                {
+                    "label": "American television journalists", 
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Keith_Olbermann"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 96
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 121
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 291
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }
+    ], 
+    "mainText": "In the late 1990s, Fox tied a package of M.L.B. games and a news operation with Keith Olbermann as the star anchor on its regional sports channels.\nIt failed.\nRecalling that time, a former Fox executive said, &ldquo;It was Chase&rsquo;s vision that we&rsquo;d use the regional sports networks to transition into a national sports network.&rdquo;", 
+    "shownText": "Still, the possibility of starting a national sports network constitutes unfinished business at Fox.\n\nIn the late 1990s, Fox tied a package of M.L.B. games and a news operation with Keith Olbermann as the star anchor on its regional sports channels.\nIt failed.\nRecalling that time, a former Fox executive said, &ldquo;It was Chase&rsquo;s vision that we&rsquo;d use the regional sports networks to transition into a national sports network.&rdquo;\n\nThen, in 2004, Murdoch tried to create a national channel in partnership with the N.F.L. and cable operators.\nAt the time, Murdoch said, &ldquo;We want to consider the capacity of pay television subscribers to pay for two ESPNs.&rdquo;\n", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

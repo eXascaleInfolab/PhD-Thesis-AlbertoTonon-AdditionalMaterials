@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Berger",
+            "types": [
+                {
+                    "label": "Dutch surnames",
+                    "uri": "http://dbpedia.org/resource/Dutch_surnames"
+                },
+                {
+                    "label": "French surnames",
+                    "uri": "http://dbpedia.org/resource/French_surnames"
+                },
+                {
+                    "label": "German surnames",
+                    "uri": "http://dbpedia.org/resource/German_surnames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Berger"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0160",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Berger",
+            "types": [
+                {
+                    "label": "Dutch surnames",
+                    "uri": "http://dbpedia.org/resource/Dutch_surnames"
+                },
+                {
+                    "label": "French surnames",
+                    "uri": "http://dbpedia.org/resource/French_surnames"
+                },
+                {
+                    "label": "German surnames",
+                    "uri": "http://dbpedia.org/resource/German_surnames"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Berger"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

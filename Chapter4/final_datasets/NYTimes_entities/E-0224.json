@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "William Barnes",
+            "types": [
+                {
+                    "label": "English Poets",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPoets"
+                },
+                {
+                    "label": "English philologists",
+                    "uri": "http://dbpedia.org/resource/English_philologists"
+                },
+                {
+                    "label": "English Philologists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPhilologists"
+                },
+                {
+                    "label": "English Anglican priests",
+                    "uri": "http://dbpedia.org/resource/English_Anglican_priests"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/William_Barnes"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0224",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "William Barnes",
+            "types": [
+                {
+                    "label": "English Poets",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPoets"
+                },
+                {
+                    "label": "English philologists",
+                    "uri": "http://dbpedia.org/resource/English_philologists"
+                },
+                {
+                    "label": "English Philologists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishPhilologists"
+                },
+                {
+                    "label": "English Anglican priests",
+                    "uri": "http://dbpedia.org/resource/English_Anglican_priests"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/William_Barnes"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

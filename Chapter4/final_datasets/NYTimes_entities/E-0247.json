@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Monsanto",
+            "types": [
+                {
+                    "label": "Chemical Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/ChemicalCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Agriculture companies",
+                    "uri": "http://dbpedia.org/resource/Agriculture_companies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Monsanto"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0247",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Monsanto",
+            "types": [
+                {
+                    "label": "Chemical Companies Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/ChemicalCompaniesOfTheUnitedStates"
+                },
+                {
+                    "label": "Agriculture companies",
+                    "uri": "http://dbpedia.org/resource/Agriculture_companies"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Monsanto"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

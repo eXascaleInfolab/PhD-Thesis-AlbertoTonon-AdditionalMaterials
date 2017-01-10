@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Eliot Spitzer",
+            "types": [
+                {
+                    "label": "Jewish American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanPoliticians"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Prosecutors",
+                    "uri": "http://dbpedia.org/class/yago/Prosecutors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "District Attorneys",
+                    "uri": "http://dbpedia.org/class/yago/DistrictAttorneys"
+                },
+                {
+                    "label": "Jewish American politicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_politicians"
+                },
+                {
+                    "label": "American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLawyers"
+                },
+                {
+                    "label": "Princeton University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+                },
+                {
+                    "label": "People From The Bronx",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheBronx"
+                },
+                {
+                    "label": "2000United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/2000UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "2004United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/2004UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "New York Democrats",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                },
+                {
+                    "label": "Governors Of New York",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfNewYork"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Eliot_Spitzer"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0427",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Eliot Spitzer",
+            "types": [
+                {
+                    "label": "Jewish American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishAmericanPoliticians"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Harvard Law School alumni",
+                    "uri": "http://dbpedia.org/resource/Harvard_Law_School_alumni"
+                },
+                {
+                    "label": "Prosecutors",
+                    "uri": "http://dbpedia.org/class/yago/Prosecutors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "Harvard Law School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/HarvardLawSchoolAlumni"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "District Attorneys",
+                    "uri": "http://dbpedia.org/class/yago/DistrictAttorneys"
+                },
+                {
+                    "label": "Jewish American politicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_politicians"
+                },
+                {
+                    "label": "American Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanLawyers"
+                },
+                {
+                    "label": "Princeton University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/PrincetonUniversityAlumni"
+                },
+                {
+                    "label": "People From The Bronx",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheBronx"
+                },
+                {
+                    "label": "2000United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/2000UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "2004United States Presidential Electors",
+                    "uri": "http://dbpedia.org/class/yago/2004UnitedStatesPresidentialElectors"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "New York Democrats",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkDemocrats"
+                },
+                {
+                    "label": "Governors Of New York",
+                    "uri": "http://dbpedia.org/class/yago/GovernorsOfNewYork"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "American lawyers",
+                    "uri": "http://dbpedia.org/resource/American_lawyers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Eliot_Spitzer"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

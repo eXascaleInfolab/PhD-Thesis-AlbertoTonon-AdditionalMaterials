@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Stella McCartney",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "English Activists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishActivists"
+                },
+                {
+                    "label": "English Jews",
+                    "uri": "http://dbpedia.org/resource/English_Jews"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                },
+                {
+                    "label": "English activists",
+                    "uri": "http://dbpedia.org/resource/English_activists"
+                },
+                {
+                    "label": "English vegetarians",
+                    "uri": "http://dbpedia.org/resource/English_vegetarians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stella_McCartney"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0526",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Stella McCartney",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "English Activists",
+                    "uri": "http://dbpedia.org/class/yago/EnglishActivists"
+                },
+                {
+                    "label": "English Jews",
+                    "uri": "http://dbpedia.org/resource/English_Jews"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                },
+                {
+                    "label": "English activists",
+                    "uri": "http://dbpedia.org/resource/English_activists"
+                },
+                {
+                    "label": "English vegetarians",
+                    "uri": "http://dbpedia.org/resource/English_vegetarians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Stella_McCartney"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

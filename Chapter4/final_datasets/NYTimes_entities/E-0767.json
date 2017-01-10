@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Byron Janis",
+            "types": [
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                },
+                {
+                    "label": "Jewish American musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Byron_Janis"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0767",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Byron Janis",
+            "types": [
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                },
+                {
+                    "label": "Jewish American musicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_American_musicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Byron_Janis"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

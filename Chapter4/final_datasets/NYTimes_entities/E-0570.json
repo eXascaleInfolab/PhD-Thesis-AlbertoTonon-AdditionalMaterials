@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "JEFF KLEIN",
+            "types": [
+                {
+                    "label": "American Rock Musicians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockMusicians"
+                },
+                {
+                    "label": "American rock music groups",
+                    "uri": "http://dbpedia.org/resource/American_rock_music_groups"
+                },
+                {
+                    "label": "American indie rock groups",
+                    "uri": "http://dbpedia.org/resource/American_indie_rock_groups"
+                },
+                {
+                    "label": "Alternative musical groups",
+                    "uri": "http://dbpedia.org/resource/Alternative_musical_groups"
+                },
+                {
+                    "label": "American rock musicians",
+                    "uri": "http://dbpedia.org/resource/American_rock_musicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeff_Klein"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0570",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "JEFF KLEIN",
+            "types": [
+                {
+                    "label": "American Rock Musicians",
+                    "uri": "http://dbpedia.org/class/yago/AmericanRockMusicians"
+                },
+                {
+                    "label": "American rock music groups",
+                    "uri": "http://dbpedia.org/resource/American_rock_music_groups"
+                },
+                {
+                    "label": "American indie rock groups",
+                    "uri": "http://dbpedia.org/resource/American_indie_rock_groups"
+                },
+                {
+                    "label": "Alternative musical groups",
+                    "uri": "http://dbpedia.org/resource/Alternative_musical_groups"
+                },
+                {
+                    "label": "American rock musicians",
+                    "uri": "http://dbpedia.org/resource/American_rock_musicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jeff_Klein"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

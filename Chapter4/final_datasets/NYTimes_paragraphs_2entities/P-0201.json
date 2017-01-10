@@ -1,0 +1,109 @@
+{
+  "mainText":"Edney went on three morning shows, including \u201cGood Morning America,\u201d on which his story followed one about the pope.\nIt certainly seemed that way.\nHe appeared on ESPN\u2019s flagship program, \u201cSportsCenter,\u201d twice.\nHe had an interviewed scheduled with CNN for Tuesday morning and one YouTube video of The Shot had already accumulated more than 1.4 million views by late afternoon.\nThe world?",
+  "shownText":"Edney went on three morning shows, including \u201cGood Morning America,\u201d on which his story followed one about the pope.\nIt certainly seemed that way.\nHe appeared on ESPN\u2019s flagship program, \u201cSportsCenter,\u201d twice.\nHe had an interviewed scheduled with CNN for Tuesday morning and one YouTube video of The Shot had already accumulated more than 1.4 million views by late afternoon.\nThe world?",
+  "title":"Khalil Edney Is Big Shot at New Rochelle High School and on YouTube - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/khalil-edney-is-big-shot-at-new-rochelle-high-school-and-on-youtube.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0201",
+  "elementNumber":16,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN",
+      "offsets":[
+        {
+          "offset":162,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CNN",
+      "label":"CNN",
+      "offsets":[
+        {
+          "offset":247,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"24-hour television news channels",
+          "uri":"http://dbpedia.org/resource/24-hour_television_news_channels"
+        },
+        {
+          "label":"Digital only radio stations",
+          "uri":"http://dbpedia.org/resource/Digital_only_radio_stations"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/ESPN",
+      "label":"ESPN",
+      "offsets":[
+        {
+          "offset":162,
+          "length":4
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Broadcast",
+          "uri":"http://dbpedia.org/ontology/Broadcast"
+        },
+        {
+          "label":"Companies Based In Hartford County,Connecticut",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/CNN",
+      "label":"CNN",
+      "offsets":[
+        {
+          "offset":247,
+          "length":3
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"24-hour television news channels",
+          "uri":"http://dbpedia.org/resource/24-hour_television_news_channels"
+        },
+        {
+          "label":"Digital only radio stations",
+          "uri":"http://dbpedia.org/resource/Digital_only_radio_stations"
+        }
+      ]
+    }
+  ]
+}

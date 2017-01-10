@@ -1,0 +1,157 @@
+{
+    "allEntities": [
+        {
+            "label": "Gabriel Torres", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 4
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Brazilian journalists", 
+                    "uri": "http://dbpedia.org/resource/Brazilian_journalists"
+                }, 
+                {
+                    "label": "Brazilian emigrants", 
+                    "uri": "http://dbpedia.org/resource/Brazilian_emigrants"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Gabriel_Torres"
+        }, 
+        {
+            "label": "St. Vincent&rsquo;s Hospital", 
+            "offsets": [
+                {
+                    "length": 28, 
+                    "offset": 46
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Black comedy films", 
+                    "uri": "http://dbpedia.org/resource/Black_comedy_films"
+                }, 
+                {
+                    "label": "Work", 
+                    "uri": "http://dbpedia.org/ontology/Work"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "English-language Films", 
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilms"
+                }, 
+                {
+                    "label": "Film", 
+                    "uri": "http://dbpedia.org/ontology/Film"
+                }, 
+                {
+                    "label": "1971Films", 
+                    "uri": "http://dbpedia.org/class/yago/1971Films"
+                }, 
+                {
+                    "label": "Movie", 
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                }, 
+                {
+                    "label": "Medical-themed Films", 
+                    "uri": "http://dbpedia.org/class/yago/Medical-themedFilms"
+                }, 
+                {
+                    "label": "Black Comedy Films", 
+                    "uri": "http://dbpedia.org/class/yago/BlackComedyFilms"
+                }, 
+                {
+                    "label": "American Films", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilms"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/The_Hospital"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/24/fashion/what-really-killed-spencer-cox-aids-activist.html?ref=style", 
+    "category": "style", 
+    "docID": "S-0299", 
+    "elementNumber": 44, 
+    "mainEntities": [
+        {
+            "label": "Gabriel Torres", 
+            "offsets": [
+                {
+                    "length": 14, 
+                    "offset": 4
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Brazilian journalists", 
+                    "uri": "http://dbpedia.org/resource/Brazilian_journalists"
+                }, 
+                {
+                    "label": "Brazilian emigrants", 
+                    "uri": "http://dbpedia.org/resource/Brazilian_emigrants"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Gabriel_Torres"
+        }, 
+        {
+            "label": "St. Vincent&rsquo;s Hospital", 
+            "offsets": [
+                {
+                    "length": 28, 
+                    "offset": 46
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Black comedy films", 
+                    "uri": "http://dbpedia.org/resource/Black_comedy_films"
+                }, 
+                {
+                    "label": "Work", 
+                    "uri": "http://dbpedia.org/ontology/Work"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "English-language Films", 
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilms"
+                }, 
+                {
+                    "label": "Film", 
+                    "uri": "http://dbpedia.org/ontology/Film"
+                }, 
+                {
+                    "label": "1971Films", 
+                    "uri": "http://dbpedia.org/class/yago/1971Films"
+                }, 
+                {
+                    "label": "Movie", 
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                }, 
+                {
+                    "label": "Medical-themed Films", 
+                    "uri": "http://dbpedia.org/class/yago/Medical-themedFilms"
+                }, 
+                {
+                    "label": "Black Comedy Films", 
+                    "uri": "http://dbpedia.org/class/yago/BlackComedyFilms"
+                }, 
+                {
+                    "label": "American Films", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilms"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/The_Hospital"
+        }
+    ], 
+    "mainText": "Dr. Gabriel Torres , who ran the AIDS ward at St. Vincent&rsquo;s Hospital in Greenwich Village, fell into a decade-long battle with addiction, winding up in and out of jail.", 
+    "shownText": "Dr. Gabriel Torres , who ran the AIDS ward at St. Vincent&rsquo;s Hospital in Greenwich Village, fell into a decade-long battle with addiction, winding up in and out of jail.", 
+    "title": "What Really Killed Spencer Cox, AIDS activist? - NYTimes.com"
+}

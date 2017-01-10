@@ -1,0 +1,893 @@
+{
+  "mainText":"\u201cLincoln,\u201d considered the early Oscar front-runner, seemed to overreach by getting Bill Clinton to introduce a clip at the Golden Globes last month.\n\u201cLincoln,\u201d the most nominated film going into the night with 12 nods, left with two statuettes, including one for Daniel Day-Lewis as best actor, his third in that category.",
+  "shownText":"Still, Mr. Affleck was not nominated by the Academy for his directing, making \u201cArgo\u201d the first film to win best picture without an accompanying nomination for its director since 1990, when \u201cDriving Miss Daisy\u201d won the best-picture Oscar.\nWhen Mr. Affleck failed to receive a nomination for directing that helped rally support for \u201cArgo,\u201d which picked up a rash of honors on the awards circuit.\nOn Sunday it also won Oscars for best adapted screenplay (for Chris Terrio) and best editing (for William Goldenberg).\n\n\u201cLincoln,\u201d considered the early Oscar front-runner, seemed to overreach by getting Bill Clinton to introduce a clip at the Golden Globes last month.\n\u201cLincoln,\u201d the most nominated film going into the night with 12 nods, left with two statuettes, including one for Daniel Day-Lewis as best actor, his third in that category.\n\nIn a gracious acceptance speech, he thanked his \"beloved skipper,\" the film\u2019s director, Steven Spielberg, and concluded by saying \"For my mother.\"\n",
+  "title":"Best Picture for âArgoâ in Varied Oscar Field - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/movies/awardsseason/best-picture-for-argo-in-varied-oscar-field.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0022",
+  "elementNumber":11,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Daniel_Day-Lewis",
+      "label":"Daniel Day-Lewis",
+      "offsets":[
+        {
+          "offset":777,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"film.actor",
+          "uri":"http://rdf.freebase.com/ns/film.actor"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"English Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishStageActors"
+        },
+        {
+          "label":"award.award nominee",
+          "uri":"http://rdf.freebase.com/ns/award.award_nominee"
+        },
+        {
+          "label":"tv.tv actor",
+          "uri":"http://rdf.freebase.com/ns/tv.tv_actor"
+        },
+        {
+          "label":"common.topic",
+          "uri":"http://rdf.freebase.com/ns/common.topic"
+        },
+        {
+          "label":"Irish film actors",
+          "uri":"http://dbpedia.org/resource/Irish_film_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Alumni Of Bristol Old Vic Theatre School",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfBristolOldVicTheatreSchool"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"award.award winner",
+          "uri":"http://rdf.freebase.com/ns/award.award_winner"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English stage actors",
+          "uri":"http://dbpedia.org/resource/English_stage_actors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"British expatriates",
+          "uri":"http://dbpedia.org/resource/British_expatriates"
+        },
+        {
+          "label":"base.popstra.celebrity",
+          "uri":"http://rdf.freebase.com/ns/base.popstra.celebrity"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"people.person",
+          "uri":"http://rdf.freebase.com/ns/people.person"
+        },
+        {
+          "label":"base.academyawards.topic",
+          "uri":"http://rdf.freebase.com/ns/base.academyawards.topic"
+        },
+        {
+          "label":"Irish Film Actors",
+          "uri":"http://dbpedia.org/class/yago/IrishFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"Best Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"British Expatriates",
+          "uri":"http://dbpedia.org/class/yago/BritishExpatriates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"user.narphorium.people.topic",
+          "uri":"http://rdf.freebase.com/ns/user.narphorium.people.topic"
+        },
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"English Jews",
+          "uri":"http://dbpedia.org/resource/English_Jews"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"user.narphorium.people.nndb person",
+          "uri":"http://rdf.freebase.com/ns/user.narphorium.people.nndb_person"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bill_Clinton",
+      "label":"Bill Clinton",
+      "offsets":[
+        {
+          "offset":597,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Legal Academics",
+          "uri":"http://dbpedia.org/class/yago/AmericanLegalAcademics"
+        },
+        {
+          "label":"Alumni Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"American saxophonists",
+          "uri":"http://dbpedia.org/resource/American_saxophonists"
+        },
+        {
+          "label":"American Rhodes Scholars",
+          "uri":"http://dbpedia.org/class/yago/AmericanRhodesScholars"
+        },
+        {
+          "label":"Georgetown University Alumni",
+          "uri":"http://dbpedia.org/class/yago/GeorgetownUniversityAlumni"
+        },
+        {
+          "label":"People Associated With The University Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleAssociatedWithTheUniversityOfArkansas"
+        },
+        {
+          "label":"American humanitarians",
+          "uri":"http://dbpedia.org/resource/American_humanitarians"
+        },
+        {
+          "label":"Honorary Fellows Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/HonoraryFellowsOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Hot Springs,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHotSprings,Arkansas"
+        },
+        {
+          "label":"Disbarred American lawyers",
+          "uri":"http://dbpedia.org/resource/Disbarred_American_lawyers"
+        },
+        {
+          "label":"Arkansas Attorneys General",
+          "uri":"http://dbpedia.org/resource/Arkansas_Attorneys_General"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Artifact",
+          "uri":"http://umbel.org/umbel/ac/Artifact"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Grand Companions Of The Order Of Logohu",
+          "uri":"http://dbpedia.org/class/yago/GrandCompanionsOfTheOrderOfLogohu"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Graduate",
+          "uri":"http://umbel.org/umbel/sc/Graduate"
+        },
+        {
+          "label":"Democratic Party (United States) presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+        },
+        {
+          "label":"Georgetown University alumni",
+          "uri":"http://dbpedia.org/resource/Georgetown_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Leader",
+          "uri":"http://umbel.org/umbel/sc/Leader"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Impeached United States Officials",
+          "uri":"http://dbpedia.org/class/yago/ImpeachedUnitedStatesOfficials"
+        },
+        {
+          "label":"Disbarred American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/DisbarredAmericanLawyers"
+        },
+        {
+          "label":"Instrumental Artifact",
+          "uri":"http://umbel.org/umbel/ac/InstrumentalArtifact"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"left-handed person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rD9YjvGfuQdiB-OXz86_dYQ"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Yale Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleLawSchoolAlumni"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Saxophonists",
+          "uri":"http://dbpedia.org/class/yago/AmericanSaxophonists"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Governors Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfArkansas"
+        },
+        {
+          "label":"American Humanitarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHumanitarians"
+        },
+        {
+          "label":"American Rhodes scholars",
+          "uri":"http://dbpedia.org/resource/American_Rhodes_scholars"
+        },
+        {
+          "label":"Administrator",
+          "uri":"http://umbel.org/umbel/sc/Administrator"
+        },
+        {
+          "label":"People From Hope,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHope,Arkansas"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        },
+        {
+          "label":"Furniture Piece",
+          "uri":"http://umbel.org/umbel/sc/FurniturePiece"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Chris_Terrio",
+      "label":"Chris Terrio",
+      "offsets":[
+        {
+          "offset":456,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Daniel_Day-Lewis",
+      "label":"Daniel Day-Lewis",
+      "offsets":[
+        {
+          "offset":777,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"film.actor",
+          "uri":"http://rdf.freebase.com/ns/film.actor"
+        },
+        {
+          "label":"English Film Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishFilmActors"
+        },
+        {
+          "label":"English Stage Actors",
+          "uri":"http://dbpedia.org/class/yago/EnglishStageActors"
+        },
+        {
+          "label":"award.award nominee",
+          "uri":"http://rdf.freebase.com/ns/award.award_nominee"
+        },
+        {
+          "label":"tv.tv actor",
+          "uri":"http://rdf.freebase.com/ns/tv.tv_actor"
+        },
+        {
+          "label":"common.topic",
+          "uri":"http://rdf.freebase.com/ns/common.topic"
+        },
+        {
+          "label":"Irish film actors",
+          "uri":"http://dbpedia.org/resource/Irish_film_actors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Alumni Of Bristol Old Vic Theatre School",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfBristolOldVicTheatreSchool"
+        },
+        {
+          "label":"Jewish Actors",
+          "uri":"http://dbpedia.org/class/yago/JewishActors"
+        },
+        {
+          "label":"award.award winner",
+          "uri":"http://rdf.freebase.com/ns/award.award_winner"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"English stage actors",
+          "uri":"http://dbpedia.org/resource/English_stage_actors"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"British expatriates",
+          "uri":"http://dbpedia.org/resource/British_expatriates"
+        },
+        {
+          "label":"base.popstra.celebrity",
+          "uri":"http://rdf.freebase.com/ns/base.popstra.celebrity"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"English film actors",
+          "uri":"http://dbpedia.org/resource/English_film_actors"
+        },
+        {
+          "label":"people.person",
+          "uri":"http://rdf.freebase.com/ns/people.person"
+        },
+        {
+          "label":"base.academyawards.topic",
+          "uri":"http://rdf.freebase.com/ns/base.academyawards.topic"
+        },
+        {
+          "label":"Irish Film Actors",
+          "uri":"http://dbpedia.org/class/yago/IrishFilmActors"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"Best Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"British Expatriates",
+          "uri":"http://dbpedia.org/class/yago/BritishExpatriates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"user.narphorium.people.topic",
+          "uri":"http://rdf.freebase.com/ns/user.narphorium.people.topic"
+        },
+        {
+          "label":"Jewish actors",
+          "uri":"http://dbpedia.org/resource/Jewish_actors"
+        },
+        {
+          "label":"English Jews",
+          "uri":"http://dbpedia.org/resource/English_Jews"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"user.narphorium.people.nndb person",
+          "uri":"http://rdf.freebase.com/ns/user.narphorium.people.nndb_person"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Steven_Spielberg",
+      "label":"Steven Spielberg",
+      "offsets":[
+        {
+          "offset":926,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Honorary British knighthoods",
+          "uri":"http://dbpedia.org/resource/Honorary_British_knighthoods"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"American Adoptive Parents",
+          "uri":"http://dbpedia.org/class/yago/AmericanAdoptiveParents"
+        },
+        {
+          "label":"Akira Kurosawa Award winners",
+          "uri":"http://dbpedia.org/resource/Akira_Kurosawa_Award_winners"
+        },
+        {
+          "label":"American adoptive parents",
+          "uri":"http://dbpedia.org/resource/American_adoptive_parents"
+        },
+        {
+          "label":"American humanitarians",
+          "uri":"http://dbpedia.org/resource/American_humanitarians"
+        },
+        {
+          "label":"Distinguished Eagle Scouts",
+          "uri":"http://dbpedia.org/class/yago/DistinguishedEagleScouts"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Jewish American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/JewishAmericanFilmDirectors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Film Studio Executives",
+          "uri":"http://dbpedia.org/class/yago/FilmStudioExecutives"
+        },
+        {
+          "label":"Kidney Cancer Survivors",
+          "uri":"http://dbpedia.org/class/yago/KidneyCancerSurvivors"
+        },
+        {
+          "label":"English-language Film Directors",
+          "uri":"http://dbpedia.org/class/yago/English-languageFilmDirectors"
+        },
+        {
+          "label":"Film studio executives",
+          "uri":"http://dbpedia.org/resource/Film_studio_executives"
+        },
+        {
+          "label":"California State University%2C Long Beach alumni",
+          "uri":"http://dbpedia.org/resource/California_State_University%2C_Long_Beach_alumni"
+        },
+        {
+          "label":"American billionaires",
+          "uri":"http://dbpedia.org/resource/American_billionaires"
+        },
+        {
+          "label":"American Film Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmProducers"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Best Director Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Director_Academy_Award_winners"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"BAFTA winners (people)",
+          "uri":"http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+        },
+        {
+          "label":"People From Scottsdale,Arizona",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromScottsdale,Arizona"
+        },
+        {
+          "label":"American Billionaires",
+          "uri":"http://dbpedia.org/class/yago/AmericanBillionaires"
+        },
+        {
+          "label":"English-language film directors",
+          "uri":"http://dbpedia.org/resource/English-language_film_directors"
+        },
+        {
+          "label":"individual",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaApwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Science Fiction Fans",
+          "uri":"http://dbpedia.org/class/yago/ScienceFictionFans"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Jewish American film directors",
+          "uri":"http://dbpedia.org/resource/Jewish_American_film_directors"
+        },
+        {
+          "label":"Best Director Golden Globe",
+          "uri":"http://dbpedia.org/resource/Best_Director_Golden_Globe"
+        },
+        {
+          "label":"California State University,Long Beach Alumni",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaStateUniversity,LongBeachAlumni"
+        },
+        {
+          "label":"People From Cincinnati,Ohio",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromCincinnati,Ohio"
+        },
+        {
+          "label":"American Humanitarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHumanitarians"
+        },
+        {
+          "label":"American film producers",
+          "uri":"http://dbpedia.org/resource/American_film_producers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Bill_Clinton",
+      "label":"Bill Clinton",
+      "offsets":[
+        {
+          "offset":597,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Office Holder",
+          "uri":"http://dbpedia.org/ontology/OfficeHolder"
+        },
+        {
+          "label":"American memoirists",
+          "uri":"http://dbpedia.org/resource/American_memoirists"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"American Legal Academics",
+          "uri":"http://dbpedia.org/class/yago/AmericanLegalAcademics"
+        },
+        {
+          "label":"Alumni Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/AlumniOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"American saxophonists",
+          "uri":"http://dbpedia.org/resource/American_saxophonists"
+        },
+        {
+          "label":"American Rhodes Scholars",
+          "uri":"http://dbpedia.org/class/yago/AmericanRhodesScholars"
+        },
+        {
+          "label":"Georgetown University Alumni",
+          "uri":"http://dbpedia.org/class/yago/GeorgetownUniversityAlumni"
+        },
+        {
+          "label":"People Associated With The University Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleAssociatedWithTheUniversityOfArkansas"
+        },
+        {
+          "label":"American humanitarians",
+          "uri":"http://dbpedia.org/resource/American_humanitarians"
+        },
+        {
+          "label":"Honorary Fellows Of University College,Oxford",
+          "uri":"http://dbpedia.org/class/yago/HonoraryFellowsOfUniversityCollege,Oxford"
+        },
+        {
+          "label":"United States president",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwQBS0ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Hot Springs,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHotSprings,Arkansas"
+        },
+        {
+          "label":"Disbarred American lawyers",
+          "uri":"http://dbpedia.org/resource/Disbarred_American_lawyers"
+        },
+        {
+          "label":"Arkansas Attorneys General",
+          "uri":"http://dbpedia.org/resource/Arkansas_Attorneys_General"
+        },
+        {
+          "label":"Time Magazine Persons Of The Year",
+          "uri":"http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+        },
+        {
+          "label":"Artifact",
+          "uri":"http://umbel.org/umbel/ac/Artifact"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"One of the presidents of the United States",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4r7dbfSucXEdmAAAACs2IKaR4rvVikKpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Grand Companions Of The Order Of Logohu",
+          "uri":"http://dbpedia.org/class/yago/GrandCompanionsOfTheOrderOfLogohu"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Graduate",
+          "uri":"http://umbel.org/umbel/sc/Graduate"
+        },
+        {
+          "label":"Democratic Party (United States) presidential nominees",
+          "uri":"http://dbpedia.org/resource/Democratic_Party_%28United_States%29_presidential_nominees"
+        },
+        {
+          "label":"Georgetown University alumni",
+          "uri":"http://dbpedia.org/resource/Georgetown_University_alumni"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Leader",
+          "uri":"http://umbel.org/umbel/sc/Leader"
+        },
+        {
+          "label":"man",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViyfpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Impeached United States Officials",
+          "uri":"http://dbpedia.org/class/yago/ImpeachedUnitedStatesOfficials"
+        },
+        {
+          "label":"Disbarred American Lawyers",
+          "uri":"http://dbpedia.org/class/yago/DisbarredAmericanLawyers"
+        },
+        {
+          "label":"Instrumental Artifact",
+          "uri":"http://umbel.org/umbel/ac/InstrumentalArtifact"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        },
+        {
+          "label":"left-handed person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rD9YjvGfuQdiB-OXz86_dYQ"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://umbel.org/umbel/sc/Person"
+        },
+        {
+          "label":"Yale Law School Alumni",
+          "uri":"http://dbpedia.org/class/yago/YaleLawSchoolAlumni"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"American Saxophonists",
+          "uri":"http://dbpedia.org/class/yago/AmericanSaxophonists"
+        },
+        {
+          "label":"Presidents Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+        },
+        {
+          "label":"Governors Of Arkansas",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfArkansas"
+        },
+        {
+          "label":"American Humanitarians",
+          "uri":"http://dbpedia.org/class/yago/AmericanHumanitarians"
+        },
+        {
+          "label":"American Rhodes scholars",
+          "uri":"http://dbpedia.org/resource/American_Rhodes_scholars"
+        },
+        {
+          "label":"Administrator",
+          "uri":"http://umbel.org/umbel/sc/Administrator"
+        },
+        {
+          "label":"People From Hope,Arkansas",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromHope,Arkansas"
+        },
+        {
+          "label":"Baptists from the United States",
+          "uri":"http://dbpedia.org/resource/Baptists_from_the_United_States"
+        },
+        {
+          "label":"Furniture Piece",
+          "uri":"http://umbel.org/umbel/sc/FurniturePiece"
+        }
+      ]
+    }
+  ]
+}

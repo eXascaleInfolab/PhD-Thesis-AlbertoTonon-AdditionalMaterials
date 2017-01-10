@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Philo",
+            "types": [
+                {
+                    "label": "Ancient Jewish Egyptian history",
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Egyptian_history"
+                },
+                {
+                    "label": "Hellenistic Egyptians",
+                    "uri": "http://dbpedia.org/resource/Hellenistic_Egyptians"
+                },
+                {
+                    "label": "1st century BC births",
+                    "uri": "http://dbpedia.org/resource/1st_century_BC_births"
+                },
+                {
+                    "label": "Jewish philosophers",
+                    "uri": "http://dbpedia.org/resource/Jewish_philosophers"
+                },
+                {
+                    "label": "Ancient Jewish Roman history",
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Roman_history"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0338",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Philo",
+            "types": [
+                {
+                    "label": "Ancient Jewish Egyptian history",
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Egyptian_history"
+                },
+                {
+                    "label": "Hellenistic Egyptians",
+                    "uri": "http://dbpedia.org/resource/Hellenistic_Egyptians"
+                },
+                {
+                    "label": "1st century BC births",
+                    "uri": "http://dbpedia.org/resource/1st_century_BC_births"
+                },
+                {
+                    "label": "Jewish philosophers",
+                    "uri": "http://dbpedia.org/resource/Jewish_philosophers"
+                },
+                {
+                    "label": "Ancient Jewish Roman history",
+                    "uri": "http://dbpedia.org/resource/Ancient_Jewish_Roman_history"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Philo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

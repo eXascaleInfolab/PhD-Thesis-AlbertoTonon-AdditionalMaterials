@@ -1,0 +1,173 @@
+{
+  "mainText":"\u201cShe is using all of her social capital on this,\u201d said Rachel Sklar, founder of a networking list for women in technology, who is on the Lean In launch committee.\nAsked how Ms. Sandberg would balance her demanding job with the creation of a new movement, a member of the team offered a tentative answer: she plans to use her vacation days.",
+  "shownText":"\u201cShe is using all of her social capital on this,\u201d said Rachel Sklar, founder of a networking list for women in technology, who is on the Lean In launch committee.\nAsked how Ms. Sandberg would balance her demanding job with the creation of a new movement, a member of the team offered a tentative answer: she plans to use her vacation days.",
+  "title":"Sheryl Sandberg, âLean Inâ Author, Hopes to Spur Movement - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us",
+  "category":"us",
+  "docID":"P-0307",
+  "elementNumber":22,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":177,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rachel_Sklar",
+      "label":"Rachel Sklar",
+      "offsets":[
+        {
+          "offset":55,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Jewish bloggers",
+          "uri":"http://dbpedia.org/resource/Jewish_bloggers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian Lawyers",
+          "uri":"http://dbpedia.org/class/yago/CanadianLawyers"
+        },
+        {
+          "label":"Debating Alumni",
+          "uri":"http://dbpedia.org/class/yago/DebatingAlumni"
+        },
+        {
+          "label":"Jewish Bloggers",
+          "uri":"http://dbpedia.org/class/yago/JewishBloggers"
+        },
+        {
+          "label":"Canadian lawyers",
+          "uri":"http://dbpedia.org/resource/Canadian_lawyers"
+        },
+        {
+          "label":"Debating alumni",
+          "uri":"http://dbpedia.org/resource/Debating_alumni"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":177,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Rachel_Sklar",
+      "label":"Rachel Sklar",
+      "offsets":[
+        {
+          "offset":55,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Jewish bloggers",
+          "uri":"http://dbpedia.org/resource/Jewish_bloggers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian Lawyers",
+          "uri":"http://dbpedia.org/class/yago/CanadianLawyers"
+        },
+        {
+          "label":"Debating Alumni",
+          "uri":"http://dbpedia.org/class/yago/DebatingAlumni"
+        },
+        {
+          "label":"Jewish Bloggers",
+          "uri":"http://dbpedia.org/class/yago/JewishBloggers"
+        },
+        {
+          "label":"Canadian lawyers",
+          "uri":"http://dbpedia.org/resource/Canadian_lawyers"
+        },
+        {
+          "label":"Debating alumni",
+          "uri":"http://dbpedia.org/resource/Debating_alumni"
+        },
+        {
+          "label":"Lawyer",
+          "uri":"http://dbpedia.org/class/yago/Lawyer110249950"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

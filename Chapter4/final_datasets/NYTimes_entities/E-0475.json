@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Kaleta",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Canadian ice hockey forwards",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ice hockey personnel from Alberta",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                },
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "Chicago Blackhawks players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Blackhawks_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alex_Kaleta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0475",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kaleta",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Canadian ice hockey forwards",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_forwards"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Ice hockey personnel from Alberta",
+                    "uri": "http://dbpedia.org/resource/Ice_hockey_personnel_from_Alberta"
+                },
+                {
+                    "label": "Canadian ice hockey left wingers",
+                    "uri": "http://dbpedia.org/resource/Canadian_ice_hockey_left_wingers"
+                },
+                {
+                    "label": "Chicago Blackhawks players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Blackhawks_players"
+                },
+                {
+                    "label": "New York Rangers Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkRangersPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alex_Kaleta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

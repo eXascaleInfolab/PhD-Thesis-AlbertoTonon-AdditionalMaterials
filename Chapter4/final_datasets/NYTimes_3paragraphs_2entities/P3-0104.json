@@ -1,0 +1,221 @@
+{
+  "mainText":"Part of that effort can be seen in the online work performed by Detective Patrick Kennedy and his partner, Officer Victor Ramos.\nThey monitor the Facebook pages and Twitter accounts of dozens of J-RIP teenagers from computers inside a precinct station house in East Harlem.\nThe sand-colored brick walls are papered with color photographs, printed from Facebook, of program teenagers posing, or \u201cmobbing,\u201d with peers in crews with names like \u201cBroad Day Shooters\u201d and \u201cTrue Money Gang.\u201d",
+  "shownText":"She decided to identify every juvenile under 18 who lived in Brownsville public housing and had been arrested for robbery, anywhere in the city.\nThe result was a list of 106 teenagers linked to 132 robbery arrests in 2006.\nOnly 24 percent of the robberies occurred on housing property \u2014 a distinction that was important to Chief Jaffe, because stopping these teenagers in Brownsville would have a beneficial impact throughout New York City.\n\nPart of that effort can be seen in the online work performed by Detective Patrick Kennedy and his partner, Officer Victor Ramos.\nThey monitor the Facebook pages and Twitter accounts of dozens of J-RIP teenagers from computers inside a precinct station house in East Harlem.\nThe sand-colored brick walls are papered with color photographs, printed from Facebook, of program teenagers posing, or \u201cmobbing,\u201d with peers in crews with names like \u201cBroad Day Shooters\u201d and \u201cTrue Money Gang.\u201d\n\nLooking at one photo, Detective Kennedy pointed out a J-RIP teenager who was flashing a crew hand signal; he was among the smallest of the group, all wearing designer Marmot and North Face jackets in lime green, purple, orange and electric blue.\n",
+  "title":"For Troubled Teenagers in New York City, a New Tack -  Forced Outreach - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/04/nyregion/to-stem-juvenile-robberies-police-trail-youths-before-the-crime.html?ref=nyregion",
+  "category":"newyork",
+  "docID":"P3-0104",
+  "elementNumber":25,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Patrick_Kennedy",
+      "label":"Patrick Kennedy",
+      "offsets":[
+        {
+          "offset":516,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Irish-born United States political figures",
+          "uri":"http://dbpedia.org/resource/Irish-born_United_States_political_figures"
+        },
+        {
+          "label":"Irish-American politicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_politicians"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"Irish Roman Catholics",
+          "uri":"http://dbpedia.org/resource/Irish_Roman_Catholics"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":588,
+          "length":8
+        },
+        {
+          "offset":794,
+          "length":8
+        },
+        {
+          "offset":588,
+          "length":8
+        },
+        {
+          "offset":794,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Patrick_Kennedy",
+      "label":"Patrick Kennedy",
+      "offsets":[
+        {
+          "offset":516,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Irish-born United States political figures",
+          "uri":"http://dbpedia.org/resource/Irish-born_United_States_political_figures"
+        },
+        {
+          "label":"Irish-American politicians",
+          "uri":"http://dbpedia.org/resource/Irish-American_politicians"
+        },
+        {
+          "label":"Naturalized Citizens Of The United States",
+          "uri":"http://dbpedia.org/class/yago/NaturalizedCitizensOfTheUnitedStates"
+        },
+        {
+          "label":"American Roman Catholics",
+          "uri":"http://dbpedia.org/resource/American_Roman_Catholics"
+        },
+        {
+          "label":"Irish Roman Catholics",
+          "uri":"http://dbpedia.org/resource/Irish_Roman_Catholics"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":588,
+          "length":8
+        },
+        {
+          "offset":794,
+          "length":8
+        },
+        {
+          "offset":588,
+          "length":8
+        },
+        {
+          "offset":794,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    }
+  ]
+}

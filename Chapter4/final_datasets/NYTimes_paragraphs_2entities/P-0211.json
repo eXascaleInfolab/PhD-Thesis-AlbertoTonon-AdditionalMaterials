@@ -1,0 +1,269 @@
+{
+  "mainText":"Fox also has 22 regional sports networks to plumb for talent and some of its baseball programming.\nTwo of those regional channels, each in Los Angeles, recently lost the rights to carry the Lakers and the Dodgers \u2014 each to networks created by Time Warner Cable.\nBut last November, News Corporation made a major foray into the New York sports market by paying about $2 billion for a 49 percent stake in the YES Network, the profitable channel of the Yankees, with an option to buy up to 80 percent in three years.",
+  "shownText":"Fox also has 22 regional sports networks to plumb for talent and some of its baseball programming.\nTwo of those regional channels, each in Los Angeles, recently lost the rights to carry the Lakers and the Dodgers \u2014 each to networks created by Time Warner Cable.\nBut last November, News Corporation made a major foray into the New York sports market by paying about $2 billion for a 49 percent stake in the YES Network, the profitable channel of the Yankees, with an option to buy up to 80 percent in three years.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"P-0211",
+  "elementNumber":28,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":281,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":139,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Time_Warner_Cable",
+      "label":"Time Warner Cable",
+      "offsets":[
+        {
+          "offset":243,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Entertainment Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1989",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/YES_Network",
+      "label":"YES Network",
+      "offsets":[
+        {
+          "offset":406,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":281,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":139,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Time_Warner_Cable",
+      "label":"Time Warner Cable",
+      "offsets":[
+        {
+          "offset":243,
+          "length":17
+        }
+      ],
+      "types":[
+        {
+          "label":"Entertainment Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies Established In1989",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/YES_Network",
+      "label":"YES Network",
+      "offsets":[
+        {
+          "offset":406,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        }
+      ]
+    }
+  ]
+}

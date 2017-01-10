@@ -1,0 +1,173 @@
+{
+  "mainText":"That is because this is pro-Assad territory.\nThe streets flutter with yellow and green flags for Hezbollah.\nA short walk away, more than 25 of his relatives live in a two-room shack, awaiting United Nations aid.",
+  "shownText":"That is because this is pro-Assad territory.\nThe streets flutter with yellow and green flags for Hezbollah.\nA short walk away, more than 25 of his relatives live in a two-room shack, awaiting United Nations aid.",
+  "title":"Syrian Flood Into Lebanon Stirs Fear of Looming Disaster - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/world/middleeast/syrian-flood-into-lebanon-stirs-fear-of-looming-disaster.html?ref=world",
+  "category":"world",
+  "docID":"P-0342",
+  "elementNumber":42,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hezbollah",
+      "label":"Hezbollah",
+      "offsets":[
+        {
+          "offset":97,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Islamist groups",
+          "uri":"http://dbpedia.org/resource/Islamist_groups"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":192,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Hezbollah",
+      "label":"Hezbollah",
+      "offsets":[
+        {
+          "offset":97,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Islamist groups",
+          "uri":"http://dbpedia.org/resource/Islamist_groups"
+        },
+        {
+          "label":"U.S.State Department Designated Terrorist Organizations",
+          "uri":"http://dbpedia.org/class/yago/U.S.StateDepartmentDesignatedTerroristOrganizations"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/United_Nations",
+      "label":"United Nations",
+      "offsets":[
+        {
+          "offset":192,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Political Systems",
+          "uri":"http://dbpedia.org/class/yago/PoliticalSystems"
+        },
+        {
+          "label":"some relevant international organizations hormuz area topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r5-XDAmJsQdiMBM7a9_tMRA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"International Organizations",
+          "uri":"http://dbpedia.org/class/yago/InternationalOrganizations"
+        },
+        {
+          "label":"government organizations organization topic",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r8sgDFmJsQdiZTqJodntKpA"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"temporal object type",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViq35wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Organization",
+          "uri":"http://dbpedia.org/class/yago/Organization108008335"
+        },
+        {
+          "label":"famous organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVipUpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"organization of countries",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvcF1IpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Person Function",
+          "uri":"http://dbpedia.org/ontology/PersonFunction"
+        }
+      ]
+    }
+  ]
+}

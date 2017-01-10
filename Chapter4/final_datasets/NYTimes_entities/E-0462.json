@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Kimbell Art Museum",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Biographical museums",
+                    "uri": "http://dbpedia.org/resource/Biographical_museums"
+                },
+                {
+                    "label": "Louis Kahn Buildings",
+                    "uri": "http://dbpedia.org/class/yago/LouisKahnBuildings"
+                },
+                {
+                    "label": "20th century architecture",
+                    "uri": "http://dbpedia.org/resource/20th_century_architecture"
+                },
+                {
+                    "label": "Art museums and galleries",
+                    "uri": "http://dbpedia.org/resource/Art_museums_and_galleries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kimbell_Art_Museum"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0462",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kimbell Art Museum",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Biographical museums",
+                    "uri": "http://dbpedia.org/resource/Biographical_museums"
+                },
+                {
+                    "label": "Louis Kahn Buildings",
+                    "uri": "http://dbpedia.org/class/yago/LouisKahnBuildings"
+                },
+                {
+                    "label": "20th century architecture",
+                    "uri": "http://dbpedia.org/resource/20th_century_architecture"
+                },
+                {
+                    "label": "Art museums and galleries",
+                    "uri": "http://dbpedia.org/resource/Art_museums_and_galleries"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kimbell_Art_Museum"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

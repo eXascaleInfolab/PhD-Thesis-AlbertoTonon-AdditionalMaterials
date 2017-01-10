@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "British Columbia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Canadian province",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj3zpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "District",
+                    "uri": "http://dbpedia.org/class/yago/District108552138"
+                },
+                {
+                    "label": "Provinces And Territories Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/ProvincesAndTerritoriesOfCanada"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/British_Columbia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0397",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "British Columbia",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Canadian province",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVj3zpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "District",
+                    "uri": "http://dbpedia.org/class/yago/District108552138"
+                },
+                {
+                    "label": "Provinces And Territories Of Canada",
+                    "uri": "http://dbpedia.org/class/yago/ProvincesAndTerritoriesOfCanada"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/British_Columbia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

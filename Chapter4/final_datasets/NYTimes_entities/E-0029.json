@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Staples Center",
+            "types": [
+                {
+                    "label": "College basketball venues",
+                    "uri": "http://dbpedia.org/resource/College_basketball_venues"
+                },
+                {
+                    "label": "Stadium",
+                    "uri": "http://dbpedia.org/ontology/Stadium"
+                },
+                {
+                    "label": "Basketball venues",
+                    "uri": "http://dbpedia.org/resource/Basketball_venues"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                },
+                {
+                    "label": "Arena football venues",
+                    "uri": "http://dbpedia.org/resource/Arena_football_venues"
+                },
+                {
+                    "label": "Landmarks In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Staples_Center"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0029",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Staples Center",
+            "types": [
+                {
+                    "label": "College basketball venues",
+                    "uri": "http://dbpedia.org/resource/College_basketball_venues"
+                },
+                {
+                    "label": "Stadium",
+                    "uri": "http://dbpedia.org/ontology/Stadium"
+                },
+                {
+                    "label": "Basketball venues",
+                    "uri": "http://dbpedia.org/resource/Basketball_venues"
+                },
+                {
+                    "label": "Landmark",
+                    "uri": "http://dbpedia.org/class/yago/Landmark108624891"
+                },
+                {
+                    "label": "Arena football venues",
+                    "uri": "http://dbpedia.org/resource/Arena_football_venues"
+                },
+                {
+                    "label": "Landmarks In Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Staples_Center"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

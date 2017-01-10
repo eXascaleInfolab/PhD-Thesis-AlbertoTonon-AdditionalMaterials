@@ -1,0 +1,93 @@
+{
+    "allEntities": [
+        {
+            "label": "New York State Education Department", 
+            "offsets": [
+                {
+                    "length": 35, 
+                    "offset": 221
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Education ministries", 
+                    "uri": "http://dbpedia.org/resource/Education_ministries"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/New_York_State_Education_Department"
+        }, 
+        {
+            "label": "Wade S. Norwood", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 135
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Norwood"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/27/nyregion/new-york-uncovers-offending-mural-for-brief-public-views.html?ref=nyregion", 
+    "category": "newyork", 
+    "docID": "P-0107", 
+    "elementNumber": 17, 
+    "mainEntities": [
+        {
+            "label": "New York State Education Department", 
+            "offsets": [
+                {
+                    "length": 35, 
+                    "offset": 221
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Education ministries", 
+                    "uri": "http://dbpedia.org/resource/Education_ministries"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/New_York_State_Education_Department"
+        }, 
+        {
+            "label": "Wade S. Norwood", 
+            "offsets": [
+                {
+                    "length": 7, 
+                    "offset": 135
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Norwood"
+        }
+    ], 
+    "mainText": "&ldquo;I see it to be dated and stilted, but that was the stylistic portrayal of many of the figures in that painting,&rdquo; said Mr. Norwood, who viewed it in January.\n&ldquo;And that&rsquo;s an important thing for the New York State Education Department to teach.&rdquo;", 
+    "shownText": "&ldquo;I see it to be dated and stilted, but that was the stylistic portrayal of many of the figures in that painting,&rdquo; said Mr. Norwood, who viewed it in January.\n&ldquo;And that&rsquo;s an important thing for the New York State Education Department to teach.&rdquo;", 
+    "title": "New York Uncovers Offending Mural for Brief Public Views - NYTimes.com"
+}

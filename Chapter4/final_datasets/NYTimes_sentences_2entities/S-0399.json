@@ -1,0 +1,357 @@
+{
+  "mainText":"In one jaunt around Venezuela in 2007 with the actor Sean Penn, he roamed the plane regaling foreign journalists on board with tales from his days as a soldier and claiming that American intelligence officials were tracking his movements by satellite.",
+  "shownText":"In one jaunt around Venezuela in 2007 with the actor Sean Penn, he roamed the plane regaling foreign journalists on board with tales from his days as a soldier and claiming that American intelligence officials were tracking his movements by satellite.",
+  "title":"Hugo ChÃ¡vez, Venezuelaâs Polarizing Leader, Dies at 58 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/americas/hugo-chavez-venezuelas-polarizing-leader-dies-at-58.html?ref=world",
+  "category":"world",
+  "docID":"S-0399",
+  "elementNumber":72,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sean_Penn",
+      "label":"Sean Penn",
+      "offsets":[
+        {
+          "offset":53,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Burbank,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBurbank,California"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Anti-Iraq War Activists",
+          "uri":"http://dbpedia.org/class/yago/AmericanAnti-IraqWarActivists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Best Drama Actor Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Drama_Actor_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"Liberals",
+          "uri":"http://dbpedia.org/class/yago/Liberals"
+        },
+        {
+          "label":"Best Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"California Actors",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaActors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Marin County,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMarinCounty,California"
+        },
+        {
+          "label":"People From Santa Monica,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSantaMonica,California"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Agnostics",
+          "uri":"http://dbpedia.org/class/yago/AmericanAgnostics"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American agnostics",
+          "uri":"http://dbpedia.org/resource/American_agnostics"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":20,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Sean_Penn",
+      "label":"Sean Penn",
+      "offsets":[
+        {
+          "offset":53,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"People From Burbank,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromBurbank,California"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/class/yago/Actor109765278"
+        },
+        {
+          "label":"American Film Actors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmActors"
+        },
+        {
+          "label":"American Anti-Iraq War Activists",
+          "uri":"http://dbpedia.org/class/yago/AmericanAnti-IraqWarActivists"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Best Drama Actor Golden Globe (film)",
+          "uri":"http://dbpedia.org/resource/Best_Drama_Actor_Golden_Globe_%28film%29"
+        },
+        {
+          "label":"American Screenwriters",
+          "uri":"http://dbpedia.org/class/yago/AmericanScreenwriters"
+        },
+        {
+          "label":"Liberals",
+          "uri":"http://dbpedia.org/class/yago/Liberals"
+        },
+        {
+          "label":"Best Actor Academy Award winners",
+          "uri":"http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+        },
+        {
+          "label":"California Actors",
+          "uri":"http://dbpedia.org/class/yago/CaliforniaActors"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Actor",
+          "uri":"http://dbpedia.org/ontology/Actor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"People From Marin County,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMarinCounty,California"
+        },
+        {
+          "label":"People From Santa Monica,California",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromSantaMonica,California"
+        },
+        {
+          "label":"movie actor",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwMRyTJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Agnostics",
+          "uri":"http://dbpedia.org/class/yago/AmericanAgnostics"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American agnostics",
+          "uri":"http://dbpedia.org/resource/American_agnostics"
+        },
+        {
+          "label":"American Film Directors",
+          "uri":"http://dbpedia.org/class/yago/AmericanFilmDirectors"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Venezuela",
+      "label":"Venezuela",
+      "offsets":[
+        {
+          "offset":20,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Latin American country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rTAE0cHbHQdiWHuhd-UxV8g"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"industrialized country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwNJMLpwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Former Spanish colonies",
+          "uri":"http://dbpedia.org/resource/Former_Spanish_colonies"
+        },
+        {
+          "label":"G15Nations",
+          "uri":"http://dbpedia.org/class/yago/G15Nations"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"Former Spanish Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerSpanishColonies"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

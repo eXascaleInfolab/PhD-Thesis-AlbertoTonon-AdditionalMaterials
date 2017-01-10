@@ -1,0 +1,73 @@
+{
+    "allEntities": [
+        {
+            "label": "Fortune Hi-Tech",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Comedy Films",
+                    "uri": "http://dbpedia.org/class/yago/ComedyFilms"
+                },
+                {
+                    "label": "1975Films",
+                    "uri": "http://dbpedia.org/class/yago/1975Films"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Fortune"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0066",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Fortune Hi-Tech",
+            "types": [
+                {
+                    "label": "Work",
+                    "uri": "http://dbpedia.org/ontology/Work"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Film",
+                    "uri": "http://dbpedia.org/ontology/Film"
+                },
+                {
+                    "label": "Movie",
+                    "uri": "http://dbpedia.org/class/yago/Movie106613686"
+                },
+                {
+                    "label": "Comedy Films",
+                    "uri": "http://dbpedia.org/class/yago/ComedyFilms"
+                },
+                {
+                    "label": "1975Films",
+                    "uri": "http://dbpedia.org/class/yago/1975Films"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/The_Fortune"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

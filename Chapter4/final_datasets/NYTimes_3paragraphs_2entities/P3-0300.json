@@ -1,0 +1,609 @@
+{
+  "mainText":"Even her advisers acknowledge the awkwardness of a woman with double Harvard degrees, dual stock riches (from Facebook and Google, where she also worked), a 9,000-square-foot house and a small army of household help urging less fortunate women to look inward and work harder.\nWill more earthbound women, struggling with cash flow and child care, embrace the advice of a Silicon Valley executive whose book acknowledgments include thanks to her wealth adviser and Oprah Winfrey?",
+  "shownText":"And yet no one knows whether women will show up for Ms. Sandberg\u2019s revolution, a top-down affair propelled by a fortune worth hundreds of millions on paper, or whether the social media executive can form a women\u2019s network of her own.\nOnly a single test \u201cLean In Circle\u201d exists.\nWith less than three weeks until launch \u2014 which will include a spread in Time magazine and splashy events like a book party at Mayor Michael R. Bloomberg\u2019s home \u2014 organizers cannot say how many more groups may sprout up.\n\nEven her advisers acknowledge the awkwardness of a woman with double Harvard degrees, dual stock riches (from Facebook and Google, where she also worked), a 9,000-square-foot house and a small army of household help urging less fortunate women to look inward and work harder.\nWill more earthbound women, struggling with cash flow and child care, embrace the advice of a Silicon Valley executive whose book acknowledgments include thanks to her wealth adviser and Oprah Winfrey?\n\n\u201cI don\u2019t think anyone has ever tried to do this from anywhere even close to her perch,\u201d said Debora L. Spar, president of Barnard College, who invited Ms. Sandberg to deliver a May 2011 commencement address about gender in the workplace that caught fire online.\n(Ms. Sandberg, who will grant her first book interview to the CBS program \u201c60 Minutes,\u201d declined to comment for this article.)\n",
+  "title":"Sheryl Sandberg, âLean Inâ Author, Hopes to Spur Movement - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/22/us/sheryl-sandberg-lean-in-author-hopes-to-spur-movement.html?ref=us",
+  "category":"us",
+  "docID":"P3-0300",
+  "elementNumber":6,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Google",
+      "label":"Google",
+      "offsets":[
+        {
+          "offset":623,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1998",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":610,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Oprah_Winfrey",
+      "label":"Oprah Winfrey",
+      "offsets":[
+        {
+          "offset":963,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American television talk show hosts",
+          "uri":"http://dbpedia.org/resource/American_television_talk_show_hosts"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"People From Kosciusko,Mississippi",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKosciusko,Mississippi"
+        },
+        {
+          "label":"People From Chicago",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChicago"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"American philanthropists",
+          "uri":"http://dbpedia.org/resource/American_philanthropists"
+        },
+        {
+          "label":"Celebrity",
+          "uri":"http://dbpedia.org/class/yago/Celebrity109903153"
+        },
+        {
+          "label":"African American Writers",
+          "uri":"http://dbpedia.org/class/yago/AfricanAmericanWriters"
+        },
+        {
+          "label":"American Self-help Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanSelf-helpWriters"
+        },
+        {
+          "label":"American magazine publishers (people)",
+          "uri":"http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Congregationalists",
+          "uri":"http://dbpedia.org/resource/American_Congregationalists"
+        },
+        {
+          "label":"American mass media owners",
+          "uri":"http://dbpedia.org/resource/American_mass_media_owners"
+        },
+        {
+          "label":"Chicago television anchors",
+          "uri":"http://dbpedia.org/resource/Chicago_television_anchors"
+        },
+        {
+          "label":"American billionaires",
+          "uri":"http://dbpedia.org/resource/American_billionaires"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionProducers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Daytime Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+        },
+        {
+          "label":"Baltimore television anchors",
+          "uri":"http://dbpedia.org/resource/Baltimore_television_anchors"
+        },
+        {
+          "label":"American Mass Media Owners",
+          "uri":"http://dbpedia.org/class/yago/AmericanMassMediaOwners"
+        },
+        {
+          "label":"American Television Talk Show Hosts",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionTalkShowHosts"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Philanthropists",
+          "uri":"http://dbpedia.org/class/yago/AmericanPhilanthropists"
+        },
+        {
+          "label":"American Billionaires",
+          "uri":"http://dbpedia.org/class/yago/AmericanBillionaires"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African American writers",
+          "uri":"http://dbpedia.org/resource/African_American_writers"
+        },
+        {
+          "label":"woman",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American television producers",
+          "uri":"http://dbpedia.org/resource/American_television_producers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":569,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Barnard_College",
+      "label":"Barnard College",
+      "offsets":[
+        {
+          "offset":1101,
+          "length":15
+        }
+      ],
+      "types":[
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Google",
+      "label":"Google",
+      "offsets":[
+        {
+          "offset":623,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Established In1998",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1998"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Facebook",
+      "label":"Facebook",
+      "offsets":[
+        {
+          "offset":610,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Internet Properties Established In2004",
+          "uri":"http://dbpedia.org/class/yago/InternetPropertiesEstablishedIn2004"
+        },
+        {
+          "label":"Global internet community",
+          "uri":"http://dbpedia.org/resource/Global_internet_community"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Based In Palo Alto,California",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInPaloAlto,California"
+        },
+        {
+          "label":"Privately Held Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/PrivatelyHeldCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"ns#Target",
+          "uri":"http://s.zemanta.com/ns#Target"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Companies Based In Silicon Valley",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Sandberg",
+      "label":"Sandberg",
+      "offsets":[
+        {
+          "offset":56,
+          "length":8
+        },
+        {
+          "offset":1134,
+          "length":8
+        },
+        {
+          "offset":1246,
+          "length":8
+        },
+        {
+          "offset":56,
+          "length":8
+        },
+        {
+          "offset":1134,
+          "length":8
+        },
+        {
+          "offset":1246,
+          "length":8
+        },
+        {
+          "offset":56,
+          "length":8
+        },
+        {
+          "offset":1134,
+          "length":8
+        },
+        {
+          "offset":1246,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Oprah_Winfrey",
+      "label":"Oprah Winfrey",
+      "offsets":[
+        {
+          "offset":963,
+          "length":13
+        }
+      ],
+      "types":[
+        {
+          "label":"American television talk show hosts",
+          "uri":"http://dbpedia.org/resource/American_television_talk_show_hosts"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"People From Kosciusko,Mississippi",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromKosciusko,Mississippi"
+        },
+        {
+          "label":"People From Chicago",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChicago"
+        },
+        {
+          "label":"American television personalities",
+          "uri":"http://dbpedia.org/resource/American_television_personalities"
+        },
+        {
+          "label":"American philanthropists",
+          "uri":"http://dbpedia.org/resource/American_philanthropists"
+        },
+        {
+          "label":"Celebrity",
+          "uri":"http://dbpedia.org/class/yago/Celebrity109903153"
+        },
+        {
+          "label":"African American Writers",
+          "uri":"http://dbpedia.org/class/yago/AfricanAmericanWriters"
+        },
+        {
+          "label":"American Self-help Writers",
+          "uri":"http://dbpedia.org/class/yago/AmericanSelf-helpWriters"
+        },
+        {
+          "label":"American magazine publishers (people)",
+          "uri":"http://dbpedia.org/resource/American_magazine_publishers_%28people%29"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American Congregationalists",
+          "uri":"http://dbpedia.org/resource/American_Congregationalists"
+        },
+        {
+          "label":"American mass media owners",
+          "uri":"http://dbpedia.org/resource/American_mass_media_owners"
+        },
+        {
+          "label":"Chicago television anchors",
+          "uri":"http://dbpedia.org/resource/Chicago_television_anchors"
+        },
+        {
+          "label":"American billionaires",
+          "uri":"http://dbpedia.org/resource/American_billionaires"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"American Television Producers",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionProducers"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Daytime Emmy Award winners",
+          "uri":"http://dbpedia.org/resource/Daytime_Emmy_Award_winners"
+        },
+        {
+          "label":"Baltimore television anchors",
+          "uri":"http://dbpedia.org/resource/Baltimore_television_anchors"
+        },
+        {
+          "label":"American Mass Media Owners",
+          "uri":"http://dbpedia.org/class/yago/AmericanMassMediaOwners"
+        },
+        {
+          "label":"American Television Talk Show Hosts",
+          "uri":"http://dbpedia.org/class/yago/AmericanTelevisionTalkShowHosts"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"American Philanthropists",
+          "uri":"http://dbpedia.org/class/yago/AmericanPhilanthropists"
+        },
+        {
+          "label":"American Billionaires",
+          "uri":"http://dbpedia.org/class/yago/AmericanBillionaires"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African American writers",
+          "uri":"http://dbpedia.org/resource/African_American_writers"
+        },
+        {
+          "label":"woman",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVix8ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"American television producers",
+          "uri":"http://dbpedia.org/resource/American_television_producers"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harvard",
+      "label":"Harvard",
+      "offsets":[
+        {
+          "offset":569,
+          "length":7
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        }
+      ]
+    }
+  ]
+}

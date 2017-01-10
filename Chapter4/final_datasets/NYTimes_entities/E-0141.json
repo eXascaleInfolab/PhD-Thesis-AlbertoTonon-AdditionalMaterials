@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Beppe Grillo",
+            "types": [
+                {
+                    "label": "Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/Bloggers"
+                },
+                {
+                    "label": "Italian television personalities",
+                    "uri": "http://dbpedia.org/resource/Italian_television_personalities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Italian Actors",
+                    "uri": "http://dbpedia.org/class/yago/ItalianActors"
+                },
+                {
+                    "label": "People From The Province Of Genoa",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheProvinceOfGenoa"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Italian actors",
+                    "uri": "http://dbpedia.org/resource/Italian_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Beppe_Grillo"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0141",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Beppe Grillo",
+            "types": [
+                {
+                    "label": "Bloggers",
+                    "uri": "http://dbpedia.org/class/yago/Bloggers"
+                },
+                {
+                    "label": "Italian television personalities",
+                    "uri": "http://dbpedia.org/resource/Italian_television_personalities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Italian Actors",
+                    "uri": "http://dbpedia.org/class/yago/ItalianActors"
+                },
+                {
+                    "label": "People From The Province Of Genoa",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTheProvinceOfGenoa"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Italian actors",
+                    "uri": "http://dbpedia.org/resource/Italian_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Beppe_Grillo"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

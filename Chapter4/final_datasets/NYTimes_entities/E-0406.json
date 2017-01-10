@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Elizabeth Vargas",
+            "types": [
+                {
+                    "label": "American television news anchors",
+                    "uri": "http://dbpedia.org/resource/American_television_news_anchors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Chicago television anchors",
+                    "uri": "http://dbpedia.org/resource/Chicago_television_anchors"
+                },
+                {
+                    "label": "American reporters and correspondents",
+                    "uri": "http://dbpedia.org/resource/American_reporters_and_correspondents"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Elizabeth_Vargas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0406",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Elizabeth Vargas",
+            "types": [
+                {
+                    "label": "American television news anchors",
+                    "uri": "http://dbpedia.org/resource/American_television_news_anchors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Chicago television anchors",
+                    "uri": "http://dbpedia.org/resource/Chicago_television_anchors"
+                },
+                {
+                    "label": "American reporters and correspondents",
+                    "uri": "http://dbpedia.org/resource/American_reporters_and_correspondents"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Elizabeth_Vargas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

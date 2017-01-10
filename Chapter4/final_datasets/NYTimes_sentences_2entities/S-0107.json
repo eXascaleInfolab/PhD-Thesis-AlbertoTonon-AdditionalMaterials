@@ -1,0 +1,469 @@
+{
+  "mainText":"Conducted by researchers at the University of Minnesota in Minneapolis and the University of British Columbia in Vancouver, the study did not identify the hospitals because their names were not included in the data.",
+  "shownText":"Conducted by researchers at the University of Minnesota in Minneapolis and the University of British Columbia in Vancouver, the study did not identify the hospitals because their names were not included in the data.",
+  "title":"Rate of Caesarean Deliveries Varies Widely Across U.S. - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/health/rate-of-caesarean-deliveries-varies-widely-across-us.html?ref=health",
+  "category":"health",
+  "docID":"S-0107",
+  "elementNumber":5,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Minneapolis",
+      "label":"Minneapolis",
+      "offsets":[
+        {
+          "offset":59,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Minnesota",
+      "label":"University of Minnesota",
+      "offsets":[
+        {
+          "offset":32,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Schools Of Public Health",
+          "uri":"http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Land-grant Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_British_Columbia",
+      "label":"University of British Columbia",
+      "offsets":[
+        {
+          "offset":79,
+          "length":30
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Educational Institutions Established In1915",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1915"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institutions Established In1890",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1890"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Film Schools",
+          "uri":"http://dbpedia.org/class/yago/FilmSchools"
+        },
+        {
+          "label":"Nursing Schools In Canada",
+          "uri":"http://dbpedia.org/class/yago/NursingSchoolsInCanada"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vancouver",
+      "label":"Vancouver",
+      "offsets":[
+        {
+          "offset":113,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1862",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+        },
+        {
+          "label":"Coastal Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Cities on the Fraser River",
+          "uri":"http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Cities On The Fraser River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+        },
+        {
+          "label":"Cities In British Columbia",
+          "uri":"http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Minneapolis",
+      "label":"Minneapolis",
+      "offsets":[
+        {
+          "offset":59,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_Minnesota",
+      "label":"University of Minnesota",
+      "offsets":[
+        {
+          "offset":32,
+          "length":23
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Schools Of Public Health",
+          "uri":"http://dbpedia.org/class/yago/SchoolsOfPublicHealth"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Land-grant Universities And Colleges",
+          "uri":"http://dbpedia.org/class/yago/Land-grantUniversitiesAndColleges"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/University_of_British_Columbia",
+      "label":"University of British Columbia",
+      "offsets":[
+        {
+          "offset":79,
+          "length":30
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Educational Institutions Established In1915",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1915"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/class/yago/University108286163"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Educational Institutions Established In1890",
+          "uri":"http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1890"
+        },
+        {
+          "label":"Educational Institution",
+          "uri":"http://dbpedia.org/ontology/EducationalInstitution"
+        },
+        {
+          "label":"University",
+          "uri":"http://dbpedia.org/ontology/University"
+        },
+        {
+          "label":"Film Schools",
+          "uri":"http://dbpedia.org/class/yago/FilmSchools"
+        },
+        {
+          "label":"Nursing Schools In Canada",
+          "uri":"http://dbpedia.org/class/yago/NursingSchoolsInCanada"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Vancouver",
+      "label":"Vancouver",
+      "offsets":[
+        {
+          "offset":113,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Village",
+          "uri":"http://dbpedia.org/class/yago/Village108672738"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Canadian city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx8Ngh4rv3A7TpwpEbGdrcN5Y29ycB4rvVimZ5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlements Established In1862",
+          "uri":"http://dbpedia.org/class/yago/SettlementsEstablishedIn1862"
+        },
+        {
+          "label":"Coastal Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/CoastalCitiesInCanada"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://dbpedia.org/ontology/Resource"
+        },
+        {
+          "label":"Host Cities Of The Winter Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheWinterOlympicGames"
+        },
+        {
+          "label":"Cities on the Fraser River",
+          "uri":"http://dbpedia.org/resource/Cities_on_the_Fraser_River"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Coastal cities",
+          "uri":"http://dbpedia.org/resource/Coastal_cities"
+        },
+        {
+          "label":"Area",
+          "uri":"http://dbpedia.org/ontology/Area"
+        },
+        {
+          "label":"port city",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rwPflcJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Port Cities In Canada",
+          "uri":"http://dbpedia.org/class/yago/PortCitiesInCanada"
+        },
+        {
+          "label":"Host Cities Of The Commonwealth Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+        },
+        {
+          "label":"Cities On The Fraser River",
+          "uri":"http://dbpedia.org/class/yago/CitiesOnTheFraserRiver"
+        },
+        {
+          "label":"Cities In British Columbia",
+          "uri":"http://dbpedia.org/class/yago/CitiesInBritishColumbia"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    }
+  ]
+}

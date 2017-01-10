@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Gaza",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gaza"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0675",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Gaza",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Coastal Cities",
+                    "uri": "http://dbpedia.org/class/yago/CoastalCities"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Gaza"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

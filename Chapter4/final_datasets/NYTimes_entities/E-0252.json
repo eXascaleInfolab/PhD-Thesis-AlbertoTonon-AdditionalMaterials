@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "CNN",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "24-hour television news channels",
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                },
+                {
+                    "label": "Digital only radio stations",
+                    "uri": "http://dbpedia.org/resource/Digital_only_radio_stations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CNN"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0252",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "CNN",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "24-hour television news channels",
+                    "uri": "http://dbpedia.org/resource/24-hour_television_news_channels"
+                },
+                {
+                    "label": "Digital only radio stations",
+                    "uri": "http://dbpedia.org/resource/Digital_only_radio_stations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/CNN"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

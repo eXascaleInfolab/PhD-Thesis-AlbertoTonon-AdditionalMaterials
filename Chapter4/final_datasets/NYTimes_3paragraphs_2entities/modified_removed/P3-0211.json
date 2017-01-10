@@ -1,0 +1,409 @@
+{
+    "allEntities": [
+        {
+            "label": "ESPN for N.B.A.", 
+            "offsets": [
+                {
+                    "length": 4, 
+                    "offset": 512
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Broadcast", 
+                    "uri": "http://dbpedia.org/ontology/Broadcast"
+                }, 
+                {
+                    "label": "Companies Based In Hartford County,Connecticut", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInHartfordCounty,Connecticut"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/ESPN"
+        }, 
+        {
+            "label": "Catholic", 
+            "offsets": [
+                {
+                    "length": 8, 
+                    "offset": 394
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Catholic"
+        }, 
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 0
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 78
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 519
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 1135
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }, 
+        {
+            "label": "Nascar", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 177
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Sports In North Carolina", 
+                    "uri": "http://dbpedia.org/class/yago/SportsInNorthCarolina"
+                }, 
+                {
+                    "label": "Sport", 
+                    "uri": "http://dbpedia.org/class/yago/Sport100523513"
+                }, 
+                {
+                    "label": "sports organization", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwIw695wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Companies Based In Florida", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInFlorida"
+                }, 
+                {
+                    "label": "Auto racing organizations", 
+                    "uri": "http://dbpedia.org/resource/Auto_racing_organizations"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/NASCAR"
+        }, 
+        {
+            "label": "News Corporation", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 806
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies listed on the Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies Listed On The Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+                }, 
+                {
+                    "label": "Companies listed on the London Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/News_Corporation"
+        }, 
+        {
+            "label": "Los Angeles", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 658
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Populated Places Established In1781", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+                }, 
+                {
+                    "label": "County Seats In California", 
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Los_Angeles"
+        }, 
+        {
+            "label": "Time Warner Cable", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 768
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Entertainment Companies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Companies Established In1989", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Time_Warner_Cable"
+        }, 
+        {
+            "label": "YES Network", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 931
+                }
+            ], 
+            "types": [
+                {
+                    "label": "HD channels", 
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                }, 
+                {
+                    "label": "HDChannels", 
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/YES_Network"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports", 
+    "category": "sports", 
+    "docID": "P3-0211", 
+    "elementNumber": 28, 
+    "mainEntities": [
+        {
+            "label": "Fox", 
+            "offsets": [
+                {
+                    "length": 3, 
+                    "offset": 0
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 78
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 519
+                }, 
+                {
+                    "length": 3, 
+                    "offset": 1135
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Eukaryote", 
+                    "uri": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Fox"
+        }, 
+        {
+            "label": "News Corporation", 
+            "offsets": [
+                {
+                    "length": 16, 
+                    "offset": 806
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Companies Listed On The London Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Companies listed on the New York Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies listed on the Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+                }, 
+                {
+                    "label": "Companies Listed On The Australian Stock Exchange", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+                }, 
+                {
+                    "label": "Companies listed on the London Stock Exchange", 
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/News_Corporation"
+        }, 
+        {
+            "label": "Los Angeles", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 658
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Populated Places Established In1781", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+                }, 
+                {
+                    "label": "County Seats In California", 
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Los_Angeles"
+        }, 
+        {
+            "label": "Time Warner Cable", 
+            "offsets": [
+                {
+                    "length": 17, 
+                    "offset": 768
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Entertainment Companies Of The United States", 
+                    "uri": "http://dbpedia.org/class/yago/EntertainmentCompaniesOfTheUnitedStates"
+                }, 
+                {
+                    "label": "Companies Established In1989", 
+                    "uri": "http://dbpedia.org/class/yago/CompaniesEstablishedIn1989"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Time_Warner_Cable"
+        }, 
+        {
+            "label": "YES Network", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 931
+                }
+            ], 
+            "types": [
+                {
+                    "label": "HD channels", 
+                    "uri": "http://dbpedia.org/resource/HD_channels"
+                }, 
+                {
+                    "label": "HDChannels", 
+                    "uri": "http://dbpedia.org/class/yago/HDChannels"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/YES_Network"
+        }
+    ], 
+    "mainText": "Fox also has 22 regional sports networks to plumb for talent and some of its baseball programming.\nTwo of those regional channels, each in Los Angeles, recently lost the rights to carry the Lakers and the Dodgers &mdash; each to networks created by Time Warner Cable.\nBut last November, News Corporation made a major foray into the New York sports market by paying about $2 billion for a 49 percent stake in the YES Network, the profitable channel of the Yankees, with an option to buy up to 80 percent in three years.", 
+    "shownText": "Fox is certainly asset-rich.\nIt plans to use existing long-term deals to fill Fox Sports 1 with M.L.B. games, including some from the league division series, beginning in 2014; Nascar Sprint Cup and truck races; U.F.C. matches; future World Cup soccer matches; and Big 12 and Pac-12 football and basketball games, as well as those from a basketball conference that is being formed by the seven Catholic universities that are leaving the Big East.\nThe new network is also expected to buy some Big East games from ESPN.\n\nFox also has 22 regional sports networks to plumb for talent and some of its baseball programming.\nTwo of those regional channels, each in Los Angeles, recently lost the rights to carry the Lakers and the Dodgers &mdash; each to networks created by Time Warner Cable.\nBut last November, News Corporation made a major foray into the New York sports market by paying about $2 billion for a 49 percent stake in the YES Network, the profitable channel of the Yankees, with an option to buy up to 80 percent in three years.\n\nStill, the possibility of starting a national sports network constitutes unfinished business at Fox.\n", 
+    "title": "Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com"
+}

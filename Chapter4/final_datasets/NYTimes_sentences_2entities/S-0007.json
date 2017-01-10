@@ -1,0 +1,277 @@
+{
+  "mainText":"The impact of Mr. Cliburn\u2019s victory was further enhanced by a series of vivid articles written for The New York Times by Max Frankel, then a foreign correspondent based in Moscow and later an executive editor of the paper.",
+  "shownText":"The impact of Mr. Cliburn\u2019s victory was further enhanced by a series of vivid articles written for The New York Times by Max Frankel, then a foreign correspondent based in Moscow and later an executive editor of the paper.",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"S-0007",
+  "elementNumber":12,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":99,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Max_Frankel",
+      "label":"Max Frankel",
+      "offsets":[
+        {
+          "offset":121,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American newspaper editors",
+          "uri":"http://dbpedia.org/resource/American_newspaper_editors"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":172,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/The_New_York_Times",
+      "label":"The New York Times",
+      "offsets":[
+        {
+          "offset":99,
+          "length":18
+        }
+      ],
+      "types":[
+        {
+          "label":"Publications Established In1851",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1851"
+        },
+        {
+          "label":"newspaper organization",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvca4KJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Investigative news sources",
+          "uri":"http://dbpedia.org/resource/Investigative_news_sources"
+        },
+        {
+          "label":"New York City Newspapers",
+          "uri":"http://dbpedia.org/class/yago/NewYorkCityNewspapers"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"National Newspapers Published In The United States",
+          "uri":"http://dbpedia.org/class/yago/NationalNewspapersPublishedInTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Max_Frankel",
+      "label":"Max Frankel",
+      "offsets":[
+        {
+          "offset":121,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"American newspaper editors",
+          "uri":"http://dbpedia.org/resource/American_newspaper_editors"
+        },
+        {
+          "label":"Columbia University alumni",
+          "uri":"http://dbpedia.org/resource/Columbia_University_alumni"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":172,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    }
+  ]
+}

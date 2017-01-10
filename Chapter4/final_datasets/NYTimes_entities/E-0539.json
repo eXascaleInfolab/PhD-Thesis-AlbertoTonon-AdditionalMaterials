@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Howard Taubman",
+            "types": [
+                {
+                    "label": "American music critics",
+                    "uri": "http://dbpedia.org/resource/American_music_critics"
+                },
+                {
+                    "label": "American theater critics",
+                    "uri": "http://dbpedia.org/resource/American_theater_critics"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                },
+                {
+                    "label": "American Theater Critics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTheaterCritics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Howard_Taubman"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0539",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Howard Taubman",
+            "types": [
+                {
+                    "label": "American music critics",
+                    "uri": "http://dbpedia.org/resource/American_music_critics"
+                },
+                {
+                    "label": "American theater critics",
+                    "uri": "http://dbpedia.org/resource/American_theater_critics"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                },
+                {
+                    "label": "American Theater Critics",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTheaterCritics"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Howard_Taubman"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

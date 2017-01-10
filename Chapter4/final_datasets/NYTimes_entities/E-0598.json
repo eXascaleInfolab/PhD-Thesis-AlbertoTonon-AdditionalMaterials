@@ -1,0 +1,57 @@
+{
+    "allEntities": [
+        {
+            "label": "Brett Krill",
+            "types": [
+                {
+                    "label": "Species",
+                    "uri": "http://dbpedia.org/ontology/Species"
+                },
+                {
+                    "label": "Edible crustaceans",
+                    "uri": "http://dbpedia.org/resource/Edible_crustaceans"
+                },
+                {
+                    "label": "Crustacean",
+                    "uri": "http://dbpedia.org/ontology/Crustacean"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Krill"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0598",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Brett Krill",
+            "types": [
+                {
+                    "label": "Species",
+                    "uri": "http://dbpedia.org/ontology/Species"
+                },
+                {
+                    "label": "Edible crustaceans",
+                    "uri": "http://dbpedia.org/resource/Edible_crustaceans"
+                },
+                {
+                    "label": "Crustacean",
+                    "uri": "http://dbpedia.org/ontology/Crustacean"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://dbpedia.org/ontology/Resource"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Krill"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

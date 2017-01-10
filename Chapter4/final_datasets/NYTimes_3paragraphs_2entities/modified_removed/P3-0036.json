@@ -1,0 +1,437 @@
+{
+    "allEntities": [
+        {
+            "label": "London", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 440
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Village", 
+                    "uri": "http://dbpedia.org/class/yago/Village108672738"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "Capitals In Europe", 
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                }, 
+                {
+                    "label": "capital", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "Port Cities And Towns In The United Kingdom", 
+                    "uri": "http://dbpedia.org/class/yago/PortCitiesAndTownsInTheUnitedKingdom"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "British Capitals", 
+                    "uri": "http://dbpedia.org/class/yago/BritishCapitals"
+                }, 
+                {
+                    "label": "Staple Ports", 
+                    "uri": "http://dbpedia.org/class/yago/StaplePorts"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "British capitals", 
+                    "uri": "http://dbpedia.org/resource/British_capitals"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "Host Cities Of The Summer Olympic Games", 
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                }, 
+                {
+                    "label": "Area", 
+                    "uri": "http://dbpedia.org/ontology/Area"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                }, 
+                {
+                    "label": "Host Cities Of The Commonwealth Games", 
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheCommonwealthGames"
+                }, 
+                {
+                    "label": "Country", 
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }, 
+                {
+                    "label": "Locations", 
+                    "uri": "http://dbpedia.org/class/yago/Locations"
+                }, 
+                {
+                    "label": "Geoclass Capital Of APolitical Entity", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassCapitalOfAPoliticalEntity"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": "Populated Places Established In The1st Century", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedInThe1stCentury"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/London"
+        }, 
+        {
+            "label": "Gucci", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 414
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Organisation", 
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                }, 
+                {
+                    "label": "Gucci brands", 
+                    "uri": "http://dbpedia.org/resource/Gucci_brands"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "High fashion brands", 
+                    "uri": "http://dbpedia.org/resource/High_fashion_brands"
+                }, 
+                {
+                    "label": "Clothing brands", 
+                    "uri": "http://dbpedia.org/resource/Clothing_brands"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Gucci"
+        }, 
+        {
+            "label": "Andy Warhol", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 1021
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "American Christians", 
+                    "uri": "http://dbpedia.org/resource/American_Christians"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American Experimental Filmmakers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanExperimentalFilmmakers"
+                }, 
+                {
+                    "label": "Christian LGBTPeople", 
+                    "uri": "http://dbpedia.org/class/yago/ChristianLGBTPeople"
+                }, 
+                {
+                    "label": "Deaths from surgical complications", 
+                    "uri": "http://dbpedia.org/resource/Deaths_from_surgical_complications"
+                }, 
+                {
+                    "label": "American artists", 
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                }, 
+                {
+                    "label": "American painters", 
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                }, 
+                {
+                    "label": "American experimental filmmakers", 
+                    "uri": "http://dbpedia.org/resource/American_experimental_filmmakers"
+                }, 
+                {
+                    "label": "Film Maker", 
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                }, 
+                {
+                    "label": "Shooting Victims", 
+                    "uri": "http://dbpedia.org/class/yago/ShootingVictims"
+                }, 
+                {
+                    "label": "Artists From Pittsburgh", 
+                    "uri": "http://dbpedia.org/class/yago/ArtistsFromPittsburgh"
+                }, 
+                {
+                    "label": "American Artists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                }, 
+                {
+                    "label": "Artists from Pittsburgh", 
+                    "uri": "http://dbpedia.org/resource/Artists_from_Pittsburgh"
+                }, 
+                {
+                    "label": "Pop Artists", 
+                    "uri": "http://dbpedia.org/class/yago/PopArtists"
+                }, 
+                {
+                    "label": "Christian LGBT people", 
+                    "uri": "http://dbpedia.org/resource/Christian_LGBT_people"
+                }, 
+                {
+                    "label": "Gay artists", 
+                    "uri": "http://dbpedia.org/resource/Gay_artists"
+                }, 
+                {
+                    "label": "Carnegie Mellon University alumni", 
+                    "uri": "http://dbpedia.org/resource/Carnegie_Mellon_University_alumni"
+                }, 
+                {
+                    "label": "Postmodern Artists", 
+                    "uri": "http://dbpedia.org/class/yago/PostmodernArtists"
+                }, 
+                {
+                    "label": "American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }, 
+                {
+                    "label": "American Printmakers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPrintmakers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Andy_Warhol"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 135
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 407
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 672
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 748
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1055
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1277
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1728
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/03/10/arts/music/the-singer-who-fell-to-earth.html?ref=arts", 
+    "category": "arts", 
+    "docID": "P3-0036", 
+    "elementNumber": 20, 
+    "mainEntities": [
+        {
+            "label": "Andy Warhol", 
+            "offsets": [
+                {
+                    "length": 11, 
+                    "offset": 1021
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                }, 
+                {
+                    "label": "American Christians", 
+                    "uri": "http://dbpedia.org/resource/American_Christians"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "American Experimental Filmmakers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanExperimentalFilmmakers"
+                }, 
+                {
+                    "label": "Christian LGBTPeople", 
+                    "uri": "http://dbpedia.org/class/yago/ChristianLGBTPeople"
+                }, 
+                {
+                    "label": "Deaths from surgical complications", 
+                    "uri": "http://dbpedia.org/resource/Deaths_from_surgical_complications"
+                }, 
+                {
+                    "label": "American artists", 
+                    "uri": "http://dbpedia.org/resource/American_artists"
+                }, 
+                {
+                    "label": "American painters", 
+                    "uri": "http://dbpedia.org/resource/American_painters"
+                }, 
+                {
+                    "label": "American experimental filmmakers", 
+                    "uri": "http://dbpedia.org/resource/American_experimental_filmmakers"
+                }, 
+                {
+                    "label": "Film Maker", 
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                }, 
+                {
+                    "label": "Shooting Victims", 
+                    "uri": "http://dbpedia.org/class/yago/ShootingVictims"
+                }, 
+                {
+                    "label": "Artists From Pittsburgh", 
+                    "uri": "http://dbpedia.org/class/yago/ArtistsFromPittsburgh"
+                }, 
+                {
+                    "label": "American Artists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanArtists"
+                }, 
+                {
+                    "label": "Artists from Pittsburgh", 
+                    "uri": "http://dbpedia.org/resource/Artists_from_Pittsburgh"
+                }, 
+                {
+                    "label": "Pop Artists", 
+                    "uri": "http://dbpedia.org/class/yago/PopArtists"
+                }, 
+                {
+                    "label": "Christian LGBT people", 
+                    "uri": "http://dbpedia.org/resource/Christian_LGBT_people"
+                }, 
+                {
+                    "label": "Gay artists", 
+                    "uri": "http://dbpedia.org/resource/Gay_artists"
+                }, 
+                {
+                    "label": "Carnegie Mellon University alumni", 
+                    "uri": "http://dbpedia.org/resource/Carnegie_Mellon_University_alumni"
+                }, 
+                {
+                    "label": "Postmodern Artists", 
+                    "uri": "http://dbpedia.org/class/yago/PostmodernArtists"
+                }, 
+                {
+                    "label": "American Film Directors", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                }, 
+                {
+                    "label": "American Printmakers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPrintmakers"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Andy_Warhol"
+        }, 
+        {
+            "label": "Bowie", 
+            "offsets": [
+                {
+                    "length": 5, 
+                    "offset": 135
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 407
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 672
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 748
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1055
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1277
+                }, 
+                {
+                    "length": 5, 
+                    "offset": 1728
+                }
+            ], 
+            "types": [
+                {
+                    "label": "minor league team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx8NhB4rvuAoI5wpEbGdrcN5Y29ycB4rvVkDP5wpEbGdrcN5Y29ycB4rvVj-BJwpEbGdrcN5Y29ycB4rv1fZH5wpEbGdrcN5Y29ycA"
+                }, 
+                {
+                    "label": "minor league sports team", 
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8vw5ZwpEbGdrcN5Y29ycA"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Bowie"
+        }
+    ], 
+    "mainText": "But there&rsquo;s more to Mr. Bowie&rsquo;s compulsive changeability than a career strategy.\nWhat he was really developing during the &rsquo;70s was a new postmodern psychology based around flux and mutability.\nHis great precursor and influence here was Warhol, the inspiration for his 1971 song &ldquo;Andy Warhol&rdquo; and a role Mr. Bowie would actually play in the 1996 biopic &ldquo;Basquiat.&rdquo;\nAnalyzing Warhol, the art critic Donald Kuspit wrote of &ldquo;the protean artist-self with no core&rdquo; &mdash; a description that could also fit Mr. Bowie.", 
+    "shownText": "Once his career took off, the shape shifting took on a new urgency.\nI move on to another area.&rdquo;\nPopular taste is fickle, but Mr. Bowie circumvented pop&rsquo;s cruel turnover by turning himself into the New Thing, again and again.\nIn the mid-&rsquo;60s he hopped through five bands and many styles and looks before connecting with the public around 1969.\nPerhaps the fashion world has so lionized Mr. Bowie (Gucci is a sponsor of the London exhibition) because he has so thoroughly assimilated fashion&rsquo;s own logic of remorseless supercession.\nAs he said in 1977: &ldquo;My policy has been that as soon as a system or process works, it&rsquo;s out of date.\nMr. Bowie embraced metamorphosis from the start.\n\nBut there&rsquo;s more to Mr. Bowie&rsquo;s compulsive changeability than a career strategy.\nWhat he was really developing during the &rsquo;70s was a new postmodern psychology based around flux and mutability.\nHis great precursor and influence here was Warhol, the inspiration for his 1971 song &ldquo;Andy Warhol&rdquo; and a role Mr. Bowie would actually play in the 1996 biopic &ldquo;Basquiat.&rdquo;\nAnalyzing Warhol, the art critic Donald Kuspit wrote of &ldquo;the protean artist-self with no core&rdquo; &mdash; a description that could also fit Mr. Bowie.\n\nI&rsquo;m really just a Photostat machine.\n&ldquo;When I saw a quality in someone that I liked, I used it later as if it were my own&rdquo;; &ldquo;I&rsquo;m not an innovator.\nRead the vintage interviews, and it&rsquo;s striking how often intimations of hollowness occur, the sense of a man who outwardly appears superconfident but who battles feelings of self-loathing and doubt.\nBut living like a cross between a chameleon and a magpie (Mr. Bowie is a voracious assimilator of influences) has its downsides.\nIt seems as if &ldquo;a continuing, returning feeling of inadequacy over what I&rsquo;ve done&rdquo; has helped propel the restless remaking of sound and style.\nI pour out what has already been fed in.&rdquo;\n", 
+    "title": "The Singer Who Fell to Earth - NYTimes.com"
+}

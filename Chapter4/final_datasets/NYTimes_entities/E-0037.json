@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Amazon Web Services",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Web Services",
+                    "uri": "http://dbpedia.org/class/yago/WebServices"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Amazon_Web_Services"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0037",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Amazon Web Services",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Web Services",
+                    "uri": "http://dbpedia.org/class/yago/WebServices"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Amazon_Web_Services"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

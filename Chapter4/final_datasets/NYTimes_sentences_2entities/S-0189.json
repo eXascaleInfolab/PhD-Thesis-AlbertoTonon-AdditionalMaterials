@@ -1,0 +1,149 @@
+{
+  "mainText":"\u201cFiscal questions trump defense in a way they never would have after 911,\u201d said Representative Tom Cole, Republican of Oklahoma.",
+  "shownText":"\u201cFiscal questions trump defense in a way they never would have after 911,\u201d said Representative Tom Cole, Republican of Oklahoma.",
+  "title":"Democrats and Republicans Miscalculate on Automatic Cuts - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/25/us/politics/democrats-and-republicans-miscalculate-on-automatic-cuts.html",
+  "category":"politics",
+  "docID":"S-0189",
+  "elementNumber":8,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Oklahoma",
+      "label":"Oklahoma",
+      "offsets":[
+        {
+          "offset":119,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tom_Cole",
+      "label":"Tom Cole",
+      "offsets":[
+        {
+          "offset":95,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Chickasaw people",
+          "uri":"http://dbpedia.org/resource/Chickasaw_people"
+        },
+        {
+          "label":"Native American People",
+          "uri":"http://dbpedia.org/class/yago/NativeAmericanPeople"
+        },
+        {
+          "label":"Congressman",
+          "uri":"http://dbpedia.org/class/yago/Congressman109955781"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Oklahoma State Senators",
+          "uri":"http://dbpedia.org/class/yago/OklahomaStateSenators"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Grinnell College people",
+          "uri":"http://dbpedia.org/resource/Grinnell_College_people"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Oklahoma",
+      "label":"Oklahoma",
+      "offsets":[
+        {
+          "offset":119,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Tom_Cole",
+      "label":"Tom Cole",
+      "offsets":[
+        {
+          "offset":95,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Chickasaw people",
+          "uri":"http://dbpedia.org/resource/Chickasaw_people"
+        },
+        {
+          "label":"Native American People",
+          "uri":"http://dbpedia.org/class/yago/NativeAmericanPeople"
+        },
+        {
+          "label":"Congressman",
+          "uri":"http://dbpedia.org/class/yago/Congressman109955781"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Oklahoma State Senators",
+          "uri":"http://dbpedia.org/class/yago/OklahomaStateSenators"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Grinnell College people",
+          "uri":"http://dbpedia.org/resource/Grinnell_College_people"
+        }
+      ]
+    }
+  ]
+}

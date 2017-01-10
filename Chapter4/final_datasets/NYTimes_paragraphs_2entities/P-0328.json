@@ -1,0 +1,205 @@
+{
+  "mainText":"Kenya\u2019s demographics favor Mr. Kenyatta.\nHis ethnic group, the Kikuyu, is the country\u2019s largest and along with the Meru and Embu, which often vote with them, make up 22 percent of the population.\nHe then chose William Ruto, a Kalenjin, to be his running mate, and the Kalenjin are the third-largest group in the country.\nMr. Odinga, a Luo, chose a Kamba running mate, Stephen Kalonzo Musyoka, but their combined numbers are far below the Kikuyu-Kalenjin alliance.",
+  "shownText":"Kenya\u2019s demographics favor Mr. Kenyatta.\nHis ethnic group, the Kikuyu, is the country\u2019s largest and along with the Meru and Embu, which often vote with them, make up 22 percent of the population.\nHe then chose William Ruto, a Kalenjin, to be his running mate, and the Kalenjin are the third-largest group in the country.\nMr. Odinga, a Luo, chose a Kamba running mate, Stephen Kalonzo Musyoka, but their combined numbers are far below the Kikuyu-Kalenjin alliance.",
+  "title":"Kenyatta Is Ahead in Kenya Vote - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/world/africa/kenya-presidential-election.html?ref=world",
+  "category":"world",
+  "docID":"P-0328",
+  "elementNumber":21,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kenya",
+      "label":"Kenya",
+      "offsets":[
+        {
+          "offset":0,
+          "length":5
+        },
+        {
+          "offset":31,
+          "length":5
+        },
+        {
+          "offset":0,
+          "length":5
+        },
+        {
+          "offset":31,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"African Union Member States",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kamba",
+      "label":"Kamba",
+      "offsets":[
+        {
+          "offset":348,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Kenyan society",
+          "uri":"http://dbpedia.org/resource/Kenyan_society"
+        },
+        {
+          "label":"Kenyan culture",
+          "uri":"http://dbpedia.org/resource/Kenyan_culture"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Kenya",
+      "label":"Kenya",
+      "offsets":[
+        {
+          "offset":0,
+          "length":5
+        },
+        {
+          "offset":31,
+          "length":5
+        },
+        {
+          "offset":0,
+          "length":5
+        },
+        {
+          "offset":31,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"English-speaking Countries And Territories",
+          "uri":"http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/class/yago/Country108544813"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"independent country",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"African Union Member Economies",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"
+        },
+        {
+          "label":"Country",
+          "uri":"http://dbpedia.org/ontology/Country"
+        },
+        {
+          "label":"the intelligence analyst reasoning domain",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+        },
+        {
+          "label":"WTOMember Economies",
+          "uri":"http://dbpedia.org/class/yago/WTOMemberEconomies"
+        },
+        {
+          "label":"African Union Member States",
+          "uri":"http://dbpedia.org/class/yago/AfricanUnionMemberStates"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Kamba",
+      "label":"Kamba",
+      "offsets":[
+        {
+          "offset":348,
+          "length":5
+        }
+      ],
+      "types":[
+        {
+          "label":"Kenyan society",
+          "uri":"http://dbpedia.org/resource/Kenyan_society"
+        },
+        {
+          "label":"Kenyan culture",
+          "uri":"http://dbpedia.org/resource/Kenyan_culture"
+        }
+      ]
+    }
+  ]
+}

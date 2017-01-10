@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "Australia",
+            "types": [
+                {
+                    "label": "Island Countries",
+                    "uri": "http://dbpedia.org/class/yago/IslandCountries"
+                },
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Island countries",
+                    "uri": "http://dbpedia.org/resource/Island_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "English-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/English-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Australia"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0332",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Australia",
+            "types": [
+                {
+                    "label": "Island Countries",
+                    "uri": "http://dbpedia.org/class/yago/IslandCountries"
+                },
+                {
+                    "label": "English-speaking Countries And Territories",
+                    "uri": "http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Former British colonies",
+                    "uri": "http://dbpedia.org/resource/Former_British_colonies"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Island countries",
+                    "uri": "http://dbpedia.org/resource/Island_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "English-speaking countries and territories",
+                    "uri": "http://dbpedia.org/resource/English-speaking_countries_and_territories"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Australia"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

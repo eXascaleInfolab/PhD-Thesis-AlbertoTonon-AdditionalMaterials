@@ -1,0 +1,257 @@
+{
+  "mainText":"The insurer American International Group , along with some others, including the New York and Delaware attorneys general, are fighting about the settlement.\nEric T. Schneiderman , the New York attorney general, has accused BNY Mellon of breaching its fiduciary duty.\nA BNY Mellon spokesman said, \u201cWe believe we have fulfilled all of our duties as trustee in this case.\u201d",
+  "shownText":"Even in the fun house of litigation about mortgages, this one is particularly complicated.\nThe dispute revolves around the question of whether another bank, BNY Mellon, working on behalf of mortgage-backed securities investors, was reasonable and acted in good faith in agreeing to the settlement.\nIt is being hashed out in New York State Supreme Court.\nBNY Mellon is the trustee on 530 securitizations, or bundles of Countrywide mortgages, that were sold to investors.\n\nThe insurer American International Group , along with some others, including the New York and Delaware attorneys general, are fighting about the settlement.\nEric T. Schneiderman , the New York attorney general, has accused BNY Mellon of breaching its fiduciary duty.\nA BNY Mellon spokesman said, \u201cWe believe we have fulfilled all of our duties as trustee in this case.\u201d\n\nThe Pimcos and BlackRocks of the world don\u2019t like to sue big banks.\nThings can get a little uncomfortable on the golf links.\n(They contend it was reasonable, given all the legal uncertainties of a protracted dispute.)\nThe small settlement doesn\u2019t sit right.\nThe group of investors who agreed to it hold only about a quarter of the securities, making it appear as if a minority has forced a bad deal on the majority in order to get few quick bucks and resolve any dispute.\n",
+  "title":"With Legal Reserves Low, Bank of America Faces a Big Lawsuit - NYTimes.com",
+  "articleUrl":"http://dealbook.nytimes.com/2013/03/06/with-legal-reserves-low-bank-of-america-faces-a-big-lawsuit/?ref=business",
+  "category":"business",
+  "docID":"P3-0055",
+  "elementNumber":15,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Delaware",
+      "label":"Delaware",
+      "offsets":[
+        {
+          "offset":565,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/American_International_Group",
+      "label":"American International Group",
+      "offsets":[
+        {
+          "offset":483,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog"
+        },
+        {
+          "label":"Companies listed on the Tokyo Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Tokyo_Stock_Exchange"
+        },
+        {
+          "label":"Insurance Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InsuranceCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Established In1919",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1919"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Delaware",
+      "label":"Delaware",
+      "offsets":[
+        {
+          "offset":565,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Former British colonies",
+          "uri":"http://dbpedia.org/resource/Former_British_colonies"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Former British Colonies",
+          "uri":"http://dbpedia.org/class/yago/FormerBritishColonies"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/American_International_Group",
+      "label":"American International Group",
+      "offsets":[
+        {
+          "offset":483,
+          "length":28
+        }
+      ],
+      "types":[
+        {
+          "label":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rhci2cwhuEduVNADggVaqog"
+        },
+        {
+          "label":"Companies listed on the Tokyo Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Tokyo_Stock_Exchange"
+        },
+        {
+          "label":"Insurance Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InsuranceCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies Established In1919",
+          "uri":"http://dbpedia.org/class/yago/CompaniesEstablishedIn1919"
+        },
+        {
+          "label":"Companies Based In New York City",
+          "uri":"http://dbpedia.org/class/yago/CompaniesBasedInNewYorkCity"
+        },
+        {
+          "label":"publicly held corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjZ_ZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/class/yago/Company108058098"
+        },
+        {
+          "label":"S&amp;P 500 corporation",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r4EvD9AhxEduVMgDggVaqog"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/BlackRock",
+      "label":"BlackRock",
+      "offsets":[
+        {
+          "offset":857,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Investment Management Companies Of The United States",
+          "uri":"http://dbpedia.org/class/yago/InvestmentManagementCompaniesOfTheUnitedStates"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        }
+      ]
+    }
+  ]
+}

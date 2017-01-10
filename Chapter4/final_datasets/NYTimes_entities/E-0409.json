@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Netflix",
+            "types": [
+                {
+                    "label": "Companies listed on NASDAQ",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Companies Based In Silicon Valley",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Netflix"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0409",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Netflix",
+            "types": [
+                {
+                    "label": "Companies listed on NASDAQ",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_NASDAQ"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Companies Based In Silicon Valley",
+                    "uri": "http://dbpedia.org/class/yago/CompaniesBasedInSiliconValley"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Netflix"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

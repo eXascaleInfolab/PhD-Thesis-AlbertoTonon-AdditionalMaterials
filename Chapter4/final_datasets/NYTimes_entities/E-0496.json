@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Barnard College",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Barnard_College"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0496",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Barnard College",
+            "types": [
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Barnard_College"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

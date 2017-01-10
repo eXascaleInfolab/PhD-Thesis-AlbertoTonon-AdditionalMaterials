@@ -1,0 +1,209 @@
+{
+    "allEntities": [
+        {
+            "label": "Shimon Peres",
+            "types": [
+                {
+                    "label": "Israeli Nobel Laureates",
+                    "uri": "http://dbpedia.org/class/yago/IsraeliNobelLaureates"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Nobel Peace Prize Laureates",
+                    "uri": "http://dbpedia.org/class/yago/NobelPeacePrizeLaureates"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Israeli Nobel laureates",
+                    "uri": "http://dbpedia.org/resource/Israeli_Nobel_laureates"
+                },
+                {
+                    "label": "Belarusian Jews",
+                    "uri": "http://dbpedia.org/resource/Belarusian_Jews"
+                },
+                {
+                    "label": "prime minister",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBhpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Presidents Of Israel",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfIsrael"
+                },
+                {
+                    "label": "Jewish politicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_politicians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Israeli Civil Servants",
+                    "uri": "http://dbpedia.org/class/yago/IsraeliCivilServants"
+                },
+                {
+                    "label": "Israeli party leaders",
+                    "uri": "http://dbpedia.org/resource/Israeli_party_leaders"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish Politicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishPoliticians"
+                },
+                {
+                    "label": "Israeli civil servants",
+                    "uri": "http://dbpedia.org/resource/Israeli_civil_servants"
+                },
+                {
+                    "label": "Israeli Party Leaders",
+                    "uri": "http://dbpedia.org/class/yago/IsraeliPartyLeaders"
+                },
+                {
+                    "label": "Prime Ministers Of Israel",
+                    "uri": "http://dbpedia.org/class/yago/PrimeMinistersOfIsrael"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "Israeli",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqYZwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shimon_Peres"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0691",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Shimon Peres",
+            "types": [
+                {
+                    "label": "Israeli Nobel Laureates",
+                    "uri": "http://dbpedia.org/class/yago/IsraeliNobelLaureates"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/class/yago/President110468559"
+                },
+                {
+                    "label": "Nobel Peace Prize Laureates",
+                    "uri": "http://dbpedia.org/class/yago/NobelPeacePrizeLaureates"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Israeli Nobel laureates",
+                    "uri": "http://dbpedia.org/resource/Israeli_Nobel_laureates"
+                },
+                {
+                    "label": "Belarusian Jews",
+                    "uri": "http://dbpedia.org/resource/Belarusian_Jews"
+                },
+                {
+                    "label": "prime minister",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkBhpwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Presidents Of Israel",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfIsrael"
+                },
+                {
+                    "label": "Jewish politicians",
+                    "uri": "http://dbpedia.org/resource/Jewish_politicians"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Israeli Civil Servants",
+                    "uri": "http://dbpedia.org/class/yago/IsraeliCivilServants"
+                },
+                {
+                    "label": "Israeli party leaders",
+                    "uri": "http://dbpedia.org/resource/Israeli_party_leaders"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Jewish Politicians",
+                    "uri": "http://dbpedia.org/class/yago/JewishPoliticians"
+                },
+                {
+                    "label": "Israeli civil servants",
+                    "uri": "http://dbpedia.org/resource/Israeli_civil_servants"
+                },
+                {
+                    "label": "Israeli Party Leaders",
+                    "uri": "http://dbpedia.org/class/yago/IsraeliPartyLeaders"
+                },
+                {
+                    "label": "Prime Ministers Of Israel",
+                    "uri": "http://dbpedia.org/class/yago/PrimeMinistersOfIsrael"
+                },
+                {
+                    "label": "Politician",
+                    "uri": "http://dbpedia.org/ontology/Politician"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "President",
+                    "uri": "http://dbpedia.org/ontology/President"
+                },
+                {
+                    "label": "Israeli",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjqYZwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Shimon_Peres"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

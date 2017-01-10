@@ -1,0 +1,177 @@
+{
+    "allEntities": [
+        {
+            "label": "Jimmy Dean",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "Singer",
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Businessman",
+                    "uri": "http://dbpedia.org/class/yago/Businessman109882007"
+                },
+                {
+                    "label": "American country singers",
+                    "uri": "http://dbpedia.org/resource/American_country_singers"
+                },
+                {
+                    "label": "American Country Singers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCountrySingers"
+                },
+                {
+                    "label": "People From Plainview,Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPlainview,Texas"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "People From Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTexas"
+                },
+                {
+                    "label": "Mercury Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/MercuryRecordsArtists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jimmy_Dean"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0390",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Jimmy Dean",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "Singer",
+                    "uri": "http://dbpedia.org/class/yago/Singer110599806"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Businessman",
+                    "uri": "http://dbpedia.org/class/yago/Businessman109882007"
+                },
+                {
+                    "label": "American country singers",
+                    "uri": "http://dbpedia.org/resource/American_country_singers"
+                },
+                {
+                    "label": "American Country Singers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCountrySingers"
+                },
+                {
+                    "label": "People From Plainview,Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromPlainview,Texas"
+                },
+                {
+                    "label": "American businesspeople",
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                },
+                {
+                    "label": "People From Texas",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromTexas"
+                },
+                {
+                    "label": "Mercury Records Artists",
+                    "uri": "http://dbpedia.org/class/yago/MercuryRecordsArtists"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Jimmy_Dean"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

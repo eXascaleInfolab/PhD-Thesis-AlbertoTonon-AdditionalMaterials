@@ -1,0 +1,221 @@
+{
+  "mainText":"Mississippi officials are apparently seeking to bring a separate action against BP in state court, a forum that can be favorable to plaintiffs.\nJan Schaefer, a spokesman for Mississippi Attorney General Jim Hood, said he declined comment.",
+  "shownText":"Mississippi officials are apparently seeking to bring a separate action against BP in state court, a forum that can be favorable to plaintiffs.\nJan Schaefer, a spokesman for Mississippi Attorney General Jim Hood, said he declined comment.",
+  "title":"BP and Gulf Coast States Jockey Over Settlement on Deepwater Horizon Oil Spill - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/24/business/energy-environment/bp-and-gulf-coast-states-jockey-over-settlement-on-deepwater-horizon-oil-spill.html?ref=business",
+  "category":"business",
+  "docID":"P-0070",
+  "elementNumber":26,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        },
+        {
+          "offset":174,
+          "length":11
+        },
+        {
+          "offset":0,
+          "length":11
+        },
+        {
+          "offset":174,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jim_Hood",
+      "label":"Jim Hood",
+      "offsets":[
+        {
+          "offset":203,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Mississippi Lawyers",
+          "uri":"http://dbpedia.org/class/yago/MississippiLawyers"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"American jurists",
+          "uri":"http://dbpedia.org/resource/American_jurists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Mississippi",
+      "label":"Mississippi",
+      "offsets":[
+        {
+          "offset":0,
+          "length":11
+        },
+        {
+          "offset":174,
+          "length":11
+        },
+        {
+          "offset":0,
+          "length":11
+        },
+        {
+          "offset":174,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"States Of The United States",
+          "uri":"http://dbpedia.org/class/yago/StatesOfTheUnitedStates"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"U.S. state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViKmJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Administrative Region",
+          "uri":"http://dbpedia.org/ontology/AdministrativeRegion"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jim_Hood",
+      "label":"Jim Hood",
+      "offsets":[
+        {
+          "offset":203,
+          "length":8
+        }
+      ],
+      "types":[
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/ontology/Governor"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Mississippi Lawyers",
+          "uri":"http://dbpedia.org/class/yago/MississippiLawyers"
+        },
+        {
+          "label":"Governor",
+          "uri":"http://dbpedia.org/class/yago/Governor110140314"
+        },
+        {
+          "label":"American jurists",
+          "uri":"http://dbpedia.org/resource/American_jurists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        }
+      ]
+    }
+  ]
+}

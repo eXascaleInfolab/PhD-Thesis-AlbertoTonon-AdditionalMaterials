@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Helsinki",
+            "types": [
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Cities And Towns In Finland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesAndTownsInFinland"
+                },
+                {
+                    "label": "Municipalities Of Uusimaa Region",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfUusimaaRegion"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Helsinki"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0297",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Helsinki",
+            "types": [
+                {
+                    "label": "Coastal cities",
+                    "uri": "http://dbpedia.org/resource/Coastal_cities"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Host Cities Of The Summer Olympic Games",
+                    "uri": "http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Capitals In Europe",
+                    "uri": "http://dbpedia.org/class/yago/CapitalsInEurope"
+                },
+                {
+                    "label": "City",
+                    "uri": "http://dbpedia.org/class/yago/City108524735"
+                },
+                {
+                    "label": "Cities And Towns In Finland",
+                    "uri": "http://dbpedia.org/class/yago/CitiesAndTownsInFinland"
+                },
+                {
+                    "label": "Municipalities Of Uusimaa Region",
+                    "uri": "http://dbpedia.org/class/yago/MunicipalitiesOfUusimaaRegion"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Helsinki"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

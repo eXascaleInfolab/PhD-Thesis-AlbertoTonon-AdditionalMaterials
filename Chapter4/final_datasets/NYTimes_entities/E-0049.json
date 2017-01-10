@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Mars",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Planet",
+                    "uri": "http://dbpedia.org/ontology/Planet"
+                },
+                {
+                    "label": "Terrestrial Planets",
+                    "uri": "http://dbpedia.org/class/yago/TerrestrialPlanets"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mars"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0049",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mars",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Planet",
+                    "uri": "http://dbpedia.org/ontology/Planet"
+                },
+                {
+                    "label": "Terrestrial Planets",
+                    "uri": "http://dbpedia.org/class/yago/TerrestrialPlanets"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mars"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

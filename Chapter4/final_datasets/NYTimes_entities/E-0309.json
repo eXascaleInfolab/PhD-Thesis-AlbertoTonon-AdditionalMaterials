@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Van Cliburn",
+            "types": [
+                {
+                    "label": "Kennedy Center Honors recipients",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                },
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Pianist",
+                    "uri": "http://dbpedia.org/class/yago/Pianist110430665"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Van_Cliburn"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0309",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Van Cliburn",
+            "types": [
+                {
+                    "label": "Kennedy Center Honors recipients",
+                    "uri": "http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+                },
+                {
+                    "label": "American classical pianists",
+                    "uri": "http://dbpedia.org/resource/American_classical_pianists"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Pianist",
+                    "uri": "http://dbpedia.org/class/yago/Pianist110430665"
+                },
+                {
+                    "label": "Grammy Award winners",
+                    "uri": "http://dbpedia.org/resource/Grammy_Award_winners"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Van_Cliburn"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

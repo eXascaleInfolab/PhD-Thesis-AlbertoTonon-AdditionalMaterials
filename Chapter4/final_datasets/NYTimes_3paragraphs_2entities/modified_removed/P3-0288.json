@@ -1,0 +1,181 @@
+{
+    "allEntities": [
+        {
+            "label": "Johns Hopkins", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 416
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Abolitionists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanAbolitionists"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "American abolitionists", 
+                    "uri": "http://dbpedia.org/resource/American_abolitionists"
+                }, 
+                {
+                    "label": "People From Anne Arundel County,Maryland", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAnneArundelCounty,Maryland"
+                }, 
+                {
+                    "label": "American philanthropists", 
+                    "uri": "http://dbpedia.org/resource/American_philanthropists"
+                }, 
+                {
+                    "label": "American Philanthropists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhilanthropists"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "American Quakers", 
+                    "uri": "http://dbpedia.org/resource/American_Quakers"
+                }, 
+                {
+                    "label": "People From Baltimore,Maryland", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                }, 
+                {
+                    "label": "American Quakers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanQuakers"
+                }, 
+                {
+                    "label": "American businesspeople", 
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Johns_Hopkins"
+        }, 
+        {
+            "label": "Methodist", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 235
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Methodist"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/25/us/bloodless-lung-transplants-for-jehovahs-witnesses.html?ref=us", 
+    "category": "us", 
+    "docID": "P3-0288", 
+    "elementNumber": 24, 
+    "mainEntities": [
+        {
+            "label": "Johns Hopkins", 
+            "offsets": [
+                {
+                    "length": 13, 
+                    "offset": 416
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Person", 
+                    "uri": "http://dbpedia.org/ontology/Person"
+                }, 
+                {
+                    "label": "American Abolitionists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanAbolitionists"
+                }, 
+                {
+                    "label": "Person", 
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                }, 
+                {
+                    "label": "American abolitionists", 
+                    "uri": "http://dbpedia.org/resource/American_abolitionists"
+                }, 
+                {
+                    "label": "People From Anne Arundel County,Maryland", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromAnneArundelCounty,Maryland"
+                }, 
+                {
+                    "label": "American philanthropists", 
+                    "uri": "http://dbpedia.org/resource/American_philanthropists"
+                }, 
+                {
+                    "label": "American Philanthropists", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanPhilanthropists"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "American Quakers", 
+                    "uri": "http://dbpedia.org/resource/American_Quakers"
+                }, 
+                {
+                    "label": "People From Baltimore,Maryland", 
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBaltimore,Maryland"
+                }, 
+                {
+                    "label": "American Quakers", 
+                    "uri": "http://dbpedia.org/class/yago/AmericanQuakers"
+                }, 
+                {
+                    "label": "American businesspeople", 
+                    "uri": "http://dbpedia.org/resource/American_businesspeople"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Johns_Hopkins"
+        }, 
+        {
+            "label": "Methodist", 
+            "offsets": [
+                {
+                    "length": 9, 
+                    "offset": 235
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Methodist"
+        }
+    ], 
+    "mainText": "The approach Dr. Scheinin would use &mdash; originally called &ldquo;bloodless medicine&rdquo; but later re-branded as &ldquo;patient blood management&rdquo; &mdash; has been around for decades.\nHis mentor at Methodist, Dr. Denton A. Cooley, the renowned cardiac pioneer, performed heart surgery on hundreds of Witnesses starting in the late 1950s.\nThe first bloodless lung transplant , at Johns Hopkins, was in 1996.", 
+    "shownText": "Cutting Risks, and Costs\n\nThe approach Dr. Scheinin would use &mdash; originally called &ldquo;bloodless medicine&rdquo; but later re-branded as &ldquo;patient blood management&rdquo; &mdash; has been around for decades.\nHis mentor at Methodist, Dr. Denton A. Cooley, the renowned cardiac pioneer, performed heart surgery on hundreds of Witnesses starting in the late 1950s.\nThe first bloodless lung transplant , at Johns Hopkins, was in 1996.\n\nBut nearly 17 years later, the degree of difficulty for such procedures remains so high that Dr. Scheinin and his team are among the very few willing to attempt them.\n", 
+    "title": "&acirc;Bloodless&acirc; Lung Transplants for Jehovah&acirc;s Witnesses - NYTimes.com"
+}

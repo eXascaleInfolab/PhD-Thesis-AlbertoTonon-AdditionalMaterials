@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Haiti",
+            "types": [
+                {
+                    "label": "Island Countries",
+                    "uri": "http://dbpedia.org/class/yago/IslandCountries"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Haiti"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0425",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Haiti",
+            "types": [
+                {
+                    "label": "Island Countries",
+                    "uri": "http://dbpedia.org/class/yago/IslandCountries"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Haiti"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

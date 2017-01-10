@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Lisa P. Jackson",
+            "types": [
+                {
+                    "label": "People From New Orleans",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewOrleans"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Mercer County,New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMercerCounty,NewJersey"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "New Jersey Politicians",
+                    "uri": "http://dbpedia.org/class/yago/NewJerseyPoliticians"
+                },
+                {
+                    "label": "State Cabinet Secretaries Of New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/StateCabinetSecretariesOfNewJersey"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Tulane University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/TulaneUniversityAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lisa_P._Jackson"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0659",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Lisa P. Jackson",
+            "types": [
+                {
+                    "label": "People From New Orleans",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewOrleans"
+                },
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "People From Mercer County,New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromMercerCounty,NewJersey"
+                },
+                {
+                    "label": "Governor",
+                    "uri": "http://dbpedia.org/class/yago/Governor110140314"
+                },
+                {
+                    "label": "New Jersey Politicians",
+                    "uri": "http://dbpedia.org/class/yago/NewJerseyPoliticians"
+                },
+                {
+                    "label": "State Cabinet Secretaries Of New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/StateCabinetSecretariesOfNewJersey"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "Tulane University Alumni",
+                    "uri": "http://dbpedia.org/class/yago/TulaneUniversityAlumni"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Lisa_P._Jackson"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Robert Wood Johnson Foundation",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Foundations",
+                    "uri": "http://dbpedia.org/class/yago/Foundations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert_Wood_Johnson_Foundation"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0353",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Robert Wood Johnson Foundation",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Foundations",
+                    "uri": "http://dbpedia.org/class/yago/Foundations"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert_Wood_Johnson_Foundation"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

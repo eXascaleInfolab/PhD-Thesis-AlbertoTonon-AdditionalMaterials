@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Wally Backman",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Major League Players From Oregon",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeaguePlayersFromOregon"
+                },
+                {
+                    "label": "Philadelphia Phillies Players",
+                    "uri": "http://dbpedia.org/class/yago/PhiladelphiaPhilliesPlayers"
+                },
+                {
+                    "label": "Birmingham Barons Managers",
+                    "uri": "http://dbpedia.org/class/yago/BirminghamBaronsManagers"
+                },
+                {
+                    "label": "People From Manhattan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromManhattan"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Major League Shortstops",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeagueShortstops"
+                },
+                {
+                    "label": "Pittsburgh Pirates Players",
+                    "uri": "http://dbpedia.org/class/yago/PittsburghPiratesPlayers"
+                },
+                {
+                    "label": "Arizona Diamondbacks Managers",
+                    "uri": "http://dbpedia.org/class/yago/ArizonaDiamondbacksManagers"
+                },
+                {
+                    "label": "People From Seattle",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSeattle"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Baseball Player",
+                    "uri": "http://dbpedia.org/ontology/BaseballPlayer"
+                },
+                {
+                    "label": "Arizona Diamondbacks managers",
+                    "uri": "http://dbpedia.org/resource/Arizona_Diamondbacks_managers"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Birmingham Barons managers",
+                    "uri": "http://dbpedia.org/resource/Birmingham_Barons_managers"
+                },
+                {
+                    "label": "People From Hillsboro,Oregon",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHillsboro,Oregon"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "New York Mets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkMetsPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Seattle Mariners Players",
+                    "uri": "http://dbpedia.org/class/yago/SeattleMarinersPlayers"
+                },
+                {
+                    "label": "Minnesota Twins Players",
+                    "uri": "http://dbpedia.org/class/yago/MinnesotaTwinsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Wally_Backman"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0604",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Wally Backman",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Major League Players From Oregon",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeaguePlayersFromOregon"
+                },
+                {
+                    "label": "Philadelphia Phillies Players",
+                    "uri": "http://dbpedia.org/class/yago/PhiladelphiaPhilliesPlayers"
+                },
+                {
+                    "label": "Birmingham Barons Managers",
+                    "uri": "http://dbpedia.org/class/yago/BirminghamBaronsManagers"
+                },
+                {
+                    "label": "People From Manhattan",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromManhattan"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "Major League Shortstops",
+                    "uri": "http://dbpedia.org/class/yago/MajorLeagueShortstops"
+                },
+                {
+                    "label": "Pittsburgh Pirates Players",
+                    "uri": "http://dbpedia.org/class/yago/PittsburghPiratesPlayers"
+                },
+                {
+                    "label": "Arizona Diamondbacks Managers",
+                    "uri": "http://dbpedia.org/class/yago/ArizonaDiamondbacksManagers"
+                },
+                {
+                    "label": "People From Seattle",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromSeattle"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Baseball Player",
+                    "uri": "http://dbpedia.org/ontology/BaseballPlayer"
+                },
+                {
+                    "label": "Arizona Diamondbacks managers",
+                    "uri": "http://dbpedia.org/resource/Arizona_Diamondbacks_managers"
+                },
+                {
+                    "label": "Athlete",
+                    "uri": "http://dbpedia.org/ontology/Athlete"
+                },
+                {
+                    "label": "Birmingham Barons managers",
+                    "uri": "http://dbpedia.org/resource/Birmingham_Barons_managers"
+                },
+                {
+                    "label": "People From Hillsboro,Oregon",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromHillsboro,Oregon"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://dbpedia.org/about/html/http://www.w3.org/2002/07/owl%01Thing"
+                },
+                {
+                    "label": "New York Mets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkMetsPlayers"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Seattle Mariners Players",
+                    "uri": "http://dbpedia.org/class/yago/SeattleMarinersPlayers"
+                },
+                {
+                    "label": "Minnesota Twins Players",
+                    "uri": "http://dbpedia.org/class/yago/MinnesotaTwinsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Wally_Backman"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Li Peng",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/class/yago/Chancellor109906986"
+                },
+                {
+                    "label": "Chinese atheists",
+                    "uri": "http://dbpedia.org/resource/Chinese_atheists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Li_Peng"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0225",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Li Peng",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Chancellor",
+                    "uri": "http://dbpedia.org/class/yago/Chancellor109906986"
+                },
+                {
+                    "label": "Chinese atheists",
+                    "uri": "http://dbpedia.org/resource/Chinese_atheists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Li_Peng"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

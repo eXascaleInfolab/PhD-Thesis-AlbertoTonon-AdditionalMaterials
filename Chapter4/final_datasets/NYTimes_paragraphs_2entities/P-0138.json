@@ -1,0 +1,445 @@
+{
+  "mainText":"In 2002, President Vicente Fox began a national reading plan; he chose as a spokesman Jorge Campos, a popular soccer player, ordered millions of books printed and built an immense library.\nUnfortunately, teachers were not properly trained and children were not given time for reading in school.\nThe plan focused on the book instead of the reader.\nI have seen warehouses filled with hundreds of thousands of forgotten books, intended for schools and libraries, simply waiting for the dust and humidity to render them garbage.",
+  "shownText":"In 2002, President Vicente Fox began a national reading plan; he chose as a spokesman Jorge Campos, a popular soccer player, ordered millions of books printed and built an immense library.\nUnfortunately, teachers were not properly trained and children were not given time for reading in school.\nThe plan focused on the book instead of the reader.\nI have seen warehouses filled with hundreds of thousands of forgotten books, intended for schools and libraries, simply waiting for the dust and humidity to render them garbage.",
+  "title":"The Country That Stopped Reading - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/06/opinion/the-country-that-stopped-reading.html?ref=opinion",
+  "category":"opinion",
+  "docID":"P-0138",
+  "elementNumber":17,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Vicente_Fox",
+      "label":"Vicente Fox",
+      "offsets":[
+        {
+          "offset":19,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Mexicans",
+          "uri":"http://dbpedia.org/resource/American_Mexicans"
+        },
+        {
+          "label":"Ibero-American University alumni",
+          "uri":"http://dbpedia.org/resource/Ibero-American_University_alumni"
+        },
+        {
+          "label":"German-Mexicans",
+          "uri":"http://dbpedia.org/resource/German-Mexicans"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Basque Mexicans",
+          "uri":"http://dbpedia.org/resource/Basque_Mexicans"
+        },
+        {
+          "label":"People From Mexico City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMexicoCity"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Governors Of Guanajuato",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfGuanajuato"
+        },
+        {
+          "label":"Ibero-American University Alumni",
+          "uri":"http://dbpedia.org/class/yago/Ibero-AmericanUniversityAlumni"
+        },
+        {
+          "label":"Mexican Federal Deputies",
+          "uri":"http://dbpedia.org/class/yago/MexicanFederalDeputies"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Presidents Of Mexico",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfMexico"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jorge_Campos",
+      "label":"Jorge Campos",
+      "offsets":[
+        {
+          "offset":86,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Soccer Player",
+          "uri":"http://dbpedia.org/ontology/SoccerPlayer"
+        },
+        {
+          "label":"Mexico International Footballers",
+          "uri":"http://dbpedia.org/class/yago/MexicoInternationalFootballers"
+        },
+        {
+          "label":"FIFA World Cup 1994 players",
+          "uri":"http://dbpedia.org/resource/FIFA_World_Cup_1994_players"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Los Angeles Galaxy Players",
+          "uri":"http://dbpedia.org/class/yago/LosAngelesGalaxyPlayers"
+        },
+        {
+          "label":"Footballers At The1996Summer Olympics",
+          "uri":"http://dbpedia.org/class/yago/FootballersAtThe1996SummerOlympics"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Chicago Fire Players",
+          "uri":"http://dbpedia.org/class/yago/ChicagoFirePlayers"
+        },
+        {
+          "label":"FIFA World Cup 2002 players",
+          "uri":"http://dbpedia.org/resource/FIFA_World_Cup_2002_players"
+        },
+        {
+          "label":"Football (soccer) strikers",
+          "uri":"http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+        },
+        {
+          "label":"FIFAWorld Cup1994Players",
+          "uri":"http://dbpedia.org/class/yago/FIFAWorldCup1994Players"
+        },
+        {
+          "label":"Chicago Fire players",
+          "uri":"http://dbpedia.org/resource/Chicago_Fire_players"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"FIFA World Cup 1998 players",
+          "uri":"http://dbpedia.org/resource/FIFA_World_Cup_1998_players"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"soccer player",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkDmZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"UANLTigres Players",
+          "uri":"http://dbpedia.org/class/yago/UANLTigresPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"FIFAWorld Cup1998Players",
+          "uri":"http://dbpedia.org/class/yago/FIFAWorldCup1998Players"
+        },
+        {
+          "label":"Football(soccer)Goalkeepers",
+          "uri":"http://dbpedia.org/class/yago/Football(soccer)Goalkeepers"
+        },
+        {
+          "label":"Mexican Footballers",
+          "uri":"http://dbpedia.org/class/yago/MexicanFootballers"
+        },
+        {
+          "label":"Mexican Football Managers",
+          "uri":"http://dbpedia.org/class/yago/MexicanFootballManagers"
+        },
+        {
+          "label":"FIFA Century Club",
+          "uri":"http://dbpedia.org/resource/FIFA_Century_Club"
+        },
+        {
+          "label":"Football(soccer)Strikers",
+          "uri":"http://dbpedia.org/class/yago/Football(soccer)Strikers"
+        },
+        {
+          "label":"FIFAWorld Cup2002Players",
+          "uri":"http://dbpedia.org/class/yago/FIFAWorldCup2002Players"
+        },
+        {
+          "label":"People From Acapulco",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAcapulco"
+        },
+        {
+          "label":"Olympic Footballers Of Mexico",
+          "uri":"http://dbpedia.org/class/yago/OlympicFootballersOfMexico"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Vicente_Fox",
+      "label":"Vicente Fox",
+      "offsets":[
+        {
+          "offset":19,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/class/yago/President110468559"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"American Mexicans",
+          "uri":"http://dbpedia.org/resource/American_Mexicans"
+        },
+        {
+          "label":"Ibero-American University alumni",
+          "uri":"http://dbpedia.org/resource/Ibero-American_University_alumni"
+        },
+        {
+          "label":"German-Mexicans",
+          "uri":"http://dbpedia.org/resource/German-Mexicans"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Basque Mexicans",
+          "uri":"http://dbpedia.org/resource/Basque_Mexicans"
+        },
+        {
+          "label":"People From Mexico City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromMexicoCity"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Governors Of Guanajuato",
+          "uri":"http://dbpedia.org/class/yago/GovernorsOfGuanajuato"
+        },
+        {
+          "label":"Ibero-American University Alumni",
+          "uri":"http://dbpedia.org/class/yago/Ibero-AmericanUniversityAlumni"
+        },
+        {
+          "label":"Mexican Federal Deputies",
+          "uri":"http://dbpedia.org/class/yago/MexicanFederalDeputies"
+        },
+        {
+          "label":"Politician",
+          "uri":"http://dbpedia.org/ontology/Politician"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"President",
+          "uri":"http://dbpedia.org/ontology/President"
+        },
+        {
+          "label":"Presidents Of Mexico",
+          "uri":"http://dbpedia.org/class/yago/PresidentsOfMexico"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Jorge_Campos",
+      "label":"Jorge Campos",
+      "offsets":[
+        {
+          "offset":86,
+          "length":12
+        }
+      ],
+      "types":[
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Soccer Player",
+          "uri":"http://dbpedia.org/ontology/SoccerPlayer"
+        },
+        {
+          "label":"Mexico International Footballers",
+          "uri":"http://dbpedia.org/class/yago/MexicoInternationalFootballers"
+        },
+        {
+          "label":"FIFA World Cup 1994 players",
+          "uri":"http://dbpedia.org/resource/FIFA_World_Cup_1994_players"
+        },
+        {
+          "label":"famous person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjma5wpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Athlete",
+          "uri":"http://dbpedia.org/ontology/Athlete"
+        },
+        {
+          "label":"Los Angeles Galaxy Players",
+          "uri":"http://dbpedia.org/class/yago/LosAngelesGalaxyPlayers"
+        },
+        {
+          "label":"Footballers At The1996Summer Olympics",
+          "uri":"http://dbpedia.org/class/yago/FootballersAtThe1996SummerOlympics"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Living People",
+          "uri":"http://dbpedia.org/class/yago/LivingPeople"
+        },
+        {
+          "label":"Chicago Fire Players",
+          "uri":"http://dbpedia.org/class/yago/ChicagoFirePlayers"
+        },
+        {
+          "label":"FIFA World Cup 2002 players",
+          "uri":"http://dbpedia.org/resource/FIFA_World_Cup_2002_players"
+        },
+        {
+          "label":"Football (soccer) strikers",
+          "uri":"http://dbpedia.org/resource/Football_%28soccer%29_strikers"
+        },
+        {
+          "label":"FIFAWorld Cup1994Players",
+          "uri":"http://dbpedia.org/class/yago/FIFAWorldCup1994Players"
+        },
+        {
+          "label":"Chicago Fire players",
+          "uri":"http://dbpedia.org/resource/Chicago_Fire_players"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"FIFA World Cup 1998 players",
+          "uri":"http://dbpedia.org/resource/FIFA_World_Cup_1998_players"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"soccer player",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVkDmZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"UANLTigres Players",
+          "uri":"http://dbpedia.org/class/yago/UANLTigresPlayers"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"FIFAWorld Cup1998Players",
+          "uri":"http://dbpedia.org/class/yago/FIFAWorldCup1998Players"
+        },
+        {
+          "label":"Football(soccer)Goalkeepers",
+          "uri":"http://dbpedia.org/class/yago/Football(soccer)Goalkeepers"
+        },
+        {
+          "label":"Mexican Footballers",
+          "uri":"http://dbpedia.org/class/yago/MexicanFootballers"
+        },
+        {
+          "label":"Mexican Football Managers",
+          "uri":"http://dbpedia.org/class/yago/MexicanFootballManagers"
+        },
+        {
+          "label":"FIFA Century Club",
+          "uri":"http://dbpedia.org/resource/FIFA_Century_Club"
+        },
+        {
+          "label":"Football(soccer)Strikers",
+          "uri":"http://dbpedia.org/class/yago/Football(soccer)Strikers"
+        },
+        {
+          "label":"FIFAWorld Cup2002Players",
+          "uri":"http://dbpedia.org/class/yago/FIFAWorldCup2002Players"
+        },
+        {
+          "label":"People From Acapulco",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromAcapulco"
+        },
+        {
+          "label":"Olympic Footballers Of Mexico",
+          "uri":"http://dbpedia.org/class/yago/OlympicFootballersOfMexico"
+        }
+      ]
+    }
+  ]
+}

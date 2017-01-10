@@ -1,0 +1,129 @@
+{
+    "allEntities": [
+        {
+            "label": "NATO",
+            "types": [
+                {
+                    "label": "Military Alliances",
+                    "uri": "http://dbpedia.org/class/yago/MilitaryAlliances"
+                },
+                {
+                    "label": "Organisations Based In Belgium",
+                    "uri": "http://dbpedia.org/class/yago/OrganisationsBasedInBelgium"
+                },
+                {
+                    "label": "Cold War Treaties",
+                    "uri": "http://dbpedia.org/class/yago/ColdWarTreaties"
+                },
+                {
+                    "label": "Cold War treaties",
+                    "uri": "http://dbpedia.org/resource/Cold_War_treaties"
+                },
+                {
+                    "label": "Multiregional International Organizations",
+                    "uri": "http://dbpedia.org/class/yago/MultiregionalInternationalOrganizations"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Foreign Relations Of The Soviet Union",
+                    "uri": "http://dbpedia.org/class/yago/ForeignRelationsOfTheSovietUnion"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Organizations Established In1949",
+                    "uri": "http://dbpedia.org/class/yago/OrganizationsEstablishedIn1949"
+                },
+                {
+                    "label": "International Military Organizations",
+                    "uri": "http://dbpedia.org/class/yago/InternationalMilitaryOrganizations"
+                },
+                {
+                    "label": "International military organizations",
+                    "uri": "http://dbpedia.org/resource/International_military_organizations"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/NATO"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0146",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "NATO",
+            "types": [
+                {
+                    "label": "Military Alliances",
+                    "uri": "http://dbpedia.org/class/yago/MilitaryAlliances"
+                },
+                {
+                    "label": "Organisations Based In Belgium",
+                    "uri": "http://dbpedia.org/class/yago/OrganisationsBasedInBelgium"
+                },
+                {
+                    "label": "Cold War Treaties",
+                    "uri": "http://dbpedia.org/class/yago/ColdWarTreaties"
+                },
+                {
+                    "label": "Cold War treaties",
+                    "uri": "http://dbpedia.org/resource/Cold_War_treaties"
+                },
+                {
+                    "label": "Multiregional International Organizations",
+                    "uri": "http://dbpedia.org/class/yago/MultiregionalInternationalOrganizations"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Foreign Relations Of The Soviet Union",
+                    "uri": "http://dbpedia.org/class/yago/ForeignRelationsOfTheSovietUnion"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "Organizations Established In1949",
+                    "uri": "http://dbpedia.org/class/yago/OrganizationsEstablishedIn1949"
+                },
+                {
+                    "label": "International Military Organizations",
+                    "uri": "http://dbpedia.org/class/yago/InternationalMilitaryOrganizations"
+                },
+                {
+                    "label": "International military organizations",
+                    "uri": "http://dbpedia.org/resource/International_military_organizations"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/NATO"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

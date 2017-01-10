@@ -1,0 +1,201 @@
+{
+    "allEntities": [
+        {
+            "label": "Bryce Drew",
+            "types": [
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "People From Baton Rouge",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+                },
+                {
+                    "label": "Charlotte Hornets Players",
+                    "uri": "http://dbpedia.org/class/yago/CharlotteHornetsPlayers"
+                },
+                {
+                    "label": "Charlotte Hornets players",
+                    "uri": "http://dbpedia.org/resource/Charlotte_Hornets_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "New Orleans Hornets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "American Basketball Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballCoaches"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Chicago Bulls players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Bulls_players"
+                },
+                {
+                    "label": "Houston Rockets players",
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                },
+                {
+                    "label": "People From Valparaiso,Indiana",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromValparaiso,Indiana"
+                },
+                {
+                    "label": "Chicago Bulls Players",
+                    "uri": "http://dbpedia.org/class/yago/ChicagoBullsPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Valencia BCBasketball Players",
+                    "uri": "http://dbpedia.org/class/yago/ValenciaBCBasketballPlayers"
+                },
+                {
+                    "label": "ACBLeague Players",
+                    "uri": "http://dbpedia.org/class/yago/ACBLeaguePlayers"
+                },
+                {
+                    "label": "College Coach",
+                    "uri": "http://dbpedia.org/ontology/CollegeCoach"
+                },
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Coaches",
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballCoaches"
+                },
+                {
+                    "label": "ACB league players",
+                    "uri": "http://dbpedia.org/resource/ACB_league_players"
+                },
+                {
+                    "label": "American basketball coaches",
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Houston Rockets Players",
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bryce_Drew"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0143",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Bryce Drew",
+            "types": [
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballPlayers"
+                },
+                {
+                    "label": "People From Baton Rouge",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromBatonRouge"
+                },
+                {
+                    "label": "Charlotte Hornets Players",
+                    "uri": "http://dbpedia.org/class/yago/CharlotteHornetsPlayers"
+                },
+                {
+                    "label": "Charlotte Hornets players",
+                    "uri": "http://dbpedia.org/resource/Charlotte_Hornets_players"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "New Orleans Hornets Players",
+                    "uri": "http://dbpedia.org/class/yago/NewOrleansHornetsPlayers"
+                },
+                {
+                    "label": "Player",
+                    "uri": "http://dbpedia.org/class/yago/Player110439851"
+                },
+                {
+                    "label": "American Basketball Coaches",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballCoaches"
+                },
+                {
+                    "label": "American Basketball Players",
+                    "uri": "http://dbpedia.org/class/yago/AmericanBasketballPlayers"
+                },
+                {
+                    "label": "Chicago Bulls players",
+                    "uri": "http://dbpedia.org/resource/Chicago_Bulls_players"
+                },
+                {
+                    "label": "Houston Rockets players",
+                    "uri": "http://dbpedia.org/resource/Houston_Rockets_players"
+                },
+                {
+                    "label": "People From Valparaiso,Indiana",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromValparaiso,Indiana"
+                },
+                {
+                    "label": "Chicago Bulls Players",
+                    "uri": "http://dbpedia.org/class/yago/ChicagoBullsPlayers"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Valencia BCBasketball Players",
+                    "uri": "http://dbpedia.org/class/yago/ValenciaBCBasketballPlayers"
+                },
+                {
+                    "label": "ACBLeague Players",
+                    "uri": "http://dbpedia.org/class/yago/ACBLeaguePlayers"
+                },
+                {
+                    "label": "College Coach",
+                    "uri": "http://dbpedia.org/ontology/CollegeCoach"
+                },
+                {
+                    "label": "Valparaiso Crusaders Men's Basketball Coaches",
+                    "uri": "http://dbpedia.org/class/yago/ValparaisoCrusadersMen'sBasketballCoaches"
+                },
+                {
+                    "label": "ACB league players",
+                    "uri": "http://dbpedia.org/resource/ACB_league_players"
+                },
+                {
+                    "label": "American basketball coaches",
+                    "uri": "http://dbpedia.org/resource/American_basketball_coaches"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Houston Rockets Players",
+                    "uri": "http://dbpedia.org/class/yago/HoustonRocketsPlayers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Bryce_Drew"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

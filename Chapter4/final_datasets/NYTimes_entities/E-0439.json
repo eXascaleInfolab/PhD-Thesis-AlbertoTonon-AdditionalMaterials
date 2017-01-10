@@ -1,0 +1,113 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Washington",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In1861",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1861"
+                },
+                {
+                    "label": "Universities And Colleges In Washington",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInWashington"
+                },
+                {
+                    "label": "Universities And Colleges In Seattle",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInSeattle"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Washington"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0439",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Washington",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educational Institutions Established In1861",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1861"
+                },
+                {
+                    "label": "Universities And Colleges In Washington",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInWashington"
+                },
+                {
+                    "label": "Universities And Colleges In Seattle",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesAndCollegesInSeattle"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                },
+                {
+                    "label": "university",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjjvpwpEbGdrcN5Y29ycA"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Washington"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

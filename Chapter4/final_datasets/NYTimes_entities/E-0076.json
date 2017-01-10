@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Literaturnaya Gazeta",
+            "types": [
+                {
+                    "label": "Russian-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/Russian-languageNewspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspapers Published In Russia",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInRussia"
+                },
+                {
+                    "label": "Communist newspapers",
+                    "uri": "http://dbpedia.org/resource/Communist_newspapers"
+                },
+                {
+                    "label": "Newspapers Published In The Soviet Union",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInTheSovietUnion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Literaturnaya_Gazeta"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0076",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Literaturnaya Gazeta",
+            "types": [
+                {
+                    "label": "Russian-language Newspapers",
+                    "uri": "http://dbpedia.org/class/yago/Russian-languageNewspapers"
+                },
+                {
+                    "label": "Newspaper",
+                    "uri": "http://dbpedia.org/ontology/Newspaper"
+                },
+                {
+                    "label": "Newspapers Published In Russia",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInRussia"
+                },
+                {
+                    "label": "Communist newspapers",
+                    "uri": "http://dbpedia.org/resource/Communist_newspapers"
+                },
+                {
+                    "label": "Newspapers Published In The Soviet Union",
+                    "uri": "http://dbpedia.org/class/yago/NewspapersPublishedInTheSovietUnion"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Literaturnaya_Gazeta"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

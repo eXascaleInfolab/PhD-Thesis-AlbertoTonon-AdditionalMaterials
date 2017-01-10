@@ -1,0 +1,233 @@
+{
+    "allEntities": [
+        {
+            "label": "Kevin Spacey",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewJersey"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "People Associated With London South Bank University",
+                    "uri": "http://dbpedia.org/class/yago/PeopleAssociatedWithLondonSouthBankUniversity"
+                },
+                {
+                    "label": "American theatre directors",
+                    "uri": "http://dbpedia.org/resource/American_theatre_directors"
+                },
+                {
+                    "label": "Best Supporting Actor Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actor_Academy_Award_winners"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Juilliard School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/JuilliardSchoolAlumni"
+                },
+                {
+                    "label": "American Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStageActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "New Jersey Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewJerseyActors"
+                },
+                {
+                    "label": "Juilliard School alumni",
+                    "uri": "http://dbpedia.org/resource/Juilliard_School_alumni"
+                },
+                {
+                    "label": "American Theatre Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTheatreDirectors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American stage actors",
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                },
+                {
+                    "label": "English-American Actors",
+                    "uri": "http://dbpedia.org/class/yago/English-AmericanActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Best Actor Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Expatriates In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExpatriatesInTheUnitedKingdom"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kevin_Spacey"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0519",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Kevin Spacey",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "People From New Jersey",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewJersey"
+                },
+                {
+                    "label": "American Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmActors"
+                },
+                {
+                    "label": "People Associated With London South Bank University",
+                    "uri": "http://dbpedia.org/class/yago/PeopleAssociatedWithLondonSouthBankUniversity"
+                },
+                {
+                    "label": "American theatre directors",
+                    "uri": "http://dbpedia.org/resource/American_theatre_directors"
+                },
+                {
+                    "label": "Best Supporting Actor Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Supporting_Actor_Academy_Award_winners"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Juilliard School Alumni",
+                    "uri": "http://dbpedia.org/class/yago/JuilliardSchoolAlumni"
+                },
+                {
+                    "label": "American Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanStageActors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "actor",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjaHZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "New Jersey Actors",
+                    "uri": "http://dbpedia.org/class/yago/NewJerseyActors"
+                },
+                {
+                    "label": "Juilliard School alumni",
+                    "uri": "http://dbpedia.org/resource/Juilliard_School_alumni"
+                },
+                {
+                    "label": "American Theatre Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanTheatreDirectors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American stage actors",
+                    "uri": "http://dbpedia.org/resource/American_stage_actors"
+                },
+                {
+                    "label": "English-American Actors",
+                    "uri": "http://dbpedia.org/class/yago/English-AmericanActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "Best Actor Academy Award winners",
+                    "uri": "http://dbpedia.org/resource/Best_Actor_Academy_Award_winners"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "American Expatriates In The United Kingdom",
+                    "uri": "http://dbpedia.org/class/yago/AmericanExpatriatesInTheUnitedKingdom"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Kevin_Spacey"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

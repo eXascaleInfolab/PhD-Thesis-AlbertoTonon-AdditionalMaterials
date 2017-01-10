@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Susan Wright",
+            "types": [
+                {
+                    "label": "American Science Fiction Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScienceFictionWriters"
+                },
+                {
+                    "label": "BDSMWriters",
+                    "uri": "http://dbpedia.org/class/yago/BDSMWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Susan_Wright"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0674",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Susan Wright",
+            "types": [
+                {
+                    "label": "American Science Fiction Writers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScienceFictionWriters"
+                },
+                {
+                    "label": "BDSMWriters",
+                    "uri": "http://dbpedia.org/class/yago/BDSMWriters"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Susan_Wright"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "American Medical Association",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Medical_Association"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0322",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "American Medical Association",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Organization",
+                    "uri": "http://dbpedia.org/class/yago/Organization108008335"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/American_Medical_Association"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

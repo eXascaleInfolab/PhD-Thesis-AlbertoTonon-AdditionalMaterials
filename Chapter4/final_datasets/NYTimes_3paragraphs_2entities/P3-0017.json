@@ -1,0 +1,625 @@
+{
+  "mainText":"An idolatrous biography, \u201c The Van Cliburn Legend ,\u201d written by the pianist and composer Abram Chasins, was published in 1959.\nMr. Chasins used the story of Mr. Cliburn\u2019s Moscow victory as a club to attack the American cultural system for neglecting its own.\nReviewing the book in The Times, the novelist Robertson Davies called it a \u201cgee-whiz-fellas biography of Our Boy Who Beat the Russkis.\u201d",
+  "shownText":"Reviewing that recording in 1958, the New York Times critic Harold C. Schonberg wrote, \u201cCliburn stands revealed as a pianist whose potentialities have fused into a combination of uncommon virtuosity and musicianship.\u201d\nYet Mr. Schonberg had reservations even then: \u201cIf there is one thing lacking in this performance it is the final touch of flexibility that can come only with years of public exposure.\u201d\n\nAn idolatrous biography, \u201c The Van Cliburn Legend ,\u201d written by the pianist and composer Abram Chasins, was published in 1959.\nMr. Chasins used the story of Mr. Cliburn\u2019s Moscow victory as a club to attack the American cultural system for neglecting its own.\nReviewing the book in The Times, the novelist Robertson Davies called it a \u201cgee-whiz-fellas biography of Our Boy Who Beat the Russkis.\u201d\n\nNothing could diminish Mr. Cliburn\u2019s popularity in the late 1950s.\nHe earned a then-stunning $5,000 for a pair of concerts at the Hollywood Bowl, and played with the Moscow State Symphony at Madison Square Garden for an audience of over 16,000.\n",
+  "title":"Van Cliburn, Pianist, Dies at 78 - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/02/28/arts/music/van-cliburn-pianist-dies-at-78.html?ref=arts",
+  "category":"arts",
+  "docID":"P3-0017",
+  "elementNumber":31,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Robertson_Davies",
+      "label":"Robertson Davies",
+      "offsets":[
+        {
+          "offset":709,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Canadian Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/CanadianDramatistsAndPlaywrights"
+        },
+        {
+          "label":"Fellows Of The Royal Society Of Canada",
+          "uri":"http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfCanada"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Canadian novelists",
+          "uri":"http://dbpedia.org/resource/Canadian_novelists"
+        },
+        {
+          "label":"Upper Canada College Alumni",
+          "uri":"http://dbpedia.org/class/yago/UpperCanadaCollegeAlumni"
+        },
+        {
+          "label":"Canadian journalists",
+          "uri":"http://dbpedia.org/resource/Canadian_journalists"
+        },
+        {
+          "label":"Queen's University Alumni",
+          "uri":"http://dbpedia.org/class/yago/Queen'sUniversityAlumni"
+        },
+        {
+          "label":"Ontario Writers",
+          "uri":"http://dbpedia.org/class/yago/OntarioWriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Converts To Anglicanism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToAnglicanism"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/ontology/Writer"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian literary critics",
+          "uri":"http://dbpedia.org/resource/Canadian_literary_critics"
+        },
+        {
+          "label":"Canadian dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/Canadian_dramatists_and_playwrights"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Canadian newspaper editors",
+          "uri":"http://dbpedia.org/resource/Canadian_newspaper_editors"
+        },
+        {
+          "label":"Canadian Journalists",
+          "uri":"http://dbpedia.org/class/yago/CanadianJournalists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"dramatist",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViwKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Canadian Novelists",
+          "uri":"http://dbpedia.org/class/yago/CanadianNovelists"
+        },
+        {
+          "label":"Canadian Anglicans",
+          "uri":"http://dbpedia.org/resource/Canadian_Anglicans"
+        },
+        {
+          "label":"Magic Realism Writers",
+          "uri":"http://dbpedia.org/class/yago/MagicRealismWriters"
+        },
+        {
+          "label":"Converts to Anglicanism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Anglicanism"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"Companions Of The Order Of Canada",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheOrderOfCanada"
+        },
+        {
+          "label":"Canadian Newspaper Editors",
+          "uri":"http://dbpedia.org/class/yago/CanadianNewspaperEditors"
+        },
+        {
+          "label":"Canadian Literary Critics",
+          "uri":"http://dbpedia.org/class/yago/CanadianLiteraryCritics"
+        },
+        {
+          "label":"novelist",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi18JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Chatham-Kent,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChatham-Kent,Ontario"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":575,
+          "length":6
+        },
+        {
+          "offset":966,
+          "length":6
+        },
+        {
+          "offset":575,
+          "length":6
+        },
+        {
+          "offset":966,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Van_Cliburn",
+      "label":"Van Cliburn",
+      "offsets":[
+        {
+          "offset":435,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Pianist",
+          "uri":"http://dbpedia.org/class/yago/Pianist110430665"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/The_Times",
+      "label":"The Times",
+      "offsets":[
+        {
+          "offset":685,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Publications Established In1785",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1785"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Newspapers Published In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/NewspapersPublishedInTheUnitedKingdom"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"newspaper",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Robertson_Davies",
+      "label":"Robertson Davies",
+      "offsets":[
+        {
+          "offset":709,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Canadian Dramatists And Playwrights",
+          "uri":"http://dbpedia.org/class/yago/CanadianDramatistsAndPlaywrights"
+        },
+        {
+          "label":"Fellows Of The Royal Society Of Canada",
+          "uri":"http://dbpedia.org/class/yago/FellowsOfTheRoyalSocietyOfCanada"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/class/yago/Person100007846"
+        },
+        {
+          "label":"Canadian novelists",
+          "uri":"http://dbpedia.org/resource/Canadian_novelists"
+        },
+        {
+          "label":"Upper Canada College Alumni",
+          "uri":"http://dbpedia.org/class/yago/UpperCanadaCollegeAlumni"
+        },
+        {
+          "label":"Canadian journalists",
+          "uri":"http://dbpedia.org/resource/Canadian_journalists"
+        },
+        {
+          "label":"Queen's University Alumni",
+          "uri":"http://dbpedia.org/class/yago/Queen'sUniversityAlumni"
+        },
+        {
+          "label":"Ontario Writers",
+          "uri":"http://dbpedia.org/class/yago/OntarioWriters"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        },
+        {
+          "label":"Converts To Anglicanism",
+          "uri":"http://dbpedia.org/class/yago/ConvertsToAnglicanism"
+        },
+        {
+          "label":"male person",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/ontology/Writer"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Canadian literary critics",
+          "uri":"http://dbpedia.org/resource/Canadian_literary_critics"
+        },
+        {
+          "label":"Canadian dramatists and playwrights",
+          "uri":"http://dbpedia.org/resource/Canadian_dramatists_and_playwrights"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Canadian newspaper editors",
+          "uri":"http://dbpedia.org/resource/Canadian_newspaper_editors"
+        },
+        {
+          "label":"Canadian Journalists",
+          "uri":"http://dbpedia.org/class/yago/CanadianJournalists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"dramatist",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvViwKZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Canadian Novelists",
+          "uri":"http://dbpedia.org/class/yago/CanadianNovelists"
+        },
+        {
+          "label":"Canadian Anglicans",
+          "uri":"http://dbpedia.org/resource/Canadian_Anglicans"
+        },
+        {
+          "label":"Magic Realism Writers",
+          "uri":"http://dbpedia.org/class/yago/MagicRealismWriters"
+        },
+        {
+          "label":"Converts to Anglicanism",
+          "uri":"http://dbpedia.org/resource/Converts_to_Anglicanism"
+        },
+        {
+          "label":"Writer",
+          "uri":"http://dbpedia.org/class/yago/Writer110794014"
+        },
+        {
+          "label":"Companions Of The Order Of Canada",
+          "uri":"http://dbpedia.org/class/yago/CompanionsOfTheOrderOfCanada"
+        },
+        {
+          "label":"Canadian Newspaper Editors",
+          "uri":"http://dbpedia.org/class/yago/CanadianNewspaperEditors"
+        },
+        {
+          "label":"Canadian Literary Critics",
+          "uri":"http://dbpedia.org/class/yago/CanadianLiteraryCritics"
+        },
+        {
+          "label":"novelist",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVi18JwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"People From Chatham-Kent,Ontario",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromChatham-Kent,Ontario"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Moscow",
+      "label":"Moscow",
+      "offsets":[
+        {
+          "offset":575,
+          "length":6
+        },
+        {
+          "offset":966,
+          "length":6
+        },
+        {
+          "offset":575,
+          "length":6
+        },
+        {
+          "offset":966,
+          "length":6
+        }
+      ],
+      "types":[
+        {
+          "label":"first order administrative division",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4r6Ki-3KMNEdqAAAACs6hO_g"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Host Cities Of The Summer Olympic Games",
+          "uri":"http://dbpedia.org/class/yago/HostCitiesOfTheSummerOlympicGames"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Capitals In Europe",
+          "uri":"http://dbpedia.org/class/yago/CapitalsInEurope"
+        },
+        {
+          "label":"capital",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjylZwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/class/yago/City108524735"
+        },
+        {
+          "label":"state",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjnqJwpEbGdrcN5Y29ycA"
+        },
+        {
+          "label":"Hero Cities Of The Soviet Union",
+          "uri":"http://dbpedia.org/class/yago/HeroCitiesOfTheSovietUnion"
+        },
+        {
+          "label":"Federal Cities Of Russia",
+          "uri":"http://dbpedia.org/class/yago/FederalCitiesOfRussia"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Van_Cliburn",
+      "label":"Van Cliburn",
+      "offsets":[
+        {
+          "offset":435,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Kennedy Center Honors recipients",
+          "uri":"http://dbpedia.org/resource/Kennedy_Center_Honors_recipients"
+        },
+        {
+          "label":"American classical pianists",
+          "uri":"http://dbpedia.org/resource/American_classical_pianists"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/class/yago/Artist109812338"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Pianist",
+          "uri":"http://dbpedia.org/class/yago/Pianist110430665"
+        },
+        {
+          "label":"Grammy Award winners",
+          "uri":"http://dbpedia.org/resource/Grammy_Award_winners"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Harold_C._Schonberg",
+      "label":"Harold C. Schonberg",
+      "offsets":[
+        {
+          "offset":60,
+          "length":19
+        }
+      ],
+      "types":[
+        {
+          "label":"American music critics",
+          "uri":"http://dbpedia.org/resource/American_music_critics"
+        },
+        {
+          "label":"People From New York City",
+          "uri":"http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/The_Times",
+      "label":"The Times",
+      "offsets":[
+        {
+          "offset":685,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Work",
+          "uri":"http://dbpedia.org/ontology/Work"
+        },
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Publications Established In1785",
+          "uri":"http://dbpedia.org/class/yago/PublicationsEstablishedIn1785"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Newspapers Published In The United Kingdom",
+          "uri":"http://dbpedia.org/class/yago/NewspapersPublishedInTheUnitedKingdom"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/ontology/Newspaper"
+        },
+        {
+          "label":"Newspaper",
+          "uri":"http://dbpedia.org/class/yago/Newspaper106267145"
+        },
+        {
+          "label":"newspaper",
+          "uri":"http://sw.opencyc.org/2008/06/10/concept/Mx4rv4ByW5wpEbGdrcN5Y29ycA"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Hollywood_Bowl",
+      "label":"Hollywood Bowl",
+      "offsets":[
+        {
+          "offset":930,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"Hollywood history and culture",
+          "uri":"http://dbpedia.org/resource/Hollywood_history_and_culture"
+        },
+        {
+          "label":"Landmark",
+          "uri":"http://dbpedia.org/class/yago/Landmark108624891"
+        },
+        {
+          "label":"Landmarks In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+        }
+      ]
+    }
+  ]
+}

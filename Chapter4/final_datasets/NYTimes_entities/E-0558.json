@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Nico Wisdom",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "German female singers",
+                    "uri": "http://dbpedia.org/resource/German_female_singers"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "German film actors",
+                    "uri": "http://dbpedia.org/resource/German_film_actors"
+                },
+                {
+                    "label": "German rock singers",
+                    "uri": "http://dbpedia.org/resource/German_rock_singers"
+                },
+                {
+                    "label": "German fashion models",
+                    "uri": "http://dbpedia.org/resource/German_fashion_models"
+                },
+                {
+                    "label": "Dark cabaret musicians",
+                    "uri": "http://dbpedia.org/resource/Dark_cabaret_musicians"
+                },
+                {
+                    "label": "German Female Singers",
+                    "uri": "http://dbpedia.org/class/yago/GermanFemaleSingers"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nico"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0558",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Nico Wisdom",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "German female singers",
+                    "uri": "http://dbpedia.org/resource/German_female_singers"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/class/yago/Artist109812338"
+                },
+                {
+                    "label": "German film actors",
+                    "uri": "http://dbpedia.org/resource/German_film_actors"
+                },
+                {
+                    "label": "German rock singers",
+                    "uri": "http://dbpedia.org/resource/German_rock_singers"
+                },
+                {
+                    "label": "German fashion models",
+                    "uri": "http://dbpedia.org/resource/German_fashion_models"
+                },
+                {
+                    "label": "Dark cabaret musicians",
+                    "uri": "http://dbpedia.org/resource/Dark_cabaret_musicians"
+                },
+                {
+                    "label": "German Female Singers",
+                    "uri": "http://dbpedia.org/class/yago/GermanFemaleSingers"
+                },
+                {
+                    "label": "Musical Artist",
+                    "uri": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Nico"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

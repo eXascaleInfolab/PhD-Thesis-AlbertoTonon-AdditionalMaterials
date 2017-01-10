@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Carmen Vargas",
+            "types": [
+                {
+                    "label": "United States Federal Judges",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesFederalJudges"
+                },
+                {
+                    "label": "Puerto Rican Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/PuertoRicanLawyers"
+                },
+                {
+                    "label": "United States District Court Judges",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesDistrictCourtJudges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carmen_Consuelo_Vargas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0595",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Carmen Vargas",
+            "types": [
+                {
+                    "label": "United States Federal Judges",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesFederalJudges"
+                },
+                {
+                    "label": "Puerto Rican Lawyers",
+                    "uri": "http://dbpedia.org/class/yago/PuertoRicanLawyers"
+                },
+                {
+                    "label": "United States District Court Judges",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesDistrictCourtJudges"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Carmen_Consuelo_Vargas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

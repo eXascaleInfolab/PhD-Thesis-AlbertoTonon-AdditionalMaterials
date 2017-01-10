@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "SoHo",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Red-light Districts",
+                    "uri": "http://dbpedia.org/class/yago/Red-lightDistricts"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Neighbourhoods Of Westminster",
+                    "uri": "http://dbpedia.org/class/yago/NeighbourhoodsOfWestminster"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Districts Of London",
+                    "uri": "http://dbpedia.org/class/yago/DistrictsOfLondon"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Soho"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0233",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "SoHo",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Red-light Districts",
+                    "uri": "http://dbpedia.org/class/yago/Red-lightDistricts"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Neighbourhoods Of Westminster",
+                    "uri": "http://dbpedia.org/class/yago/NeighbourhoodsOfWestminster"
+                },
+                {
+                    "label": "Site",
+                    "uri": "http://dbpedia.org/class/yago/Site108651247"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "Districts Of London",
+                    "uri": "http://dbpedia.org/class/yago/DistrictsOfLondon"
+                },
+                {
+                    "label": "Settlement",
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Soho"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

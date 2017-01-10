@@ -1,0 +1,41 @@
+{
+    "allEntities": [
+        {
+            "label": "Mustafa Osman",
+            "types": [
+                {
+                    "label": "Sudanese Politicians",
+                    "uri": "http://dbpedia.org/class/yago/SudanesePoliticians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mustafa_Osman_Ismail"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0171",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Mustafa Osman",
+            "types": [
+                {
+                    "label": "Sudanese Politicians",
+                    "uri": "http://dbpedia.org/class/yago/SudanesePoliticians"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Mustafa_Osman_Ismail"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

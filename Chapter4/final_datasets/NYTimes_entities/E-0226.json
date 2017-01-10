@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "University of Barcelona",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Universities In Catalonia",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesInCatalonia"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Nursing Schools In Spain",
+                    "uri": "http://dbpedia.org/class/yago/NursingSchoolsInSpain"
+                },
+                {
+                    "label": "15th century establishments",
+                    "uri": "http://dbpedia.org/resource/15th_century_establishments"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Barcelona"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0226",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "University of Barcelona",
+            "types": [
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Universities In Catalonia",
+                    "uri": "http://dbpedia.org/class/yago/UniversitiesInCatalonia"
+                },
+                {
+                    "label": "Organisation",
+                    "uri": "http://dbpedia.org/ontology/Organisation"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/class/yago/University108286163"
+                },
+                {
+                    "label": "Nursing Schools In Spain",
+                    "uri": "http://dbpedia.org/class/yago/NursingSchoolsInSpain"
+                },
+                {
+                    "label": "15th century establishments",
+                    "uri": "http://dbpedia.org/resource/15th_century_establishments"
+                },
+                {
+                    "label": "Educational Institution",
+                    "uri": "http://dbpedia.org/ontology/EducationalInstitution"
+                },
+                {
+                    "label": "University",
+                    "uri": "http://dbpedia.org/ontology/University"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/University_of_Barcelona"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

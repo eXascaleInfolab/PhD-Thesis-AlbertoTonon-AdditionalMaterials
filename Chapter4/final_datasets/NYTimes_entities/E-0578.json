@@ -1,0 +1,97 @@
+{
+    "allEntities": [
+        {
+            "label": "Alexander McQueen",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "People From London",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLondon"
+                },
+                {
+                    "label": "Gucci brands",
+                    "uri": "http://dbpedia.org/resource/Gucci_brands"
+                },
+                {
+                    "label": "LGBTPeople From England",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+                },
+                {
+                    "label": "Commanders Of The Order Of The British Empire",
+                    "uri": "http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                },
+                {
+                    "label": "Couturier",
+                    "uri": "http://dbpedia.org/class/yago/Couturier109972157"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alexander_McQueen"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0578",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Alexander McQueen",
+            "types": [
+                {
+                    "label": "English fashion designers",
+                    "uri": "http://dbpedia.org/resource/English_fashion_designers"
+                },
+                {
+                    "label": "People From London",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLondon"
+                },
+                {
+                    "label": "Gucci brands",
+                    "uri": "http://dbpedia.org/resource/Gucci_brands"
+                },
+                {
+                    "label": "LGBTPeople From England",
+                    "uri": "http://dbpedia.org/class/yago/LGBTPeopleFromEngland"
+                },
+                {
+                    "label": "Commanders Of The Order Of The British Empire",
+                    "uri": "http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "English Fashion Designers",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFashionDesigners"
+                },
+                {
+                    "label": "Couturier",
+                    "uri": "http://dbpedia.org/class/yago/Couturier109972157"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Alexander_McQueen"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

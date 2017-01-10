@@ -1,0 +1,253 @@
+{
+  "mainText":"Recently he posted a striking photo he took of Lady Gaga\u2019s fist clawing the air as she stormed onstage at the Staples Center in Los Angeles.",
+  "shownText":"Recently he posted a striking photo he took of Lady Gaga\u2019s fist clawing the air as she stormed onstage at the Staples Center in Los Angeles.",
+  "title":"For Gavin Doyle, Itâs Bright Lights, Big City - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/03/fashion/for-gavin-doyle-its-bright-lights-big-city.html?ref=style",
+  "category":"style",
+  "docID":"S-0315",
+  "elementNumber":38,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Staples_Center",
+      "label":"Staples Center",
+      "offsets":[
+        {
+          "offset":110,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"College basketball venues",
+          "uri":"http://dbpedia.org/resource/College_basketball_venues"
+        },
+        {
+          "label":"Stadium",
+          "uri":"http://dbpedia.org/ontology/Stadium"
+        },
+        {
+          "label":"Basketball venues",
+          "uri":"http://dbpedia.org/resource/Basketball_venues"
+        },
+        {
+          "label":"Landmark",
+          "uri":"http://dbpedia.org/class/yago/Landmark108624891"
+        },
+        {
+          "label":"Arena football venues",
+          "uri":"http://dbpedia.org/resource/Arena_football_venues"
+        },
+        {
+          "label":"Landmarks In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":128,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Lady_Gaga",
+      "label":"Lady Gaga",
+      "offsets":[
+        {
+          "offset":47,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/Staples_Center",
+      "label":"Staples Center",
+      "offsets":[
+        {
+          "offset":110,
+          "length":14
+        }
+      ],
+      "types":[
+        {
+          "label":"College basketball venues",
+          "uri":"http://dbpedia.org/resource/College_basketball_venues"
+        },
+        {
+          "label":"Stadium",
+          "uri":"http://dbpedia.org/ontology/Stadium"
+        },
+        {
+          "label":"Basketball venues",
+          "uri":"http://dbpedia.org/resource/Basketball_venues"
+        },
+        {
+          "label":"Landmark",
+          "uri":"http://dbpedia.org/class/yago/Landmark108624891"
+        },
+        {
+          "label":"Arena football venues",
+          "uri":"http://dbpedia.org/resource/Arena_football_venues"
+        },
+        {
+          "label":"Landmarks In Los Angeles",
+          "uri":"http://dbpedia.org/class/yago/LandmarksInLosAngeles"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Los_Angeles",
+      "label":"Los Angeles",
+      "offsets":[
+        {
+          "offset":128,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Place",
+          "uri":"http://dbpedia.org/ontology/Place"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"City",
+          "uri":"http://dbpedia.org/ontology/City"
+        },
+        {
+          "label":"Populated Places Established In1781",
+          "uri":"http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1781"
+        },
+        {
+          "label":"County Seats In California",
+          "uri":"http://dbpedia.org/class/yago/CountySeatsInCalifornia"
+        },
+        {
+          "label":"Populated Place",
+          "uri":"http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "label":"Settlement",
+          "uri":"http://dbpedia.org/ontology/Settlement"
+        },
+        {
+          "label":" Feature",
+          "uri":"http://www.opengis.net/gml/_Feature"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/Lady_Gaga",
+      "label":"Lady Gaga",
+      "offsets":[
+        {
+          "offset":47,
+          "length":9
+        }
+      ],
+      "types":[
+        {
+          "label":"Thing",
+          "uri":"http://www.w3.org/2002/07/owl#Thing"
+        },
+        {
+          "label":"Person",
+          "uri":"http://dbpedia.org/ontology/Person"
+        },
+        {
+          "label":"Resource",
+          "uri":"http://www.w3.org/2000/01/rdf-schema#Resource"
+        },
+        {
+          "label":"Person",
+          "uri":"http://xmlns.com/foaf/0.1/Person"
+        },
+        {
+          "label":"Musical Artist",
+          "uri":"http://dbpedia.org/ontology/MusicalArtist"
+        },
+        {
+          "label":"Artist",
+          "uri":"http://dbpedia.org/ontology/Artist"
+        }
+      ]
+    }
+  ]
+}

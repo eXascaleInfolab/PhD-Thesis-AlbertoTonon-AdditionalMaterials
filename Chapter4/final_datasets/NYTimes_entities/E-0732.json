@@ -1,0 +1,265 @@
+{
+    "allEntities": [
+        {
+            "label": "Walt Disney",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Cartoonists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCartoonists"
+                },
+                {
+                    "label": "American Animators",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnimators"
+                },
+                {
+                    "label": "People From Chicago",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Disney People",
+                    "uri": "http://dbpedia.org/class/yago/DisneyPeople"
+                },
+                {
+                    "label": "American Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                },
+                {
+                    "label": "American Congregationalists",
+                    "uri": "http://dbpedia.org/resource/American_Congregationalists"
+                },
+                {
+                    "label": "Animated film directors",
+                    "uri": "http://dbpedia.org/resource/Animated_film_directors"
+                },
+                {
+                    "label": "American animators",
+                    "uri": "http://dbpedia.org/resource/American_animators"
+                },
+                {
+                    "label": "English-language Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilmDirectors"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmProducers"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "American voice actors",
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Congressional Gold Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+                },
+                {
+                    "label": "Disney people",
+                    "uri": "http://dbpedia.org/resource/Disney_people"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Animated Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AnimatedFilmDirectors"
+                },
+                {
+                    "label": "American cartoonists",
+                    "uri": "http://dbpedia.org/resource/American_cartoonists"
+                },
+                {
+                    "label": "dead organism",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From Kansas City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKansasCity"
+                },
+                {
+                    "label": "People From Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Walt_Disney"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0732",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Walt Disney",
+            "types": [
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "American Cartoonists",
+                    "uri": "http://dbpedia.org/class/yago/AmericanCartoonists"
+                },
+                {
+                    "label": "American Animators",
+                    "uri": "http://dbpedia.org/class/yago/AmericanAnimators"
+                },
+                {
+                    "label": "People From Chicago",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromChicago"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "American Screenwriters",
+                    "uri": "http://dbpedia.org/class/yago/AmericanScreenwriters"
+                },
+                {
+                    "label": "Film Maker",
+                    "uri": "http://dbpedia.org/class/yago/FilmMaker110088390"
+                },
+                {
+                    "label": "Disney People",
+                    "uri": "http://dbpedia.org/class/yago/DisneyPeople"
+                },
+                {
+                    "label": "American Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanVoiceActors"
+                },
+                {
+                    "label": "American Congregationalists",
+                    "uri": "http://dbpedia.org/resource/American_Congregationalists"
+                },
+                {
+                    "label": "Animated film directors",
+                    "uri": "http://dbpedia.org/resource/Animated_film_directors"
+                },
+                {
+                    "label": "American animators",
+                    "uri": "http://dbpedia.org/resource/American_animators"
+                },
+                {
+                    "label": "English-language Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/English-languageFilmDirectors"
+                },
+                {
+                    "label": "male person",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjWoZwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "American Film Producers",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmProducers"
+                },
+                {
+                    "label": "American Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AmericanFilmDirectors"
+                },
+                {
+                    "label": "American voice actors",
+                    "uri": "http://dbpedia.org/resource/American_voice_actors"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Congressional Gold Medal recipients",
+                    "uri": "http://dbpedia.org/resource/Congressional_Gold_Medal_recipients"
+                },
+                {
+                    "label": "Disney people",
+                    "uri": "http://dbpedia.org/resource/Disney_people"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Animated Film Directors",
+                    "uri": "http://dbpedia.org/class/yago/AnimatedFilmDirectors"
+                },
+                {
+                    "label": "American cartoonists",
+                    "uri": "http://dbpedia.org/resource/American_cartoonists"
+                },
+                {
+                    "label": "dead organism",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rwJ45PHS7EdaAAACgyZzFrg"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "People From Kansas City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromKansasCity"
+                },
+                {
+                    "label": "People From Los Angeles",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLosAngeles"
+                },
+                {
+                    "label": "American film producers",
+                    "uri": "http://dbpedia.org/resource/American_film_producers"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Walt_Disney"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

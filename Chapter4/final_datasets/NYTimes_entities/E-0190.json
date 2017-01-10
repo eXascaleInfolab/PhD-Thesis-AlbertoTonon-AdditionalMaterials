@@ -1,0 +1,193 @@
+{
+    "allEntities": [
+        {
+            "label": "Tilda Swinton",
+            "types": [
+                {
+                    "label": "Actress",
+                    "uri": "http://dbpedia.org/class/yago/Actress109767700"
+                },
+                {
+                    "label": "English Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishStageActors"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "People From London",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLondon"
+                },
+                {
+                    "label": "English Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishVoiceActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Alumni Of New Hall,Cambridge",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfNewHall,Cambridge"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "English voice actors",
+                    "uri": "http://dbpedia.org/resource/English_voice_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Fettes Alumni",
+                    "uri": "http://dbpedia.org/class/yago/FettesAlumni"
+                },
+                {
+                    "label": "English stage actors",
+                    "uri": "http://dbpedia.org/resource/English_stage_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Fettes alumni",
+                    "uri": "http://dbpedia.org/resource/Fettes_alumni"
+                },
+                {
+                    "label": "English television actors",
+                    "uri": "http://dbpedia.org/resource/English_television_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tilda_Swinton"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0190",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Tilda Swinton",
+            "types": [
+                {
+                    "label": "Actress",
+                    "uri": "http://dbpedia.org/class/yago/Actress109767700"
+                },
+                {
+                    "label": "English Television Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishTelevisionActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/class/yago/Actor109765278"
+                },
+                {
+                    "label": "English Film Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishFilmActors"
+                },
+                {
+                    "label": "English Stage Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishStageActors"
+                },
+                {
+                    "label": "English film actors",
+                    "uri": "http://dbpedia.org/resource/English_film_actors"
+                },
+                {
+                    "label": "People From London",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromLondon"
+                },
+                {
+                    "label": "English Voice Actors",
+                    "uri": "http://dbpedia.org/class/yago/EnglishVoiceActors"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://xmlns.com/foaf/0.1/Person"
+                },
+                {
+                    "label": "Alumni Of New Hall,Cambridge",
+                    "uri": "http://dbpedia.org/class/yago/AlumniOfNewHall,Cambridge"
+                },
+                {
+                    "label": "BAFTA winners (people)",
+                    "uri": "http://dbpedia.org/resource/BAFTA_winners_%28people%29"
+                },
+                {
+                    "label": "English voice actors",
+                    "uri": "http://dbpedia.org/resource/English_voice_actors"
+                },
+                {
+                    "label": "Artist",
+                    "uri": "http://dbpedia.org/ontology/Artist"
+                },
+                {
+                    "label": "Actor",
+                    "uri": "http://dbpedia.org/ontology/Actor"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Fettes Alumni",
+                    "uri": "http://dbpedia.org/class/yago/FettesAlumni"
+                },
+                {
+                    "label": "English stage actors",
+                    "uri": "http://dbpedia.org/resource/English_stage_actors"
+                },
+                {
+                    "label": "Living People",
+                    "uri": "http://dbpedia.org/class/yago/LivingPeople"
+                },
+                {
+                    "label": "Fettes alumni",
+                    "uri": "http://dbpedia.org/resource/Fettes_alumni"
+                },
+                {
+                    "label": "English television actors",
+                    "uri": "http://dbpedia.org/resource/English_television_actors"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Tilda_Swinton"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

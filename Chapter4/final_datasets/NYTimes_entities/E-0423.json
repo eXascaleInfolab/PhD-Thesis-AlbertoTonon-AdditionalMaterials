@@ -1,0 +1,49 @@
+{
+    "allEntities": [
+        {
+            "label": "Washington-Lee High School",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "International Baccalaureate schools",
+                    "uri": "http://dbpedia.org/resource/International_Baccalaureate_schools"
+                },
+                {
+                    "label": "Educational Institutions Established In1924",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1924"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Washington-Lee_High_School"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0423",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Washington-Lee High School",
+            "types": [
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "International Baccalaureate schools",
+                    "uri": "http://dbpedia.org/resource/International_Baccalaureate_schools"
+                },
+                {
+                    "label": "Educational Institutions Established In1924",
+                    "uri": "http://dbpedia.org/class/yago/EducationalInstitutionsEstablishedIn1924"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Washington-Lee_High_School"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

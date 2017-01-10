@@ -1,0 +1,153 @@
+{
+    "allEntities": [
+        {
+            "label": "Dwight D. Eisenhower",
+            "types": [
+                {
+                    "label": "Deaths from cardiovascular disease",
+                    "uri": "http://dbpedia.org/resource/Deaths_from_cardiovascular_disease"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Soldier",
+                    "uri": "http://dbpedia.org/class/yago/Soldier110622053"
+                },
+                {
+                    "label": "United States Military Governors",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesMilitaryGovernors"
+                },
+                {
+                    "label": "Former Jehovah%27s Witnesses",
+                    "uri": "http://dbpedia.org/resource/Former_Jehovah%27s_Witnesses"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Army Black Knights football players",
+                    "uri": "http://dbpedia.org/resource/Army_Black_Knights_football_players"
+                },
+                {
+                    "label": "United States Army Chiefs Of Staff",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmyChiefsOfStaff"
+                },
+                {
+                    "label": "Supreme Allied Commanders",
+                    "uri": "http://dbpedia.org/class/yago/SupremeAlliedCommanders"
+                },
+                {
+                    "label": "German-American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/German-AmericanPoliticians"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "Presidents Of Columbia University",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfColumbiaUniversity"
+                },
+                {
+                    "label": "American 5 star officers",
+                    "uri": "http://dbpedia.org/resource/American_5_star_officers"
+                },
+                {
+                    "label": "Cold War leaders",
+                    "uri": "http://dbpedia.org/resource/Cold_War_leaders"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0178",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Dwight D. Eisenhower",
+            "types": [
+                {
+                    "label": "Deaths from cardiovascular disease",
+                    "uri": "http://dbpedia.org/resource/Deaths_from_cardiovascular_disease"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/class/yago/Person100007846"
+                },
+                {
+                    "label": "Soldier",
+                    "uri": "http://dbpedia.org/class/yago/Soldier110622053"
+                },
+                {
+                    "label": "United States Military Governors",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesMilitaryGovernors"
+                },
+                {
+                    "label": "Former Jehovah%27s Witnesses",
+                    "uri": "http://dbpedia.org/resource/Former_Jehovah%27s_Witnesses"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Army Black Knights football players",
+                    "uri": "http://dbpedia.org/resource/Army_Black_Knights_football_players"
+                },
+                {
+                    "label": "United States Army Chiefs Of Staff",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesArmyChiefsOfStaff"
+                },
+                {
+                    "label": "Supreme Allied Commanders",
+                    "uri": "http://dbpedia.org/class/yago/SupremeAlliedCommanders"
+                },
+                {
+                    "label": "German-American Politicians",
+                    "uri": "http://dbpedia.org/class/yago/German-AmericanPoliticians"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Presidents Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfTheUnitedStates"
+                },
+                {
+                    "label": "Time Magazine Persons Of The Year",
+                    "uri": "http://dbpedia.org/class/yago/TimeMagazinePersonsOfTheYear"
+                },
+                {
+                    "label": "Presidents Of Columbia University",
+                    "uri": "http://dbpedia.org/class/yago/PresidentsOfColumbiaUniversity"
+                },
+                {
+                    "label": "American 5 star officers",
+                    "uri": "http://dbpedia.org/resource/American_5_star_officers"
+                },
+                {
+                    "label": "Cold War leaders",
+                    "uri": "http://dbpedia.org/resource/Cold_War_leaders"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

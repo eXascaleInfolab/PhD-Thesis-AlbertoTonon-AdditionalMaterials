@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "Robert F. Wagner",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "New York State Court Judges",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkStateCourtJudges"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "United States Senators From New York",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNewYork"
+                },
+                {
+                    "label": "Lieutenant Governors Of New York",
+                    "uri": "http://dbpedia.org/class/yago/LieutenantGovernorsOfNewYork"
+                },
+                {
+                    "label": "Bretton Woods Conference Delegates",
+                    "uri": "http://dbpedia.org/class/yago/BrettonWoodsConferenceDelegates"
+                },
+                {
+                    "label": "Bretton Woods conference delegates",
+                    "uri": "http://dbpedia.org/resource/Bretton_Woods_conference_delegates"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert_F._Wagner"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0557",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Robert F. Wagner",
+            "types": [
+                {
+                    "label": "Office Holder",
+                    "uri": "http://dbpedia.org/ontology/OfficeHolder"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "New York State Court Judges",
+                    "uri": "http://dbpedia.org/class/yago/NewYorkStateCourtJudges"
+                },
+                {
+                    "label": "Person",
+                    "uri": "http://dbpedia.org/ontology/Person"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "American Roman Catholics",
+                    "uri": "http://dbpedia.org/resource/American_Roman_Catholics"
+                },
+                {
+                    "label": "United States Senators From New York",
+                    "uri": "http://dbpedia.org/class/yago/UnitedStatesSenatorsFromNewYork"
+                },
+                {
+                    "label": "Lieutenant Governors Of New York",
+                    "uri": "http://dbpedia.org/class/yago/LieutenantGovernorsOfNewYork"
+                },
+                {
+                    "label": "Bretton Woods Conference Delegates",
+                    "uri": "http://dbpedia.org/class/yago/BrettonWoodsConferenceDelegates"
+                },
+                {
+                    "label": "Bretton Woods conference delegates",
+                    "uri": "http://dbpedia.org/resource/Bretton_Woods_conference_delegates"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Robert_F._Wagner"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

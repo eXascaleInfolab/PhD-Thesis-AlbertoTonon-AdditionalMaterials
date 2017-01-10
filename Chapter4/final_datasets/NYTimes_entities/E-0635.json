@@ -1,0 +1,137 @@
+{
+    "allEntities": [
+        {
+            "label": "Vietnam",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Communist States",
+                    "uri": "http://dbpedia.org/class/yago/CommunistStates"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Southeast Asian country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4ruRZJFJhqQdiShaBlhJfSFA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Vietnam"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0635",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Vietnam",
+            "types": [
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Administrative District",
+                    "uri": "http://dbpedia.org/class/yago/AdministrativeDistrict108491826"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/class/yago/Country108544813"
+                },
+                {
+                    "label": "Populated Place",
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                },
+                {
+                    "label": "independent country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVjk55wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Communist States",
+                    "uri": "http://dbpedia.org/class/yago/CommunistStates"
+                },
+                {
+                    "label": "French-speaking countries",
+                    "uri": "http://dbpedia.org/resource/French-speaking_countries"
+                },
+                {
+                    "label": "Country",
+                    "uri": "http://dbpedia.org/ontology/Country"
+                },
+                {
+                    "label": "the intelligence analyst reasoning domain",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4r46fYpnaNEduAAAACs6hbjw"
+                },
+                {
+                    "label": "WTOMember Economies",
+                    "uri": "http://dbpedia.org/class/yago/WTOMemberEconomies"
+                },
+                {
+                    "label": "Southeast Asian country",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4ruRZJFJhqQdiShaBlhJfSFA"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Vietnam"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

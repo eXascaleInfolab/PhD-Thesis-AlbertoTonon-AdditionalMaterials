@@ -1,0 +1,65 @@
+{
+    "allEntities": [
+        {
+            "label": "Adidas",
+            "types": [
+                {
+                    "label": "German clothing retailers",
+                    "uri": "http://dbpedia.org/resource/German_clothing_retailers"
+                },
+                {
+                    "label": "German brands",
+                    "uri": "http://dbpedia.org/resource/German_brands"
+                },
+                {
+                    "label": "Companies listed on the Frankfurt Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Frankfurt_Stock_Exchange"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Adidas brands",
+                    "uri": "http://dbpedia.org/resource/Adidas_brands"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Adidas"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0249",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Adidas",
+            "types": [
+                {
+                    "label": "German clothing retailers",
+                    "uri": "http://dbpedia.org/resource/German_clothing_retailers"
+                },
+                {
+                    "label": "German brands",
+                    "uri": "http://dbpedia.org/resource/German_brands"
+                },
+                {
+                    "label": "Companies listed on the Frankfurt Stock Exchange",
+                    "uri": "http://dbpedia.org/resource/Companies_listed_on_the_Frankfurt_Stock_Exchange"
+                },
+                {
+                    "label": "Company",
+                    "uri": "http://dbpedia.org/class/yago/Company108058098"
+                },
+                {
+                    "label": "Adidas brands",
+                    "uri": "http://dbpedia.org/resource/Adidas_brands"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Adidas"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

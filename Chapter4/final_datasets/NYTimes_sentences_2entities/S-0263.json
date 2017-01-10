@@ -1,0 +1,133 @@
+{
+  "mainText":"But last November, News Corporation made a major foray into the New York sports market by paying about $2 billion for a 49 percent stake in the YES Network, the profitable channel of the Yankees, with an option to buy up to 80 percent in three years.",
+  "shownText":"But last November, News Corporation made a major foray into the New York sports market by paying about $2 billion for a 49 percent stake in the YES Network, the profitable channel of the Yankees, with an option to buy up to 80 percent in three years.",
+  "title":"Fox Planning National Sports Network It Hopes Can Challenge ESPN - NYTimes.com",
+  "articleUrl":"http://www.nytimes.com/2013/03/05/sports/fox-planning-national-sports-network-it-hopes-can-challenge-espn.html?ref=sports",
+  "category":"sports",
+  "docID":"S-0263",
+  "elementNumber":48,
+  "mainEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":19,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/YES_Network",
+      "label":"YES Network",
+      "offsets":[
+        {
+          "offset":144,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        }
+      ]
+    }
+  ],
+  "allEntities":[
+    {
+      "uri":"http://dbpedia.org/resource/News_Corporation",
+      "label":"News Corporation",
+      "offsets":[
+        {
+          "offset":19,
+          "length":16
+        }
+      ],
+      "types":[
+        {
+          "label":"Companies Listed On The London Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange"
+        },
+        {
+          "label":"Organisation",
+          "uri":"http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "label":"Company",
+          "uri":"http://dbpedia.org/ontology/Company"
+        },
+        {
+          "label":"Companies listed on the New York Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_New_York_Stock_Exchange"
+        },
+        {
+          "label":"Companies listed on the Australian Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_Australian_Stock_Exchange"
+        },
+        {
+          "label":"Companies Listed On The Australian Stock Exchange",
+          "uri":"http://dbpedia.org/class/yago/CompaniesListedOnTheAustralianStockExchange"
+        },
+        {
+          "label":"Companies listed on the London Stock Exchange",
+          "uri":"http://dbpedia.org/resource/Companies_listed_on_the_London_Stock_Exchange"
+        }
+      ]
+    },
+    {
+      "uri":"http://dbpedia.org/resource/YES_Network",
+      "label":"YES Network",
+      "offsets":[
+        {
+          "offset":144,
+          "length":11
+        }
+      ],
+      "types":[
+        {
+          "label":"HD channels",
+          "uri":"http://dbpedia.org/resource/HD_channels"
+        },
+        {
+          "label":"HDChannels",
+          "uri":"http://dbpedia.org/class/yago/HDChannels"
+        }
+      ]
+    }
+  ]
+}

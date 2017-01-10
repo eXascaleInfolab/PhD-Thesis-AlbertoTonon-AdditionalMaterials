@@ -1,0 +1,105 @@
+{
+    "allEntities": [
+        {
+            "label": "New York Stock Exchange",
+            "types": [
+                {
+                    "label": "Registered Historic Places In Manhattan",
+                    "uri": "http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+                },
+                {
+                    "label": "National Historic Landmarks Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Historic Place",
+                    "uri": "http://dbpedia.org/ontology/HistoricPlace"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Heritage registers",
+                    "uri": "http://dbpedia.org/resource/Heritage_registers"
+                },
+                {
+                    "label": "non-profit corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVida5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "stock exchange",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8fT0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Stock Exchanges In The United States",
+                    "uri": "http://dbpedia.org/class/yago/StockExchangesInTheUnitedStates"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0128",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "New York Stock Exchange",
+            "types": [
+                {
+                    "label": "Registered Historic Places In Manhattan",
+                    "uri": "http://dbpedia.org/class/yago/RegisteredHistoricPlacesInManhattan"
+                },
+                {
+                    "label": "National Historic Landmarks Of The United States",
+                    "uri": "http://dbpedia.org/class/yago/NationalHistoricLandmarksOfTheUnitedStates"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Historic Place",
+                    "uri": "http://dbpedia.org/ontology/HistoricPlace"
+                },
+                {
+                    "label": "Place",
+                    "uri": "http://dbpedia.org/ontology/Place"
+                },
+                {
+                    "label": "Heritage registers",
+                    "uri": "http://dbpedia.org/resource/Heritage_registers"
+                },
+                {
+                    "label": "non-profit corporation",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rvVida5wpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "stock exchange",
+                    "uri": "http://sw.opencyc.org/2008/06/10/concept/Mx4rv8fT0JwpEbGdrcN5Y29ycA"
+                },
+                {
+                    "label": "Stock Exchanges In The United States",
+                    "uri": "http://dbpedia.org/class/yago/StockExchangesInTheUnitedStates"
+                },
+                {
+                    "label": " Feature",
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/New_York_Stock_Exchange"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

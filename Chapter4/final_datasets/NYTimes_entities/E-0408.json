@@ -1,0 +1,89 @@
+{
+    "allEntities": [
+        {
+            "label": "Keith Olbermann",
+            "types": [
+                {
+                    "label": "American political pundits",
+                    "uri": "http://dbpedia.org/resource/American_political_pundits"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "American sports announcers",
+                    "uri": "http://dbpedia.org/resource/American_sports_announcers"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "Boston television anchors",
+                    "uri": "http://dbpedia.org/resource/Boston_television_anchors"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                },
+                {
+                    "label": "American Political Pundits",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalPundits"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Keith_Olbermann"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0408",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Keith Olbermann",
+            "types": [
+                {
+                    "label": "American political pundits",
+                    "uri": "http://dbpedia.org/resource/American_political_pundits"
+                },
+                {
+                    "label": "People From New York City",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromNewYorkCity"
+                },
+                {
+                    "label": "American sports announcers",
+                    "uri": "http://dbpedia.org/resource/American_sports_announcers"
+                },
+                {
+                    "label": "American television personalities",
+                    "uri": "http://dbpedia.org/resource/American_television_personalities"
+                },
+                {
+                    "label": "Boston television anchors",
+                    "uri": "http://dbpedia.org/resource/Boston_television_anchors"
+                },
+                {
+                    "label": "Cornell University alumni",
+                    "uri": "http://dbpedia.org/resource/Cornell_University_alumni"
+                },
+                {
+                    "label": "American Political Pundits",
+                    "uri": "http://dbpedia.org/class/yago/AmericanPoliticalPundits"
+                },
+                {
+                    "label": "American television journalists",
+                    "uri": "http://dbpedia.org/resource/American_television_journalists"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Keith_Olbermann"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

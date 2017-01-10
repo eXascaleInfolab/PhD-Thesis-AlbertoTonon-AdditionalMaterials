@@ -1,0 +1,221 @@
+{
+    "allEntities": [
+        {
+            "label": "Mormon", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 105
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mormon"
+        }, 
+        {
+            "label": "Boston", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 183
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "University Towns In The United States", 
+                    "uri": "http://dbpedia.org/class/yago/UniversityTownsInTheUnitedStates"
+                }, 
+                {
+                    "label": "ontology#Feature", 
+                    "uri": "http://www.geonames.org/ontology#Feature"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Populated Places Established In1630", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1630"
+                }, 
+                {
+                    "label": "Concept", 
+                    "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                }, 
+                {
+                    "label": "Populated Coastal Places In Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInMassachusetts"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "County Seats In Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInMassachusetts"
+                }, 
+                {
+                    "label": "Cities In Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInMassachusetts"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": "Geoclass Seat Of AFirst-order Administrative Division", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassSeatOfAFirst-orderAdministrativeDivision"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }, 
+                {
+                    "label": "Populated Places In Suffolk County,Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesInSuffolkCounty,Massachusetts"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Boston"
+        }
+    ], 
+    "articleUrl": "http://www.nytimes.com/2013/02/27/sports/utahs-lone-peak-high-school-surprisingly-climbs-to-top-of-pack.html?ref=sports", 
+    "category": "sports", 
+    "docID": "P-0220", 
+    "elementNumber": 34, 
+    "mainEntities": [
+        {
+            "label": "Mormon", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 105
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Mormon"
+        }, 
+        {
+            "label": "Boston", 
+            "offsets": [
+                {
+                    "length": 6, 
+                    "offset": 183
+                }
+            ], 
+            "types": [
+                {
+                    "label": "Place", 
+                    "uri": "http://dbpedia.org/ontology/Place"
+                }, 
+                {
+                    "label": "Resource", 
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                }, 
+                {
+                    "label": "University Towns In The United States", 
+                    "uri": "http://dbpedia.org/class/yago/UniversityTownsInTheUnitedStates"
+                }, 
+                {
+                    "label": "ontology#Feature", 
+                    "uri": "http://www.geonames.org/ontology#Feature"
+                }, 
+                {
+                    "label": "Company", 
+                    "uri": "http://dbpedia.org/ontology/Company"
+                }, 
+                {
+                    "label": "City", 
+                    "uri": "http://dbpedia.org/ontology/City"
+                }, 
+                {
+                    "label": "Populated Place", 
+                    "uri": "http://dbpedia.org/ontology/PopulatedPlace"
+                }, 
+                {
+                    "label": "Populated Places Established In1630", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1630"
+                }, 
+                {
+                    "label": "Concept", 
+                    "uri": "http://www.w3.org/2004/02/skos/core#Concept"
+                }, 
+                {
+                    "label": "Populated Coastal Places In Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedCoastalPlacesInMassachusetts"
+                }, 
+                {
+                    "label": "Thing", 
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                }, 
+                {
+                    "label": "Spatial Thing", 
+                    "uri": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+                }, 
+                {
+                    "label": "County Seats In Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/CountySeatsInMassachusetts"
+                }, 
+                {
+                    "label": "Cities In Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/CitiesInMassachusetts"
+                }, 
+                {
+                    "label": "Settlement", 
+                    "uri": "http://dbpedia.org/ontology/Settlement"
+                }, 
+                {
+                    "label": "Geoclass Seat Of AFirst-order Administrative Division", 
+                    "uri": "http://dbpedia.org/class/yago/GeoclassSeatOfAFirst-orderAdministrativeDivision"
+                }, 
+                {
+                    "label": " Feature", 
+                    "uri": "http://www.opengis.net/gml/_Feature"
+                }, 
+                {
+                    "label": "Populated Places In Suffolk County,Massachusetts", 
+                    "uri": "http://dbpedia.org/class/yago/PopulatedPlacesInSuffolkCounty,Massachusetts"
+                }
+            ], 
+            "uri": "http://dbpedia.org/resource/Boston"
+        }
+    ], 
+    "mainText": "You guys all brothers?&rsquo;\nWe just laugh.&rdquo;\n&ldquo;Someone was like: &lsquo;Oh, you guys are all Mormon.\nHow many moms do you have?\n&ldquo;A couple of summers ago, we were in Boston,&rdquo; Mika said.", 
+    "shownText": "You guys all brothers?&rsquo;\nWe just laugh.&rdquo;\n&ldquo;Someone was like: &lsquo;Oh, you guys are all Mormon.\nHow many moms do you have?\n&ldquo;A couple of summers ago, we were in Boston,&rdquo; Mika said.", 
+    "title": "Utah&acirc;s Lone Peak Surprisingly Climbs to Top of Pack - NYTimes.com"
+}

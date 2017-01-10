@@ -1,0 +1,81 @@
+{
+    "allEntities": [
+        {
+            "label": "Emil Gilels",
+            "types": [
+                {
+                    "label": "People From Odessa",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromOdessa"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educator",
+                    "uri": "http://dbpedia.org/class/yago/Educator110045713"
+                },
+                {
+                    "label": "Pianist",
+                    "uri": "http://dbpedia.org/class/yago/Pianist110430665"
+                },
+                {
+                    "label": "People's Artists Of The USSR",
+                    "uri": "http://dbpedia.org/class/yago/People'sArtistsOfTheUSSR"
+                },
+                {
+                    "label": "Ukrainian Musicians",
+                    "uri": "http://dbpedia.org/class/yago/UkrainianMusicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Emil_Gilels"
+        }
+    ],
+    "articleUrl": "",
+    "category": "",
+    "docID": "E-0717",
+    "elementNumber": "",
+    "mainEntities": [
+        {
+            "label": "Emil Gilels",
+            "types": [
+                {
+                    "label": "People From Odessa",
+                    "uri": "http://dbpedia.org/class/yago/PeopleFromOdessa"
+                },
+                {
+                    "label": "Thing",
+                    "uri": "http://www.w3.org/2002/07/owl#Thing"
+                },
+                {
+                    "label": "Resource",
+                    "uri": "http://www.w3.org/2000/01/rdf-schema#Resource"
+                },
+                {
+                    "label": "Educator",
+                    "uri": "http://dbpedia.org/class/yago/Educator110045713"
+                },
+                {
+                    "label": "Pianist",
+                    "uri": "http://dbpedia.org/class/yago/Pianist110430665"
+                },
+                {
+                    "label": "People's Artists Of The USSR",
+                    "uri": "http://dbpedia.org/class/yago/People'sArtistsOfTheUSSR"
+                },
+                {
+                    "label": "Ukrainian Musicians",
+                    "uri": "http://dbpedia.org/class/yago/UkrainianMusicians"
+                }
+            ],
+            "uri": "http://dbpedia.org/resource/Emil_Gilels"
+        }
+    ],
+    "mainText": "",
+    "shownText": "",
+    "title": ""
+}

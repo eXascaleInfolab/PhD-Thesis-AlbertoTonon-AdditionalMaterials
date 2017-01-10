@@ -1,0 +1,210 @@
+[
+    {
+        "docID": "P3-0000", 
+        "uri": "http://dbpedia.org/resource/Phoenix"
+    }, 
+    {
+        "docID": "P3-0001", 
+        "uri": "http://dbpedia.org/resource/Mary"
+    }, 
+    {
+        "docID": "P3-0029", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P3-0034", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P3-0036", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P3-0038", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P3-0039", 
+        "uri": "http://dbpedia.org/resource/Bowie"
+    }, 
+    {
+        "docID": "P3-0043", 
+        "uri": "http://dbpedia.org/resource/McBride"
+    }, 
+    {
+        "docID": "P3-0058", 
+        "uri": "http://dbpedia.org/resource/European_Commission"
+    }, 
+    {
+        "docID": "P3-0060", 
+        "uri": "http://dbpedia.org/resource/Basel"
+    }, 
+    {
+        "docID": "P3-0065", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0065", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0081", 
+        "uri": "http://dbpedia.org/resource/Golden"
+    }, 
+    {
+        "docID": "P3-0094", 
+        "uri": "http://dbpedia.org/resource/Clinton"
+    }, 
+    {
+        "docID": "P3-0096", 
+        "uri": "http://dbpedia.org/resource/Ray"
+    }, 
+    {
+        "docID": "P3-0101", 
+        "uri": "http://dbpedia.org/resource/Archie_Bleyer"
+    }, 
+    {
+        "docID": "P3-0101", 
+        "uri": "http://dbpedia.org/resource/Archie_Bleyer"
+    }, 
+    {
+        "docID": "P3-0106", 
+        "uri": "http://dbpedia.org/resource/Lauren_Glassberg"
+    }, 
+    {
+        "docID": "P3-0107", 
+        "uri": "http://dbpedia.org/resource/Norwood"
+    }, 
+    {
+        "docID": "P3-0107", 
+        "uri": "http://dbpedia.org/resource/Norwood"
+    }, 
+    {
+        "docID": "P3-0125", 
+        "uri": "http://dbpedia.org/resource/Versailles"
+    }, 
+    {
+        "docID": "P3-0159", 
+        "uri": "http://dbpedia.org/resource/Clinton"
+    }, 
+    {
+        "docID": "P3-0195", 
+        "uri": "http://dbpedia.org/resource/Guangxi_Tianji"
+    }, 
+    {
+        "docID": "P3-0208", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0209", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0209", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0211", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0212", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0220", 
+        "uri": "http://dbpedia.org/resource/Mormon"
+    }, 
+    {
+        "docID": "P3-0220", 
+        "uri": "http://dbpedia.org/resource/Mormon"
+    }, 
+    {
+        "docID": "P3-0225", 
+        "uri": "http://dbpedia.org/resource/Ruff"
+    }, 
+    {
+        "docID": "P3-0237", 
+        "uri": "http://dbpedia.org/resource/Stella_McCartney"
+    }, 
+    {
+        "docID": "P3-0244", 
+        "uri": "http://dbpedia.org/resource/Portlandia"
+    }, 
+    {
+        "docID": "P3-0250", 
+        "uri": "http://dbpedia.org/resource/Paris"
+    }, 
+    {
+        "docID": "P3-0260", 
+        "uri": "http://dbpedia.org/resource/Fox"
+    }, 
+    {
+        "docID": "P3-0261", 
+        "uri": "http://dbpedia.org/resource/Hawaii"
+    }, 
+    {
+        "docID": "P3-0287", 
+        "uri": "http://dbpedia.org/resource/Methodist"
+    }, 
+    {
+        "docID": "P3-0288", 
+        "uri": "http://dbpedia.org/resource/Johns_Hopkins"
+    }, 
+    {
+        "docID": "P3-0288", 
+        "uri": "http://dbpedia.org/resource/Johns_Hopkins"
+    }, 
+    {
+        "docID": "P3-0288", 
+        "uri": "http://dbpedia.org/resource/Methodist"
+    }, 
+    {
+        "docID": "P3-0288", 
+        "uri": "http://dbpedia.org/resource/Methodist"
+    }, 
+    {
+        "docID": "P3-0301", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0303", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0304", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0304", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0304", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0305", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0307", 
+        "uri": "http://dbpedia.org/resource/Sandberg"
+    }, 
+    {
+        "docID": "P3-0314", 
+        "uri": "http://dbpedia.org/resource/Hugo_%22Hurley%22_Reyes"
+    }, 
+    {
+        "docID": "P3-0348", 
+        "uri": "http://dbpedia.org/resource/Meghalaya"
+    }, 
+    {
+        "docID": "P3-0348", 
+        "uri": "http://dbpedia.org/resource/Meghalaya"
+    }, 
+    {
+        "docID": "P3-0349", 
+        "uri": "http://dbpedia.org/resource/Meghalaya"
+    }
+]
